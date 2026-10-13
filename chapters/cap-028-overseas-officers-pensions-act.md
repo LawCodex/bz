@@ -52,6 +52,8 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 Schedule — Agreement between the Government of Belize and the Government of the United Kingdom of Great Britain and Northern Ireland concerning Public Officers and Public Officers’ Pensions
 
+[CAP.
+
 ### CHAPTER 28
 
 ### OVERSEAS OFFICERS’ PENSIONS
@@ -86,6 +88,8 @@ Pensions (Belize) Agreement 1981, as set out in the Schedule to this Act.
 
 **4.** From and after the operative date, the provisions of the pensions laws (as defined in the Agreement) shall not apply to pensions to which the Agreement applies.
 
+### THE SUBSTANTIVE LAWS OF BELIZE
+
 ## SCHEDULE
 
 ### OVERSEAS OFFICERS’ PENSIONS
@@ -94,13 +98,19 @@ Agreement between the Government of Belize and the Government of the United King
 
 [Section 2]
 
-THE GOVERNMENT OF BELIZE AND THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND HAVE AGREED AS FOLLOWS:
+*THE*
+
+*BRITAIN*
+
+GOVERNMENT OF BELIZE AND THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT AND NORTHERN IRELAND HAVE AGREED AS FOLLOWS:
 
 ### ARTICLE 1
 
 Interpretation
 
-In this Agreement, except where the context otherwise requires,
+*In this requires,*
+
+Agreement, except where the context otherwise
 
 “actuary” means a Fellow of the Institute of (a)
 
@@ -224,15 +234,23 @@ pensions payable under Chapter 231 of R. L. 1958 or Act No. 4 of 1976, Cap. 32.
 
 ### ARTICLE 2
 
-Assumption of Responsibility by the Government of the United Kingdom
+*Assumption*
 
-As from the appointed day the Government of the United Kingdom shall assume from the Government of Belize the responsibility for the control, administration and payment of pensions which have been awarded before the appointed day and for the award, control, administration and payment of pensions which would fall to be awarded on or after the appointed day.
+of Responsibility by the Government of the United Kingdom
+
+*As from the Kingdom shall responsibility pensions which and for the pensions which appointed day.*
+
+appointed day the Government of the United assume from the Government of Belize the for the control, administration and payment of have been awarded before the appointed day award, control, administration and payment of would fall to be awarded on or after the
 
 ### ARTICLE 3
 
-Obligations of the Government of the United Kingdom
+*Obligations*
 
-The Government of the United Kingdom undertake,
+of the Government of the United Kingdom
+
+*The*
+
+Government of the United Kingdom undertake,
 
 (a) that they shall award, control, administer and pay the pensions referred to in Article 2 of this Agreement to or in respect of the persons concerned in accordance with the principles and rules contained in the pensions laws, with such modifications as may be necessary in consequence of the transfer of responsibility under this Agreement, or in accordance with such other principles and rules as the Government of the United Kingdom consistently with the next following paragraph may from time to time determine;
 
@@ -240,7 +258,9 @@ The Government of the United Kingdom undertake,
 
 moneys of the United Kingdom, they shall not apply to any officer different provisions from those contained in the pensions laws (other than any provisions, express or implied, relating to the currency and method of payment of a pension) so as to make such provisions less favourable to any beneficiary or potential beneficiary than the provisions applicable to him on the appointed day.
 
-Provided that if a beneficiary or potential beneficiary elects to have any provision applied to him, that provision shall be taken to be more favourable to him;
+*Provided that if have any taken to be*
+
+a beneficiary or potential beneficiary elects to provision applied to him, that provision shall be more favourable to him;
 
 (c) that they shall give to each person to whom paragraph (a) of this Article applies an option under which that person may elect that his pension shall be paid in one of the following countries,
 
@@ -264,7 +284,9 @@ corresponding sums, or totally to withhold, any payments of the same pension to 
 
 Obligations of the Government of Belize
 
-(1) The Government of Belize undertake,
+*The*
+
+(1) Government of Belize undertake,
 
 (a) that the conditions of service applicable to an officer who continues to be the substantive holder of a pensionable office in the public service of Belize on or after the appointed day shall not be less favourable than those which were applicable to him immediately before the appointed day;
 
@@ -288,7 +310,7 @@ pension awarded under Act No. 4 of 1976 on or after the appointed day in respect
 
 (aa) that part of the sum which would represent the Belize element of such pension if the service of the officer ceased on the appointed day which is attributable to the officer’s relevant service up to the day
 
-immediately preceding the appointed day; and
+immediately preceding appointed day; and
 
 (bb) 25% of the officer’s pensionable emoluments, other than inducement allowance, earned during that part of his relevant service which occurs on or after the appointed day.
 

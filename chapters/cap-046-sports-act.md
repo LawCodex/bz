@@ -168,17 +168,29 @@ a Treasurer;
 
 nine others,
 
-all of whom shall be appointed by the Minister by Order published in the Gazette and,
+*all of whom*
+
+shall be appointed by the Minister by Order published in the Gazette and,
 
 (f) the Director of Sports, ex officio.
 
-(5) The Minister shall in appointing the members of the Council take into consideration any representations that may be made by registered sporting organisations.
+*(5) The Council take be made by*
 
-(6) It is expressly declared that the power of the Council to purchase, take, hold and dispose of land and other property shall be subject to the approval of the Minister first had and obtained.
+Minister shall in appointing the members of the into consideration any representations that may registered sporting organisations.
 
-*Objects of the Council.*
+*(6) It is*
 
-**6.** The objects of the Council shall be,
+expressly declared that the power of the Council to purchase, take, hold and dispose of land and other property shall be subject to the approval of the Minister first had and
+
+*obtained.*
+
+*Objects of the*
+
+*The*
+
+*Council.*
+
+**6.** objects of the Council shall be,
 
 (a) to promote, develop and improve the knowledge and practice of sports in the interest of the social well- being of and the enjoyment of leisure by Belizeans and for this purpose to appoint Commissioners for all or any sport;
 
@@ -200,13 +212,19 @@ to carry out or to encourage and support research and studies into matters conce
 
 (j) to advise the Minister on any matters concerned directly or indirectly with the foregoing.
 
-*Powers of the Council.*
+*Powers of the The Council.*
 
-**7.** The Council shall have all such powers as are necessary or incidental to the fulfilment of its objects.
+**7.** Council shall have all such powers as are necessary or incidental to the fulfilment of its objects.
 
-*Establishment of Sports Committees.*
+*Establishment of 8.-(1) The Sports*
 
-**8.** (1) The Minister may by Order published in the Gazette establish a district sports committee for each such district or area as he may determine. The district sports committee so established shall be subordinate to and assist the National Sports Council in carrying out its objects, and shall advise the National Sports Council on matters connected with the promotion and development of sports in the district.
+*establish a Committees.*
+
+*established*
+
+*National*
+
+Minister may by Order published in the Gazette district sports committee for each such district or area as he may determine. The district sports committee so shall be subordinate to and assist the National Sports Council in carrying out its objects, and shall advise the Sports Council on matters connected with the promotion and development of sports in the district.
 
 (2) The Minister may appoint a village sports committee wherever he considers it necessary. A village sports committee so established shall be subordinate to the district sports committee for the district in which the said village is situate and shall assist the district sports committee and the National Sports Council in carrying out the objects of the Council and shall advise those bodies on matters connected with the promotion and development of sports in the village.
 
@@ -266,7 +284,9 @@ the committee in the transaction of its business shall be prescribed by rules ma
 
 *Disqualifications.*
 
-**15.** A person shall be disqualified from serving on the Council or any committee if he,
+*A*
+
+**15.** person shall be disqualified from serving on the Council or any committee if he,
 
 (a) is or has been adjudged by a competent court to be of unsound mind;
 
@@ -274,13 +294,21 @@ the committee in the transaction of its business shall be prescribed by rules ma
 
 (c) is convicted in a court of law for any offence involving dishonesty.
 
-## PART III Funds, Accounts etc. of the National Sports Council and Miscellaneous
+*Funds,*
 
-*Funds of the Council.*
+*Funds of the*
 
-**16.** (1) There shall be established a National Sports Fund to be administered by the Council, hereafter referred to as “the Fund”.
+*16.-(1) There*
 
-(2) There shall be paid into the Fund, (a) all such sums as may be voted from time to time by the National Assembly by way of grants and contribution to the Fund;
+*Council.*
+
+*administered Fund”.*
+
+PART III Accounts etc. of the National Sports Council and Miscellaneous shall be established a National Sports Fund to be by the Council, hereafter referred to as “the
+
+*(2) There*
+
+shall be paid into the Fund, (a) all such sums as may be voted from time to time by the National Assembly by way of grants and contribution to the Fund;
 
 (b) all sums received for the Fund from any international sporting organisation;
 
@@ -340,19 +368,27 @@ supervision of the standards adopted by registered sporting organisations in the
 
 (h) the quorum for meetings of the Council and the sports committees.
 
-(3) All regulations made under this section shall be subject to negative resolution.
+*(3) All to negative*
 
-(4) Regulations under subsection (2) (d),(f) and (g) of this section, shall be made in consultation with the registered sporting organisations and shall not conflict with recognised international rules and practices relating to any particular sport or to sport in general.
+regulations made under this section shall be subject resolution.
 
-*Appeals.*
+*sporting*
 
-**21.** (1) Any person who is aggrieved by any decision or action of a sports committee may appeal to the Council against such decision or action.
+(4) Regulations under subsection (2) (d),(f) and (g) of this section, shall be made in consultation with the registered organisations and shall not conflict with recognised international rules and practices relating to any particular sport or to sport in general.
 
-(2) Any person who is aggrieved by any decision or action of the Council, may appeal to the Sports Tribunal against such decision or action.
+*Appeals. 21.-(1) Any of a sports decision or*
 
-*Refusal, suspension or cancellation of registration.*
+person who is aggrieved by any decision or action committee may appeal to the Council against such action.
 
-**22.** The Council may refuse registration, or suspend or cancel the registration of a sporting organisation,
+*(2) Any*
+
+*decision or*
+
+person who is aggrieved by any decision or action of the Council, may appeal to the Sports Tribunal against such action.
+
+*Refusal, The suspension or cancel the cancellation of registration.*
+
+**22.** Council may refuse registration, or suspend or registration of a sporting organisation,
 
 (a) for failing or neglecting to remedy any malpractices, misconduct, or irregularities on the part of the office- bearers or members of such organisations on being notified to do so in writing by the Council within such time as may be specified in such notification;
 
@@ -364,21 +400,41 @@ supervision of the standards adopted by registered sporting organisations in the
 
 **23.** (1) There shall be a National Sports Tribunal consisting of three persons appointed by the Minister.
 
-(2) The Tribunal shall hear and determine all appeals under this Act and its decision shall be final.
+*(2) The*
 
-(3) Any appeal to the Tribunal shall be heard and decided by a majority vote.
+Tribunal shall hear and determine all appeals under this Act and its decision shall be final.
 
-(4) The Minister may appoint a person to act for any member of the Tribunal who for reasons of illness or for any other cause is unable to sit.
+*(3) Any*
 
-(5) The Secretary of the Council shall submit all appeals to the Tribunal and shall act as Secretary of the Tribunal.
+appeal to the Tribunal shall be heard and decided by a majority vote.
 
-*Returns and information.*
+*(4) The*
 
-**24.** The Minister may from time to time direct the Council, sports committee, or a sporting organisation to furnish to him in such form as he may require, returns of accounts and other information in respect of their property and activities and the Council, committee, or the sporting organisation shall carry out every such direction.
+Minister may appoint a person to act for any member of the Tribunal who for reasons of illness or for any other cause is unable to sit.
 
-*Investigation of activities.*
+*(5) The*
 
-**25.** The Minister may from time to time order all or any of the activities of the Council, sports committee, or a sporting
+Secretary of the Council shall submit all appeals to the Tribunal and shall act as Secretary of the Tribunal.
+
+*Returns and*
+
+*The*
+
+*information.*
+
+*sports*
+
+*Council, every such*
+
+**24.** Minister may from time to time direct the Council, committee, or a sporting organisation to furnish to him in such form as he may require, returns of accounts and other information in respect of their property and activities and the committee, or the sporting organisation shall carry out direction.
+
+*Investigation of*
+
+*The*
+
+*activities.*
+
+**25.** Minister may from time to time order all or any of the activities of the Council, sports committee, or a sporting
 
 organisation to be investigated and reported on by a person or persons as he may specify and upon such order being made the Council, sports committee, or sporting organisation shall afford all facilities and furnish all information as the person or persons may require, to carry out every such order.
 

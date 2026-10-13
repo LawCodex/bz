@@ -140,7 +140,9 @@ Establishment of the Caribbean Meteorological Organisation The Caribbean Meteoro
 
 (b) any other State of the Region able and willing to exercise the rights and assume the obligations of membership and which is admitted as a member in accordance with Article 29.
 
-ARTICLE 3 Objectives The Organisation shall have as its objectives the promotion and co- ordination of regional activities in the fields of meteorology and allied sciences.
+*The and co-*
+
+ARTICLE 3 Objectives Organisation shall have as its objectives the promotion ordination of regional activities in the fields of meteorology and allied sciences.
 
 ARTICLE 4 Functions For the purpose of attaining the objectives set out in Article 3 the functions of the Organisation shall include, (a) meteorological services to civil aviation; (b) cooperation with other services to provide an efficient hurricane warning system;
 
@@ -154,7 +156,17 @@ ARTICLE 4 Functions For the purpose of attaining the objectives set out in Artic
 
 (i) cooperation with all relevant scientific institutions.
 
-ARTICLE 5 General Undertaking as to Implementation Member States shall take all appropriate measures to ensure the carrying out of obligations arising under this Agreement. ARTICLE 6 The Organs The organs of the Organisation shall include, (a) the Caribbean Meteorological Council (hereinafter referred to as “the Council”);
+### ARTICLE 5
+
+*Member States the carrying out*
+
+General Undertaking as to Implementation shall take all appropriate measures to ensure of obligations arising under this Agreement. ARTICLE 6
+
+The Organs
+
+*The organs of*
+
+the Organisation shall include, (a) the Caribbean Meteorological Council (hereinafter referred to as “the Council”);
 
 the Caribbean Meteorological Institute (hereinafter referred to as “the Institute”); (c) the Caribbean Meteorological Foundation (hereinafter referred to as “the Foundation”); (d) the Headquarters Unit.
 
@@ -306,21 +318,27 @@ delegating to the Principal of the Institute any of their powers specified in th
 
 ### ARTICLE 17
 
-The Principal
+*(1) The*
 
-(1) The Principal of the Institute (hereinafter referred to as
+The Principal Principal of the Institute (hereinafter referred to as
 
-“the Principal”) shall be appointed by the Council upon such terms and conditions as the Council sees fit.
+*terms and*
 
-(2) The Principal shall be responsible for carrying out the functions of the Institute and shall do so in accordance with directions of the Board.
+“the Principal”) shall be appointed by the Council upon such conditions as the Council sees fit.
+
+*(2) The*
+
+Principal shall be responsible for carrying out the functions of the Institute and shall do so in accordance with directions of the Board.
 
 ### ARTICLE 18
 
-Advisers
+*(1) The*
 
-(1) The Board may invite such persons as it considers fit to constitute a panel of advisers to the Institute.
+Advisers Board may invite such persons as it considers fit to constitute a panel of advisers to the Institute.
 
-(2) The composition of the panel may be varied by the Board from time to time.
+*(2) The*
+
+composition of the panel may be varied by the Board from time to time.
 
 The Foundation The Foundation shall be established with the membership powers and functions hereinafter set out.
 

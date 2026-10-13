@@ -72,6 +72,10 @@ NOTE* This Act forms a part of the Revised Edition 2020 but is not in force.
 
 **11.** Budget and administrative support of the Investment Committee.
 
+*[CAP.*
+
+60:01
+
 ## PART IV
 
 Annual and Exceptional Withdrawal from the Fund
@@ -121,6 +125,10 @@ Transparency, Public Access to Information, Accounting, Audit and Reports of the
 **29.** Function and operation.
 
 **30.** Additional information to be provided to the Office. Confidentiality.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 Unit of accounts, and reports.
 
@@ -252,17 +260,29 @@ investment holding and similar fees and charges, by usual and customary means;
 
 (b) the matters (and in the manner, if any) mentioned in Section 9 and the First Schedule to this Act, and such other matters as the parties may agree and as may accord with international best industry practices and be reasonable in the circumstances, but in a manner consistent with, and not contrary to, this Act.
 
-(4) The Custody Bank Agreement shall be subject to the approval of the Independent Oversight Board.
+*(4) The*
 
-(5) The Governor shall provide a true and fair copy of the Custody Bank Agreement to the Public Information Office within seven days after it is signed.
+Custody Bank Agreement shall be subject to the approval of the Independent Oversight Board.
 
-(6) Subject always to the other subsections of this Section, the Central Bank shall transfer the Fund to another institution if,
+*(5) The*
+
+*within seven*
+
+Governor shall provide a true and fair copy of the Custody Bank Agreement to the Public Information Office days after it is signed.
+
+*the Central*
+
+(6) Subject always to the other subsections of this Section, Bank shall transfer the Fund to another institution if,
 
 (a) the Custody Bank ceases to be qualified under subsection (2) of this section, or resigns its mandate; or
 
 (b) the Central Bank, with the approval of the Investment Committee, decides that it is prudent to do so.
 
-(7) Upon the transfer of the role of a Custody Bank from one institution to another, the Central Bank shall, within seven days of such transfer, provide a full written explanation of the reasons to the Public Information Office and the Office shall publicize the explanation.
+*institution to*
+
+*to the Public*
+
+(7) Upon the transfer of the role of a Custody Bank from one another, the Central Bank shall, within seven days of such transfer, provide a full written explanation of the reasons Information Office and the Office shall publicize the explanation.
 
 *Petroleum Revenues to be paid to the Fund.*
 
@@ -314,11 +334,17 @@ Provided that this provision shall not apply to a member filling a casual vacanc
 
 (5) Notwithstanding subsection (4) of this section, the two non-ex-officio members first appointed under subsection (1) (d) and (e) of subsection (1) of this section, shall, as decided by the Minister at the time of their appointment, hold office for two years and three years respectively.
 
-(6) A member who ceases to be qualified shall immediately resign, and, not being ex-officio, may otherwise resign at any time by notice to the Minister.
+*(6) A*
 
-(7) With regard to their code of conduct, Section 121 of the Belize Constitution shall apply to members of the Committee.
+member who ceases to be qualified shall immediately resign, and, not being ex-officio, may otherwise resign at any time by notice to the Minister.
 
-(8) A member, not being ex-officio, shall not be removed from office before expiry of his term unless he,
+*Belize*
+
+(7) With regard to their code of conduct, Section 121 of the Constitution shall apply to members of the Committee.
+
+*(8) A*
+
+member, not being ex-officio, shall not be removed from office before expiry of his term unless he,
 
 (a) is convicted of an offence involving dishonesty;
 
@@ -330,7 +356,9 @@ Provided that this provision shall not apply to a member filling a casual vacanc
 
 (e) is, in the opinion of the Minister, and with the agreement of the institution upon whose advice the Minister appointed him, performing his duties with grave misconduct and the removal from office for this reason is approved by the Independent Oversight Board.
 
-(9) A member of the Independent Oversight Board shall not be appointed to be a member of the Investment Committee.
+*(9) A*
+
+member of the Independent Oversight Board shall not be appointed to be a member of the Investment Committee.
 
 *Procedures of the Committee.*
 
@@ -446,9 +474,17 @@ Independent Oversight Board under Section 26 of this Act, (which has not been re
 
 (c) countersigned by the Clerk to the National Assembly, he certifying that the information mentioned in section 13(1) and (2) of this Act, has been fully and completely included in the proposed State Budget for the financial year concerned and that fourteen days have elapsed since the proposed State Budget was presented to the House.
 
-*State Budget for the Annual Transfer Amount.*
+*State Budget for*
 
-**13.** (1) The Minister of Finance shall include in the proposed State Budget for a financial year,
+*13.-(1) The*
+
+*the Annual*
+
+*State Budget for*
+
+*Transfer Amount.*
+
+Minister of Finance shall include in the proposed a financial year,
 
 (a) the Annual Transfer Amount or the financial year concerned, together with the calculation thereof and an explanation of the calculation in form and content readily understandable by ordinary persons;
 
@@ -474,11 +510,31 @@ Board and the respective proportions (and amounts) of the Annual Transfer Amount
 
 (2) Subject to subsection (3) of this section, the House of Representatives shall determine the appropriation of the Annual Transfer Amount.
 
-(3) Funds to meet the proposed budgets of the Investment Committee and the Independent Oversight Board or the financial year concerned are hereby appropriated unless the House of Representatives appropriates different funds by an Act dealing with no other matter and the Bill was supported on its final reading by a majority of not less than three-quarters of all the members of the House.
+*(3) Funds to Committee and financial year House of dealing with no final reading by the members of*
 
-*Operational Accounts for withdrawals from the Flexible Transfer Account.*
+meet the proposed budgets of the Investment the Independent Oversight Board or the concerned are hereby appropriated unless the Representatives appropriates different funds by an Act other matter and the Bill was supported on its a majority of not less than three-quarters of all the House.
 
-**15.** (1) Moneys in the Flexible Transfer Account appropriated in accordance with the provisions of section 14 of this Act, shall immediately be transferred to the following account that the Central Bank shall open in Belizean dollars, one each in the name of,
+*Operational*
+
+*15.-(1) Moneys*
+
+*Accounts for*
+
+*in accordance*
+
+*withdrawals from the Flexible*
+
+*immediately be*
+
+*Transfer*
+
+*Central Bank*
+
+*Account.*
+
+in the Flexible Transfer Account appropriated with the provisions of section 14 of this Act, shall transferred to the following account that the shall open in Belizean dollars, one each in the
+
+*name of,*
 
 the Accountant General, to be styled “The (a)
 
@@ -512,9 +568,9 @@ Petroleum Fund Investment Committee Account”, and to be used for the budget of
 
 **17.** (1) In, and only in, exceptional circumstances, may an amount additional to the Annual Transfer Amount be transferred from the Permanent Restricted Account to the Flexible Transfer Account in a financial year.
 
-(2) For the purposes of subsection (1) of this section,
+*“exceptional*
 
-“exceptional circumstances” means,
+(2) For the purposes of subsection (1) of this section, circumstances” means,
 
 (a) devastation caused by man-made environmental disasters or natural disasters including hurricane, earthquake, famine, drought, or caused by civil turmoil and acts of war;
 
@@ -522,9 +578,17 @@ Petroleum Fund Investment Committee Account”, and to be used for the budget of
 
 (c) from which, in the opinion of the Government, Belize cannot recover without the financial support, inter alia, of the transfer and application of an additional amount from the Permanent Restricted Account.
 
-(3) The additional amount referred to in subsection (1) of, this section, may only be transferred pursuant to an Act dealing with the transfer of that additional amount only for that financial year and no other matter, and to be voted on separately from any other Bill, and only if the Bill was supported on its final reading in the House of Representatives by a majority of three-quarters of all the members of that House.
+*(3) The this section,*
 
-(4) The Bill mentioned in subsection (3) of this section, shall not be voted upon on its final reading unless fourteen days have elapsed since,
+*year and no*
+
+*of all the*
+
+additional amount referred to in subsection (1) of, may only be transferred pursuant to an Act dealing with the transfer of that additional amount only for that financial other matter, and to be voted on separately from any other Bill, and only if the Bill was supported on its final reading in the House of Representatives by a majority of three-quarters members of that House.
+
+*not be voted*
+
+(4) The Bill mentioned in subsection (3) of this section, shall upon on its final reading unless fourteen days have elapsed since,
 
 (a) the Minister of Finance has laid before the House of Representatives a fully reasoned explanation of the need for the transfer of the additional amount, together with a detailed plan of expenditure;
 
@@ -554,11 +618,17 @@ transferred is the additional amount authorised by law in the manner and subject
 
 Independent Oversight Board of the Fund
 
-*Establishment and appointment of members.*
+*19.-(1) There is*
 
-**19.** (1) There is hereby established a Board to be known as “The Petroleum Fund Independent Oversight Board”, and composed of nine members who shall all be appointed by the Governor-
+*Establishment and appointment*
 
-*General,*
+*Petroleum Fund*
+
+*of members.*
+
+*of nine General,*
+
+hereby established a Board to be known as “The Independent Oversight Board”, and composed members who shall all be appointed by the Governor-
 
 (a) as to two members;
 
@@ -572,9 +642,15 @@ who is a member of a party forming the Government; and
 
 (c) as to one member, exercising his own deliberate judgment after such consultation as he decides is appropriate, the individual to be from the international community.
 
-(2) In appointing members of the Board, the Governor-General shall not be obliged to act on the advice of any person other than as mentioned in subsection (1) and he shall seek, but always subject to paragraphs (a), (b) and (c) of subsection (1) of this section, to ensure both the widest possible representation of Belizean society and that the Board has the skills, experience and standing appropriate to its role.
+*(2) In General shall other than as always subject this section, to*
 
-(3) Casual vacancies shall be filled in like manner to the appointment of the vacating member but only for the remaining term of the vacating member.
+*and standing*
+
+appointing members of the Board, the Governor-not be obliged to act on the advice of any person mentioned in subsection (1) and he shall seek, but to paragraphs (a), (b) and (c) of subsection (1) of ensure both the widest possible representation of Belizean society and that the Board has the skills, experience appropriate to its role.
+
+*(3) Casual appointment of term of the*
+
+vacancies shall be filled in like manner to the the vacating member but only for the remaining vacating member.
 
 (4) The member appointed pursuant to subsection 1 (a) (i) of this section, shall be the Chairperson, and, in his absence, the member appointed pursuant to subparagraph (ii) of that paragraph.
 
@@ -606,13 +682,23 @@ the relief of a bankrupt or makes any assignment in whole or in part of his inco
 
 (e) absents himself from three consecutive meetings of the Board without leave of the Chairperson (and if the Chairperson, without leave of the Board, he not having a vote on the matter).
 
-**21.** (1) All decisions of the Board shall be made by a majority of the members present and voting.
+*21.-(1) All*
 
-(2) A quorum for a meeting of the Board shall be one of the members appointed pursuant to Section 19 (1) (a) of this Act, and four of the members appointed pursuant to paragraph (b) and (c) of that subsection.
+decisions of the Board shall be made by a majority of the members present and voting.
 
-(3) The Board shall meet not less frequently that once in every four months, and the first meeting of the Board shall be held as soon as reasonably possible after the appointment of the members.
+*(2) A members*
 
-(4) Subject to this section, the Board shall decide its own rules and procedures and the Chairperson shall promptly
+quorum for a meeting of the Board shall be one of the appointed pursuant to Section 19 (1) (a) of this Act, and four of the members appointed pursuant to paragraph (b) and (c) of that subsection.
+
+*(3) The every four*
+
+Board shall meet not less frequently that once in months, and the first meeting of the Board shall be held as soon as reasonably possible after the appointment of the
+
+*members.*
+
+*rules and*
+
+(4) Subject to this section, the Board shall decide its own procedures and the Chairperson shall promptly
 
 provide the Public Information Office with a true and fair copy of the rules and procedures or any amendment to them.
 
@@ -652,9 +738,13 @@ transfer an amount additional to the Annual Transfer Amount from the Permanent F
 
 (d) considering the adequacy of the budgets and funding of the Investment Committee and the Board and their workings, and reporting thereon.
 
-*Powers of the Board.*
+*Powers of the*
 
-**23.** (1) In performing its duties and functions under Section 22 of this Act, the Board may,
+*23.-(1) In*
+
+*Board.*
+
+performing its duties and functions under Section 22 of this Act, the Board may,
 
 (a) act on its own volition or at the request of or on information provided (in whatever manner and whether or not anonymously) by any person;
 
@@ -662,9 +752,15 @@ transfer an amount additional to the Annual Transfer Amount from the Permanent F
 
 (c) summon persons for meetings in camera and call for the production of books, plans and documents.
 
-(2) All summonses for the attendance of persons and for the production of books, plans and documents, may be in the form prescribed under the rules and procedures of the Board and shall be signed by the Chairperson.
+*(2) All*
 
-(3) The Board may order payment, out of its funds, to any witness who may appear and give evidence before it of such sums of money, not exceeding those which the Minister may
+*prescribed*
+
+summonses for the attendance of persons and for the production of books, plans and documents, may be in the form under the rules and procedures of the Board and shall be signed by the Chairperson.
+
+*(3) The witness who*
+
+Board may order payment, out of its funds, to any may appear and give evidence before it of such sums of money, not exceeding those which the Minister may
 
 from time to time by Order prescribe subject to affirmative resolution, as the Board thinks reasonable and sufficient to reimburse to such witness the travelling or other expenses which he has incurred in attending upon the Board and to compensate him for his trouble and loss of time, but it shall be lawful for the Board to abate or wholly disallow payment to any witness.
 
@@ -728,11 +824,9 @@ Transparency, Public Access to Information, Accounting, Audit and Reports of the
 
 (2) The head of the office shall be a suitably qualified person appointed by the Public Services Commission of a grade not less than an officer on pay scale 16.
 
-**28.** (1) The Ministry responsible for petroleum affairs shall
-
 *Internal procedures and budget.*
 
-provide adequate human resources to support the work of the Office, including making provision for permanent and temporary staff, and the hiring of consultants, advisors and other service providers, of sufficient number and necessary skills (including accounting, administrative and information technology).
+**28.** (1) The Ministry responsible for petroleum affairs shall provide adequate human resources to support the work of the Office, including making provision for permanent and temporary staff, and the hiring of consultants, advisors and other service providers, of sufficient number and necessary skills (including accounting, administrative and information technology).
 
 (2) All costs of and expenses for resources required to effectively carry out the work of the Office, other than the resources provided for under subsection (1) of this section hereof, shall be met through the budget of the Independent Oversight Board.
 
@@ -828,9 +922,13 @@ the calculation of income tax and other revenues payable, the correctness of the
 
 (g) be subject to confirmation by the Independent Oversight Board.
 
-(6) The Chairperson of the Independent Oversight Board shall provide a true and fair copy of the agreement mentioned in subsection (3) of this section, to the Public Information Office within seven days after it is signed.
+*(6) The shall provide a subsection (3) within seven*
 
-(7) The auditor shall audit the Fund each financial year, and shall report in writing thereon to the National Assembly and the Independent Oversight Board not later than three months after the end of the financial year concerned.
+Chairperson of the Independent Oversight Board true and fair copy of the agreement mentioned in of this section, to the Public Information Office days after it is signed.
+
+*(7) The shall report in Independent the end of the*
+
+auditor shall audit the Fund each financial year, and writing thereon to the National Assembly and the Oversight Board not later than three months after financial year concerned.
 
 (8) The auditor shall provide true and fair copies of the reports mentioned in subsection (7) of this section, to the Public Information Office promptly after they are laid before the National Assembly.
 
@@ -886,13 +984,17 @@ prevent the prosecution of any person for an offence under any other law.
 
 (2) A person who complies with an obligation under this Act does not, solely as a consequence of complying with that obligation, breach any other obligation whether under law, contract or otherwise.
 
-### PETROLEUM REVENUE MANAGEMENT FUND ACT
+*PETROLEUM*
+
+### REVENUE MANAGEMENT FUND ACT
 
 Custody Bank Agreement
 
 (Section 4)
 
-**1.** The Custody Bank Agreement shall deal with, inter alia,
+*The*
+
+**1.** Custody Bank Agreement shall deal with, inter alia,
 
 (a) the manner of proof and certification of transfer of the Annual Transfer Amount from the Permanent Restricted Account to the Flexible Transfer Account;
 
@@ -906,7 +1008,9 @@ Custody Bank Agreement
 
 (f) the provision of quarterly statements of accounts by the Custody Bank.
 
-**2.** The Custody Bank Agreement shall provide, inter alia,
+*The*
+
+**2.** Custody Bank Agreement shall provide, inter alia,
 
 (a) that transfers from the Permanent Restricted Account shall only be effected in accordance with this Act;
 
@@ -924,11 +1028,17 @@ that if the Custody Bank’s mandate is (g)
 
 terminated, it will deal with the moneys and investments in the Accounts in such manner as the Central Bank shall instruct.
 
-**3.** The Custody Bank Agreement shall include the acknowledgement by the Custody Bank that the Fund is held in trust as mentioned in Section 3 of this Act and that the Custody Bank does not, and shall not, have any claim on the Accounts
+*The*
+
+*trust as Bank does not,*
+
+**3.** Custody Bank Agreement shall include the acknowledgement by the Custody Bank that the Fund is held in mentioned in Section 3 of this Act and that the Custody and shall not, have any claim on the Accounts
 
 and the moneys and investments therein, and further that the Custody Bank shall include a similar acknowledgement in regard to all persons holding investments for the Fund.
 
-### PETROLEUM REVENUE MANAGEMENT FUND ACT
+*PETROLEUM*
+
+### REVENUE MANAGEMENT FUND ACT
 
 Petroleum Revenues
 
@@ -958,13 +1068,21 @@ charges payable by the Government for a Contractor’s loan to finance the acqui
 
 (c) all interest, dividends and other returns on the investments of the Fund less, as may be authorized by the Central Bank, Custody Bank fees and charges and any applicable investment management or administrative fees.
 
-**2.** Any royalty or Government production share of petroleum referred to in paragraph 1 and that is payable in kind shall be delivered to it or otherwise dealt with as required by law or contract, provided that such royalty or share in kind, and the Government’s rights thereto, may only be disposed of by way of sale at market price for money, and, on and from the date mentioned in section 5(2) of this Act,
+*Any petroleum shall be or contract,*
+
+**2.** royalty or Government production share of referred to in paragraph 1 and that is payable in kind delivered to it or otherwise dealt with as required by law provided that such royalty or share in kind, and the rights thereto, may only be disposed of by way Government’s
+
+*of sale at*
+
+market price for money, and, on and from the date mentioned in section 5(2) of this Act,
 
 (a) if the royalty or Government production share is marketed by the Contractor, then the Contractor is obliged within thirty days of receiving the proceeds from the sale to deposit such Petroleum Revenues directly in the Permanent Restricted Account; and
 
 (b) if the royalty or Government production share is marketed by the Government itself, then the Government shall, within thirty days of receiving the proceeds from the sale, deposit the Petroleum Revenues in the Permanent Restricted Account.
 
-**3.** Where the Government carries out Petroleum Operations directly through a company in which it invests (and if with others, on arm’s length commercial terms) and which company enters into a contract on arm’s length commercial terms with the Government, then a dividend or other distribution paid to the Government by such a company is not a Petroleum Revenue unless the Minister prescribes otherwise by an Order made under item paragraph 1(a)(vii).
+*Where directly through others, on arm’s enters into a Government, Government by unless the under item*
+
+**3.** the Government carries out Petroleum Operations a company in which it invests (and if with length commercial terms) and which company contract on arm’s length commercial terms with the then a dividend or other distribution paid to the such a company is not a Petroleum Revenue Minister prescribes otherwise by an Order made paragraph 1(a)(vii).
 
 **4.** Paragraph 1 does not apply to,
 
@@ -984,13 +1102,17 @@ persons or businesses in Belize, including those in respect of motor vehicles an
 
 (g) withholding taxes that are reimbursable to the taxpayer.
 
-### PETROLEUM REVENUE MANAGEMENT FUND ACT
+*PETROLEUM*
+
+### REVENUE MANAGEMENT FUND ACT
 
 Investment Policy
 
 (Section 9)
 
-**1.** The Investment Strategy shall have the following policy principles,
+*The principles,*
+
+**1.** Investment Strategy shall have the following policy
 
 (a) sufficient liquidity to ensure availability of cash for the Annual Transfer Amount;
 
@@ -1002,7 +1124,9 @@ Investment Policy
 
 (e) risk diversification by ensuring that, as practically possible, a variety of different financial assets are held in the Fund and that a limit is set for the maximum investment that may be made in any single financial asset.
 
-**2.** Subject to paragraph 1 of this Schedule, the Investment Strategy and Policy shall include, as a minimum,
+*Subject Strategy and*
+
+**2.** to paragraph 1 of this Schedule, the Investment Policy shall include, as a minimum,
 
 (a) the types of permitted investments, including categories of assets and instrument;
 
@@ -1016,7 +1140,9 @@ Investment Policy
 
 (f) the rules established to ensure sufficient liquidity for the Annual Transfer requirement.
 
-**3.** Without prejudice to subsection (4) of section 9 of this Act, and subject to paragraph 4 of this Schedule, investments shall be held only in the form of the following instruments,
+*Without Act, and subject shall be held*
+
+**3.** prejudice to subsection (4) of section 9 of this to paragraph 4 of this Schedule, investments only in the form of the following instruments,
 
 (a) cash bank deposits with an Approved Bank;
 
@@ -1032,7 +1158,9 @@ Foreign Government is pledged in support thereof;
 
 (ii) a government agency of any country that is a member of the Organisation for Economic Co-operation and Development (OECD) and unconditionally guaranteed by the national government of such country,
 
-Provided the full faith and credit of such Approved Multilateral Organisation and the national government of the OECD country is pledged in support thereof, and provided further that such obligations and securities are rated top of higher,
+*Provided the Organisation is pledged in obligations and*
+
+full faith and credit of such Approved Multilateral and the national government of the OECD country support thereof, and provided further that such securities are rated top of higher,
 
 (e) unrestricted United States of America and LIBOR certificates of deposit and time deposits;
 
@@ -1080,7 +1208,9 @@ financial year t over the period of calculation, being determined on the basis o
 
 (b) the estimated future production, being the quantities of petroleum estimated to be produced and saved in Belize, and sold in the financial year concerned.
 
-**2.** The net realized price shall be an estimate of the free market selling price of petroleum in markets into which it is expected petroleum produced and saved in Belize will be sold, adjusted for quality and transportation costs. The estimate shall be made by the Inspector on the basis of the best information available to him, having made due enquiry, from,
+*expected adjusted for*
+
+**2.** The net realized price shall be an estimate of the free market selling price of petroleum in markets into which it is petroleum produced and saved in Belize will be sold, quality and transportation costs. The estimate shall be made by the Inspector on the basis of the best information available to him, having made due enquiry, from,
 
 (a) reputable and published sources;
 
@@ -1088,7 +1218,9 @@ financial year t over the period of calculation, being determined on the basis o
 
 (c) existing contracts for the sale of petroleum produced and saved in Belize.
 
-**3.** No forecasted net realized price shall be more than the weighted average actual net realized price of petroleum produced and saved in Belize, and sold over the previous five financial years (or the lesser period over which petroleum has been produced and saved in Belize, and sold).
+*No weighted*
+
+**3.** forecasted net realized price shall be more than the average actual net realized price of petroleum produced and saved in Belize, and sold over the previous five financial years (or the lesser period over which petroleum has been produced and saved in Belize, and sold).
 
 The estimated future production shall be based on existing and operating facilities immediately prior to the start of the financial year for which SPI is being determined, plus any additional field for which a development plan has been approved by the Government and a final investment decision made by the Contractor.
 
@@ -1114,7 +1246,9 @@ Based on the information above, the Commissioner of Income Tax, shall provide hi
 
 PETROLEUM REVENUE MANAGEMENT FUND ACT Candidates for Membership of the Independent Oversight Board (Section 19)
 
-**1.** The following organizations or any replacement organization, may recommend candidates for membership of the Independent Oversight Board in accordance with Section 19 of this Act,
+*The organization, Independent this Act,*
+
+**1.** following organizations or any replacement may recommend candidates for membership of the Oversight Board in accordance with Section 19 of
 
 (a) the Association of Professional Engineers of Belize;
 

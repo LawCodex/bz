@@ -80,6 +80,10 @@ R.E. 1980-1990.
 
 **4.** (1) If any person hereafter convicted of treason or felony, for which he is sentenced to death, or any term of imprisonment exceeding twelve months, holds at the time of such conviction any military, naval, air force or civil office under the Government or other public employment, or any place, office or emolument in any City Council, Town or Village Council, or other public corporation, or being entitled to any pension or superannuation allowance payable by the public or out of any public fund, such office, employment or place shall forthwith become vacant, and such pension or superannuation allowance or emolument shall forthwith determine and cease to be payable unless such person receives a free pardon from the Governor General, within two months after such conviction, or before the filling up of such office or employment if that pardon is given at a later period.
 
+*THE*
+
+### SUBSTANTIVE LAWS OF BELIZE
+
 (2) Where any pension or superannuation allowance has been forfeited under this section, the authority by whom the pension or allowance was granted may restore the pension or allowance either in whole or in part.
 
 (3) Such person shall become, and until he has suffered the punishment to which he had been sentenced, or such other punishment as by competent authority may be substituted for it, or receives a free pardon from the Governor General, shall continue thenceforth, incapable of holding any military, naval, air force or civil office under the Government or other public employment, or of being elected, or sitting, or voting as a member of the National Assembly, a City Council, Town or Village Council, or of exercising any right of suffrage or other franchise whatever within Belize.
@@ -89,3 +93,7 @@ R.E. 1980-1990.
 **5.** (1) The court before which any person is so convicted, upon the application of any person aggrieved and immediately after the conviction, may award any sum of money, not exceeding one thousand dollars, by way of satisfaction or compensation for any loss of property suffered by the applicant through or by means of the felony.
 
 (2) The amount awarded for such satisfaction or compensation shall be deemed a judgment debt due to the person entitled to receive it from the person so convicted, and the order for payment of such amount may be enforced in such and the same manner as any judgment of the court in its civil jurisdiction is enforceable.
+
+*EDITION 2020*
+
+### REVISED

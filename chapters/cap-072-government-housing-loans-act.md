@@ -68,6 +68,8 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 **11.** Reports and audited accounts to be forwarded annually to the Financial Secretary.
 
+*[CAP.*
+
 ## PART IV
 
 Provisions as to Loans
@@ -111,6 +113,10 @@ Miscellaneous
 Schedule 1 — Scheduled Corporations Schedule 2 — Regulations under the Government Housing Loans Act
 
 Schedule 3 — Deed of Mortgage Schedule 4 — Memorandum of Charge and Discharge on Gratuity
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 ### CHAPTER 72
 
@@ -216,7 +222,9 @@ Provided that where papers are circulated the Chairperson may direct that the pa
 
 Financial Provisions
 
-**8.** The funds of the Board shall consist of,
+*The*
+
+**8.** funds of the Board shall consist of,
 
 *The funds of the Board. 40 of 1963.*
 
@@ -226,9 +234,13 @@ Financial Provisions
 
 (c) such sums as may accrue to the Board from its operations under this Act.
 
-*Application of funds.*
+*Application of*
 
-**9.** The funds of the Board shall be applied towards,
+*The*
+
+*funds.*
+
+**9.** funds of the Board shall be applied towards,
 
 (a) the payment of the salaries, fees, remuneration and other allowances of the persons employed by the Board;
 
@@ -256,13 +268,21 @@ connection with lands or buildings which become vested in the Board;
 
 *General financial provisions.*
 
-**10.** (1) Every sum payable to the Board shall be collected and received for and on account of the funds of the Board. Receipts for sums paid to the Board may be signed by any officer of the Board authorised by resolution of the Board generally or specifically in that behalf.
+*Board*
 
-(2) All payments out of the funds of the Board shall be made by officers of the Board authorised by resolution of the Board generally or specially in that behalf upon vouchers signed by the Chairperson.
+**10.** (1) Every sum payable to the Board shall be collected and received for and on account of the funds of the Board. Receipts for sums paid to the Board may be signed by any officer of the authorised by resolution of the Board generally or specifically in that behalf.
 
-(3) The Board shall cause to be kept proper books and accounts to the satisfaction of the Accountant General.
+*(2) All made by*
 
-(4) The Auditor General or such other auditor as may be approved by the Minister shall audit the accounts of the Board.
+payments out of the funds of the Board shall be officers of the Board authorised by resolution of the Board generally or specially in that behalf upon vouchers signed by the Chairperson.
+
+*(3) The*
+
+Board shall cause to be kept proper books and accounts to the satisfaction of the Accountant General.
+
+*(4) The*
+
+Auditor General or such other auditor as may be approved by the Minister shall audit the accounts of the Board.
 
 (5) The funds of the Board shall be paid into a bank or banks approved by resolution of the Board and shall so far as is practicable, be so paid from day to day,
 
@@ -282,9 +302,11 @@ Provided that officers of the Board generally or specially authorised in that be
 
 Provisions as to Loans
 
-*Power to make loans.*
+*Power to make Subject loans.*
 
-**12.** Subject to this Act and to any regulations made there under the Board may make a loan to any employee eligible for a loan on such conditions as the Board may impose for all or any of the following purposes,
+*under the Board a loan on such any of the*
+
+**12.** to this Act and to any regulations made there may make a loan to any employee eligible for conditions as the Board may impose for all or following purposes,
 
 (a) the acquisition of a house and land for use by him as a residence for himself and his family;
 
@@ -300,11 +322,13 @@ Provisions as to Loans
 
 (f) the payment of premiums and other expenses in connection with the insurance of his life as security for a loan under this section.
 
-*Loans.*
+*Loans. 13.-(1) the Board and addressed to the*
 
-**13.** (1) Application for loans shall be in the form approved by the Board and appropriate to the circumstances and shall be addressed to the secretary of the Board.
+Application for loans shall be in the form approved by appropriate to the circumstances and shall be secretary of the Board.
 
-(2) Every loan made under this Act and the interest thereon and all expenses recoverable by the Board from the borrower in connection with the loan or with any security therefor shall be secured to the satisfaction of the Board by a first charge on the land and building in respect of which the loan is to be granted and also,
+*(2) Every and all in connection be secured to the land and granted and*
+
+loan made under this Act and the interest thereon expenses recoverable by the Board from the borrower with the loan or with any security therefor shall the satisfaction of the Board by a first charge on building in respect of which the loan is to be also,
 
 (a) if the life of the employee to whom the loan is to be made is insured to the satisfaction of the Board, by the assignment of the benefits of the policy to the Board and the deposit of the policy with the Board;
 
@@ -312,11 +336,15 @@ Provisions as to Loans
 
 (c) if the life of the employee is not so insured and he is not able to pass such medical examination, by a charge on any gratuity payable on his death while in the service of the Government or of a scheduled corporation.
 
-(3) All expenses and payments of premium in respect of any insurance contemplated by subsection (2) of this section shall be borne by the employee concerned.
+*(3) All any insurance shall be borne*
+
+expenses and payments of premium in respect of contemplated by subsection (2) of this section by the employee concerned.
 
 *Charges.*
 
-**14.** (1) Every charge contemplated by section 13 (2) of this Act other than paragraphs (b) and (c) thereof shall be created,
+*14.-(1) Every Act other than*
+
+charge contemplated by section 13 (2) of this paragraphs (b) and (c) thereof shall be created,
 
 (a) in the case of registered land, by a deed expressed to be by way of legal mortgage executed and registered in accordance with
 
@@ -370,9 +398,9 @@ prepare any deed contemplated by section 14 of this Act, including searches, ver
 
 **18.** Every deed of mortgage or deed of discharge of mortgage contemplated by section 14 of this Act and every memorandum of charge or endorsement contemplated by section 15 of this Act, shall be charged with stamp duty in accordance with the rates prescribed by the Stamp Duties Act, Cap. 64.
 
-*Offences.*
+*19.-(1) Any Offences.*
 
-**19.** (1) Any person who,
+person who,
 
 (a) makes any statement in any application to the Board which he knows to be false or does not believe to be true;
 
@@ -380,17 +408,27 @@ prepare any deed contemplated by section 14 of this Act, including searches, ver
 
 (c) except with the consent in writing of the Board, uses or permits or suffers to be used any land or building on the security of which a loan has been made under this Act for any purpose other than as a residence for himself and his family, is guilty of an offence and is liable on summary conviction to a fine not exceeding five hundred dollars or to imprisonment for a term not exceeding six months, or to both such fine and term of imprisonment.
 
-(2) In any prosecution under this section where a prima facie case has been established that the loan or some part thereof has been misapplied, the onus of proving the manner in which the loan or part thereof has been applied shall be on the accused.
+*(2) In any facie case has*
 
-(3) Proceedings for any such offence may be commenced at any time within three years from the date on which the offence was committed.
+*which the loan accused.*
+
+prosecution under this section where a prima been established that the loan or some part thereof has been misapplied, the onus of proving the manner in or part thereof has been applied shall be on the
+
+*at any time offence was*
+
+(3) Proceedings for any such offence may be commenced within three years from the date on which the committed.
 
 ## PART V
 
 Miscellaneous
 
-*Inspection of premises.*
+*20.-(1) Any Inspection of*
 
-**20.** (1) Any valuer or inspector employed by the Board may at all reasonable times on giving forty-eight hours’ notice to the
+*premises.*
+
+*all reasonable*
+
+valuer or inspector employed by the Board may at times on giving forty-eight hours’ notice to the
 
 owner or occupier enter upon any land or building in respect of which a loan has been made under this Act and may value or inspect it.
 
@@ -430,13 +468,19 @@ owner or occupier enter upon any land or building in respect of which a loan has
 
 (g) carrying out generally the purposes of this Act.
 
-(2) Regulations under this section shall not have any force or effect until approved by resolution of the National Assembly.
+(2) Regulations under this section shall not have any force or effect until approved by resolution of the National
 
-(3) The regulations contained in the Second Schedule hereto shall be deemed to have been made and approved under this section.
+*Assembly.*
 
-*Amendment of First Schedule.*
+*(3) The*
 
-**25.** The First Schedule hereto may be amended by Order of the Minister adding to, deleting from or varying such Schedule, provided that no such Order shall take effect until approved by resolution of the National Assembly and published in the Gazette.
+regulations contained in the Second Schedule hereto shall be deemed to have been made and approved under
+
+*this section.*
+
+*Amendment of First Schedule. the Minister Schedule,*
+
+**25.** The First Schedule hereto may be amended by Order of adding to, deleting from or varying such provided that no such Order shall take effect until approved by resolution of the National Assembly and published in the Gazette.
 
 GOVERNMENT HOUSING LOAN ACT Scheduled Corporations
 
@@ -482,11 +526,9 @@ Provided that in any case in which the Board is secured by insurance on the life
 
 **6.** No loan shall be made until the building site and the building or buildings erected or to be erected thereon have been approved by the Board. The prospective borrower shall cause plans and specifications of any new building to the satisfaction of the Board, to be supplied to the Board.
 
-**7.** The prospective borrower shall, if so required by the
-
 *Borrower may supply title of land to Board upon request.*
 
-Board, supply the Board with an abstract of title to the land and shall comply with all requisitions as to title made on behalf of the Board.
+**7.** The prospective borrower shall, if so required by the Board, supply the Board with an abstract of title to the land and shall comply with all requisitions as to title made on behalf of the Board.
 
 *Inspections by Board.*
 

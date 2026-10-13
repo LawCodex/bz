@@ -670,11 +670,9 @@ make such investigations and enquiries as it seems fit, and shall consider–
 
 *Office hours.*
 
-**7.** The Comptroller with the sanction of the Minister may
-
 *40 of 1963.*
 
-from time to time appoint hours of general attendance of the respective officers at their proper offices or places of employment, and from time to time require the attendance of any or every such officer either before or after such hours of general attendance and during such time as he may think proper.
+**7.** The Comptroller with the sanction of the Minister may from time to time appoint hours of general attendance of the respective officers at their proper offices or places of employment, and from time to time require the attendance of any or every such officer either before or after such hours of general attendance and during such time as he may think proper.
 
 *Hearing of complaints, etc.*
 
@@ -702,17 +700,13 @@ ship on board which an officer is so stationed, shall provide every such officer
 
 *Duty to provide information. 21 of 2019.*
 
-**12.** (1) The master or agent of the master of every conveyance, whether laden or in ballast, and every cargo reporter shall, prior to arrival of the conveyance in Belize, provide to the Proper
+*Schedule VII. Schedule VIII. Schedule IX.*
+
+**12.** (1) The master or agent of the master of every conveyance, whether laden or in ballast, and every cargo reporter shall, prior to arrival of the conveyance in Belize, provide to the Proper Officer through the ACIS the passenger and cargo information set out in Schedules VII and VIII within the time specified in Schedule IX.
 
 *Schedule VII. Schedule VIII. Schedule IX.*
 
-Officer through the ACIS the passenger and cargo information set out in Schedules VII and VIII within the time specified in Schedule IX.
-
-(2) The master or agent of the master of a conveyance and every cargo reporter shall, prior to departure of the conveyance
-
-*Schedule VII. Schedule VIII. Schedule IX.*
-
-from Belize provide to the Proper Officer through the ACIS, the passenger and cargo information set out in Schedules VII and VIII within the time specified in Schedule IX.
+(2) The master or agent of the master of a conveyance and every cargo reporter shall, prior to departure of the conveyance from Belize provide to the Proper Officer through the ACIS, the passenger and cargo information set out in Schedules VII and VIII within the time specified in Schedule IX.
 
 *Schedule VII.*
 
@@ -724,23 +718,17 @@ from Belize provide to the Proper Officer through the ACIS, the passenger and ca
 
 **12A.** (1) The Comptroller may waive the requirements under Schedule IX if–
 
-(a) the distance between Belize and a port of departure of a conveyance does not permit the
+*Schedule VII. Schedule IX.*
+
+(a) the distance between Belize and a port of departure of a conveyance does not permit the master to provide the information in Schedule VII within the time specified in Schedule IX; or
 
 *Schedule VII. Schedule IX.*
 
-master to provide the information in Schedule VII within the time specified in Schedule IX; or
-
-(b) the master provides sufficient reasons to the satisfaction of the Comptroller for the inability
-
-*Schedule VII. Schedule IX.*
-
-to provide the information in Schedule VII within the time specified in Schedule IX.
-
-(2) The Comptroller shall establish alternative notification
+(b) the master provides sufficient reasons to the satisfaction of the Comptroller for the inability to provide the information in Schedule VII within the time specified in Schedule IX.
 
 *Schedule IX.*
 
-arrangements if the requirements under Schedule IX are waived in accordance with this section.
+(2) The Comptroller shall establish alternative notification arrangements if the requirements under Schedule IX are waived in accordance with this section.
 
 (3) The Minister, in consultation with the minister responsible for defence or national security, may waive the requirement for a master to provide ACI under section 12 in such circumstances and subject to such conditions as the Minister may prescribe, if the conveyance is–
 
@@ -778,11 +766,9 @@ arrangements if the requirements under Schedule IX are waived in accordance with
 
 **12E.** (1) Advanced Cargo Information collected under this Act shall be retained by the ACIS for a period not less than seven years from the date of collection of the information.
 
-(2) Advanced passenger information collected under this Act shall be retained in accordance with the provisions of the
-
 *S.I. 47 of 2017.*
 
-Immigration (Advance Passenger Information) Regulations,
+(2) Advanced passenger information collected under this Act shall be retained in accordance with the provisions of the Immigration (Advance Passenger Information) Regulations,
 
 2017.
 
@@ -816,33 +802,25 @@ Report of Ships and Entry and Landing of Goods
 
 **15.** (1) No goods, except goods of a perishable nature, bullion or currency, shall be unladen from any ship arriving from parts
 
-1978.
-
 *6 of 2106.*
 
-beyond the seas at any port or place in Belize, nor bulk be broken after the arrival of the ship without the sanction of the
+**1978.** beyond the seas at any port or place in Belize, nor bulk be broken after the arrival of the ship without the sanction of the
 
 Comptroller, before the due report of the ship and due entry of such goods has been made and warrant granted in manner hereafter directed.
 
-(2) All goods not fully reported, or which are unladen contrary hereto, shall be forfeited, and if bulk is broken contrary hereto, the master of such ship is liable to a fine not exceeding
+*6 of 2016.*
+
+(2) All goods not fully reported, or which are unladen contrary hereto, shall be forfeited, and if bulk is broken contrary hereto, the master of such ship is liable to a fine not exceeding twenty thousand dollars.
 
 *6 of 2016.*
 
-twenty thousand dollars.
-
-(3) All gunpowder and other goods especially dangerous in
-
-*6 of 2016.*
-
-cargo shall be landed before any other goods, except goods of a perishable nature, bullion or currency.
+(3) All gunpowder and other goods especially dangerous in cargo shall be landed before any other goods, except goods of a perishable nature, bullion or currency.
 
 *Bills of entry. 18 of 1994.*
 
-**16.** (1) Subject to the provisions of this section, every person entering any goods inwards, whether for payment of duty upon the first perfect entry or for payment of duty upon the taking out of the warehouse, or whether such goods are for commercial, personal or any other use, shall declare such goods and deliver to the Comptroller a bill in duplicate of the entry of such goods
-
 *Schedule II.*
 
-according to one of the forms in Schedule II or such other form as the Comptroller may prescribe from time to time, containing the several particulars indicated or required thereby, and shall pay any duty which may be payable upon the goods mentioned in such entry.
+**16.** (1) Subject to the provisions of this section, every person entering any goods inwards, whether for payment of duty upon the first perfect entry or for payment of duty upon the taking out of the warehouse, or whether such goods are for commercial, personal or any other use, shall declare such goods and deliver to the Comptroller a bill in duplicate of the entry of such goods according to one of the forms in Schedule II or such other form as the Comptroller may prescribe from time to time, containing the several particulars indicated or required thereby, and shall pay any duty which may be payable upon the goods mentioned in such entry.
 
 (2) The entry under sub-section (1) shall be duly signed by the Comptroller or other proper officer, and shall be the warrant for the landing and delivery of such goods.
 
@@ -908,11 +886,9 @@ application for that purpose to amend such entry at such value and upon such ter
 
 *Entry of goods for warehousing.*
 
-**21.** The importer of any goods intended to be warehoused without payment of duty on the first entry thereof, or his agent,
-
 *Schedule II.*
 
-shall deliver to the Comptroller a bill of entry in duplicate of such goods in Form No. 2 in Schedule II and containing the particulars therein, or in such other form as the Comptroller may direct, and such bill of entry, when signed by the Comptroller or other proper officer, shall be transmitted to the proper officer of customs, and be the warrant for the due warehousing of such goods.
+**21.** The importer of any goods intended to be warehoused without payment of duty on the first entry thereof, or his agent, shall deliver to the Comptroller a bill of entry in duplicate of such goods in Form No. 2 in Schedule II and containing the particulars therein, or in such other form as the Comptroller may direct, and such bill of entry, when signed by the Comptroller or other proper officer, shall be transmitted to the proper officer of customs, and be the warrant for the due warehousing of such goods.
 
 *Account of bullion, currency, etc. 6 of 2016.*
 
@@ -946,11 +922,9 @@ rent, the goods shall be sold for the payment of such duties and charges.
 
 *Entry by importers.*
 
-**27.** (1) If the importer of any goods fails within ten days after the arrival of the importing ship, or within such further time as the Comptroller may allow, to make perfect entry, or entry by bill of sight of the goods, and land the same, it shall be lawful for any officer of customs where the goods are not already in the
-
 *17 of 1978.*
 
-custody of the Port Authority to convey such goods to a Queen’s warehouse, and whenever the cargo of any ship has been discharged within the ten days, with the exception only of a small quantity of goods, the officers of customs may convey such remaining goods to a Queen’s warehouse, and likewise at any time may convey any small packages of goods to a Queen’s warehouse, although the ten days have not expired, there to be kept waiting the due entry thereof during the remainder of the ten days, except as hereinafter mentioned.
+**27.** (1) If the importer of any goods fails within ten days after the arrival of the importing ship, or within such further time as the Comptroller may allow, to make perfect entry, or entry by bill of sight of the goods, and land the same, it shall be lawful for any officer of customs where the goods are not already in the custody of the Port Authority to convey such goods to a Queen’s warehouse, and whenever the cargo of any ship has been discharged within the ten days, with the exception only of a small quantity of goods, the officers of customs may convey such remaining goods to a Queen’s warehouse, and likewise at any time may convey any small packages of goods to a Queen’s warehouse, although the ten days have not expired, there to be kept waiting the due entry thereof during the remainder of the ten days, except as hereinafter mentioned.
 
 *17 of 1978.*
 
@@ -962,11 +936,9 @@ custody of the Port Authority to convey such goods to a Queen’s warehouse, and
 
 **28.** No entry or warrant for the landing of any goods, or for the taking of any goods out of any warehouse or customs area, shall be deemed valid, unless made in accordance with the customs law.
 
-If any goods which are liable to the payment of duty upon
-
 *Duty on damaged goods.*
 
-the value thereof receive damage during the voyage, an abatement of the duties may be allowed in proportion to the damage so received,
+If any goods which are liable to the payment of duty upon the value thereof receive damage during the voyage, an abatement of the duties may be allowed in proportion to the damage so received,
 
 provided that–
 
@@ -1012,27 +984,21 @@ stores are unlawfully conveyed away, the master of the ship shall be liable to a
 
 *Entry outwards.*
 
-**37.** (1) The master of any ship bound from Belize shall before any goods are laden therein, deliver to the Comptroller an entry
-
 *Schedule III.*
 
-outwards signed by such master in the form in Schedule III, or in such other form as the Comptroller may from time to time prescribe, and if any goods are laden on board any ship before such entry is made, the master of the ship shall be liable to a fine not exceeding two hundred and fifty dollars.
+**37.** (1) The master of any ship bound from Belize shall before any goods are laden therein, deliver to the Comptroller an entry outwards signed by such master in the form in Schedule III, or in such other form as the Comptroller may from time to time prescribe, and if any goods are laden on board any ship before such entry is made, the master of the ship shall be liable to a fine not exceeding two hundred and fifty dollars.
 
 (2) Where it is necessary to lade any heavy goods on board any ship before the whole of the inward cargo is discharged, the Comptroller may issue an order for that purpose previous to the entry outwards of such ship.
 
-(3) The master shall, before such departure, deliver to the Comptroller a content in writing signed by him in the form or to
-
 *Schedule IV.*
 
-the effect of the form in Schedule IV or in such other form as the Comptroller may from time to time prescribe, and shall make and subscribe a declaration to the truth of such content as far as the particulars can be known to him.
+(3) The master shall, before such departure, deliver to the Comptroller a content in writing signed by him in the form or to the effect of the form in Schedule IV or in such other form as the Comptroller may from time to time prescribe, and shall make and subscribe a declaration to the truth of such content as far as the particulars can be known to him.
 
 (4) The master of every ship bound from Belize in ballast or laden shall before departure come before the Comptroller or other proper officer of customs, unless prevented from doing so
 
-by reason of illness or of his ship being in quarantine, or for some reason approved of in writing by the Comptroller, in which case the agent of the ship shall act in his behalf, and answer any questions concerning the ship and cargo if any and the crew, passengers and voyage, which may be asked him by such officer, and thereupon the Comptroller or other proper officer of customs shall make out and give to the master a certificate of the clearance of such ship for her intended voyage
-
 *Schedule V.*
 
-in the form in Schedule V.
+by reason of illness or of his ship being in quarantine, or for some reason approved of in writing by the Comptroller, in which case the agent of the ship shall act in his behalf, and answer any questions concerning the ship and cargo if any and the crew, passengers and voyage, which may be asked him by such officer, and thereupon the Comptroller or other proper officer of customs shall make out and give to the master a certificate of the clearance of such ship for her intended voyage in the form in Schedule V.
 
 *CAP. 233.*
 
@@ -1070,19 +1036,15 @@ Belize in ships of any burden and without requiring any security by bond for the
 
 *Exporting warehoused goods. 7 of 1973.*
 
-**42.** (1) Before any warehoused goods are shipped, or are waterborne to be shipped to some port out of Belize, the exporter or his agent shall deliver to the Comptroller a shipping bill in
-
 *Schedule VI.*
 
-duplicate of such goods in the form in Schedule VI, or in such form and containing such particulars as the Comptroller may from time to time approve and require, and such bill, being duly signed by the Comptroller or other proper officer of customs, shall be the warrant for the shipment of such goods.
+**42.** (1) Before any warehoused goods are shipped, or are waterborne to be shipped to some port out of Belize, the exporter or his agent shall deliver to the Comptroller a shipping bill in duplicate of such goods in the form in Schedule VI, or in such form and containing such particulars as the Comptroller may from time to time approve and require, and such bill, being duly signed by the Comptroller or other proper officer of customs, shall be the warrant for the shipment of such goods.
 
 *7 of 1973.*
 
-(2) Before any goods which are liable to customs duties upon export are put on board any aircraft or ship, or are put into any vessel to be waterborne, or are waterborne to be put on board any ship for exportation from any port or place in the country, the owner of the goods, or the person exporting the goods or his agent concerned with exportation, shall deliver to the Comptroller a shipping bill in duplicate of such goods in the
-
 *Schedule VI.*
 
-form in Schedule VI, or in such form and containing such particulars as the Comptroller may from time to time approve and require, and pay the export duty thereon, and such bill, being duly signed by the Comptroller or other proper officer of customs, shall be the warrant for the shipment of such goods,
+(2) Before any goods which are liable to customs duties upon export are put on board any aircraft or ship, or are put into any vessel to be waterborne, or are waterborne to be put on board any ship for exportation from any port or place in the country, the owner of the goods, or the person exporting the goods or his agent concerned with exportation, shall deliver to the Comptroller a shipping bill in duplicate of such goods in the form in Schedule VI, or in such form and containing such particulars as the Comptroller may from time to time approve and require, and pay the export duty thereon, and such bill, being duly signed by the Comptroller or other proper officer of customs, shall be the warrant for the shipment of such goods,
 
 provided that goods subject to customs duty upon export may be put into lighters or such vessels and be waterborne, or be put on board an aircraft, for the purpose of being conveyed to the port for the exportation thereof out of the country.
 
@@ -1160,9 +1122,11 @@ the importation and exportation by inland carriage or navigation of any goods wh
 
 Importation and Exportation by Post
 
-*Importation and exportation of good by post. CAP. 228. 6 of 2016.*
+*51A. (1) Importation and exportation of and*
 
-**51A.** (1) Without prejudice to any other provision of this Act and notwithstanding the Post Office Act–
+*good by post. CAP. 228. 6 of 2016.*
+
+Without prejudice to any other provision of this Act notwithstanding the Post Office Act–
 
 (a) all letters arriving in Belize from abroad shall be produced to the proper officer and, if in his opinion any such letter could contain other than written or printed material, he may require it to be opened in the presence of the Postmaster or any person authorised by him and, if any such letter is found to contain dutiable, restricted or prohibited goods, such goods are liable to forfeiture;
 
@@ -1176,7 +1140,9 @@ those goods are liable to forfeiture; and
 
 (c) no goods imported into Belize by post shall be allowed to be removed from the control of the Postmaster until all duty chargeable on them has been paid.
 
-(2) Without prejudice to any other provision of this Act–
+*(2) Without*
+
+prejudice to any other provision of this Act–
 
 all letters posted in Belize for transmission abroad shall be produced to the proper officer and, if in his opinion any such letter could contain other than written or printed material, he may require it to be opened in the presence of the Postmaster or any person authorised by him and, if any such letter is found to contain restricted or prohibited goods, such goods shall be liable to forfeiture;
 
@@ -1188,9 +1154,9 @@ all letters posted in Belize for transmission abroad shall be produced to the pr
 
 those goods are liable to forfeiture.
 
-(3) Without prejudice to sub-section (1) or (2), any person
+*(3) Without who–*
 
-*who–*
+prejudice to sub-section (1) or (2), any person
 
 (a) claims a letter or postal packet arriving in Belize; or
 
@@ -1212,11 +1178,9 @@ General Provisions relating to Collection and Management of Customs Duties
 
 (2) The chairperson and members of the Board shall hold office for one year, and shall be eligible for re-appointment.
 
-(3) The Board shall decide all disputes referred to it under the provisions of sub-section (5), and all cases of doubtful classification of goods for tariff purposes in accordance with the
-
 *Schedule I.*
 
-rules, section and chapter notes set out in Schedule I, and shall transact such other business as the Minister may from time to time assign to it.
+(3) The Board shall decide all disputes referred to it under the provisions of sub-section (5), and all cases of doubtful classification of goods for tariff purposes in accordance with the rules, section and chapter notes set out in Schedule I, and shall transact such other business as the Minister may from time to time assign to it.
 
 (4) The Board may regulate its own procedure and shall have power to require and compel the attendance of witnesses, and the production of books, papers and other documents.
 
@@ -1228,11 +1192,9 @@ rules, section and chapter notes set out in Schedule I, and shall transact such 
 
 (8) All such deposits shall be paid by the Comptroller of Customs to the Accountant General and, in case no such proceedings shall be brought within the time limited for that purpose, such deposit shall be retained and paid into the Consolidated Revenue Fund in the same manner as if it had been originally paid and received as the duty due on such goods; and in the case of such proceedings if it shall be determined that the duty so deposited was not the proper duty, but that a lesser duty was payable, the difference between the deposit and the duty found to be due, or the whole deposit, as the case may require, shall be returned to such importer or exporter.
 
-All bonds relating to the Customs required to be given in
-
 *Bonds*
 
-respect of goods or ships shall be taken by the Comptroller for the use of the Government of Belize, and after the expiration of the time, if any, limited therein for the performance of the condition thereof, every such bond upon which no prosecution or suit has been commenced shall be void and may be cancelled and destroyed.
+All bonds relating to the Customs required to be given in respect of goods or ships shall be taken by the Comptroller for the use of the Government of Belize, and after the expiration of the time, if any, limited therein for the performance of the condition thereof, every such bond upon which no prosecution or suit has been commenced shall be void and may be cancelled and destroyed.
 
 *Bonds of infants valid.*
 
@@ -1262,21 +1224,17 @@ in which they are so imported, exported, carried or otherwise dealt with commits
 
 *False declaration.*
 
-**59.** If any declaration required to be made by this or any other customs law is untrue in any particular, or if any person required by any such law to answer questions put to him by the officer of customs touching certain matters, does not truly answer such questions, the person making such declaration or answering such questions shall, over and above any other penalty to which he may be subject, be liable to a fine not
-
 *6 of 2016.*
 
-exceeding fifty thousand dollars.
+**59.** If any declaration required to be made by this or any other customs law is untrue in any particular, or if any person required by any such law to answer questions put to him by the officer of customs touching certain matters, does not truly answer such questions, the person making such declaration or answering such questions shall, over and above any other penalty to which he may be subject, be liable to a fine not exceeding fifty thousand dollars.
 
 *Goods for home consumption.*
 
 **60.** All goods deposited in any warehouse or place of security under any law for the warehousing of goods, without payment of duty upon the first importation thereof, or which may be imported and on board any ship, shall, upon being entered for home consumption, be subject to such and the like duties as may at the time of passing such entry be due and payable on the like sort of goods under any customs law in force at the time of passing such entry, except in cases where special provision is made by such law to the contrary.
 
-**61.** (1) No kerosene oil or goods of a combustible, inflammable
-
 *Inflammable goods.*
 
-or perishable nature shall be brought into or deposited in the Queen’s warehouse.
+**61.** (1) No kerosene oil or goods of a combustible, inflammable or perishable nature shall be brought into or deposited in the Queen’s warehouse.
 
 (2) If any such goods are landed or permitted to be landed by the officers of customs they may be deposited in any other available place that the Comptroller may think fit, and whilst so deposited they shall be deemed to be in the Queen’s warehouse and be liable to be dealt with, at the expiration of fourteen days, in the same manner as goods of a perishable nature actually deposited in the Queen’s warehouse, unless duly cleared or warehoused in some approved warehouse in the meantime.
 
@@ -1332,11 +1290,9 @@ time and in such manner as the Comptroller may direct, at the cost and charges o
 
 **66.** If any goods entered to be warehoused are not duly carried and deposited in the warehouse or customs area in pursuance of such entry, such goods shall be forfeited and the importer shall, in addition to the duty payable on such goods, be liable to a fine not exceeding five hundred dollars.
 
-Upon entry and landing of any goods to be warehoused,
-
 *Accounts of warehoused goods.*
 
-the proper officer of customs shall take a particular account of the same, and shall enter them in a book to be kept for that purpose, and no goods which have been so warehoused shall be taken or delivered from any warehouse or customs area except upon due entry and under the care of the proper officer for exportation, or upon due entry and payment of the duty for home use.
+Upon entry and landing of any goods to be warehoused, the proper officer of customs shall take a particular account of the same, and shall enter them in a book to be kept for that purpose, and no goods which have been so warehoused shall be taken or delivered from any warehouse or customs area except upon due entry and under the care of the proper officer for exportation, or upon due entry and payment of the duty for home use.
 
 *Power to sell goods after six months in warehouse.*
 
@@ -1350,11 +1306,9 @@ the proper officer of customs shall take a particular account of the same, and s
 
 **69.** If any goods entered or warehoused, or entered to be delivered from any warehouse or customs area are lost or destroyed by any unavoidable accident either on ship board or in the landing or shipping of the same, or in the receiving into or delivery from any warehouse or customs area, the Minister may remit or return the duties payable or paid on the quantities of such goods so lost or destroyed.
 
-**70.** (1) It shall be lawful for the Comptroller or for the proprietor
-
 *Duties on spirits and tobacco.*
 
-or importer of any spirits, tobacco or other goods which are in his opinion liable to fluctuation in quantity by the effect of the atmosphere or other natural causes to require the same to be re-gauged, re-measured or re-weighed by the proper officer of customs at the time when the same is respectively delivered from any warehouse or customs area, and the duties respectively payable thereon by such proprietor or importer shall be paid according to the quantity so ascertained, unless it is mutually agreed by and between the said parties that the said duties shall be paid on the quantities originally entered.
+**70.** (1) It shall be lawful for the Comptroller or for the proprietor or importer of any spirits, tobacco or other goods which are in his opinion liable to fluctuation in quantity by the effect of the atmosphere or other natural causes to require the same to be re-gauged, re-measured or re-weighed by the proper officer of customs at the time when the same is respectively delivered from any warehouse or customs area, and the duties respectively payable thereon by such proprietor or importer shall be paid according to the quantity so ascertained, unless it is mutually agreed by and between the said parties that the said duties shall be paid on the quantities originally entered.
 
 (2) The gauge, measurement or weight of any such goods ascertained by a proper officer of customs under this section shall be conclusive on all parties.
 
@@ -1390,11 +1344,19 @@ or importer of any spirits, tobacco or other goods which are in his opinion liab
 
 **77.** If, after any goods have been duly entered or landed to be warehoused and before they are actually deposited in the
 
-Queen’s warehouse, the importer further enters them or any part thereof for home use or exportation, the goods so entered shall be considered as virtually and constructively warehoused, although not actually deposited in the Queen’s warehouse, and may be delivered and taken for home use or exportation as the case may be.
+*Queen’s thereof for*
+
+warehouse, the importer further enters them or any part home use or exportation, the goods so entered shall be considered as virtually and constructively warehoused, actually deposited in the Queen’s warehouse, and although not
+
+*may be*
+
+delivered and taken for home use or exportation as the case may be.
 
 ## PART VI
 
-Searches, Examinations, Detentions, Seizures and Forfeitures
+*Searches,*
+
+Examinations, Detentions, Seizures and Forfeitures
 
 *Customs control of persons entering or leaving Belize. 6 of 2016.*
 
@@ -1404,7 +1366,9 @@ Searches, Examinations, Detentions, Seizures and Forfeitures
 
 (b) being dutiable goods or chargeable goods that he has obtained in Belize without payment of duty; and in respect of which he is not entitled to exemption from duty or tax by virtue of any enactment.
 
-(2) Any person entering or leaving Belize shall–
+*(2) Any*
+
+person entering or leaving Belize shall–
 
 (a) if he is in possession of currency of $20,000 or more, or the equivalent in the currency of any other jurisdiction, declare and make a report of same in such form and manner and containing such particulars as may be prescribed; and
 
@@ -1480,11 +1444,9 @@ the seal of the Supreme Court, or any warrant issued by a magistrate, with or wi
 
 **90.** If any person liable to be detained under the provisions of any customs law is not detained at the time of committing the offence for which he is liable, or after detention makes his escape, it shall be lawful for any Belize Defence Force Maritime Wing Officer, or for any officer of customs or police officer, or any other person acting in any of their aid or assistance, or duly employed for the prevention of smuggling, to detain such person so liable to detention at any time afterwards, and to take him before a summary jurisdiction court to be dealt with as if detained at the time of committing the said offence.
 
-It shall be lawful for any officer of customs or police
-
 *Stopping carts, etc., search.*
 
-officer, or any person acting in his aid and assistance, or duly employed for the prevention of smuggling upon reasonable suspicion to stop and examine any cart, wagon or carriage for the purpose of ascertaining whether any smuggled, prohibited or forfeited goods are contained therein, and if no such goods are found, then and in such case the officer or other person so stopping and examining such cart, wagon or carriage, having had probable cause to suspect that smuggled, prohibited or forfeited goods were contained therein, shall not on account of such stoppage and search, be liable to any prosecution or action at law on account thereof, and all persons driving or conducting such cart, wagon or carriage, refusing to stop when required to do so in the name of the Government of Belize, shall be liable to a fine not exceeding five hundred dollars.
+It shall be lawful for any officer of customs or police officer, or any person acting in his aid and assistance, or duly employed for the prevention of smuggling upon reasonable suspicion to stop and examine any cart, wagon or carriage for the purpose of ascertaining whether any smuggled, prohibited or forfeited goods are contained therein, and if no such goods are found, then and in such case the officer or other person so stopping and examining such cart, wagon or carriage, having had probable cause to suspect that smuggled, prohibited or forfeited goods were contained therein, shall not on account of such stoppage and search, be liable to any prosecution or action at law on account thereof, and all persons driving or conducting such cart, wagon or carriage, refusing to stop when required to do so in the name of the Government of Belize, shall be liable to a fine not exceeding five hundred dollars.
 
 ## PART VII
 
@@ -1556,13 +1518,15 @@ Goods in Transit, Prohibited and Restricted
 
 illegal abstraction in which case duty and any tax payable shall be paid on such deficiency by the transit agent.
 
-*Charges for administration expenses. 40 of 1963.*
+*Charges for 101. Goods administration commensurate expenses. 40 of 1963.*
 
-**101.** Goods in transit shall be liable to such charges, commensurate with administration expenses entailed, as the Minister may by order prescribe.
+in transit shall be liable to such charges, with administration expenses entailed, as the Minister may by order prescribe.
 
-*Entry before clearance by transit agent.*
+*Entry before 102. The clearance by*
 
-**102.** The transit agent shall, before the clearance outwards of the ship whereby goods in transit are to be exported–
+*the ship transit agent.*
+
+transit agent shall, before the clearance outwards of whereby goods in transit are to be exported–
 
 (a) deliver to the Comptroller an entry in such form and containing such particulars as the Minister may by regulations prescribe;
 
@@ -1572,11 +1536,21 @@ illegal abstraction in which case duty and any tax payable shall be paid on such
 
 101.
 
-*Mode of prohibiting exportation and importation. 38 of 1963. 11 of 1987.*
+*Mode of 103.-(1) The prohibiting*
 
-**103.** (1) The Minister may by Order published in the Gazette prohibit the exportation or importation of any goods.
+*prohibit the exportation and*
 
-(2) Without prejudice to any Order made under subsection (1)–
+Minister may by Order published in the Gazette exportation or importation of any goods.
+
+*importation. 38 of 1963.*
+
+*(2) Without*
+
+*11 of 1987.*
+
+prejudice to any Order made under subsection
+
+*(1)–*
 
 (a) any goods the importation or exportation of which is for the time being prohibited by or under any other enactment, order, rule, regulation or notification shall be deemed to be goods so prohibited under this Act and may be dealt with accordingly;
 
@@ -1620,11 +1594,9 @@ fails to provide ACI in accordance with section 12;
 
 *Penalty for noncompliance with law as to entry.*
 
-**108.** Every importer, agent or other person entering any goods who fails to comply with the requirements of the customs law applicable to the goods entered by him shall be liable on
-
 *18 of 1994. 6 of 2016.*
 
-summary conviction to a fine not exceeding twenty thousand dollars or three times the value of the goods, whichever is greater, or to imprisonment for a term not exceeding twelve months, or to both such fine and term of imprisonment, and in addition, all such goods in respect of which the offence was committed shall be forfeited.
+**108.** Every importer, agent or other person entering any goods who fails to comply with the requirements of the customs law applicable to the goods entered by him shall be liable on summary conviction to a fine not exceeding twenty thousand dollars or three times the value of the goods, whichever is greater, or to imprisonment for a term not exceeding twelve months, or to both such fine and term of imprisonment, and in addition, all such goods in respect of which the offence was committed shall be forfeited.
 
 *Unauthorised entries. 6 of 2016.*
 
@@ -1634,11 +1606,17 @@ summary conviction to a fine not exceeding twenty thousand dollars or three time
 
 **110.** If the proper officer of customs places any lock, mark or seal upon any goods taken from any warehouse or customs area without payment of duty on board any ship, and such lock, mark
 
-or seal is willfully opened, altered or broken, or if any such goods are unlawfully removed from such ship, the master commits an offence and is liable to a fine not exceeding twenty thousand dollars.
+*or seal is goods are commits an thousand*
 
-*Penalty for false papers. 14 of 1968.*
+willfully opened, altered or broken, or if any such unlawfully removed from such ship, the master offence and is liable to a fine not exceeding twenty dollars.
 
-**111.** Every person who–
+*Penalty for false*
+
+*Every*
+
+*papers. 14 of 1968.*
+
+**111.** person who–
 
 (a) counterfeits, falsifies, or wilfully uses when counterfeited or falsified any document required by this Act or any other law relating to the Customs, or any instrument used in the transaction of any business or matter relating to the Customs;
 
@@ -1648,11 +1626,17 @@ or seal is willfully opened, altered or broken, or if any such goods are unlawfu
 
 *6 of 2016.*
 
-shall for each and every such offence be liable on summary conviction to a fine not exceeding twenty thousand dollars or three times the value of the goods, whichever is greater.
+*shall for each*
 
-*Fraudulent Evasion offences and penalties. 44 of 2006.*
+and every such offence be liable on summary conviction to a fine not exceeding twenty thousand dollars or three times the value of the goods, whichever is greater.
 
-**112.** (1) Without prejudice to section 112A, every person who–
+*Fraudulent*
+
+*112.-(1)*
+
+*Evasion offences and penalties. 44 of 2006.*
+
+Without prejudice to section 112A, every person who–
 
 (a) import or brings, or assists or is otherwise concerned in importing or bringing, any prohibited or restricted goods, contrary to any prohibition or restriction imposed under this Act or any other law, whether the same is unshipped or not;
 
@@ -1680,7 +1664,9 @@ otherwise contrary to the customs law, commits an offence.
 
 *23 of 2020.*
 
-(2) Without prejudice to section 112A and sub-section (1), if any person without lawful authority or excuse (the burden of proof whereof shall be on him) is found in possession or control of any of the following goods, that is to say–
+*(2) Without if any person proof whereof of any of the*
+
+prejudice to section 112A and sub-section (1), without lawful authority or excuse (the burden of shall be on him) is found in possession or control following goods, that is to say–
 
 (a) goods which have been unlawfully removed from a warehouse or other place of security;
 
@@ -1688,9 +1674,15 @@ otherwise contrary to the customs law, commits an offence.
 
 (c) goods with respect to the importation or exportation of which any prohibition or restriction is for the time being in force under or by virtue of any enactment, commits an offence.
 
-*6 of 2016. 23 of 2020.*
+*6 of 2016.*
 
-(3) Subject to sub-section (3A), every person who commits an offence under this section is liable–
+*(3) Subject*
+
+*23 of 2020.*
+
+*an offence*
+
+to sub-section (3A), every person who commits under this section is liable–
 
 (a) on summary conviction, to a fine of twenty thousand dollars or three times the value of the goods in respect of which the offence was committed, whichever is the greater, or to imprisonment for a term not exceeding two years or to both; or
 
@@ -1780,11 +1772,9 @@ Recovery of Penalties and Miscellaneous
 
 **118.** (1) Where any act or default in relation to any matter of customs is, apart from the provisions of this Act, a felony or misdemeanour, proceedings for the punishment of any person in respect thereof may be taken on indictment, notwithstanding that such act or default has been made an offence under this Act.
 
-(2) Unless the contrary is in any case provided, all proceedings for the recovery of any fine, penalty or forfeiture
-
 *CAP. 98. CAP. 99.*
 
-under this Act shall be taken under the Summary Jurisdiction (Offences) Act and Summary Jurisdiction (Procedure) Act in the name or on behalf of the Comptroller.
+(2) Unless the contrary is in any case provided, all proceedings for the recovery of any fine, penalty or forfeiture under this Act shall be taken under the Summary Jurisdiction (Offences) Act and Summary Jurisdiction (Procedure) Act in the name or on behalf of the Comptroller.
 
 (3) Notwithstanding anything contained in this section, the Crown may recover, by civil proceedings under any law for the time being in force relating to proceedings by the Crown, all duties, charges, penalties, fines and forfeitures recoverable, imposed or incurred under this Act.
 
@@ -1852,11 +1842,9 @@ that any person detained or found on board any ship or boat liable to seizure is
 
 **129.** Notwithstanding section 128, when any person has been detained for any offence against any customs law and has made his escape from custody, proceedings may be taken in a competent court against such person for such offence at any time afterwards, although three years have expired.
 
-**130.** (1) Every officer of customs or other person duly
-
 *Collusion by and bribery of officers.*
 
-authorised to act as such who–
+**130.** (1) Every officer of customs or other person duly authorised to act as such who–
 
 (a) makes any collusive seizure;
 
@@ -1968,11 +1956,9 @@ Importer or Agent. Comptroller.
 
 FORM 2 Port of Belize City-Warehouse Inwards (Section 21)
 
-By ex Master, from
-
 *Country whence imported*
 
-Marks Number Contents Quantity Value and Nos. and
+By ex Master, from Marks Number Contents Quantity Value and Nos. and
 
 description
 
@@ -2210,7 +2196,7 @@ Advance Passenger Information
 
 (4) Name(s)
 
-(5) Address and contact information (telephone number, e-mail address)
+Address and contact information (telephone number, e-mail address)
 
 (6) All forms of payment information, including billing address
 
@@ -2316,9 +2302,9 @@ Containerized cargo: 24 hours prior loading at port of departure;
 
 (i) 1 hour prior to departure to the first port in the country of destination.
 
-**4.** The information set out in Schedules VII and VIII shall be
+*\4. The provided–*
 
-*provided–*
+information set out in Schedules VII and VIII shall be
 
 (a) in the case of commercial or private aircraft, not later than 40 minutes prior to departure from their last port of call;
 

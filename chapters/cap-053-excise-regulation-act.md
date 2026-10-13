@@ -70,6 +70,8 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 Capacity of still.
 
+*[CAP.*
+
 Application for licence.
 
 Form of licence.
@@ -135,6 +137,10 @@ Distilleries Stills and Distilling Standards, Record Book and Stock Returns, Sto
 **41.** Marking packages.
 
 Loss of spirits-power to grant relief in certain cases.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 Storing of spirits.
 
@@ -214,6 +220,8 @@ Permit required on removal of spirits from Queen’s warehouse.
 
 Form of permit for removal of spirits from a Queen’s warehouse.
 
+*[CAP.*
+
 Penalty for wrongful delivery, etc., of spirits.
 
 Taking account, etc., of spirits in possession of dealer. Seizure and forfeiture.
@@ -285,6 +293,10 @@ Taking account, etc., of spirits in possession of dealer. Seizure and forfeiture
 **104.** Distress for duty on conviction.
 
 Sale of goods and chattels detrained.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 **106.** Regulations.
 
@@ -440,11 +452,9 @@ year, within fourteen days after the first day in that year on which he had the 
 
 Licences
 
-**10.** Any person who uses a still is, unless he is a distiller
-
 *Penalty for using still without a licence.*
 
-and is using the still in conformity with his licence, or unless he is using the still by the authority and for the benefit and in conformity with the licence of a distiller, liable on summary conviction to a fine not exceeding five hundred dollars, and to
+**10.** Any person who uses a still is, unless he is a distiller and is using the still in conformity with his licence, or unless he is using the still by the authority and for the benefit and in conformity with the licence of a distiller, liable on summary conviction to a fine not exceeding five hundred dollars, and to
 
 a further fine not exceeding one dollar and twenty-five cents for every gallon of spirits unlawfully distilled by him in or by means of the still, and the still with the distillery apparatus used in connection therewith and the spirits so distilled shall be forfeited.
 
@@ -484,7 +494,9 @@ the kind and capacity in gallons of the still and any other particulars relating
 
 (d) the interest which the person applying for the licence has in the still and in the business of distillation intended to be carried on by means of the still.
 
-(2) Every such declaration shall also contain to the satisfaction of the Proper Authority,
+*(2) Every satisfaction of*
+
+such declaration shall also contain to the the Proper Authority,
 
 (a) a description (including a description of the locality) of the premises in which the still is intended to be used and the business of distillation is intended to be carried on by means of the still;
 
@@ -586,9 +598,9 @@ any wash vat, tank, receiver or fitting is used in connection with the still spe
 
 (d) any change takes place in the premises in which a distiller has a licence to use a still and to carry on the business of distillation by means of a still and that change is not specified in a declaration delivered to the Proper Authority.
 
-(2) Every declaration delivered under this section shall be
+*(2) Every signed by,*
 
-*signed by,*
+declaration delivered under this section shall be
 
 (a) the distiller, his attorney or agent;
 
@@ -810,9 +822,15 @@ only warehouses under this Act for the receipt and storage of spirits without pa
 
 (2) Such Excise Officer shall deliver to the distiller or his agent a receipt in the prescribed form under his hand, specifying the mark, number, and contents of each package, and the several particulars so found by him, with the day of the month and the year when such spirits were warehoused, the date and number of the permit under which the spirits were received, and the name of the distiller warehousing the spirits,
 
-and the re-gauge certificate in the prescribed form shall forthwith be forwarded by the Excise Officer to the Comptroller.
+*and the forthwith be Comptroller.*
 
-(3) If the quantity of spirits at proof received at a Queen’s warehouse in any package is found deficient of the quantity of spirits at proof specified in the permit the person on whose behalf the spirits were removed shall become chargeable with the duty on the deficiency,
+re-gauge certificate in the prescribed form shall forwarded by the Excise Officer to the
+
+*(3) If the warehouse in*
+
+*behalf the*
+
+quantity of spirits at proof received at a Queen’s any package is found deficient of the quantity of spirits at proof specified in the permit the person on whose spirits were removed shall become chargeable with the duty on the deficiency,
 
 Provided that,
 
@@ -826,9 +844,13 @@ Provided that,
 
 (b) the person shall not be chargeable with the duty if the Comptroller is satisfied that the deficiency is due to accident and not to fraud.
 
-(4) Such duty shall be payable on the demand of the Proper Authority.
+*(4) Such Authority.*
 
-(5) If any duty remains unpaid for ten days after the demand has been made, the distiller is liable to a fine not
+duty shall be payable on the demand of the Proper
+
+*(5) If any demand has*
+
+duty remains unpaid for ten days after the been made, the distiller is liable to a fine not
 
 exceeding fifty dollars, and any of the spirits remaining may be disposed of by the Proper Authority in satisfaction of the duty and penalty.
 
@@ -934,17 +956,33 @@ Spirits removed from a Queen’s warehouse after
 
 62.
 
-payment of the duty on such spirits and spirits removed from one Queen’s warehouse to be taken to and stored in another Queen’s warehouse shall be liable to forfeiture unless removed under a permit.
+*Queen’s*
 
-*Permit or certificate to accompany receipt of spirits.*
+payment of the duty on such spirits and spirits removed from one Queen’s warehouse to be taken to and stored in another warehouse shall be liable to forfeiture unless removed under a permit.
 
-**63.** (1) No spirits shall be received into the stock of any dealer unless such spirits are accompanied by a permit or certificate.
+*Permit or 63.-(1) No certificate to*
 
-(2) No spirits of any one kind or denomination amounting to or exceeding in quantity one and one-half proof gallons shall be sent out, delivered or removed from the stock of any dealer unless accompanied by a certificate.
+*unless such*
 
-*Penalty for wrongful removal, etc., of spirits.*
+*accompany receipt of spirits.*
 
-**64.** All spirits sent out, delivered, or removed or in the course of being sent out, delivered, or removed in contravention of any of the provisions of this Act, together with all horses, mules, donkeys, cattle, or other animals, motor vehicles, carriages and ships made use of in conveying such
+spirits shall be received into the stock of any dealer spirits are accompanied by a permit or certificate.
+
+*(2) No*
+
+*be sent out, unless*
+
+spirits of any one kind or denomination amounting to or exceeding in quantity one and one-half proof gallons shall delivered or removed from the stock of any dealer accompanied by a certificate.
+
+*Penalty for All wrongful*
+
+*course of removal, etc., of*
+
+*spirits.*
+
+*vehicles,*
+
+**64.** spirits sent out, delivered, or removed or in the being sent out, delivered, or removed in contravention of any of the provisions of this Act, together with all horses, mules, donkeys, cattle, or other animals, motor carriages and ships made use of in conveying such
 
 spirits, shall be liable to forfeiture, and any person who is concerned in the sending out, delivering, or removal of such spirits or in whose possession such spirits are found, is liable to a fine not exceeding five hundred dollars.
 
@@ -968,13 +1006,23 @@ spirits, shall be liable to forfeiture, and any person who is concerned in the s
 
 (5) Whenever a certificate is issued the corresponding counterfoil shall be allowed to remain in the book from which the certificate is detached.
 
-(6) Any person issuing a certificate shall correctly date and sign the same.
+*(6) Any*
 
-(7) Any person contravening this section or issuing a certificate which is not in accordance with the facts or does not comply with this Act or the regulations shall be liable to a fine not exceeding one hundred dollars.
+person issuing a certificate shall correctly date and sign the same.
 
-(8) Every dealer shall cause every book containing any counterfoil or counterfoils of certificates issued by him or his agent to be kept for the space of one year at the least computed from the date of the last of such counterfoils, and if any dealer fails to comply with this section he shall be liable to a fine not exceeding fifty dollars.
+*(7) Any*
 
-(9) Every certificate shall be in the prescribed form and shall contain the following particulars,
+*comply with not exceeding*
+
+person contravening this section or issuing a certificate which is not in accordance with the facts or does not this Act or the regulations shall be liable to a fine one hundred dollars.
+
+*(8) Every counterfoil or*
+
+dealer shall cause every book containing any counterfoils of certificates issued by him or his agent to be kept for the space of one year at the least computed from the date of the last of such counterfoils, and if any dealer fails to comply with this section he shall be liable to a fine not exceeding fifty dollars.
+
+*(9) Every*
+
+certificate shall be in the prescribed form and shall contain the following particulars,
 
 (a) the quantity and denomination of the spirits removed, sent out or delivered;
 
@@ -990,13 +1038,25 @@ premises or place to which the spirits are to be removed, sent or delivered; and
 
 (f) the mode of conveyance, and, if by water, the name and description of the ship, and the name of the master thereof.
 
-*Form of permit for removal of spirits from a Queen’s warehouse.*
+*Form of permit*
 
-A permit to remove from a Queen’s warehouse any
+*A*
+
+*for removal of*
+
+permit to remove from a Queen’s warehouse any
 
 68.
 
-spirits the duty on which has been paid shall be in the prescribed form and shall contain the following particulars,
+*spirits the*
+
+*spirits from a Queen’s ware-*
+
+*prescribed form*
+
+*house.*
+
+duty on which has been paid shall be in the and shall contain the following particulars,
 
 (a) the number of the packages in which the spirits are contained;
 
@@ -1010,9 +1070,13 @@ spirits the duty on which has been paid shall be in the prescribed form and shal
 
 (f) the name of the person to whom and a description sufficient for identification of the place to which the spirits are to be removed.
 
-*Penalty for wrongful delivery, etc., of spirits.*
+*Penalty for*
 
-**69.** (1) Any person who,
+*69.-(1) Any*
+
+*wrongful delivery, etc., of spirits.*
+
+person who,
 
 (a) sends out, delivers, removes or receives any spirits required to be accompanied by a permit or certificate without a permit or certificate;
 
@@ -1024,13 +1088,19 @@ spirits the duty on which has been paid shall be in the prescribed form and shal
 
 (e) in any manner uses, or causes or suffers to be used, any permit or certificate so that any account of spirits kept or checked by an Excise Officer may be frustrated or evaded, is, in addition to any other penalty or forfeiture, liable to a fine not exceeding five hundred dollars.
 
-(2) If any distiller or dealer commits an offence against this section, he shall forfeit his licence, and no new licence shall be granted to him for the remainder of the year for which such forfeited licence would have been in force.
+*(2) If any section, he shall granted to him forfeited licence*
 
-*Taking account, etc., of spirits in possession of dealer.*
+distiller or dealer commits an offence against this forfeit his licence, and no new licence shall be for the remainder of the year for which such would have been in force.
 
-**70.** (1) Any Excise Officer may at any time take an account of the quantity and strength of spirits in the stock or possession of any dealer, and call for and inspect all stock books, certificate books, permits and certificates, sale books, bills of parcel, bills of sale, receipts, accounts and writings, such as are or ought to be kept by dealers of spirits.
+*Taking account, 70.-(1) Any etc., of spirits in the quantity and possession of dealer. any dealer, and books, permits*
 
-(2) If the quantity of spirits computed at proof found on taking the account exceeds the quantity which ought,
+*be kept by*
+
+Excise Officer may at any time take an account of strength of spirits in the stock or possession of call for and inspect all stock books, certificate and certificates, sale books, bills of parcel, bills of sale, receipts, accounts and writings, such as are or ought to dealers of spirits.
+
+*(2) If the taking the*
+
+quantity of spirits computed at proof found on account exceeds the quantity which ought,
 
 according to the stock book of the dealer, to be in his possession, the excess shall be forfeited, and the dealer is liable to a fine not exceeding five hundred dollars.
 
@@ -1074,9 +1144,11 @@ the event of the thing seized being condemned, the single penalty of the bond wi
 
 **75.** Notwithstanding anything contained in the Intoxicating Liquor Licensing Act, Cap. 150, no licence shall be granted for the sale of spirits by retail on any estate on which spirit is made, nor within two miles of any such estate, except in the case of any town which may be within such two miles.
 
+*76.–(1) Any*
+
 *Unlawful removal of wash, etc.*
 
-**76.** (1) Any person who,
+person who,
 
 removes any wort, wash, low wines or feints or spirits from the premises of a distiller, contrary to this Act;
 
@@ -1086,29 +1158,57 @@ removes any wort, wash, low wines or feints or spirits from the premises of a di
 
 (2) All such wort, wash, low wines or feints or spirits so removed shall be forfeited.
 
-(3) Any officer may without warrant arrest any person found committing an offence against this section.
+*(3) Any found*
 
-*Tampering with distillery apparatus.*
+officer may without warrant arrest any person committing an offence against this section.
 
-**77.** Any person who, without the sanction of the Proper Authority, wilfully breaks, damages, or in any manner whatever tampers or interferes with any distillery apparatus is liable to a fine not exceeding five hundred dollars.
+*Tampering with*
 
-*Sale of spirits for unlawful purpose.*
+*Any*
 
-**78.** Any person who knowingly sells or delivers, or causes to be sold and delivered, any spirits to the end that they may be unlawfully retailed, or consumed, or carried into consumption is, in addition to any other penalty or forfeiture, liable to a fine not exceeding five hundred dollars, and the spirits shall be forfeited.
+*distillery*
 
-*Unlawful purchase of spirits .*
+*Authority,*
 
-**79.** Any person who knowingly receives, buys, or procures any spirits from a person not having lawful authority to sell or
+*apparatus.*
 
-deliver such spirits, is liable to a fine not exceeding five hundred dollars, and the spirits shall be forfeited.
+*whatever*
 
-*Purchase, etc., of spirits on which duty has not been paid*
+**77.** person who, without the sanction of the Proper wilfully breaks, damages, or in any manner tampers or interferes with any distillery apparatus is liable to a fine not exceeding five hundred dollars.
 
-**80.** If any person knowingly buys or receives, or has in his possession, any spirits after they have been removed from the place where they ought to have been charged with duty and before the duty payable thereon has been paid or secured to be paid, or the spirits have been condemned as forfeited, he shall forfeit the spirits and is liable to a fine not exceeding five hundred dollars.
+*Sale of spirits for*
 
-*Counterfeiting permit, etc.*
+*Any*
 
-**81.** Any person who,
+*unlawful purpose.*
+
+*unlawfully*
+
+**78.** person who knowingly sells or delivers, or causes to be sold and delivered, any spirits to the end that they may be retailed, or consumed, or carried into consumption is, in addition to any other penalty or forfeiture, liable to a fine not exceeding five hundred dollars, and the spirits shall be
+
+*forfeited.*
+
+*Unlawful*
+
+*Any*
+
+*purchase of spirits .*
+
+**79.** person who knowingly receives, buys, or procures any spirits from a person not having lawful authority to sell or
+
+*deliver such*
+
+spirits, is liable to a fine not exceeding five hundred dollars, and the spirits shall be forfeited.
+
+*Purchase, etc., of If any spirits on which duty has not been paid place where*
+
+*paid, or the forfeit the*
+
+**80.** person knowingly buys or receives, or has in his possession, any spirits after they have been removed from the they ought to have been charged with duty and before the duty payable thereon has been paid or secured to be spirits have been condemned as forfeited, he shall spirits and is liable to a fine not exceeding five hundred dollars.
+
+*Counterfeiting Any permit, etc.*
+
+**81.** person who,
 
 (a) counterfeits or falsifies, or wilfully uses when counterfeited or falsified, any permit or certificate or other document required for the removal or shipping of spirits;
 
@@ -1118,11 +1218,13 @@ deliver such spirits, is liable to a fine not exceeding five hundred dollars, an
 
 (d) knowingly utters or publishes any such forged or counterfeited certificate, declaration, or other document,
 
-is guilty of a misdemeanour.
+*is guilty of a*
 
-*Forcibly opposing execution of this Act.*
+misdemeanour.
 
-**82.** Any person who,
+*Forcibly Any opposing execution of this Act.*
+
+**82.** person who,
 
 (a) assaults any officer acting under this Act or any person acting in his aid;
 
@@ -1132,11 +1234,17 @@ is guilty of a misdemeanour.
 
 (d) rescues any offender arrested or thing seized under this Act or prevents the arrest of any such offender or the seizure of any such thing,
 
-is liable to a fine not exceeding five hundred dollars, or to imprisonment for a term not exceeding six months.
+*is liable to a imprisonment*
 
-*Corruption of officer.*
+fine not exceeding five hundred dollars, or to for a term not exceeding six months.
 
-**83.** Any person who, in or with reference to any matter
+*Corruption of*
+
+*Any*
+
+*officer.*
+
+**83.** person who, in or with reference to any matter
 
 *under this Act,*
 
@@ -1264,23 +1372,27 @@ carried who refuses to stop when required by such officer to do so shall be liab
 
 (2) There may be annexed to any breach of the regulations a penalty not exceeding two hundred and fifty dollars as the Minister may think fit.
 
-## SCHEDULE 1
-
-### EXCISE REGULATIONS ACT
-
-Specifications of a Vessel
+## SCHEDULE 1 EXCISE REGULATIONS ACT Specifications of a Vessel
 
 [Section 24]
 
-**1.** The following vessels must be erected to the satisfaction of the Proper Authority before a still is licensed and must thereafter be kept to the like satisfaction during the continuance of the licence,
+*The*
+
+*and must*
+
+**1.** following vessels must be erected to the satisfaction of the Proper Authority before a still is licensed thereafter be kept to the like satisfaction during the continuance of the licence,
 
 (a) one test case;
 
 (b) one spirit receiver;
 
-(c) one low wines or feints receiver; and (d) one pump where necessary, but a distiller may provide in addition as many more receivers for spirit or for low wines or feints as he may desire to do.
+*but a distiller*
 
-**2.** The vessels must be erected in accordance with the following,
+(c) one low wines or feints receiver; and (d) one pump where necessary, may provide in addition as many more receivers for spirit or for low wines or feints as he may desire to do.
+
+*The following,*
+
+**2.** vessels must be erected in accordance with the
 
 (a) the test case must be connected with the worm of the condenser of the still in such a manner that all spirit, low wines, or feints running from such worm must pass through the test case;
 
@@ -1314,11 +1426,9 @@ leading to the spirit receiver and to the low wines or feints receiver;
 
 ## SCHEDULE 2 EXCISE REGULATIONS ACT Records Book
 
-[Section 35] PERIOD FROM TO WASH ACCOUNT SPIRIT ACCOUNT
-
 *Wash set up b. Number of gallons b. Number of vat b. Date*
 
-Wash
+[Section 35] PERIOD FROM TO WASH ACCOUNT SPIRIT ACCOUNT Wash
 
 attenuated Spirit Manufactured a. Return of proof Spirits percent of b. Number of degrees of attenuated
 

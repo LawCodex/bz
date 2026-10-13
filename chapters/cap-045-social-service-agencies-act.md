@@ -228,9 +228,9 @@ permanent address of the resident;
 
 (i) any other particulars which may be prescribed by the Registrar.
 
-*Power of entry, inspection, etc.*
+*Power of entry, 15.-(1) For the inspection, etc. of this Act are Agency, or for registration of shall be lawful authority of the least 24 hours and,*
 
-**15.** (1) For the purpose of determining whether the provisions of this Act are being complied with by a Social Service Agency, or for the purpose of making a report to facilitate the registration of any premises as a Social Service Agency, it shall be lawful for the Registrar or any person acting under the authority of the Registrar and after prior notice in writing of at least 24 hours to enter the premises at all reasonable hours, and,
+purpose of determining whether the provisions being complied with by a Social Service the purpose of making a report to facilitate the any premises as a Social Service Agency, it for the Registrar or any person acting under the Registrar and after prior notice in writing of at to enter the premises at all reasonable hours,
 
 (a) to inspect the premises with a view to ascertaining all matters and things relevant to such purposes;
 
@@ -238,17 +238,31 @@ permanent address of the resident;
 
 (c) to examine such registers and books and to make copies or to take extracts from such registers and books.
 
-(2) Any person in charge of any premises, books or registers mentioned in subsection (1) of this section shall provide all such facilities as are required by the Registrar or other person for carrying out his duties under that subsection.
+*registers provide all*
 
-*Power to call for additional information.*
+person in charge of any premises, books or mentioned in subsection (1) of this section shall such facilities as are required by the Registrar or other person for carrying out his duties under that subsection.
 
-**16.** The Registrar may hold such inquiries as he considers necessary for the purpose of discharging his functions under this Act.
+*Power to call for*
+
+*The*
+
+*additional*
+
+*necessary for*
+
+*information.*
+
+**16.** Registrar may hold such inquiries as he considers the purpose of discharging his functions under
+
+*this Act.*
 
 ## PART III
 
 Miscellaneous
 
-**17.** (1) Any person who,
+*17.-(1) Any*
+
+person who,
 
 *Offences and penalties.*
 
@@ -268,13 +282,23 @@ fraudulently procures or attempts to procure the registration and licensing of a
 
 (g) fails to comply with any requirements of this Act or any regulations or order made there under or with any lawful direction given to such person by the Registrar,
 
-shall be guilty of an offence and liable on summary conviction to a fine not exceeding one thousand dollars or to imprisonment for a term not exceeding six months or to both such fine and such imprisonment.
+*shall be guilty*
 
-(2) Any registration or licence which has been obtained fraudulently or by means of fraudulent representation shall be invalid and of no effect.
+*imprisonment such fine and*
 
-(3) Where such offence is continued after conviction such person shall be liable in respect of each day during which such offence was continued to a fine not exceeding fifty dollars.
+of an offence and liable on summary conviction to a fine not exceeding one thousand dollars or to for a term not exceeding six months or to both such imprisonment.
 
-(4) Any offence against the provisions of this Act committed by any servant or agent of the proprietor shall be deemed to be an offence committed by the proprietor, unless he establishes that such offence was committed without his
+*(2) Any fraudulently or invalid and of*
+
+registration or licence which has been obtained by means of fraudulent representation shall be no effect.
+
+*(3) Where person shall be offence was*
+
+such offence is continued after conviction such liable in respect of each day during which such continued to a fine not exceeding fifty dollars.
+
+*(4) Any committed by deemed to be he establishes*
+
+offence against the provisions of this Act any servant or agent of the proprietor shall be an offence committed by the proprietor, unless that such offence was committed without his
 
 knowledge or that he exercised all due diligence to prevent the commission of that offence.
 
@@ -312,11 +336,17 @@ if the proprietor or any employee or agent is convicted of any criminal offence 
 
 (2) The provisions of subsection (1) of this section do not in any way prevent any person from voluntarily and on his own accord gifting, donating, bequeathing, or otherwise making over any property to or for the sake of any Social Service Agency.
 
-(3) Any person who contravenes the provisions of subsection (1) of this section shall be liable on summary conviction to a fine not exceeding one thousand dollars or to imprisonment for a period not exceeding six months and the property involved in the offence shall be forfeited to, and vest in, the State.
+*imprisonment property in, the State.*
+
+person who contravenes the provisions of subsection (1) of this section shall be liable on summary conviction to a fine not exceeding one thousand dollars or to for a period not exceeding six months and the involved in the offence shall be forfeited to, and vest
 
 *Regulations.*
 
-**21.** The Minister may make regulations generally for the better carrying out of the purposes of this Act and in particular but without prejudice to the generality of the foregoing may make regulations providing for,
+*The*
+
+*but without make*
+
+**21.** Minister may make regulations generally for the better carrying out of the purposes of this Act and in particular prejudice to the generality of the foregoing may regulations providing for,
 
 (a) regulating the number of persons who may normally be accommodated as residents in a Social Service Agency;
 
@@ -346,9 +376,9 @@ regulating visitors to Social Service Agencies;
 
 (n) prescribing any matter or thing required or authorised by this Act to be prescribed.
 
-*Appeals.*
+*Appeals. 22.-(1) Any*
 
-**22.** (1) Any person who is aggrieved by,
+person who is aggrieved by,
 
 (a) the refusal of the Registrar to register any premises as a Social Service Agency under section 8 of this Act;
 
@@ -356,8 +386,8 @@ regulating visitors to Social Service Agencies;
 
 (c) the cancellation or suspension under the provisions of section 18 of this Act of a licence already granted to him,
 
-may within fourteen days of the notification of such refusal, cancellation or suspension make an appeal there from to the
+*may within cancellation or Minister.*
 
-*Minister.*
+fourteen days of the notification of such refusal, suspension make an appeal there from to the
 
 (2) The Minister shall, within a reasonable time, hear and determine any appeal made to him under subsection (1) of this section.

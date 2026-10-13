@@ -110,13 +110,19 @@ Schedule — Salary and Duty Allowance of Governor-General
 
 Preliminary
 
+*This*
+
 *Short title.*
 
-**1.** This Act may be cited as the Governor-General (Conditions of Service) Act.
+*(Conditions of*
+
+**1.** Act may be cited as the Governor-General Service) Act.
 
 *Interpretation.*
 
-**2.** In this Act, unless the context otherwise requires,
+*In this*
+
+**2.** Act, unless the context otherwise requires,
 
 “Acting Governor-General” means any (a)
 
@@ -142,7 +148,9 @@ Finance;
 
 which the
 
-National Assembly may, from time to time, by resolution, determine as the official residence of the Governor-General;
+*National*
+
+Assembly may, from time to time, by resolution, determine as the official residence of the Governor-General;
 
 “widow” includes a “widower” and words (g)
 
@@ -152,9 +160,11 @@ and expressions importing the feminine gender include the masculine.
 
 Salary and Allowance
 
-*Salary and allowance of Governor General Schedule.*
+*3.-(1) The Salary and allowance of*
 
-**3.** (1) The Governor-General is entitled,
+Governor-General is entitled,
+
+*Governor General Schedule.*
 
 (a) to receive a salary at the rate per annum specified in paragraph 1 of the Schedule;
 
@@ -162,15 +172,25 @@ Salary and Allowance
 
 (c) to occupy free of rent the official residence of the Governor-General.
 
-(2) The House of Representatives may by resolution amend the Schedule by increasing the salary and duty allowance specified therein.
+*(2) The*
 
-(3) The official residence of the Governor-General shall be fully maintained by Government.
+*specified*
 
-*Salary and allowance during absence, leave and incapacity.*
+House of Representatives may by resolution amend the Schedule by increasing the salary and duty allowance therein.
 
-**4.** (1) The Governor-General shall,
+*(3) The*
+
+official residence of the Governor-General shall be fully maintained by Government.
+
+*Salary and 4.-(1) The allowance during absence, leave and incapacity.*
+
+Governor-General shall,
 
 (a) in respect of any period during which he is absent from Belize for the purpose of performing any of the functions of his office
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 receive the salary and duty allowance appertaining to his or her office;
 
@@ -246,15 +266,23 @@ the Minister may cause to be paid to such child, until he or she dies or ceases 
 
 **12.** Where a person dies while he is Governor-General or while he or she is entitled to receive Governor-General’s pension, leaving entitled children, each of such children (except those referred to in subparagraph (ii) of paragraph (a) of sub-section (1) of section 11 of this Act, if a pension is
 
-being paid under that section to their mother) shall be paid, until he or she dies or ceases to be an entitled child, such pension at such rate as the Minister shall determine, so, however, that the aggregate rate of pension payable to such children shall not exceed,
+*being paid*
+
+*pension at however, that children shall*
+
+under that section to their mother) shall be paid, until he or she dies or ceases to be an entitled child, such such rate as the Minister shall determine, so, the aggregate rate of pension payable to such not exceed,
 
 (a) subject to paragraph (b) of this section, the annual rate specified in paragraph (a) of subsection (1) of section 11 of this Act in respect of a widow;
 
 (b) if, and so long as, the Governor-General’s widow is entitled to a pension under that section, one-half of the rate so specified.
 
-*Protection of pensions.*
+*Protection of*
 
-**13.** Any pension payable under this Act shall not,
+*Any*
+
+*pensions.*
+
+**13.** pension payable under this Act shall not,
 
 (a) be assignable or transferable except for the purpose of satisfying a debt due to the Crown or an order of any court for the payment of periodical sums of money towards the maintenance of the wife, former wife, or child being the minor of the person to whom the pension is payable; or
 
@@ -264,17 +292,25 @@ being paid under that section to their mother) shall be paid, until he or she di
 
 Miscellaneous
 
+*The*
+
 *Vehicle for Governor-General.*
 
-**14.** The Governor-General shall be provided with an official vehicle which shall be fully maintained by the Government.
+**14.** Governor-General shall be provided with an official vehicle which shall be fully maintained by the
+
+*Government.*
 
 *Exemption from income tax.*
 
-The emoluments and pension of a Governor-General shall be exempt from income tax.
+*shall*
 
-*Duty-free goods.*
+The emoluments and pension of a Governor-General be exempt from income tax.
 
-**16.** Notwithstanding anything to the contrary contained in the Customs Regulation Act, Cap. 49, all goods as defined in section 2 thereof imported for use in the official residence of the Governor-General shall be exempt from the payment of customs duties.
+*Duty-free goods. the*
+
+*the*
+
+**16.** Notwithstanding anything to the contrary contained in Customs Regulation Act, Cap. 49, all goods as defined in section 2 thereof imported for use in the official residence of Governor-General shall be exempt from the payment of customs duties.
 
 *Source and method of payments.*
 
@@ -289,6 +325,10 @@ The emoluments and pension of a Governor-General shall be exempt from income tax
 The Governor’s Emoluments Act is hereby repealed.
 
 18.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 ## SCHEDULE GOVERNOR-GENERAL (CONDITIONS OF SERVICE) ACT Salary and Duty Allowance of Governor-General
 

@@ -194,13 +194,27 @@ Provided that the employer shall be liable for the acts of his agents or supervi
 
 **8.** (1) It shall be the duty of every person in charge of an institution to keep that institution free from sexual harassment and intimidation and to clearly express a policy against sexual
 
-harassment to staff, students, inmates or wards of that institution.
+harassment to staff, students, inmates or wards of that
 
-(2) For the purpose of this section, sexual harassment constitutes unwelcome verbal or physical conduct of a sexual nature including, but not limited to, the deliberate making of unsolicited gestures or comments, unwelcome sexual advances or requests for sexual favours or the deliberate display of offensive sexually graphic material which is not necessary for institutional purposes.
+*institution.*
 
-*Sexual harassment in relation to accommodation.*
+*constitutes nature unsolicited*
 
-**9.** No person shall make it reasonably appear to another person that,
+*offensive institutional*
+
+(2) For the purpose of this section, sexual harassment unwelcome verbal or physical conduct of a sexual including, but not limited to, the deliberate making of gestures or comments, unwelcome sexual advances or requests for sexual favours or the deliberate display of sexually graphic material which is not necessary for purposes.
+
+*Sexual*
+
+*No*
+
+*harassment in*
+
+**9.** person shall make it reasonably appear to another
+
+*person that,*
+
+*relation to accommodation.*
 
 (a) the terms on which the first-mentioned person offers the other person accommodation;
 
@@ -240,11 +254,15 @@ Hearing of Complaints
 
 (b) shall take all steps as it considers reasonable to effect an amicable settlement of a complaint and for this purpose may adjourn an inquiry at any stage to enable the parties to negotiate with a view to settlement by amicable arrangements.
 
+*12.-(1) The*
+
 *Evidence.*
 
-**12.** (1) The Court may take evidence on oath, affirmation or affidavit and for that purpose the Court may administer an oath or affirmation.
+Court may take evidence on oath, affirmation or affidavit and for that purpose the Court may administer an oath or affirmation.
 
-(2) The Court may decide not to carry out any investigations or, as the case may be, may decide to discontinue any investigations where,
+*(2) The investigations*
+
+Court may decide not to carry out any or, as the case may be, may decide to discontinue any investigations where,
 
 (a) the Court reasonably believes that the complainant does not wish that the inquiry be made or continued;
 
@@ -252,7 +270,11 @@ Hearing of Complaints
 
 (c) the Court is of the opinion that the complaint is frivolous, vexatious, misconceived or lacking in substance.
 
-(3) Where the Court decides not to carry out or decides to discontinue any investigations in relation to a complaint, it shall give notice in writing to the complainant of that decision and of the reasons therefor within two weeks of making that decision.
+*(3) Where*
+
+*shall give and of the decision.*
+
+the Court decides not to carry out or decides to discontinue any investigations in relation to a complaint, it notice in writing to the complainant of that decision reasons therefor within two weeks of making that
 
 *Power of Court to obtain information and documents.*
 
@@ -268,7 +290,9 @@ may, by notice in writing served on that person, require the person, at such pla
 
 (d) to produce to the Court such relevant documents as are specified in the notice.
 
-(2) Where documents are produced to the Court in accordance with a requirement under subsection (1) of this section, the Court,
+*(2) Where accordance section, the*
+
+documents are produced to the Court in with a requirement under subsection (1) of this Court,
 
 (a) may take possession of, and make copies of, or take extracts from, the documents;
 
@@ -276,11 +300,15 @@ may, by notice in writing served on that person, require the person, at such pla
 
 (c) during that period, shall permit a person who would be entitled to inspect any one or more of the documents if they were not in the possession of the Court, to inspect at all reasonable times such documents as that person would be entitled to inspect.
 
-*Attendance at inquiry.*
+*Attendance at 14.-(1) The inquiry.*
 
-**14.** (1) The Court may, for the purpose of any inquiry, by notice in writing, direct the person referred to in subsection (2) of this section, to attend at a time and place specified in the notice for the purposes of the inquiry.
+*notice in of this section, notice for the*
 
-(2) Directions under subsection (1) of this section, shall be given to,
+Court may, for the purpose of any inquiry, by writing, direct the person referred to in subsection (2) to attend at a time and place specified in the purposes of the inquiry.
+
+(2) Directions under subsection (1) of this section, shall be
+
+*given to,*
 
 (a) the complainant;
 
@@ -288,21 +316,33 @@ may, by notice in writing served on that person, require the person, at such pla
 
 (c) any other person who, in the opinion of the Court, is likely to be able to provide information relevant to the inquiry or whose presence is, in the opinion of the Court, likely to be conducive to the settlement of the matter to which the act relates.
 
-(3) The Court may, in a notice under subsection (1) of this section, require the person notified to produce documents as are specified in the notice.
+*(3) The*
 
-(4) The Court shall give each party to an inquiry a reasonable opportunity to call witnesses or give evidence, examine and cross- examine witnesses and make submissions to the Court.
+Court may, in a notice under subsection (1) of this section, require the person notified to produce documents as are specified in the notice.
+
+*(4) The reasonable*
+
+Court shall give each party to an inquiry a opportunity to call witnesses or give evidence, examine and cross- examine witnesses and make submissions
+
+*to the Court.*
 
 *Right to representation at inquiry.*
 
-**15.** A party to an inquiry may be represented by an attorney-at-law or other person and the Court shall have power to order a party to pay the attorney fees of the other party, where the Court believes that it is just and fair to do so.
+*to order a*
 
-**16.** (1) After holding an inquiry the Court may,
+**15.** A party to an inquiry may be represented by an attorney-at-law or other person and the Court shall have power party to pay the attorney fees of the other party, where the Court believes that it is just and fair to do so.
+
+*16.-(1) After*
+
+holding an inquiry the Court may,
 
 (a) dismiss the complaint; or
 
 (b) find in favour of the complainant and make any one or more of the orders set out in subsection (2) of this section.
 
-(2) For the purpose of subsection (1) of this section, the Court may make any one or more of the following orders,
+*(2) For the Court may make*
+
+purpose of subsection (1) of this section, the any one or more of the following orders,
 
 (a) that the respondent has engaged in conduct amounting to sexual harassment and should not repeat or continue such conduct;
 
@@ -394,9 +434,11 @@ commits an offence and is liable on summary conviction to a fine not exceeding o
 
 (b) on the ground that the first-mentioned person believes that the other person has done, or proposes to do, an act or thing referred to in any one of subparagraphs (i) to (v) of paragraph (a) of this subsection.
 
-*Penalty for making false complaints.*
+*Penalty for Any making false frivolous complaints.*
 
-**21.** Any person who makes any false, vexatious or frivolous complaint against another person for an alleged contravention of any provision of this Act shall be guilty of an offence and liable on summary conviction to a fine not exceeding one thousand dollars, or to imprisonment for a term not exceeding six months, or to both such fine and imprisonment.
+*offence and exceeding one not exceeding imprisonment.*
+
+**21.** person who makes any false, vexatious or complaint against another person for an alleged contravention of any provision of this Act shall be guilty of an liable on summary conviction to a fine not thousand dollars, or to imprisonment for a term six months, or to both such fine and
 
 ## PART V
 

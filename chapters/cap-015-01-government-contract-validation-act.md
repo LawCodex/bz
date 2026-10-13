@@ -52,19 +52,19 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 Act No. 8 of 2020.
 
-**1.** This Act may be cited as the Government Contracts
-
 *Short title.*
 
-(Validation) Act.
+**1.** This Act may be cited as the Government Contracts (Validation) Act.
 
 *Validation of contracts. Schedule.*
 
-**2.** The omission to lay on the table of both Houses of the National Assembly, the contracts listed in the Schedule, for the projects specified in Column I, between the parties specified in Column II, executed on the dates specified in Column III, for the amounts specified in Column IV, is deemed to be cured and the late laying of the contracts is deemed valid and effectual to the extent that it would have been valid and effectual if the contracts had been laid before each House of the National
-
 *CAP. 15.*
 
-Assembly in the manner required by section 19(6) of the Finance and Audit (Reform) Act.
+**2.** The omission to lay on the table of both Houses of the National Assembly, the contracts listed in the Schedule, for the projects specified in Column I, between the parties specified in Column II, executed on the dates specified in Column III, for the amounts specified in Column IV, is deemed to be cured and the late laying of the contracts is deemed valid and effectual to the extent that it would have been valid and effectual if the contracts had been laid before each House of the National Assembly in the manner required by section 19(6) of the Finance and Audit (Reform) Act.
+
+*THE*
+
+### SUBSTANTIVE LAWS OF BELIZE
 
 ## SCHEDULE
 

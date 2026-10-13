@@ -96,7 +96,9 @@ Financial and Administrative Provisions
 
 **19.** Payment from Consolidated Revenue Fund.
 
-**20.** Appointment of Registrar as Deputy Registrar of the Court.
+*Court.*
+
+**20.** Appointment of Registrar as Deputy Registrar of the
 
 **21.** Right of audience.
 
@@ -115,6 +117,8 @@ Financial and Administrative Provisions
 **28.** Repeal of Acts No. 16 of 2004 and No. 37 of 2005. Schedules:-
 
 Schedule 1 — Text of the Agreement Schedule 2 — Texts of Protocols
+
+### REVISED EDITION
 
 ### CHAPTER 92 CARIBBEAN COURT OF JUSTICE
 
@@ -166,7 +170,7 @@ respectively set forth in Parts 1 and 11 of the Second Schedule.
 
 *Agreement and Protocols to have force of law.*
 
-The Agreement and the Protocols shall have the force of law in Belize.
+Agreement and the Protocols shall have the force of law in Belize.
 
 ## PART II Jurisdiction of the Court
 
@@ -174,11 +178,13 @@ The Agreement and the Protocols shall have the force of law in Belize.
 
 **4.** (1) The Court shall have,
 
-(a) original jurisdiction provided for in this Act as is conferred on it in accordance with the provisions of Part II of the Agreement; and (b) appellate jurisdiction provided for in this Act as is conferred on it in accordance with the provisions of Part III of the Agreement.
+*(2) The*
 
-(2) The decisions of the Court shall be final.
+(a) original jurisdiction provided for in this Act as is conferred on it in accordance with the provisions of Part II of the Agreement; and (b) appellate jurisdiction provided for in this Act as is conferred on it in accordance with the provisions of Part III of the Agreement. decisions of the Court shall be final.
 
-(3) Nothing in this Act shall confer jurisdiction on the Court to hear matters in relation to any decision of the Court of Appeal which at the time of entry into force of this Act was declared to be final by any law.
+*(3) Nothing Court to hear Appeal which declared to be*
+
+in this Act shall confer jurisdiction on the matters in relation to any decision of the Court of at the time of entry into force of this Act was final by any law.
 
 *Original jurisdiction of the Court.*
 
@@ -188,7 +194,9 @@ The Agreement and the Protocols shall have the force of law in Belize.
 
 (iv) applications by nationals in accordance with subsection (2) of this section,
 
-concerning the interpretation and application of the Treaty; and
+*concerning the*
+
+interpretation and application of the Treaty; and
 
 (b) at the request of a Contracting Party or the Caribbean Community, deliver advisory opinions.
 
@@ -210,17 +218,31 @@ concerning the interpretation and application of the Treaty; and
 
 (iv) the Court has found that the interest of justice requires that the persons be allowed to espouse the claim.
 
-(3) The Court, in exercising its original jurisdiction shall apply such rules of international law as may be applicable.
+*(3) The*
 
-(4) Matters pertaining to the exercise of the original jurisdiction of the Court shall he brought before the Court by written application, in the manner prescribed by the Rules of Court.
+Court, in exercising its original jurisdiction shall apply such rules of international law as may be applicable.
+
+*written Court.*
+
+(4) Matters pertaining to the exercise of the original jurisdiction of the Court shall he brought before the Court by application, in the manner prescribed by the Rules of
 
 (5) For the purposes of subsection (1) of this section,
 
-“national courts” means the Supreme Courts and Courts of Appeal of the Member States of the Caribbean Community and includes the Eastern Caribbean Supreme Court.
+*“national*
 
-*Appeals as of right.*
+*includes the*
 
-**6.** An appeal shall lie to the Court from final decisions of the Court of Appeal as of right,
+courts” means the Supreme Courts and Courts of Appeal of the Member States of the Caribbean Community and Eastern Caribbean Supreme Court.
+
+*Appeals as of*
+
+*An*
+
+*right.*
+
+*the Court of*
+
+**6.** appeal shall lie to the Court from final decisions of Appeal as of right,
 
 (a) in civil proceedings where the matter in dispute on appeal to the Court is of the value of not less than $18,250 or where the appeal involves directly or indirectly a claim or a question respecting property or a right of the aforesaid value;
 
@@ -234,21 +256,25 @@ concerning the interpretation and application of the Treaty; and
 
 (f) in respect of any other matter as may be prescribed by any law.
 
-*Appeals with leave.*
+*Appeals with An leave.*
 
-**7.** An appeal shall lie to the Court with the leave of the Court of Appeal from the decisions of the Court of Appeal in the following cases,
+*the following*
+
+**7.** appeal shall lie to the Court with the leave of the Court of Appeal from the decisions of the Court of Appeal in cases,
 
 (a) final decisions in any civil proceedings where, in the opinion of the Court of Appeal, the question is one that by reason of its great general or public importance or otherwise, ought to be submitted to the Court; and
 
 (b) in such other cases as may be prescribed by any law.
 
-*Appeals with special leave.*
+*Appeals with Subject special leave. the Court with of the Court of*
 
-**8.** Subject to section 7 of this Act, an appeal shall lie to the Court with the special leave of the Court from any decision of the Court of Appeal in any civil or criminal matter.
+**8.** to section 7 of this Act, an appeal shall lie to the special leave of the Court from any decision Appeal in any civil or criminal matter.
 
-*Divisions of the Court.*
+*Divisions of the 9.-(1) The Court.*
 
-**9.** (1) The Court shall be duly constituted as set out in this section, and may sit in such number of divisions as may be
+*section, and*
+
+Court shall be duly constituted as set out in this may sit in such number of divisions as may be
 
 directed by the President; but every judge of the Court may sit in any division.
 
@@ -332,11 +358,17 @@ Appeals
 
 (b) may be granted to an applicant upon such other conditions as the Court of Appeal, having regard to all the circumstances of the case, may consider reasonable.
 
-*Execution or stay of execution.*
+*Execution or stay 14.-(1) Where of execution. to appeal is*
 
-**14.** (1) Where the judgment, in respect of which an application to appeal is made, requires the appellant to make a payment or perform a duty, the Court of Appeal may, when granting leave to appeal, direct that the judgment or any part thereof be executed or that the execution be suspended pending the appeal, as the Court of Appeal thinks just.
+*to appeal, executed or appeal, as the*
 
-(2) Where the Court of Appeal directs that the judgment referred to in subsection (1) of this section be executed, the person in whose favour the judgment is given shall, before the execution thereof, enter into good and sufficient security to the
+the judgment, in respect of which an application made, requires the appellant to make a payment or perform a duty, the Court of Appeal may, when granting leave direct that the judgment or any part thereof be that the execution be suspended pending the Court of Appeal thinks just.
+
+*(2) Where referred to in*
+
+*execution*
+
+the Court of Appeal directs that the judgment subsection (1) of this section be executed, the person in whose favour the judgment is given shall, before the thereof, enter into good and sufficient security to the
 
 satisfaction of the Court of Appeal for the due performance of such order as the Court shall think it to make.
 
@@ -414,11 +446,13 @@ Financial and Administrative Provisions
 
 (3) Any judgment of the Judicial Committee of the Privy Council which at the date of commencement of this Act has been given, but has not been satisfied, may be enforced after the commencement of this Act as if it had been a judgment of the Court.
 
-*Rules of Court.*
+*26.-(1) The Rules of Court. two nor more him, establish and appellate*
 
-**26.** (1) The President shall, in consultation with not less than two nor more than five other judges of the Court selected by him, establish Rules of Court for the exercise of the original and appellate jurisdiction of the Court.
+President shall, in consultation with not less than than five other judges of the Court selected by Rules of Court for the exercise of the original jurisdiction of the Court.
 
-(2) Without prejudice to the generality of the subsection (1) of this section, Rules of Court may provide for the following,
+*(2) Without of this section,*
+
+prejudice to the generality of the subsection (1) Rules of Court may provide for the following,
 
 (a) regulating the sittings of the Court, the selection of judges for any purpose, the period to be observed as a vacation in the Court and the transaction of business during any such vacation;
 
@@ -444,17 +478,29 @@ Financial and Administrative Provisions
 
 (l) regulating, prescribing or doing any other thing which may lie regulated, prescribed or done by Rules of Court.
 
-(3) The Rules of Court shall have the force of law and shall be published in the Gazette.
+*(3) The*
+
+Rules of Court shall have the force of law and shall be published in the Gazette.
 
 *Repeal of Privy Council Appeals Act.*
 
 **27.** Subject to section 25, the Privy Council Appeals Act, Revised Edition 2000, is hereby repealed.
 
-*Repeal of Acts 16 of 2004 and 37 of 2005.*
+*Repeal of Acts*
 
-**28.** (1) The Caribbean Court of Justice (Original Jurisdiction) Act, 2004 and the Caribbean Court of Justice (Original Jurisdiction) (Amendment) Act, 2005 are hereby repealed.
+*28.-(1) The*
 
-(2) Subsection (1) of this section, shall not affect any proceedings pending before the Court immediately before the commencement of this Act, and any such pending proceedings may be continued and concluded as if the said Acts had not been repealed.
+*16 of 2004 and 37 of 2005.*
+
+*Jurisdiction)*
+
+Caribbean Court of Justice (Original Jurisdiction) Act, 2004 and the Caribbean Court of Justice (Original (Amendment) Act, 2005 are hereby repealed.
+
+*proceedings*
+
+*may be*
+
+(2) Subsection (1) of this section, shall not affect any pending before the Court immediately before the commencement of this Act, and any such pending proceedings continued and concluded as if the said Acts had not been repealed.
 
 ## SCHEDULE 1 CARIBBEAN COURT OF JUSTICE ACT AGREEMENT ESTABLISHING THE CARIBBEAN COURT OF JUSTICE
 
@@ -528,19 +574,31 @@ The number of Judges, excluding the President may be increased by the Heads of G
 
 **9.** The appointment of the President shall be signified by letter under the hand of the Chairperson for the time being of the Conference acting on the advice of the Heads of Government and the appointment of any other Judge of the Court shall be signified by letter under the hand of the Chairperson of the Commission.
 
-A person shall not be qualified to be appointed to hold or to act in the office of Judge of the Court, unless that person satisfies the criteria mentioned in paragraph 11 and,
+*or to act in the satisfies the*
+
+A person shall not be qualified to be appointed to hold office of Judge of the Court, unless that person criteria mentioned in paragraph 11 and,
 
 (a) is or has been for a period or periods amounting in the aggregate to not less than five years, a Judge of a court of unlimited jurisdiction in civil and criminal matters in the territory of a Contracting Party or in some part of the Commonwealth, or in a State exercising civil law jurisprudence common to Contracting Parties, or a court having jurisdiction in appeals from any such court and who, in the opinion of the Commission, has distinguished himself or herself in that office; or
 
 (b) is or has been engaged in the practice or teaching of law for a period or periods amounting in the aggregate to not less than fifteen years in a Member State of the Caribbean Community or in a Contracting Party or in some part of the Commonwealth, or in a State exercising civil law jurisprudence common to Contracting Parties, and has distinguished himself or herself in the legal profession.
 
-**11.** In making appointments to the office of Judge, regard shall be had to the following criteria high moral character, intellectual and analytical ability, sound judgment, integrity, and understanding of people and society.
+*In*
 
-**12.** The Commission may, prior to appointing a Judge of the Court, consult with associations representative of the legal profession and with other bodies and individuals that it considers appropriate in selecting a Judge of the Court.
+*and*
+
+**11.** making appointments to the office of Judge, regard shall be had to the following criteria high moral character, intellectual and analytical ability, sound judgment, integrity, understanding of people and society.
+
+*The the Court,*
+
+*considers*
+
+**12.** Commission may, prior to appointing a Judge of consult with associations representative of the legal profession and with other bodies and individuals that it appropriate in selecting a Judge of the Court.
 
 Establishment Of The Regional Judicial And Legal Services Commission
 
-**1.** There is hereby established a Regional Judicial and Legal Services Commission which shall consist of the following persons,
+*There is Legal Services following*
+
+**1.** hereby established a Regional Judicial and Commission which shall consist of the persons,
 
 (a) the President who shall be the Chairperson of the Commission;
 
@@ -558,9 +616,13 @@ the Faculties of Law of any of the Contracting Parties and the Chairperson of th
 
 (g) two persons nominated jointly by the Bar or Law Associations of the Contracting Parties.
 
-**2.** Where any person or body required to nominate a candidate for appointment to the Regional Judicial and Legal Services Commission in accordance with paragraph 1, fails to make such nomination within thirty (30) days of a written request in that behalf, the nomination shall be made jointly by the heads of the judiciaries of the Contracting Parties.
+*candidate for Services make such*
 
-**3.** (1) The Commission shall have responsibility for,
+**2.** Where any person or body required to nominate a appointment to the Regional Judicial and Legal Commission in accordance with paragraph 1, fails to nomination within thirty (30) days of a written request in that behalf, the nomination shall be made jointly by the heads of the judiciaries of the Contracting Parties.
+
+*3.-(1) The*
+
+Commission shall have responsibility for,
 
 (a) making appointments to the office of Judge of the Court, other than that of President;
 
@@ -570,9 +632,13 @@ the Faculties of Law of any of the Contracting Parties and the Chairperson of th
 
 (d) the termination of appointments in accordance with the provisions of this Agreement.
 
-(2) The Commission shall, in accordance with the Regulations, exercise disciplinary control over Judges of the Court other than the President, and over officials and employees of the Court.
+*(2) The Regulations, Court other employees of*
 
-**4.** The term of office of members of the Commission, other than the Chairperson shall be three years, but such
+Commission shall, in accordance with the exercise disciplinary control over Judges of the than the President, and over officials and the Court.
+
+*The*
+
+**4.** term of office of members of the Commission, other than the Chairperson shall be three years, but such
 
 members shall be eligible for reappointment for another term of office.
 
@@ -664,9 +730,19 @@ a Chairperson and not less than two other members, selected by the Heads of Gove
 
 (b) the tribunal shall enquire into the matter and advise the Heads of Government or the Commission, as the case may be, whether or not the President or the Judge ought to be removed from office.
 
-**7.** The provisions of any law relating to the holding of commissions of inquiry in the Member State of the Caribbean Community where the inquiry is held shall apply as nearly as may be in relation to tribunals appointed under paragraph 6 of this Article or, as the context may require, to the members thereof as they apply in relation to Commissions or Commissioners appointed under that law.
+*The*
 
-**8.** If the question of removing the President or any other Judge of the Court from office has been referred to a tribunal under paragraph 6 of this Article, the Heads of Government in the case of the President or the Commission, in the case of any other Judge of the Court, may suspend such Judge from performing the functions of his office, and any such suspension may at any time be revoked by the Heads of Government or the Commission, as the case may be, and shall in any case cease to have effect if the tribunal advises the Heads of Government or the Commission that the Judge ought not to be removed from office.
+*Community may be in*
+
+*thereof as*
+
+**7.** provisions of any law relating to the holding of commissions of inquiry in the Member State of the Caribbean where the inquiry is held shall apply as nearly as relation to tribunals appointed under paragraph 6 of this Article or, as the context may require, to the members they apply in relation to Commissions or Commissioners appointed under that law.
+
+*If the Judge of the*
+
+*may at any the*
+
+**8.** question of removing the President or any other Court from office has been referred to a tribunal under paragraph 6 of this Article, the Heads of Government in the case of the President or the Commission, in the case of any other Judge of the Court, may suspend such Judge from performing the functions of his office, and any such suspension time be revoked by the Heads of Government or Commission, as the case may be, and shall in any case cease to have effect if the tribunal advises the Heads of Government or the Commission that the Judge ought not to be removed from office.
 
 **9.** (1) The President may at any time resign the office of President by writing under the hand of the President addressed to the Chairperson for the time being of the Conference.
 
@@ -692,33 +768,25 @@ Constitution of the Court
 
 **3.** The deliberations of the Court shall be under the authority and control of a Chairperson, who shall be the most senior of the judges appointed by the President.
 
+[CAP.
+
 Notwithstanding paragraph 1, the original jurisdiction of the Court may be exercised by a sole judge appointed by the Chairperson.
 
-**5.** The decision of a sole judge exercising jurisdiction under paragraph 4 may, on application of a Party aggrieved, be reviewed by a panel comprising not more than five judges.
+**5.** The decision of a sole judge exercising jurisdiction under paragraph 4 may, on application of a Party aggrieved, be reviewed by a panel comprising not more than five judges. Article XII Jurisdiction of the Court in Contentious Proceedings
 
-Article XII
+**1.** Subject to the Treaty, the Court shall have exclusive jurisdiction to hear and deliver judgment on, (a) disputes between Contracting Parties to this Agreement;
 
-Jurisdiction of the Court in Contentious Proceedings
-
-**1.** Subject to the Treaty, the Court shall have exclusive jurisdiction to hear and deliver judgment on,
-
-(a) disputes between Contracting Parties to this Agreement;
-
-(b) disputes between any Contacting Parties to this Agreement and the Community;
-
-(c) referrals from national courts or tribunals of Contracting Parties to this Agreement ;
-
-(d) applications by nationals in accordance with Article XXIV, concerning the interpretation and application of the Treaty.
+(b) disputes between any Contacting Parties to this Agreement and the Community; (c) referrals from national courts or tribunals of Contracting Parties to this Agreement ; (d) applications by nationals in accordance with Article XXIV, concerning the interpretation and application of the Treaty.
 
 2.
 
 For the purposes of this part, “national courts” includes the Eastern Caribbean Supreme Court.
 
-Article XIII
-
-Advisory Opinions of the Court
+Article XIII Advisory Opinions of the Court
 
 **1.** The Court shall have exclusive jurisdiction to deliver advisory opinions concerning the interpretation and application of the Treaty.
+
+### THE SUBSTANTIVE LAWS OF BELIZE
 
 Advisory opinions shall be delivered only at the request of Contracting Parties or the Community.
 
@@ -780,15 +848,23 @@ Revision of Judgments of the Court in the Exercise of its Original Jurisdiction
 
 **5.** No application for revision may be made after the lapse of five years from the date of the judgment.
 
-Nothing in this Article shall affect the rights of third parties accrued since the delivery of the judgment mentioned in paragraph 1.
+*Nothing parties accrued in paragraph 1.*
+
+in this Article shall affect the rights of third since the delivery of the judgment mentioned
 
 Article XXI
 
-Rules of Court Governing Original Jurisdictions
+*Rules of*
 
-**1.** The President shall, in consultation with five other Judges of the Court selected by him, establish rules for the exercise of the original jurisdiction of the Court.
+Court Governing Original Jurisdictions
 
-**2.** Without prejudice to the generality of the preceding sub-paragraph, Rules of Court may be made for all or any of the following purposes,
+*The Judges of the exercise of the*
+
+**1.** President shall, in consultation with five other Court selected by him, establish rules for the original jurisdiction of the Court.
+
+*Without sub-paragraph, the following*
+
+**2.** prejudice to the generality of the preceding Rules of Court may be made for all or any of purposes,
 
 (a) regulating the sittings of the Court, the selection of Judges for any purpose, and the period to be observed as a vacation in the Court and the transaction of business during any such vacation;
 
@@ -812,23 +888,33 @@ Article XXII
 
 Judgment of the Court to Constitute Stare Decisis
 
-Judgments of the Court shall be legally binding precedents for parties in proceedings before the Court unless such judgments have been revised in accordance with Article XX.
+*parties in have been*
+
+Judgments of the Court shall be legally binding precedents for proceedings before the Court unless such judgments revised in accordance with Article XX.
 
 Article XXIII
 
 Alternative Dispute Resolution
 
-**1.** Each Contracting Party shall, to the maximum extent possible, encourage and facilitate the use of arbitration and other means of alternative dispute resolution for the settlement of international commercial disputes.
+*possible,*
 
-**2.** To this end, each Contracting Party shall provide appropriate procedures to ensure observance of agreements to
+**1.** Each Contracting Party shall, to the maximum extent encourage and facilitate the use of arbitration and other means of alternative dispute resolution for the settlement of international commercial disputes.
 
-arbitrate and for the recognition and enforcement of arbitral awards in such disputes.
+*appropriate*
+
+**2.** To this end, each Contracting Party shall provide procedures to ensure observance of agreements to
+
+*arbitrate and awards in such*
+
+for the recognition and enforcement of arbitral disputes.
 
 Article XXIV
 
 Locus Standi of Private Entities
 
-Nationals of a Contracting Party may, with the special leave of the Court, be allowed to appear as parties in proceedings before the Court where,
+*Nationals of a the Court, be before the Court*
+
+Contracting Party may, with the special leave of allowed to appear as parties in proceedings where,
 
 (a) the Court has determined in any particular case that the Treaty intended that a right conferred by or under the Treaty on a Contracting Party shall enure to the benefit of such persons directly; and
 
@@ -848,9 +934,13 @@ Article XXV
 
 Appellate Jurisdiction of the Court
 
-**1.** In the exercise of its appellate jurisdiction, the Court is a superior Court of record with such jurisdiction and powers as are conferred on it by this Agreement or by the Constitution or any other law of a Contracting Party.
+*In the a superior Court are conferred on any other law of*
 
-**2.** Appeals shall lie to the Court from decisions of the Court of Appeal of a Contracting Party as of right in the following cases,
+**1.** exercise of its appellate jurisdiction, the Court is of record with such jurisdiction and powers as it by this Agreement or by the Constitution or a Contracting Party.
+
+*Appeals Court of following cases,*
+
+**2.** shall lie to the Court from decisions of the Appeal of a Contracting Party as of right in the
 
 (a) final decisions in civil proceedings where the matter in dispute on appeal to the Court is of the value of not less than twenty-five thousand dollars Eastern Caribbean currency (EC$25.000) or where the appeal involves directly or indirectly a claim or a question respecting property or a right of the aforesaid value;
 
@@ -866,21 +956,37 @@ Constitution of a Contracting Party for the protection of fundamental rights;
 
 (f) such other cases as may be prescribed by any law of the Contracting Party.
 
-**3.** An appeal shall lie to the Court with the leave of the Court of Appeal of a Contracting Party from the decisions of the Court of Appeal in the following cases,
+*An Court of Appeal the Court of*
+
+**3.** appeal shall lie to the Court with the leave of the of a Contracting Party from the decisions of Appeal in the following cases,
 
 (a) final decisions in any civil proceedings where, in the opinion of the Court of Appeal, the question involved in the appeal is one that by reason of its great general or public importance or otherwise, ought to be submitted to the Court; and
 
 (b) such other cases as may be prescribed by any law of the Contracting Party.
 
-**4.** Subject to paragraph 2, an appeal shall lie to the Court with the special leave of the Court from any decision of the Court of Appeal of a Contracting Party in any civil or criminal matter.
+*Subject with the special Court of Appeal matter.*
 
-**5.** Nothing in this Article shall apply to matters in relation to which the decision of the Court of Appeal of a Contracting Party is, at the time of the entry into force of the Agreement pursuant to the Constitution or any other law of that Party, declared to be final.
+**4.** to paragraph 2, an appeal shall lie to the Court leave of the Court from any decision of the of a Contracting Party in any civil or criminal
 
-The Court shall, in relation to any appeal to it in any case, have all the jurisdiction and powers possessed in relation to that case by the Court of Appeal of the Contracting Party from which the appeal was brought.
+*Nothing to which the Party is, at the pursuant to the declared to be*
 
-**7.** (1) The President shall in consultation with five other Judges of the Court selected by him, make Rules of Court for regulating the practice and procedure of the Court in exercise of the appellate jurisdiction conferred on the Court and, in relation to appeals brought before the Court, the practice and procedure of any court in respect of such appeals.
+**5.** in this Article shall apply to matters in relation decision of the Court of Appeal of a Contracting time of the entry into force of the Agreement Constitution or any other law of that Party, final.
 
-(2) Without prejudice to the generality of the preceding sub-paragraph, Rules of Court may be made for all or any of the following purposes,
+*case, have all*
+
+*from which the*
+
+Court shall, in relation to any appeal to it in any the jurisdiction and powers possessed in relation to that case by the Court of Appeal of the Contracting Party appeal was brought.
+
+*7.-(1) The Judges of the regulating the*
+
+*relation to procedure of*
+
+President shall in consultation with five other Court selected by him, make Rules of Court for practice and procedure of the Court in exercise of the appellate jurisdiction conferred on the Court and, in appeals brought before the Court, the practice and any court in respect of such appeals.
+
+*sub-paragraph, the following*
+
+(2) Without prejudice to the generality of the preceding Rules of Court may be made for all or any of purposes,
 
 (a) regulating the sittings of the Court the selection of Judges for any purpose, and the period to be observed as a vacation in the Court and the transaction of business during any such vacation;
 
@@ -910,7 +1016,9 @@ Article XXVI
 
 Enforcement of Orders of The Court
 
-The Contracting Parties agree to take all the necessary steps, including the enactment of legislation to ensure that,
+*The Contracting including the*
+
+Parties agree to take all the necessary steps, enactment of legislation to ensure that,
 
 (a) all authorities of a Contracting Party act in aid of the Court and that any judgment decree, order or sentence of the Court given in exercise of its jurisdiction shall be enforced by all courts and authorities in any
 
@@ -1126,9 +1234,15 @@ Every Judge of the Court shall be paid a monthly allowance for housing to be det
 
 ## PART I
 
-PROTOCOL TO THE AGREEMENT ESTABLISHING THE CARIBBEAN COURT OF JUSTICE RELATING TO THE TENURE OF JUDGES, RULES OF COURT, FINANCIAL ARRANGEMENTS AND WITHDRAWAL FROM AGREEMENT AS WELL AS THE RELATIONSHIP BETWEEN PROVISIONS ON THE ORIGINAL JURISDICTION OF THE CARIBBEAN COURT OF JUSTICE AND THE CONSTITUTIONS OF STATES PARTIES
+*THE*
 
-The Contracting Parties to the Agreement Establishing the Caribbean Court of Justice (hereinafter called “the Agreement”):
+PROTOCOL TO THE AGREEMENT ESTABLISHING CARIBBEAN COURT OF JUSTICE RELATING TO THE TENURE OF JUDGES, RULES OF COURT, FINANCIAL ARRANGEMENTS AND WITHDRAWAL FROM AGREEMENT AS WELL AS THE RELATIONSHIP BETWEEN PROVISIONS ON THE ORIGINAL JURISDICTION OF THE CARIBBEAN COURT OF JUSTICE AND THE CONSTITUTIONS OF STATES PARTIES
+
+*The*
+
+Contracting Parties to the Agreement Establishing the Caribbean
+
+Court of Justice (hereinafter called “the Agreement”):
 
 Recalling Article XXXII of the Agreement:
 

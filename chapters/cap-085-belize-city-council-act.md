@@ -78,6 +78,8 @@ Constitution, etc., of the Council, Term of Council, Members, their Qualificatio
 
 **12.** Power to fix allowances.
 
+[CAP.
+
 ## PART III
 
 Appointment of Officers and Servants, Conditions of Service and Elections
@@ -135,6 +137,8 @@ Council’s power to coordinate activities of utility agencies.
 **29.** General powers and duties of the Council.
 
 Additional general duties of the Council.
+
+### THE SUBSTANTIVE LAWS OF BELIZE
 
 **30A.** Allocation of portfolio and collective responsibility.
 
@@ -322,15 +326,13 @@ imprisonment (by whatever name called) for a term exceeding twelve months and ha
 
 (i) has not ordinarily resided in Belize City for at least one year immediately preceding the date of the election, or is not domiciled in Belize or ordinarily resident therein at the date of the election; or
 
-(j) is or becomes a member of the National Assembly or of any commission established
-
 *CAP. 4.*
 
-by or under the Belize Constitution.
+(j) is or becomes a member of the National Assembly or of any commission established by or under the Belize Constitution.
 
-(2) For the purposes of this section, a person shall not be disqualified from being a member by reason of his being
+*(2) For the disqualified interested in–*
 
-*interested in–*
+purposes of this section, a person shall not be from being a member by reason of his being
 
 (a) any contract in respect of which the Minister shall remove the disqualification if he is of the opinion that such removal will be of public benefit;
 
@@ -338,13 +340,21 @@ by or under the Belize Constitution.
 
 (c) any contract with the Council as a shareholder in any joint stock company, but he shall not vote at any meeting of the Council on any question in which such company is interested.
 
-(3) The office of Mayor of the Council and the office of a member are declared not to be offices of emolument or places of profit in the gift or disposal of the Council although remuneration may be paid to such Mayor and member out of moneys provided by the Council.
+*(3) The member are of profit in remuneration moneys*
 
-(4) A person shall not be considered as holding an office of emolument or place of profit in the gift or disposal of the Council or as being in the employment of the Council or as holding a public office by reason only of the fact that he is in receipt of a pension or other like allowance in respect of service under the Council or the public service or that he holds a general retainer as solicitor of the Council.
+office of Mayor of the Council and the office of a declared not to be offices of emolument or places the gift or disposal of the Council although may be paid to such Mayor and member out of provided by the Council.
 
-*Penalty for person incapable of election, or of person whose seat has become vacant, who sits or votes.*
+*holding a receipt of a under the retainer as*
 
-**8.** Any person who–
+(4) A person shall not be considered as holding an office of emolument or place of profit in the gift or disposal of the Council or as being in the employment of the Council or as public office by reason only of the fact that he is in pension or other like allowance in respect of service Council or the public service or that he holds a general solicitor of the Council.
+
+*Penalty for person*
+
+*Any*
+
+*incapable of election, or of person whose seat has become vacant, who sits or votes.*
+
+**8.** person who–
 
 (a) having been returned as an elected member of the Council without having been at the time of his election qualified to be an elected member, or having since his election become disqualified in pursuance of section 7, from sitting and voting, sits or votes on the Council; or
 
@@ -352,7 +362,9 @@ by or under the Belize Constitution.
 
 *Vacation of seat.*
 
-If any elected member of the Council–
+*If any*
+
+elected member of the Council–
 
 (a) dies;
 
@@ -368,11 +380,9 @@ by writing under his band addressed to the Mayor, or in the case of the Mayor, t
 
 (g) accepts any office of emolument in the Public Service or under a Town Council in Belize;
 
-(h) becomes a member of the National Assembly or of any Commission established under the
-
 *CAP. 4.*
 
-Belize Constitution;
+(h) becomes a member of the National Assembly or of any Commission established under the Belize Constitution;
 
 (i) is absent without leave or other reasonable cause from four consecutive meetings of the Council; or
 
@@ -380,7 +390,9 @@ Belize Constitution;
 
 (j) becomes subject to any of the disqualifications specified in sections 6 or 7 of this Act,
 
-his seat on the Council shall thereupon become vacant.
+*his seat on*
+
+the Council shall thereupon become vacant.
 
 *Election of Mayor.*
 
@@ -406,11 +418,9 @@ his seat on the Council shall thereupon become vacant.
 
 **12.** (1) Subject to the approval of the Minister of Finance, the Council may by resolution fix an allowance to be paid to members of the Council from monies constituting the Belize City Fund.
 
-(2) No payment shall be made to any member (whether in
-
 *19 of 2008.*
 
-the form of a salary, allowance or otherwise) unless it has been previously approved by the Minister of Finance, and every payment made in contravention of this section shall be wholly void and shall be recoverable from the member receiving such payment.
+(2) No payment shall be made to any member (whether in the form of a salary, allowance or otherwise) unless it has been previously approved by the Minister of Finance, and every payment made in contravention of this section shall be wholly void and shall be recoverable from the member receiving such payment.
 
 *19 of 2008.*
 
@@ -430,11 +440,9 @@ Appointment of Officers and Servants, Conditions of Service and Elections
 
 (4) The Council may pay its officers and servants such salaries, allowances, pensions, gratuities and other benefits out of the Belize City Fund as it considers necessary.
 
-Every officer or servant employed for the purposes of
-
 *Penalty on officers for taking gratuity.*
 
-this Act who exacts or accepts on account of anything done relating to his duties any fee or reward whatever other than the salary or allowance ordered or allowed by the Council commits an offence and is liable on summary conviction to a fine of not less than two hundred dollars nor more than five hundred dollars.
+Every officer or servant employed for the purposes of this Act who exacts or accepts on account of anything done relating to his duties any fee or reward whatever other than the salary or allowance ordered or allowed by the Council commits an offence and is liable on summary conviction to a fine of not less than two hundred dollars nor more than five hundred dollars.
 
 *Qualifications for voting in Council’s elections. CAP. 9.*
 
@@ -452,9 +460,11 @@ this Act who exacts or accepts on account of anything done relating to his dutie
 
 (3) Where a person is permitted to vote under sub-section (2), the presiding officer shall so state to the candidates or agents then present in the polling station, and also make a record of his reasons for so doing and shall maintain a list of the names and registration numbers of the electors voting without producing their identification cards, showing the number of the ballot paper issued to each of them.
 
-*Elections Regulations.*
+*16.–(1) The Elections*
 
-**16.** (1) The Minister may make regulations–
+Minister may make regulations–
+
+*Regulations.*
 
 (a) to provide for the registration of electors;
 
@@ -482,21 +492,27 @@ this Act who exacts or accepts on account of anything done relating to his dutie
 
 (m) to prescribe for all such other matters as may be necessary for the carrying out of the provisions of this Act.
 
-(2) Contraventions of any regulations made under subsection (1) may be declared by the Minister to be illegal practices, and provisions may be made in the said regulations for the punishment on summary conviction, of persons committing or aiding, abetting, inciting, taking part or attempting to take part in the commission of such illegal practices, by–
+*section (1) practices, and for the*
+
+*attempting to practices, by–*
+
+(2) Contraventions of any regulations made under sub-may be declared by the Minister to be illegal provisions may be made in the said regulations punishment on summary conviction, of persons committing or aiding, abetting, inciting, taking part or take part in the commission of such illegal
 
 (a) a fine not exceeding two thousand dollars; and
 
-(b) disqualification from voting at any election
-
 *CAP. 87. CAP. 9.*
 
-under this Act, the Town Councils Act, the Representation of the People Act, and from being elected or appointed, as the case may be, as a member of a City Council, Town Council, Village Council or of the National Assembly, for a period of three years from the date of his conviction.
+(b) disqualification from voting at any election under this Act, the Town Councils Act, the Representation of the People Act, and from being elected or appointed, as the case may be, as a member of a City Council, Town Council, Village Council or of the National Assembly, for a period of three years from the date of his conviction.
 
 (3) Regulations made by the Minister under this section shall be subject to negative resolution of the House of Representatives.
 
-*Election Expenses Regulations.*
+*Election Expenses*
 
-**17.** (1) The Minister may make regulations–
+*17.–(1) The*
+
+*Regulations.*
+
+Minister may make regulations–
 
 (a) with respect to the incurring of expense and the making of payments by or on behalf of a candidate, whether before, during or after an election, on account of or in respect of, the conduct or management of such election;
 
@@ -508,41 +524,57 @@ requiring the appointment of an election agent through or by whom all expenses o
 
 (e) requiring a return of expenses and prescribing the form in which the same shall be made and verified.
 
-(2) Contraventions of regulations made under sub-section (1), may be declared by the Minister to be illegal practices, and provision may be made in the said regulations for the punishment on summary conviction, of persons committing or aiding, abetting, inciting, attempting to take part or taking part in, the commission of such illegal practices, by–
+*(1), may be provision may punishment on aiding, abetting, in, the*
+
+(2) Contraventions of regulations made under sub-section declared by the Minister to be illegal practices, and be made in the said regulations for the summary conviction, of persons committing or inciting, attempting to take part or taking part commission of such illegal practices, by–
 
 (a) a fine not exceeding two thousand dollars; and
 
-(b) disqualification from voting at any election
-
 *CAP. 87. CAP. 9*
 
-under this Act, the Town Councils Act, the Representation of the People Act, and from being elected or appointed, as the case may be, as a member of a City Council, Town Council, Village Council or of the National Assembly, for a period of three years from the date of his conviction.
+(b) disqualification from voting at any election under this Act, the Town Councils Act, the Representation of the People Act, and from being elected or appointed, as the case may be, as a member of a City Council, Town Council, Village Council or of the National Assembly, for a period of three years from the date of his conviction.
 
-(3) Regulations made by the Minister pursuant to this section shall be subject to negative resolution of the House of Representatives.
+*section*
 
-(4) An election petition may be presented in respect of any illegal practice declared by such regulations to be the grounds for the presentation of any such petition.
+(3) Regulations made by the Minister pursuant to this shall be subject to negative resolution of the House of Representatives.
 
-*Returning Officer and Election Clerks. CAP. 4.*
+*(4) An illegal for the*
 
-**18.** (1) (a) For the purposes of holding an election, the Elections and Boundaries Commission established under section 88 of the Belize Constitution shall, from time to time and as occasion demands, appoint a person to be the Returning Officer for Belize City, and may appoint one or more persons to assist the Returning Officer in the performance of his duties.
+election petition may be presented in respect of any practice declared by such regulations to be the grounds presentation of any such petition.
+
+*Returning Officer*
+
+*18.–(1) (a)*
+
+*and Election Clerks. CAP. 4.*
+
+For the purposes of holding an election, the Elections and Boundaries Commission established under section 88 of the Belize Constitution shall, from time to time and as occasion demands, appoint a person to be the Returning Officer for Belize City, and may appoint one or more persons to assist the Returning Officer in the performance of his duties.
 
 (b) A person appointed to assist the Returning Officer shall have all the powers and may perform all the duties of the officer he is appointed to assist, and any reference in this Act or regulations made thereunder to a Returning Officer shall, unless the context otherwise requires, be deemed to include a reference to every such person.
 
-(2) (a) The Chief Elections Officer shall, with the approval of the Commission, appoint an Election Clerk and one or more Assistant Clerks for Belize City.
+*(2) (a)*
+
+The Chief Elections Officer shall, with the approval of the Commission, appoint an Election Clerk and one or more Assistant Clerks for Belize City.
 
 (b) If at any time between the dissolution of a Council and the declaration of the result of the election following thereon the Returning Officer dies or becomes incapable of performing his duties as such, the Election Clerk shall forthwith report that fact to the Chief Elections Officer and shall discharge all the duties and exercise all the powers of the Returning Officer until some other Returning Officer is appointed or the Returning Officer ceases to be incapable of performing his duties, as the case may be.
 
-(3) An appointment made under sub-sections (1) and (2) may be revoked at any time.
+*(3) An*
+
+appointment made under sub-sections (1) and (2) may be revoked at any time.
 
 ## PART IV
 
 Meetings, Finances, etc., of the Council
 
-*Council’s meetings regulations.*
+*Council’s meetings 19.–(1) The regulations.*
 
-**19.** (1) The Council may from time to time make regulations to regulate meetings and proceedings, and the meetings and proceedings of any Committees established by the Council.
+*regulate*
 
-(2) Without prejudice to the generality of sub-section (1) such regulations may provide for all or any of the following matters, namely–
+Council may from time to time make regulations to meetings and proceedings, and the meetings and proceedings of any Committees established by the Council.
+
+*matters,*
+
+(2) Without prejudice to the generality of sub-section (1) such regulations may provide for all or any of the following namely–
 
 (a) the regulation of the proceedings of the Council and of Committees and the conduct of meetings thereof respectively;
 
@@ -576,13 +608,27 @@ officers and servants;
 
 (3) Regulations made by the Council under this section shall be subject to negative resolution by the House of Representatives.
 
-*Vacancy not to invalidate meetings.*
+*Vacancy not to*
 
-**20.** The proceedings of the Council or of any Committee thereof shall not be invalidated by any vacancy among its members, or the want of qualification of a member.
+*The*
 
-*Belize City Fund.*
+*invalidate*
 
-**21.** There shall be and is hereby established for the purposes of the Council a fund to be known as “the Belize City Fund” into which shall be deposited or credited–
+*thereof shall*
+
+*meetings.*
+
+**20.** proceedings of the Council or of any Committee not be invalidated by any vacancy among its members, or the want of qualification of a member.
+
+*Belize City*
+
+*There*
+
+*Fund.*
+
+*which shall be*
+
+**21.** shall be and is hereby established for the purposes of the Council a fund to be known as “the Belize City Fund” into deposited or credited–
 
 (a) all monies voted from time to time by the National Assembly for the use by the Council in the administration of Belize City;
 
@@ -590,7 +636,9 @@ officers and servants;
 
 (c) all fines and penalties recovered summarily on the information of the Council or of any officer, servant or member thereof for noncompliance with the provisions of this or any other Act or rules, regulations and by-laws of the Council for the time being in force.
 
-(2) The Belize City Fund shall be kept at such banks or other financial institutions as the Council may from time to time determine.
+*(2) The financial determine.*
+
+Belize City Fund shall be kept at such banks or other institutions as the Council may from time to time
 
 *Funds other than the Belize City Fund. 14 of 2012.*
 
@@ -600,15 +648,15 @@ officers and servants;
 
 (b) may be credited with the monies from the Belize City Fund.
 
-*Raising of loans.*
+*22.–(1) The Raising of loans. Finance,*
 
-**22.** (1) The Council may, with the approval of the Minister of Finance, borrow sums required by it for meeting any of its obligations or discharging any of its functions.
+Council may, with the approval of the Minister of borrow sums required by it for meeting any of its obligations or discharging any of its functions.
 
-(2) Subject to sub-section (1), it shall be lawful for the
+*Council to*
 
 *CAP. 250.*
 
-Council to establish companies under the Companies Act to raise funds for infrastructural development projects.
+(2) Subject to sub-section (1), it shall be lawful for the establish companies under the Companies Act to raise funds for infrastructural development projects.
 
 (3) The Council may, either directly or through companies established by it, float bonds or issue shares or debentures for the purpose of exercising its borrowing powers under this Act.
 
@@ -640,13 +688,23 @@ offence and is liable on summary conviction to a fine not exceeding one thousand
 
 ## PART V
 
-Duties and Powers of Every Council on Streets and Adjoining Lands
+*Duties and*
 
-*Powers as to streets, etc.*
+Powers of Every Council on Streets and Adjoining Lands
 
-**24.** (1) All streets, in which term is included public drains and bridges within the boundaries of Belize City, shall be under the control, care and management of the Council.
+*Powers as to streets,*
 
-(2) The Council is empowered in respect of any street to do any of the following things–
+*24.–(1) All*
+
+*etc.*
+
+*control, care*
+
+streets, in which term is included public drains and bridges within the boundaries of Belize City, shall be under the and management of the Council.
+
+*(2) The any of the*
+
+Council is empowered in respect of any street to do following things–
 
 (a) to lay out, construct, repair, alter or widen all streets with such material and in such manner as the Council thinks fit;
 
@@ -690,13 +748,17 @@ public roads and streets within Belize City as are conferred upon it by or under
 
 (5) There shall be established within the Belize City administration a Utility Co-ordination Unit with power to ensure effective co-ordination between all utility agencies and to enforce by-laws made pursuant to sub-section (4).
 
-(6) In this section, the expression “utility agencies” means all corporations, companies and entities which provide electricity, water and sewerage, telephone, tele-fax, gas and other utility services.
+*(6) In this all electricity, other utility*
 
-(7) The provisions of this section shall have effect notwithstanding the provisions of any other law to the contrary.
+section, the expression “utility agencies” means corporations, companies and entities which provide water and sewerage, telephone, tele-fax, gas and services.
 
-*Penalties for damages to streets, etc.*
+*(7) The*
 
-**26.** (1) Any person who, not being authorised by the Council or by any law–
+provisions of this section shall have effect notwithstanding the provisions of any other law to the contrary.
+
+*Penalties for 26.–(1) Any damages to streets, by any law– etc.*
+
+person who, not being authorised by the Council or
 
 (a) encroaches on a street by making or erecting any building, fence, ditch, or other obstacle or work of any kind upon, over or under it or planting any tree or shrub thereon;
 
@@ -728,11 +790,13 @@ commits an offence and is liable on summary conviction to a fine not exceeding f
 
 (2) An owner who makes default in complying with the requirements of any notice served upon him under this section
 
-is liable to a fine of fifty dollars for every day that the default continues after written notice thereof from the Council.
+*is liable to a continues after*
 
-*General powers and duties of the council.*
+fine of fifty dollars for every day that the default written notice thereof from the Council.
 
-**29.** The Council is entrusted with the general rule and good government of Belize City and has power, subject to the provisions of this Part, to do all things necessary to carry out such trust, and in particular has power and authority to do or cause to be done all or any of the matters following–
+*General powers and The duties of the council. government of provisions of such trust, and*
+
+**29.** Council is entrusted with the general rule and good Belize City and has power, subject to the this Part, to do all things necessary to carry out in particular has power and authority to do or cause to be done all or any of the matters following–
 
 (a) to establish, regulate, control, maintain and manage markets, slaughter-houses, bath-houses and wash-houses;
 
@@ -752,9 +816,19 @@ is liable to a fine of fifty dollars for every day that the default continues af
 
 (i) to do all such other things or matters for the purpose of increasing the convenience and amenity of Belize City.
 
-*Additional general duties of the Council.*
+*Additional general*
 
-**30.** Without prejudice to any other powers conferred upon, or duties imposed on, the Council by this or any other Act or regulations made thereunder the Council shall have the obligation to perform the following duties in Belize City in an efficient and timely manner–
+*Without*
+
+*duties of the*
+
+*or duties*
+
+*Council.*
+
+*regulations obligation to efficient and*
+
+**30.** prejudice to any other powers conferred upon, imposed on, the Council by this or any other Act or made thereunder the Council shall have the perform the following duties in Belize City in an timely manner–
 
 (a) to maintain all public cemeteries in Belize City in a sanitary manner and to keep such cemeteries in a general state of good repair;
 
@@ -820,11 +894,9 @@ Pensions etc.
 
 *Pensions, to whom and at what rate to be granted.*
 
-Subject to this Part, an officer may be granted on his retirement a pension at three-fourths of the rate for which provision is made in the Pensions Regulations made under the
-
 *CAP. 30.*
 
-Pensions Act.
+Subject to this Part, an officer may be granted on his retirement a pension at three-fourths of the rate for which provision is made in the Pensions Regulations made under the Pensions Act.
 
 *Period of service of qualifying for pension.*
 
@@ -888,15 +960,23 @@ service, a gratuity not exceeding five times the annual amount of the pension wh
 
 (2) The periods during which an officer has been absent on leave on half-pay shall, for the purposes of this Part, be counted at the rate of one day for every two days of such period.
 
-(3) Any period during which an officer has been absent on leave, other than those specified above, shall be deducted from the officer’s total service in order to arrive at his period of pensionable service.
+*(3) Any leave, other the officer’s pensionable*
 
-*Emoluments on which to base computation of pensions, etc.*
+period during which an officer has been absent on than those specified above, shall be deducted from total service in order to arrive at his period of service.
 
-For the purpose of computing the amount of an officer’s
+*Emoluments on*
+
+*For the*
+
+*which to base*
+
+purpose of computing the amount of an officer’s
 
 47.
 
-pension–
+*pension–*
+
+*computation of pensions, etc.*
 
 (a) in the case of an officer who has held one office for a period of three years immediately preceding the date of his retirement, the full pensionable emoluments payable to him at that date in respect of that office shall be taken;
 
@@ -904,11 +984,17 @@ pension–
 
 (c) in other cases the average of the full pensionable emoluments payable in respect of each of the offices substantively held by the officer during his tenure thereof within such period of three years shall be taken,
 
-provided that if such average is less than the full pensionable emoluments which were payable to him at the date of the first transfer within such period of three years, the Council may grant him a pension calculated upon the full pensionable emoluments payable to him at that date.
+*emoluments transfer within him a pension payable to him*
+
+provided that if such average is less than the full pensionable which were payable to him at the date of the first such period of three years, the Council may grant calculated upon the full pensionable emoluments at that date.
 
 *Pensions Regulations.*
 
-**48.** (1) The Council may make regulations to govern the administration of pensions and gratuities payable to its officers and servants under this Part.
+*48.–(1) The*
+
+*and servants*
+
+Council may make regulations to govern the administration of pensions and gratuities payable to its officers under this Part.
 
 (2) Regulations made by the Council under sub-section (1) shall be subject to negative resolution.
 
@@ -916,11 +1002,15 @@ provided that if such average is less than the full pensionable emoluments which
 
 Miscellaneous
 
-*General powers of Council to make by-laws.*
+*General powers of 49.–(1) The Council to make by-matters laws.*
 
-**49.** (1) The Council may from time to time make by-laws on all matters connected with the rule and good order of Belize City and for the proper carrying out of the objects and purposes of this Act.
+*and for the this Act.*
 
-(2) Without prejudice to the generality of sub-section (1), such by-laws may provide for all or any of the following, namely–
+Council may from time to time make by-laws on all connected with the rule and good order of Belize City proper carrying out of the objects and purposes of
+
+(2) Without prejudice to the generality of sub-section (1), such by-laws may provide for all or any of the following,
+
+*namely–*
 
 (a) for the establishment, control and use of public lavatories and latrines;
 
@@ -942,19 +1032,17 @@ of any houses, lots, places and streets in the City;
 
 (i) generally for all matters connected with the rule and good government of Belize City and the proper carrying out of the objects and purposes of this Act.
 
-(3) All by-laws made by the Council under this section shall be laid before the House of Representatives through the Minister after the making thereof and shall be subject to negative resolution by that House.
+*(3) All be laid before after the resolution by*
 
-**50.** (1) Where any by-laws made by the Council prescribe any
+by-laws made by the Council under this section shall the House of Representatives through the Minister making thereof and shall be subject to negative that House.
 
 *By-laws prescribing fees.*
 
-fees, fines, penalties and forfeitures, such by-laws shall be subject to affirmative resolution by the House of Representatives.
-
-(2) All licences, fees, fines, penalties and forfeitures imposed by this Act or any by-laws made hereunder shall be
+**50.** (1) Where any by-laws made by the Council prescribe any fees, fines, penalties and forfeitures, such by-laws shall be subject to affirmative resolution by the House of Representatives.
 
 *CAP. 98. CAP. 99.*
 
-recoverable under the Summary Jurisdiction (Offences) Act, and Summary Jurisdiction (Procedure) Act.
+(2) All licences, fees, fines, penalties and forfeitures imposed by this Act or any by-laws made hereunder shall be recoverable under the Summary Jurisdiction (Offences) Act, and Summary Jurisdiction (Procedure) Act.
 
 *Admissibility in evidence of council’s signed documents.*
 
@@ -984,11 +1072,9 @@ of any order to prosecute or of the particular or general appointment of any off
 
 *Acquisition of land.*
 
-**54.** Where any land is required for public purposes by the Council such land shall for all purposes be taken to be land required by the Minister for public purposes, and may be acquired in the manner prescribed by the Land Acquisition
-
 *CAP. 184.*
 
-(Public Purposes) Act.
+**54.** Where any land is required for public purposes by the Council such land shall for all purposes be taken to be land required by the Minister for public purposes, and may be acquired in the manner prescribed by the Land Acquisition (Public Purposes) Act.
 
 *Execution of work in case of default.*
 
@@ -1000,11 +1086,9 @@ of any order to prosecute or of the particular or general appointment of any off
 
 the Council shall have the like rights and remedies as if the payment of such expenses, interest and costs had been secured by a legal mortgage of a fee simple in favour of the Council.
 
-(4) The Council shall not obtain any charge under this section unless a memorandum giving particulars of the charge is executed by the Council and recorded at the General Registry within two months from completion of the work executed or carried out by the Council or within such further time as the
-
 *CAP. 327.*
 
-Chief Justice may allow under the General Registry Act.
+(4) The Council shall not obtain any charge under this section unless a memorandum giving particulars of the charge is executed by the Council and recorded at the General Registry within two months from completion of the work executed or carried out by the Council or within such further time as the Chief Justice may allow under the General Registry Act.
 
 (5) The Council may make rules prescribing the form of the memorandum referred to in sub-section (4).
 
@@ -1020,11 +1104,9 @@ Chief Justice may allow under the General Registry Act.
 
 **57.** Every person who obstructs or impedes or insults or molests or attempts to obstruct or impede or insult or molest any member of the Council, or the City Administrator or other officer or servant of the Council lawfully authorised as such by this Act in the discharge of his duties or in his official capacity or in the exercise of his powers either under this or any other Act or any regulation or by-laws commits an offence and is liable on summary conviction to a fine not exceeding two thousand dollars.
 
-All expenses incurred or payable by the Council pursuant
-
 *Expenditure of the Council.*
 
-to this Act or any regulations made thereunder shall be paid out of the Belize City Fund and all disbursements therefrom shall be in accordance with accounting regulations which may be made by the Council from time to time.
+All expenses incurred or payable by the Council pursuant to this Act or any regulations made thereunder shall be paid out of the Belize City Fund and all disbursements therefrom shall be in accordance with accounting regulations which may be made by the Council from time to time.
 
 *Additional powers and functions of the Council.*
 
@@ -1084,12 +1166,6 @@ the power of the Council to recover costs, and the manner and method of the reco
 
 **62.** (1) The Belize City Council Act is hereby repealed.
 
-*CAP. 66.*
+*CAP. 66. Sub. Leg. Vol. II. 1991 R.E.*
 
-*Sub.*
-
-(2) All regulations, by-laws, rules, orders and other
-
-*Leg. Vol. II. 1991 R.E.*
-
-subsidiary legislation made under the Belize City Council Act shall continue in force after the commencement of this Act to such an extent as they are not inconsistent with the provisions of this Act, until repealed by regulations, by-laws, rules, orders and other subsidiary legislation made hereunder.
+(2) All regulations, by-laws, rules, orders and other subsidiary legislation made under the Belize City Council Act shall continue in force after the commencement of this Act to such an extent as they are not inconsistent with the provisions of this Act, until repealed by regulations, by-laws, rules, orders and other subsidiary legislation made hereunder.

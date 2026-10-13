@@ -94,6 +94,10 @@ for finance.
 
 *CAP. 80.*
 
+*THE*
+
+### SUBSTANTIVE LAWS OF BELIZE
+
 (2) The expression “debentures” appearing in the said Public Loans Act shall be deemed to include Defence Bonds referred to in subsection (1) of this section.
 
 *Loans, etc., to be charged on the Consolidated Revenue Fund.*
@@ -111,5 +115,9 @@ for finance.
 (4) The contribution shall be in respect of the total nominal amount of all Defence Bonds issued, including any which may have been redeemed.
 
 (5) Defence Bonds shall not be deemed to be outstanding for the purposes of this Act by reason only that one or more of the
+
+*EDITION 2020*
+
+### REVISED
 
 Defence Bonds have not been presented for payment on the day appointed for payment and have, in consequence, not been paid.

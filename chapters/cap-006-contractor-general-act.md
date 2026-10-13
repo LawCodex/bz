@@ -134,6 +134,10 @@ Miscellaneous
 
 ## SCHEDULE II
 
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
+
 ### CHAPTER 6
 
 ### CONTRACTOR-GENERAL
@@ -170,7 +174,9 @@ Preliminary
 
 “prescribed licence” means any licence, certificate, quota, permit or warrant issued or granted pursuant to any enactment by a public body or an officer thereof;
 
-“principal officer” means–
+*“principal*
+
+officer” means–
 
 (a) in relation to a Ministry, the Chief Executive Officer of that Ministry;
 
@@ -190,15 +196,21 @@ Preliminary
 
 (d) any company registered under the Companies Act, being a company in which the Government or an agency of Government holds not less than fifty- one per centum of the ordinary shares;
 
-“public contract” means a contract awarded by a public body and includes any licence, permit or other concession or authority issued by a public body or agreement entered into by a public body for the carrying out of any building or other works or for the supply of any goods or services;
+*“public*
+
+*issued by a body for the the supply of*
+
+contract” means a contract awarded by a public body and includes any licence, permit or other concession or authority public body or agreement entered into by a public carrying out of any building or other works or for any goods or services;
 
 *CAP. 4.*
 
 “public officer” or “public service” has the meaning assigned to it under section 131 of the Belize Constitution;
 
-*CAP. 4.*
+*“Public CAP. 4.*
 
-“Public Services Commission” means the Public Services Commission constituted under section 105 of the Belize Constitution.
+*Commission Constitution.*
+
+Services Commission” means the Public Services constituted under section 105 of the Belize
 
 (2) The references in this Act to a Ministry, department or agency of Government include a reference to the Minister, Minister of State, members or officers of that Ministry, department or agency.
 
@@ -312,11 +324,9 @@ conditions as may be imposed, approve the secondment to the staff of the Contrac
 
 *Oath of secrecy.*
 
-**13.** Every person appointed to the staff of the Contractor-General shall, before he performs any function assigned to him under or by virtue of this Act, take and subscribe an oath to be administered by the Contractor- General in the form set out in
-
 *Schedule II.*
 
-Schedule II to this Act.
+**13.** Every person appointed to the staff of the Contractor-General shall, before he performs any function assigned to him under or by virtue of this Act, take and subscribe an oath to be administered by the Contractor- General in the form set out in Schedule II to this Act.
 
 ## PART III
 
@@ -342,7 +352,9 @@ Powers and functions of Contractor-General
 
 (d) to monitor the grant, issue, suspension or revocation of any prescribed licence, with a view to ensuring that the circumstances of such grant, issue, suspension or revocation do not involve impropriety or irregularity and, where appropriate, to examine whether such licence is used in accordance with the terms and conditions thereof.
 
-(2) For the purpose of the discharge of his functions under this Act, the Contractor-General shall be entitled–
+*(2) For the this Act, the*
+
+purpose of the discharge of his functions under Contractor-General shall be entitled–
 
 (a) to be advised of the award and, where applicable, the variation of any public contract by the public body responsible for such contract;
 
@@ -358,9 +370,17 @@ Powers and functions of Contractor-General
 
 (g) without prejudice to the provisions of sections 18 and 19, to retain any such document, record or other property referred to in paragraph (f) above.
 
-(3) For the purpose of sub-section (2), the Contractor-General shall have power to require any public body to furnish in such manner and at such times as may be specified by the Contractor-General, information with regard to the award of any contract and such other information in relation thereto as the Contractor-General considers desirable.
+*General shall*
 
-(4) For the purposes of paragraph (d) and (e) of sub-section (2), the Contractor-General shall have power to require any public officer or any other person to furnish in such manner and at such times as may be specified by the Contractor-General, information with regard to the grant, issue, suspension, or revocation of any prescribed licence and such other information in relation thereto as the Contractor-General considers desirable.
+*contract and*
+
+(3) For the purpose of sub-section (2), the Contractor-have power to require any public body to furnish in such manner and at such times as may be specified by the Contractor-General, information with regard to the award of any such other information in relation thereto as the Contractor-General considers desirable.
+
+*(2), the*
+
+*information revocation of in relation*
+
+(4) For the purposes of paragraph (d) and (e) of sub-section Contractor-General shall have power to require any public officer or any other person to furnish in such manner and at such times as may be specified by the Contractor-General, with regard to the grant, issue, suspension, or any prescribed licence and such other information thereto as the Contractor-General considers desirable.
 
 *Scope of investigation.*
 
@@ -448,11 +468,9 @@ such disclosure is unavoidable during the course of the investigation.
 
 **22.** (1) Notwithstanding the investigative powers conferred upon the Ombudsman under the Ombudsman Act, the Contractor-General shall have power to investigate any allegation of fraud, corruption, mismanagement, waste, abuse or other impropriety or irregularity in the award, execution or termination of any contract or in the grant, issue, suspension or revocation of any prescribed licence.
 
-(2) In carrying out his investigations, duties and responsibilities under this Act, the Contractor-General shall have particular regard to the activities and functions of the
-
 *CAP. 5.*
 
-Ombudsman with respect to investigations under the Ombudsman Act, with a view to avoiding duplication of functions and ensuring effective coordination and cooperation between his office and that of the Ombudsman.
+(2) In carrying out his investigations, duties and responsibilities under this Act, the Contractor-General shall have particular regard to the activities and functions of the Ombudsman with respect to investigations under the Ombudsman Act, with a view to avoiding duplication of functions and ensuring effective coordination and cooperation between his office and that of the Ombudsman.
 
 *CAP.5.*
 
@@ -488,19 +506,31 @@ section 30 or under the appropriate provisions of the Criminal Code, (relating t
 
 (b) which the Contractor-General thinks necessary to make in the discharge of his functions or for the purpose of executing any of the provisions of sections 20, 21 and 29, shall be deemed inconsistent with any duty imposed by this sub-section.
 
-(2) Neither the Contractor-General nor any such person aforesaid shall be called upon to give evidence in respect of, or produce, any document, information or thing, aforesaid in any proceedings other than proceedings mentioned in sub-section (1).
+*produce, any proceedings (1).*
 
-(3) Nothing in this section shall prevent disclosure by any person of information furnished to him pursuant to section 20.
+(2) Neither the Contractor-General nor any such person aforesaid shall be called upon to give evidence in respect of, or document, information or thing, aforesaid in any other than proceedings mentioned in sub-section
 
-*Performance of functions of Contractor-General by members of his staff.*
+*person of*
 
-**26.** (1) Without prejudice to the provisions of section 9 (2), the functions of the Contractor-General, except those under sections 20, 21, 28 (2) and 29, may be performed by any member of his staff authorized for that purpose by the Contractor-General.
+(3) Nothing in this section shall prevent disclosure by any information furnished to him pursuant to section 20.
 
-(2) Nothing in sub-section (1), shall be construed as affecting the responsibility of the Contractor-General for functions performed on his behalf pursuant to sub-section (1).
+*Performance of functions of Contractor-General by*
+
+*20, 21, 28 (2)*
+
+*members of his staff.*
+
+**26.** (1) Without prejudice to the provisions of section 9 (2), the functions of the Contractor-General, except those under sections and 29, may be performed by any member of his staff authorized for that purpose by the Contractor-General.
+
+*affecting the functions*
+
+(2) Nothing in sub-section (1), shall be construed as responsibility of the Contractor-General for performed on his behalf pursuant to sub-section (1).
 
 *Funding.*
 
-**27.** The funds of the office of Contractor-General shall consist of–
+*The consist of–*
+
+**27.** funds of the office of Contractor-General shall
 
 (a) such sums as may from time to time be appropriated by the National Assembly for the purposes of the office of Contractor-General; and
 
@@ -524,11 +554,15 @@ section 30 or under the appropriate provisions of the Criminal Code, (relating t
 
 (3) Reports under this section shall be submitted to the Speaker of the House of Representatives and the President of the Senate who shall, as soon as possible, have them laid on the table of the respective Houses.
 
-(4) The Contractor-General may, in the public interest, from time to time publish in such manner as he thinks fit, reports relating to such matters as are mentioned in sub-section (2) and any case which is the subject of a special report under section 21, but no such report shall be published until after it has been laid pursuant to sub-section (3).
+*(4) The time to time relating to such any case which 21, but no such laid pursuant to*
+
+Contractor-General may, in the public interest, from publish in such manner as he thinks fit, reports matters as are mentioned in sub-section (2) and is the subject of a special report under section report shall be published until after it has been sub-section (3).
 
 *Offences.*
 
-**30.** Any person who–
+*Any*
+
+**30.** person who–
 
 (a) wilfully makes any false statement to mislead, or misleads or attempts to mislead the Contractor- General or any other person in the execution of his functions under this Act; or
 
@@ -586,9 +620,9 @@ Pensionable Emoluments of Contractor-General
 
 “the Act” means the Contractor-General Act.
 
-*Entitlement of pensions and gratuities in respect of service as Contractor-General.*
+*Entitlement of pensions and retires in gratuities in respect of service as Contractor-General.*
 
-**2.** (1) Where a person holding the office of Contractor-General retires in pensionable circumstances, he shall be paid pension and gratuity in accordance with this Schedule.
+**2.** (1) Where a person holding the office of Contractor-General pensionable circumstances, he shall be paid pension and gratuity in accordance with this Schedule.
 
 (2) For the purposes of this paragraph and paragraph 4, a person retires in pensionable circumstances if he retires–
 
@@ -598,7 +632,9 @@ Pensionable Emoluments of Contractor-General
 
 (c) on his attaining the age at which he is required by or under the provisions of section 5 to vacate office.
 
-(3) For the purposes of this Act, a person retires from the office of Contractor-General on the ground of ill-health where–
+*office of*
+
+(3) For the purposes of this Act, a person retires from the Contractor-General on the ground of ill-health where–
 
 (a) he retires on medical evidence, to the satisfaction of the Governor-General, that he is incapable by reason of any infirmity of mind or body of discharging the duties of his office,
 
@@ -606,7 +642,13 @@ and that such infirmity is likely to be permanent; or
 
 (b) he is removed from office, in accordance with section 6 (4) for inability, arising from infirmity of mind or body, to perform the functions of his office.
 
-(4) A person who, pursuant to section 6 is removed from the office of Contractor-General for misbehaviour or for any cause other than inability arising from infirmity of mind or body or who retires otherwise than in pensionable circumstances, may be granted by the Governor-General such pension and gratuity as the Governor-General thinks fit not exceeding the pension and gratuity to which he would have been entitled had he retired in pensionable circumstances from such office and for the purposes of sub-paragraph (5), the date of such removal from office or retirement shall be deemed to be the date of retirement in pensionable circumstances.
+*office of other than who retires*
+
+*as the*
+
+*purposes of office or*
+
+(4) A person who, pursuant to section 6 is removed from the Contractor-General for misbehaviour or for any cause inability arising from infirmity of mind or body or otherwise than in pensionable circumstances, may be granted by the Governor-General such pension and gratuity Governor-General thinks fit not exceeding the pension and gratuity to which he would have been entitled had he retired in pensionable circumstances from such office and for the sub-paragraph (5), the date of such removal from retirement shall be deemed to be the date of retirement in pensionable circumstances.
 
 (5) Pension payable in accordance with this paragraph shall–
 
@@ -616,7 +658,9 @@ and that such infirmity is likely to be permanent; or
 
 *Rate of pension.*
 
-**3.** The rate of pension payable pursuant to paragraph 2 to any person shall–
+*any person*
+
+**3.** The rate of pension payable pursuant to paragraph 2 to shall–
 
 (a) if the person has retired after completing not less than seven years service as Contractor-General or, at any time, on the ground of ill-
 
@@ -624,19 +668,31 @@ health, be at an annual rate equivalent to his pensionable emoluments at retirem
 
 (b) in any other case, be an annual rate equivalent to the sum of one-half of his pensionable emoluments at the date of retirement and one three hundred and sixtieth of such pensionable emoluments in respect of each month of service as Contractor-General,
 
-provided that the rate of pension shall not exceed the annual rate of such pensionable emoluments.
+*annual rate of*
 
-*Special provision where Contractor-General retires before attaining age fifty.*
+provided that the rate of pension shall not exceed the such pensionable emoluments.
 
-**4.** Where in accordance with paragraph 2, a person retires in pensionable circumstances before he has attained the age of fifty years–
+*Special provision where*
+
+*in pensionable*
+
+*Contractor-General retires fifty years– before attaining age fifty.*
+
+**4.** Where in accordance with paragraph 2, a person retires circumstances before he has attained the age of
 
 (a) the date with effect from which any pension due to him under this Act shall be payable, shall be the date on which he attains that age, but, if he elects pursuant to paragraph 5 to take a reduced pension and commuted pension gratuity, nothing in this paragraph shall prevent payment of the commuted pension gratuity at any time prior to the attainment of that age; and
 
 (b) if he dies before attaining that age, and he has not made an election to receive a reduced pension gratuity as aforesaid, he shall for the purpose of paragraph 6 be deemed to have died while holding the office of Contractor-General.
 
-*Reducing pension and gratuity.*
+*Reducing 5.-(1) Any pension and*
 
-**5.** (1) Any person to whom a pension (in this paragraph referred to as “the original pension”) is payable pursuant to paragraph 2 may, at his option exercisable at his retirement in pensionable circumstances or within such period prior or subsequent to his retirement as the Governor-General may allow, be paid, in lieu
+*to as “the*
+
+*gratuity.*
+
+*may, at his circumstances*
+
+person to whom a pension (in this paragraph referred original pension”) is payable pursuant to paragraph 2 option exercisable at his retirement in pensionable or within such period prior or subsequent to his retirement as the Governor-General may allow, be paid, in lieu
 
 of the original pension, a reduced pension at the rate of three-fourths of the annual rate of the original pension together with a gratuity (in this Act referred to as a “commuted pension gratuity”) equal to twelve and one-half times one- quarter of the original pension.
 
@@ -664,15 +720,17 @@ one year’s pensionable emoluments;
 
 (c) on account of circumstances specifically attributable to the nature of his duty,
 
-while serving in that office, it shall be lawful for the Governor-General to grant to the deceased Contractor-General’s widow, children, parents or other dependents such awards as would have
+*while serving in General to grant children, parents been made*
 
 *CAP. 30.*
 
-been made under the Pensions Act if the office of Contractor-General were a pensionable office for the purposes of that Act.
+*General were a*
 
-*Retirement consequent upon injury or disease.*
+that office, it shall be lawful for the Governor-to the deceased Contractor-General’s widow, or other dependents such awards as would have under the Pensions Act if the office of Contractor-pensionable office for the purposes of that Act.
 
-**8.** Where a Contractor-General–
+*Retirement Where a consequent upon injury or disease.*
+
+**8.** Contractor-General–
 
 (a) is permanently injured in the actual discharge of his duty by some injury specifically attributable to the nature of his duty which is not wholly or mainly due to, or seriously aggravated by, his own serious and culpable negligence or misconduct;
 
@@ -720,10 +778,8 @@ Oath of Office of Assist Contractor-General.
 
 [Section 13]
 
-I .....................do swear (or solemnly and sincerely affirm and declare) that I will faithfully perform any functions assigned to
-
 *CAP.6.*
 
-me under the Contractor-General Act, and I will not, on any account, at any time whatsoever, except in so far as provisions of the Act authorize, directly or indirectly ,reveal or make known any information or the nature or contents of any documents communicated to me in the performance of any functions assigned to me by virtue of the Act.
+I .....................do swear (or solemnly and sincerely affirm and declare) that I will faithfully perform any functions assigned to me under the Contractor-General Act, and I will not, on any account, at any time whatsoever, except in so far as provisions of the Act authorize, directly or indirectly ,reveal or make known any information or the nature or contents of any documents communicated to me in the performance of any functions assigned to me by virtue of the Act.
 
 SO HELP ME GOD.

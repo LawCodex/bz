@@ -176,6 +176,8 @@ Rape and Like Crimes
 
 Rape.
 
+*[CAP.*
+
 **46A.** Deliberate or reckless spreading of HIV/AIDS.
 
 Unlawful sexual intercourse.
@@ -233,6 +235,10 @@ Kidnapping, Abduction, Forced Marriage, Abandonment and Incest
 **62.** Incest.
 
 **63.** Incest by females of or over sixteen.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 Prosecutions for incest.
 
@@ -548,6 +554,8 @@ Forgery
 
 **188.** Forged or counterfeit coin, etc., to be delivered to the Governor of the Central Bank of Belize.
 
+*[CAP.*
+
 Punishment for selling medals resembling current coin. Damaging current coin.
 
 Uttering damaged coin.
@@ -605,6 +613,10 @@ Crimes Against the Safety of the State
 **214.** Seditious conspiracy.
 
 **215.** Seditious intention.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 **216.** On proof of certain facts principal not liable for the acts of his agents.
 
@@ -946,11 +958,17 @@ Preliminary
 
 1981.
 
-(2) The Criminal Code, Chapter 21 of the Revised Laws 1958 is repealed with effect from the 1 st day of October, 1981.
+*(2) The 1958 is repealed*
+
+Criminal Code, Chapter 21 of the Revised Laws with effect from the 1 st day of October, 1981.
+
+*The*
 
 *General rules of construction.*
 
-**3.** The following general rules shall be observed in the interpretation of this Code, namely–
+*interpretation of*
+
+**3.** following general rules shall be observed in the this Code, namely–
 
 (a) all the provisions of Part I shall be applied to and be deemed to form part of every provision of Part II, in so far as they are applicable to the matter of that provision, and are not expressly or by necessary implication excluded, limited or modified, with respect to that matter.
 
@@ -966,7 +984,9 @@ Interpretation and General Explanations
 
 *Interpretation.*
 
-**4.** (1) In this Code–
+*4.-(1) In this*
+
+Code–
 
 “act” means any act or any omission, or any series of acts or any series of omissions, or any combination of acts or any combination of acts and omissions;
 
@@ -1086,21 +1106,35 @@ the verb “to know” in any of its forms; (a)
 
 Did the person whose conduct is in issue foresee that his conduct might produce the result and, if so, was it unreasonable for him to take the risk of producing it?
 
-(2) The standard test of recklessness as to circumstances is–
+*(2) The*
 
-Did the person whose conduct is in issue realise that the circumstances might exist and, if so, was it unreasonable for him to take the risk of their existence?
+standard test of recklessness as to circumstances is–
 
-(3) The appropriate key words are “reckless”,
+*Did the circumstances*
+
+person whose conduct is in issue realise that the might exist and, if so, was it unreasonable for him to take the risk of their existence?
+
+*(3) The*
+
+appropriate key words are “reckless”,
 
 “recklessness” and “recklessly”.
 
-(4) The question whether it was unreasonable for the person to take the risk is to be answered by an objective assessment of his conduct in the light of all relevant factors, but on the assumption that any judgment he may have formed of the degree of risk was correct.
+*(4) The*
+
+*of risk was*
+
+question whether it was unreasonable for the person to take the risk is to be answered by an objective assessment of his conduct in the light of all relevant factors, but on the assumption that any judgment he may have formed of the degree correct.
 
 Proof of Intention, etc.
 
-*Proof of intention, knowledge, recklessness and foresight.*
+*Proof of intention,*
 
-**9.** A court or jury, in determining whether a person has committed an offence–
+*committed an*
+
+*knowledge, recklessness and foresight.*
+
+**9.** A court or jury, in determining whether a person has offence–
 
 (a) shall not be bound in law to infer that any question specified in the first column of the Table below is to be answered in the affirmative by reason only of the existence of the factor specified in the second column as appropriate to that question; but
 
@@ -1170,7 +1204,9 @@ he shall be deemed to have caused the event within the jurisdiction.
 
 **12.** In construing any provision of this Code by which it is required for a criminal act or criminal intent that an act should be done or intended to be done without a person’s consent, or by which it is required for a matter of justification or exemption
 
-that an act should be done with a person’s consent, the following rules should be observed, namely–
+*that an act rules should be*
+
+should be done with a person’s consent, the following observed, namely–
 
 (a) A consent shall be void if the person giving it be under nine years of age, or be by reason of insanity or of immaturity, or any other permanent or temporary incapacity, whether from intoxication or any other cause, unable to understand the nature or consequence of the act to which he consents.
 
@@ -1192,15 +1228,19 @@ been given by reason of a mistake of fact, if it would have been refused but for
 
 (h) For the purposes of this section, exercise of authority is not limited to exercise of authority by way of command, but includes influence or advice purporting to be used or given by virtue of an authority,
 
-Provided that no person shall be prejudiced by the invalidity of any consent if he did not know and could not by the exercise of reasonable diligence have known of such invalidity.
+*of any consent of reasonable*
 
-*Fraud.*
+Provided that no person shall be prejudiced by the invalidity if he did not know and could not by the exercise diligence have known of such invalidity.
 
-**13.** For the purposes of any provision of this Code by which any forgery, fraud, falsification or other unlawful act is punishable if used or done with intent to defraud, an intent to defraud means an intent to cause, by means of such forgery, falsification or other unlawful act, any gain capable of being measured in money, or the possibility of any such gain, to any person at the expense or to the loss of any other person.
+*Fraud. For the any forgery, punishable if*
 
-*Threats.*
+*measured in person at the*
 
-**14.** (1) In this Code “threat” means–
+**13.** purposes of any provision of this Code by which fraud, falsification or other unlawful act is used or done with intent to defraud, an intent to defraud means an intent to cause, by means of such forgery, falsification or other unlawful act, any gain capable of being money, or the possibility of any such gain, to any expense or to the loss of any other person.
+
+*14.-(1) In this Threats.*
+
+Code “threat” means–
 
 (a) any threat of criminal force or harm;
 
@@ -1286,13 +1326,23 @@ if the commission of the crime be prevented by reason only of accident, or of ci
 
 (4) Every person who abets a crime shall be punishable on indictment or summary conviction, according as he would be punishable for committing that crime.
 
-(5) An abettor may be tried before, with or after a person abetted, and although the person abetted be dead, or be otherwise not amenable to justice.
+*(5) An*
 
-(6) An abettor may be tried before, with or after any other abettor, whether he and such other abettor abetted each other in respect of the crime or not, and whether they abetted the same or different parts of the crime.
+abettor may be tried before, with or after a person abetted, and although the person abetted be dead, or be otherwise not amenable to justice.
 
-(7) An abettor shall have the benefit of any matter of exemption, justification, or extenuation to which he is entitled under this Code, notwithstanding that the person abetted or any other abettor is not entitled to the like benefit.
+*(6) An*
 
-(8) Every person who within the jurisdiction of the court abets the doing beyond the jurisdiction of an act which if done within the jurisdiction would be a crime, shall be punishable as if he had abetted that crime.
+*or different*
+
+abettor may be tried before, with or after any other abettor, whether he and such other abettor abetted each other in respect of the crime or not, and whether they abetted the same parts of the crime.
+
+*(7) An exemption,*
+
+abettor shall have the benefit of any matter of justification, or extenuation to which he is entitled under this Code, notwithstanding that the person abetted or any other abettor is not entitled to the like benefit.
+
+*within the*
+
+(8) Every person who within the jurisdiction of the court abets the doing beyond the jurisdiction of an act which if done jurisdiction would be a crime, shall be punishable as if he had abetted that crime.
 
 *One crime abetted, another committed*
 
@@ -1356,9 +1406,9 @@ General Exemption From Criminal Liability
 
 (b) if he did the act in respect of which he is accused under the influence of a delusion of such a nature as to render him, in the opinion of the jury, an unfit subject for punishment of any kind in respect of such act.
 
-*Intoxication.*
+*Intoxication. constitute a*
 
-**27.** (1) Except as provided in this section, intoxication shall not constitute a defence to any criminal charge.
+**27.** (1) Except as provided in this section, intoxication shall not defence to any criminal charge.
 
 (2) (a) Intoxication shall be a defence to any criminal charge, if the person charged was by reason of intoxication, insane as defined in section 26, at the time he committed the act in respect of which he is accused.
 
@@ -1366,15 +1416,23 @@ General Exemption From Criminal Liability
 
 (b) Where the defence under subparagraph (a) is established, the provisions of sections 127 and 128 of the Indictable Procedure Act, shall apply, unless the state of intoxication rendering the person insane was caused without his consent by the malicious or negligent act of another person, in which case the accused person shall be discharged with a verdict of acquittal.
 
-(3) Intoxication shall be taken into account for the purpose of determining whether the person charged had formed any intention, specific or otherwise, in the absence of which he would not be guilty of the offence, provided the state of intoxication was caused without his consent by the malicious or negligent act of another person.
+*intention,*
 
-(4) Voluntary intoxication shall be taken into account for the purpose of determining whether the person charged had formed any specific intention in cases where a specific intent is an essential element in the offence charged.
+(3) Intoxication shall be taken into account for the purpose of determining whether the person charged had formed any specific or otherwise, in the absence of which he would not be guilty of the offence, provided the state of intoxication was caused without his consent by the malicious or negligent act of another person.
 
-(5) For the purposes of this section “intoxication” shall be deemed to include a state produced by narcotics or drugs.
+*purpose of*
 
-*Ignorance or mistake of fact or of law.*
+*essential*
 
-**28.** (1) A person shall not be punished for an act which by reason of ignorance or mistake of fact in good faith he believes to be lawful.
+(4) Voluntary intoxication shall be taken into account for the determining whether the person charged had formed any specific intention in cases where a specific intent is an element in the offence charged.
+
+*deemed to*
+
+(5) For the purposes of this section “intoxication” shall be include a state produced by narcotics or drugs.
+
+*Ignorance or 28.-(1) A mistake of fact reason of or of law.*
+
+person shall not be punished for an act which by ignorance or mistake of fact in good faith he believes to be lawful.
 
 (2) A person shall not, except as in this Code otherwise expressly provided, be exempt from liability to punishment for any act on the ground of ignorance that such act is prohibited by law.
 
@@ -1418,19 +1476,25 @@ Justifiable Force and Harm
 
 *General limits of justifiable force or harm.*
 
-**32.** Notwithstanding the existence of any matter of justification for force, force cannot be justified as having been used in pursuance of that matter–
+*used in*
+
+**32.** Notwithstanding the existence of any matter of justification for force, force cannot be justified as having been pursuance of that matter–
 
 (a) which is in excess of the limits hereafter prescribed in the section of this Title relating to that matter; or
 
 (b) which in any case extends beyond the amount and kind of force reasonably necessary for the purpose for which force is permitted to be used.
 
-*Authority by statue.*
+*Authority by Every statue.*
 
-**33.** Every person who is authorised by the provisions of statute “to use force” may justify the use of necessary force according to the terms and conditions of his authority.
+*statute “to use*
 
-*Execution of a sentence or order of a court.*
+**33.** person who is authorised by the provisions of force” may justify the use of necessary force according to the terms and conditions of his authority.
 
-**34.** Every person who is authorised to execute any lawful sentence or order of a court “may justify the force” mentioned in the sentence or order.
+*Execution of a Every sentence or order sentence or of a court.*
+
+*in the sentence*
+
+**34.** person who is authorised to execute any lawful order of a court “may justify the force” mentioned or order.
 
 *Authority to keep the peace or to preserve order.*
 
@@ -1480,9 +1544,19 @@ Every person who is authorised as a peace officer, or in any judicial or officia
 
 (8) In considering whether or not to grant leave for the purpose of sub-section (7), the Director of Public Prosecutions shall have regard to all the relevant circumstances including the prevalence of the crime in respect of which the force was allegedly used and the danger apprehended by the person using the force.
 
-*Defence of property, possession or overcoming obstruction of legal right.*
+*A person*
 
-A person may justify the use of force for the defence of property or possession, or for overcoming an obstruction to the exercise of any legal right, as follows–
+*Defence of property,*
+
+*property or*
+
+*possession or*
+
+*exercise of any*
+
+*overcoming obstruction of legal right.*
+
+may justify the use of force for the defence of possession, or for overcoming an obstruction to the legal right, as follows–
 
 (a) a person in actual possession of a vessel, house, land or goods, or his servant, or any other person authorised by him may use such force, not extending to a wound or grievous harm, as is necessary for repelling a person who attempts forcibly and unlawfully to enter such vessel, house or land, or to take possession of such goods;
 
@@ -1492,29 +1566,51 @@ A person may justify the use of force for the defence of property or possession,
 
 (d) a person may use such force not amounting to a blow, wound or grievous harm, as is necessary for overcoming any obstruction or resistance to the exercise by him of any legal right.
 
-*Preserving order on board vessel.*
+*Preserving order*
 
-**38.** The master of a vessel, or any person acting by his order, may justify the use of any such force against any person on
+*The*
 
-board the vessel as is necessary for suppressing any mutiny or disorder on board the vessel, whether among officers, seamen or passengers, whereby the safety of the vessel, or of any person therein or about to enter or quitting the same, is likely to be endangered, or the master is threatened to be subjected to the commands of any other person, and may kill any person who is guilty of or abets such mutiny or disorder, if the safety of the vessel or the preservation of any person as aforesaid cannot by any means be otherwise secured.
+*on board vessel.*
 
-*Authority to correct child, or other similar person.*
+*may justify the*
 
-**39.** (1) A blow or other force not in any case extending to a wound or grievous harm may be justified for the purpose of correction, as follows–
+**38.** master of a vessel, or any person acting by his order, use of any such force against any person on
+
+*disorder on*
+
+*guilty of or vessel or the*
+
+board the vessel as is necessary for suppressing any mutiny or board the vessel, whether among officers, seamen or passengers, whereby the safety of the vessel, or of any person therein or about to enter or quitting the same, is likely to be endangered, or the master is threatened to be subjected to the commands of any other person, and may kill any person who is abets such mutiny or disorder, if the safety of the preservation of any person as aforesaid cannot by any means be otherwise secured.
+
+*Authority to correct child, or wound or other similar person.*
+
+**39.** (1) A blow or other force not in any case extending to a grievous harm may be justified for the purpose of correction, as follows–
 
 (a) a parent may correct his child being under sixteen years of age, or any guardian or person acting as a guardian may correct his ward being under sixteen years of age, for misconduct, or for disobedience to any lawful command;
 
 (b) a parent or guardian, or person acting as a guardian may delegate to any person whom he entrusts permanently or temporarily with the governance or custody of his child or ward all his own authority for correction, including the power to determine in what cases correction ought to be inflicted, and such delegation shall be presumed, except in so far as it is expressly withheld, in the case of a schoolmaster or person acting as a schoolmaster in respect of a child or ward.
 
-(2) A person who is authorised to inflict correction as in this section mentioned may, in any particular case, delegate to any fit person the infliction of such correction.
+*section fit person the*
 
-(3) No correction can be justified which is unreasonable in kind or in degree regard being had to the age and physical and
+(2) A person who is authorised to inflict correction as in this mentioned may, in any particular case, delegate to any infliction of such correction.
 
-mental condition of the person on whom it is inflicted, and no correction can be justified in the case of a person who, by reason of tender years or otherwise, is incapable of understanding the purpose for which it is inflicted.
+*(3) No kind or in*
 
-*Consent to the use of force.*
+correction can be justified which is unreasonable in degree regard being had to the age and physical and
 
-**40.** The use of force against a person may be justified on the ground of his consent, subject as follows–
+*mental correction can of tender years purpose for*
+
+condition of the person on whom it is inflicted, and no be justified in the case of a person who, by reason or otherwise, is incapable of understanding the which it is inflicted.
+
+*Consent to the*
+
+*The use*
+
+*use of force.*
+
+*ground of his*
+
+**40.** of force against a person may be justified on the consent, subject as follows–
 
 (a) the killing of a person cannot be justified on the ground of consent.
 
@@ -1552,13 +1648,21 @@ Particular Crimes
 
 Criminal Force to the Person Assaults
 
+*Every*
+
 *Common assault.*
 
-**44.** Every person who unlawfully commits a common assault upon any other person shall be guilty of a misdemeanour.
+**44.** person who unlawfully commits a common assault upon any other person shall be guilty of a misdemeanour.
 
-*Aggravated assault.*
+*Aggravated*
 
-**45.** Every person who commits an unlawful assault of any of the following kinds, namely–
+*Every*
+
+*assault.*
+
+*the following*
+
+**45.** person who commits an unlawful assault of any of kinds, namely–
 
 (a) assault upon a person acting as a judicial officer or as a peace officer;
 
@@ -1624,19 +1728,31 @@ Rape and Like Crimes
 
 (2) Every person who has unlawful sexual intercourse with a person who is above the age of fourteen years but under the
 
-age of sixteen years, commits an offence and is liable on conviction on indictment to imprisonment for a term that is not less than five years but no more than ten years,
+*age of sixteen conviction on less than five*
 
-provided that with regard to sub-section (2) –
+years, commits an offence and is liable on indictment to imprisonment for a term that is not years but no more than ten years,
+
+with regard to sub-section (2) –
+
+provided that
 
 (i) in the case of a person who is charged with a crime under that subsection who is under the age of eighteen years, the presence of reasonable cause to believe that that other person was above the age of sixteen years shall be a valid defence on the first occasion on which such accused person is charged with a crime under that subsection; or
 
 (ii) in the case of a person who is charged with a crime under that subsection who is of or above the age of eighteen years,
 
-the presence of reasonable cause to believe that the complainant was over the age of sixteen years shall be a mitigating circumstance for the purpose of sentencing on the first occasion on which such accused person is charged with a crime under that subsection, and in any such case the mandatory minimum sentence of five years prescribed above shall not apply.
+*the presence of was over the circumstance on which such*
 
-*Rape of a child. 12 of 2014.*
+*sentence of five*
 
-**47A.** Every person who rapes another person and that person is under the age of sixteen years commits an offence and is liable on conviction on indictment to–
+reasonable cause to believe that the complainant age of sixteen years shall be a mitigating for the purpose of sentencing on the first occasion accused person is charged with a crime under that subsection, and in any such case the mandatory minimum years prescribed above shall not apply.
+
+*47A. Every Rape of a child.*
+
+*12 of 2014.*
+
+*on conviction*
+
+person who rapes another person and that person is under the age of sixteen years commits an offence and is liable on indictment to–
 
 (a) imprisonment for not less than twelve years, but may extend to life, where that other person was over fourteen but under the age of sixteen years at the time the offence was committed; or
 
@@ -1696,23 +1812,33 @@ the penetration or touching of the person’s (c)
 
 anus, penis or vagina by the other person.
 
-*Causing or inciting a person who is mentally defective or has an unsound mind to engage in sexual activity. 12 of 2014.*
+*Causing or*
 
-**47F.** Every person who–
+*47F. Every*
+
+*inciting a person who is mentally defective or has an unsound mind to engage in sexual activity. 12 of 2014.*
+
+person who–
 
 (a) intentionally causes, induces, threatens or incites another person to engage in an activity that is sexual in nature and the other person is unable to refuse because of or for a reason related to a mental defect; and
 
 (b) the person who causes, induces, threatens or incites knows or could reasonably be expected to know that the other person has a mental defect or an unsound mind and that because of it or for a reason related to it that person is likely to be unable to refuse,
 
-commits an offence and is liable, on conviction on indictment, to imprisonment for life.
+*commits an to imprisonment*
 
-(2) A person who is being induced is unable to refuse if–
+offence and is liable, on conviction on indictment, for life.
+
+*(2) A person*
+
+who is being induced is unable to refuse if–
 
 (a) that person lacks the capacity to choose whether to agree to engage in the activity either due to lack of understanding of the nature or reasonably foreseeable consequences of the activity, or for any other reason; or
 
 (b) the person being induced is unable to communicate such a choice to the person doing the inducing.
 
-*Engaging in sexual activity in the presence of a person who is mentally defective or has an unsound mind. 12 of 2014.*
+*Engaging in sexual activity in*
+
+*presence of a person who is mentally defective or has an unsound mind. 12 of 2014.*
 
 **47G.** Every person who, intentionally engages in an activity that is sexual in nature and for the purpose of obtaining sexual gratification, he engages in it when another person is present who is mentally defective or has an unsound mind, or is in a place from which he can be observed by that person; and he knows or believes that the other person is aware, or intending that the other person should be aware, commits an offence and is liable on summary conviction to imprisonment for a term of five years or on conviction on indictment to a term of ten years.
 
@@ -1732,9 +1858,11 @@ commits an offence and is liable, on conviction on indictment, to imprisonment f
 
 commits an offence and is liable upon conviction on indictment to imprisonment for a term of eight years.
 
+*Every*
+
 *Procuring defilement of a person by threats or fraud or administration of drugs. 12 of 2014.*
 
-Every person who–
+person who–
 
 by threats of intimidation or any other method of compulsion, procures or attempts to procure another person to engage in any sexual activity with any person, either within or outside of Belize; or
 
@@ -1742,11 +1870,27 @@ by threats of intimidation or any other method of compulsion, procures or attemp
 
 (c) intentionally administers a substance to or causes a substance to be taken by any person knowing that the person does not consent and with the intention of stupefying or overpowering the person, so as to enable that person to engage in unlawful sexual intercourse or any sexual activity that involves that person,
 
-commits an offence and is liable on conviction on indictment, to imprisonment for life.
+*commits an imprisonment*
 
-*Owner or occupier permitting use of premises for unlawful sexual intercourse. 12 of 2014.*
+offence and is liable on conviction on indictment, to for life.
 
-**51.** Every person who, being the owner or occupier of any premises or having, acting, or assisting in the management or control thereof, induces or knowingly suffers any person, to be in or upon such premises for the purpose of being engaged in unlawful sexual intercourse or any sexual activity with any person, commits an offence and is where the victim of the unlawful sexual activity is–
+*Owner or*
+
+*Every*
+
+*occupier*
+
+*premises or*
+
+*permitting use of premises for*
+
+*control thereof,*
+
+*unlawful sexual intercourse. 12 of 2014.*
+
+*person, unlawful sexual*
+
+**51.** person who, being the owner or occupier of any having, acting, or assisting in the management or induces or knowingly suffers any person, to be in or upon such premises for the purpose of being engaged in unlawful sexual intercourse or any sexual activity with any commits an offence and is where the victim of the activity is–
 
 (a) under the age of twelve years, liable on conviction on indictment to imprisonment for life; or
 
@@ -1792,9 +1936,13 @@ disability, the complainant would not have been able at the time of the alleged 
 
 (f) a person had administered to or caused to be taken by the complainant, without the
 
-complainant’s consent, a substance which, having regard to when it was administered or taken, was capable of causing or enabling the complainant to be stupefied or overpowered at the time of the alleged offence.
+*when it was enabling the time of the*
 
-(3) If in proceedings for a sexual offence to which consent applies, it is proven that the accused person committed the act and that any of the circumstances specified in sub-section (2) existed, it is to be conclusively presumed–
+complainant’s consent, a substance which, having regard to administered or taken, was capable of causing or complainant to be stupefied or overpowered at the alleged offence.
+
+*(3) If in applies, it is*
+
+proceedings for a sexual offence to which consent proven that the accused person committed the act and that any of the circumstances specified in sub-section (2) existed, it is to be conclusively presumed–
 
 (a) that the complainant did not consent to the alleged offence; and
 
@@ -1808,11 +1956,9 @@ complainant’s consent, a substance which, having regard to when it was adminis
 
 (5) For the purposes of this Part–
 
-“mental defect” has the same meaning as “mental
-
 *CAP. 122.*
 
-defectiveness” under section 2 of the Unsoundness of Mind Act including mental impairment, severe mental impairment, psychopathic disorder and a mental subnormal states which means a state of arrested or incomplete development of mind which includes a significant impairment of intelligence and social functioning and is associated with abnormally aggressive or seriously irresponsible conduct on the part of the person concerned and any other disorder or disability of the mind;
+“mental defect” has the same meaning as “mental defectiveness” under section 2 of the Unsoundness of Mind Act including mental impairment, severe mental impairment, psychopathic disorder and a mental subnormal states which means a state of arrested or incomplete development of mind which includes a significant impairment of intelligence and social functioning and is associated with abnormally aggressive or seriously irresponsible conduct on the part of the person concerned and any other disorder or disability of the mind;
 
 “penetration” includes the continuing act from entry to withdrawal of the penis into the anus or vagina;
 
@@ -1888,11 +2034,9 @@ Repealed.
 
 (4) On conviction before any court of any person of an offence under this section against another person, where that other person is under eighteen years of age, the court may divest the offender of all authority over the person, and if the offender is the guardian, remove that offender from the guardianship and appoint any person or persons to be the guardian during that person's minority or any less period.
 
-(5) The relation between persons is within this section if it falls within any of the sub-sections (6) and (8) below or where
-
 *CAP. 173.*
 
-either person is legally adopted within the meaning prescribed by the Families and Children Act.
+(5) The relation between persons is within this section if it falls within any of the sub-sections (6) and (8) below or where either person is legally adopted within the meaning prescribed by the Families and Children Act.
 
 (6) The relation between persons is within this section if either person is the other's parent, stepparent, grandparent, brother, sister, half- brother, half-sister, aunt, uncle or if either person is or was the foster parent of the other.
 
@@ -1904,11 +2048,9 @@ has been regularly involved in caring for, training, supervising or being in sol
 
 “aunt” means the sister or the half- sister of a person's parent and “uncle” has been a corresponding meaning;
 
-“foster parent” in relation to a child means that the person is not the biological mother or father of the child but a person who has assumed responsibility of the child by way of a care order under
-
 *CAP. 173.*
 
-the Families and Children Act;
+“foster parent” in relation to a child means that the person is not the biological mother or father of the child but a person who has assumed responsibility of the child by way of a care order under the Families and Children Act;
 
 “parent's partner” means another person with whom a person lives with as a family;
 
@@ -1934,11 +2076,9 @@ the Families and Children Act;
 
 *12 of 2014.*
 
-**65.** (1) Where a person is convicted of a sexual offence
-
 *treatment and reporting of sex offenders.*
 
-specified in sub-section (2) below and unlawful sexual intercourse, the court shall, in addition to the penalties prescribed for that offence, order that such convicted person be
+**65.** (1) Where a person is convicted of a sexual offence specified in sub-section (2) below and unlawful sexual intercourse, the court shall, in addition to the penalties prescribed for that offence, order that such convicted person be
 
 subject to counselling, medical or psychiatric treatment, as the court may consider appropriate having regards to the facts of the case–
 
@@ -1960,7 +2100,9 @@ he is convicted of a sexual offence specified in section 65(2); or
 
 (b) he is found not guilty of such an offence by reason of insanity, or disability having committed the act of which he is charged.
 
-(2) A person referred to in sub-section (1) shall be required to notify the police in accordance with sub-section (3) of the following information on the relevant date–
+*(2) A person to notify the following*
+
+referred to in sub-section (1) shall be required police in accordance with sub-section (3) of the information on the relevant date–
 
 (a) his name and where he uses one or more of other names, each of those names;
 
@@ -1972,17 +2114,25 @@ he is convicted of a sexual offence specified in section 65(2); or
 
 (e) his criminal convictions and corresponding sentences.
 
-(3) A person who is subject to sex offender notification requirements as determined within sub-section (1) may provide such notification–
+*(3) A requirements as such*
+
+person who is subject to sex offender notification determined within sub-section (1) may provide notification–
 
 (a) by attending at any police station in his district and giving an oral notification to any police officer, or any person authorized for the purpose by the officer in charge of the station; or
 
 (b) by sending a written notification to any such police station.
 
-(4) A person’s details shall be kept on the sex offender database for a period of ten years or for such longer period as specified by the Minister of National Security or the Commissioner of Police.
+*(4) A*
 
-(5) Notification under this section shall be acknowledged and any acknowledgement under this subsection shall be in writing and in such form as the Commissioner of Police may direct.
+person’s details shall be kept on the sex offender database for a period of ten years or for such longer period as specified by the Minister of National Security or the Commissioner of Police.
 
-(6) The information received by such notification as stated in sub-section (2) shall be collated and recorded on database known as the “National Sex Offender Database” and–
+*any and in such*
+
+(5) Notification under this section shall be acknowledged and acknowledgement under this subsection shall be in writing form as the Commissioner of Police may direct.
+
+*(6) The*
+
+information received by such notification as stated in sub-section (2) shall be collated and recorded on database known as the “National Sex Offender Database” and–
 
 (a) shall be updated each time a new notification is received nationwide;
 
@@ -1992,7 +2142,9 @@ he is convicted of a sexual offence specified in section 65(2); or
 
 (d) all applications to the Commissioner of Police and Minister of National Security requesting access to the national sex offender database must be done in written form and must indicate the reason for the request.
 
-(7) The persons who may be made privy to the information on the national sex offender database include but are not limited
+*(7) The*
+
+persons who may be made privy to the information on the national sex offender database include but are not limited
 
 to the principals and managers of schools, childcare facilities and any other bodies involved with the care and education of children and ultimately the Minister for Human Development and any other authorized officials within the Ministry of Human Development.
 
@@ -2042,11 +2194,13 @@ Definitions and Special Provisions Relating to the Matter of this Title Assault 
 
 **67.** (1) A person makes an assault and battery upon another person if, without the other person’s consent, and with the intention of causing harm, pain, fear or annoyance to the other person, or of exciting him to anger, he forcibly touches the other
 
-person, or causes any person, animal or matter, to forcibly touch
+*person, or him.*
 
-*him.*
+causes any person, animal or matter, to forcibly touch
 
-(2) This definition is subject to the following provisions–
+*This*
+
+(2) definition is subject to the following provisions–
 
 (a) Where the consent of the other person to be forcibly touched has been obtained by deceit, it suffices with respect to intention that the touch is intended to be such as to cause harm or pain, or is intended to be such as but for the consent obtained by the deceit would have been likely to cause fear or annoyance, or to excite anger.
 
@@ -2060,11 +2214,21 @@ person, or causes any person, animal or matter, to forcibly touch
 
 the harm, pain, fear, or annoyance, by the force or manner of the touch itself, or to forcibly expose him, or cause him to be exposed to harm, pain, fear or annoyance, from any other cause.
 
-*Assault without actual battery.*
+*Assault without*
 
-**68.** (1) A person makes an assault without actual battery on another person if, by any act apparently done in commencement of an assault and battery, he intentionally put the other person in fear of an instant assault and battery.
+*68.-(1) A*
 
-(2) The definition is subject to the following provisions, namely–
+*actual battery.*
+
+*another person*
+
+*fear of an*
+
+person makes an assault without actual battery on if, by any act apparently done in commencement of an assault and battery, he intentionally put the other person in instant assault and battery.
+
+*(2) The namely–*
+
+definition is subject to the following provisions,
 
 (a) It is not necessary that an actual assault and battery should be intended, or that the instruments or means by which the assault and battery is apparently intended to be made should be, or should by the person using them be believed to be, of such a kind or in such a condition as that an assault and battery could be made by means of them.
 
@@ -2072,9 +2236,15 @@ the harm, pain, fear, or annoyance, by the force or manner of the touch itself, 
 
 (c) An assault can be made on a person within the meaning of this section although he can avoid actual assault and battery by retreating or by consenting to do, or to abstain from doing, any act.
 
-*Unlawful imprisonment.*
+*Unlawful*
 
-**69.** (1) A person imprisons another person if intentionally and without the other person’s consent he detains the other person
+*69.-(1) A*
+
+*imprisonment.*
+
+*without the*
+
+person imprisons another person if intentionally and other person’s consent he detains the other person
 
 in a particular place, of whatever extent or character, and whether enclosed or not, or compel him to move or be carried in any particular direction.
 
@@ -2100,23 +2270,29 @@ Rape and like crimes-Definitions
 
 (2) It is hereby declared that if at a trial for rape the jury has to consider whether a man believed that a person was consenting to the penetration by his penis, the presence or absence of reasonable grounds for such a belief is a matter to which the jury is to have regard, in conjunction any other relevant matters, in considering whether he so believed.
 
-**72.** (1) A male spouse commits marital rape against the female
+*72.-(1) A male*
 
-*Marital rape defined.*
+*Marital rape*
 
-spouse if the first mentioned spouse has sexual intercourse with the other spouse in any of the circumstances specified in subsection (2) of this section–
+*spouse if the*
+
+*defined.*
+
+*the other subsection (2)*
+
+spouse commits marital rape against the female first mentioned spouse has sexual intercourse with spouse in any of the circumstances specified in of this section–
 
 (a) without the consent of the female spouse; and
 
 (b) knowing that the female spouse does not consent to sexual intercourse, or recklessly not caring whether the female spouse consents or not.
 
-(2) The circumstances referred to in sub-section (1) are as follows–
+*(2) The follows–*
 
-(a) the spouses have separated and thereafter have lived separately and apart within the meaning
+circumstances referred to in sub-section (1) are as
 
 *CAP. 175.*
 
-of the Married Persons (Protection) Act;
+(a) the spouses have separated and thereafter have lived separately and apart within the meaning of the Married Persons (Protection) Act;
 
 (b) there is in existence a separation agreement in writing between the spouses;
 
@@ -2132,7 +2308,9 @@ and battery, harm or injury to the female spouse.
 
 (3) In this section, “spouse” means a party to marriage and does not include a party to a ‘common law union’.
 
-(4) No prosecution shall be brought for the offence of marital rape except with the consent of the Director of Public Prosecutions.
+*(4) No*
+
+prosecution shall be brought for the offence of marital rape except with the consent of the Director of Public Prosecutions.
 
 *Evidence of rape, etc.*
 
@@ -2204,9 +2382,15 @@ by the use of force, threat of force or deception without a lawful excuse, is li
 
 (d) a person having the temporary possession, care or charge of another person for a special purpose, as the attendant, employer or schoolmaster of such person, or in any other capacity, can be guilty of stealing or abduction of such person by acts which he is not authorised to do for such special purpose, and he cannot give consent to any act by another person which would be inconsistent with such special purpose.
 
-(2) Notwithstanding the general provisions of Title V with respect to mistake of law, a person is not guilty of stealing or of abduction of another person by anything which he does in the belief that he is entitled by law as a parent, guardian, or by virtue of any other legal right, to take or detain the other person for the purposes for which he takes or detains him,
+*respect to abduction of*
 
-provided that this rule shall not be construed to exempt a person from liability to punishment,
+*of any other purposes for*
+
+(2) Notwithstanding the general provisions of Title V with mistake of law, a person is not guilty of stealing or of another person by anything which he does in the belief that he is entitled by law as a parent, guardian, or by virtue legal right, to take or detain the other person for the which he takes or detains him,
+
+*provided person from*
+
+that this rule shall not be construed to exempt a liability to punishment,
 
 (a) on the plea that he did not know or believe, or had not the means of knowing that the age of the other person was under twelve or sixteen years, as the case may be; or
 
@@ -2216,9 +2400,15 @@ provided that this rule shall not be construed to exempt a person from liability
 
 Criminal Harm to the Person
 
-*Intentional harm. 29 of 2010.*
+*Every*
 
-**79.** Every person who intentionally and unlawfully causes harm to a person shall be liable to imprisonment for five years.
+*Intentional harm.*
+
+*harm to a*
+
+*29 of 2010.*
+
+**79.** person who intentionally and unlawfully causes person shall be liable to imprisonment for five years.
 
 *Wounding.*
 
@@ -2272,13 +2462,21 @@ to escape from legal custody, whether for a crime or for any other cause, shall�
 
 **89.** Every person who knowingly and without lawful cause places or leaves any stone, metal, wood or other thing, or causes any animal to go or be in the way of any engine, carriage or train, upon a railway, whereby such engine, carriage or train, might be obstructed, shall, although he does not intend to cause harm or danger of harm to any person be liable to imprisonment for two years.
 
-*Interference with signals, etc.*
+*Every Interference with*
 
-Every person who in any manner unlawfully interferes with or obstructs the working of any lighthouse, beacon, buoy, signal or other apparatus or thing of whatever kind, which is used or maintained for the safety of navigation, whether on the sea, or on a river or other water, or for the safe working or using of any railway shall, although he does not intend to cause harm or danger of harm to any person, be liable to imprisonment for two years.
+*signals, etc.*
 
-*Frauds endangering trains or vessels.*
+*with or*
 
-**91.** Every person who–
+*used or*
+
+*of any railway or danger of two years.*
+
+person who in any manner unlawfully interferes obstructs the working of any lighthouse, beacon, buoy, signal or other apparatus or thing of whatever kind, which is maintained for the safety of navigation, whether on the sea, or on a river or other water, or for the safe working or using shall, although he does not intend to cause harm harm to any person, be liable to imprisonment for
+
+*Frauds Every endangering trains or vessels.*
+
+**91.** person who–
 
 (a) in constructing or repairing any vessel or any machinery or fittings for a vessel, or any engine, carriage or apparatus, to be used on or forming part of a railway, knowingly uses such materials, or so does any work or so conceals any defect, as that the safety of the vessel, or of any person on board the vessel or who may use the railway, is likely to be endangered, shall be liable to imprisonment for ten years;
 
@@ -2288,17 +2486,33 @@ Every person who in any manner unlawfully interferes with or obstructs the worki
 
 **92.** Repealed.
 
-*Negligent harm. 29 of 2010.*
+*Every*
 
-**93.** Every person who negligently and unlawfully causes harm to any other person shall be liable on conviction either on indictment or summarily to imprisonment for one year.
+*Negligent harm. harm to any 29 of 2010.*
 
-*Negligent wound or grievous harm.*
+*indictment or*
 
-Every person who negligently and unlawfully causes a wound or grievous harm to any person shall be liable to imprisonment for two years.
+**93.** person who negligently and unlawfully causes other person shall be liable on conviction either on summarily to imprisonment for one year.
 
-*Negligence by persons in charge of dangerous things.*
+*Negligent wound*
 
-**95.** Every person who–
+*Every*
+
+*or grievous*
+
+*wound or*
+
+*harm.*
+
+person who negligently and unlawfully causes a grievous harm to any person shall be liable to imprisonment for two years.
+
+*Negligence by*
+
+*Every*
+
+*persons in charge of dangerous things.*
+
+**95.** person who–
 
 (a) being solely or partly in charge of any steam-engine, ship, boat, horse, or beast, or other dangerous thing or matter of any kind; or
 
@@ -2308,7 +2522,9 @@ Every person who negligently and unlawfully causes a wound or grievous harm to a
 
 shall be liable to imprisonment for three years.
 
-Definitions and Special Provisions Relating to the Matter of this Title
+*Definitions*
+
+and Special Provisions Relating to the Matter of this Title
 
 *Kinds of harm.*
 
@@ -2316,11 +2532,21 @@ Definitions and Special Provisions Relating to the Matter of this Title
 
 96.
 
-whether permanent or temporary;
+*whether*
 
-“grievous harm” means any harm which amounts to a maim or dangerous harm as hereinafter defined, or which seriously or permanently injures health, or which is likely to injure health, or which extends to permanent disfigurement, or to any permanent or serious injury to any external or internal organ, member or sense;
+permanent or temporary;
 
-“dangerous harm” means harm endangering life;
+*“grievous*
+
+*permanently*
+
+*or serious sense;*
+
+harm” means any harm which amounts to a maim or dangerous harm as hereinafter defined, or which seriously or injures health, or which is likely to injure health, or which extends to permanent disfigurement, or to any permanent injury to any external or internal organ, member or
+
+*“dangerous*
+
+harm” means harm endangering life;
 
 “maim” means the destruction or permanent disabling of any external or internal organ, member or sense;
 
@@ -2388,13 +2614,25 @@ Disease or disorder which a person suffers as the inward effect of his grief, te
 
 (d) Except as in this section expressly provided, a person shall not be excused from liability to punishment for causing harm to another person or be acquitted of having caused harm to another person, on the ground that the other person by his own trespass, negligence, act or omission, contributed to the causing of the harm.
 
-*Surgical or medical treatment.*
+*Surgical or medical*
 
-**103.** Where a person in good faith, for the purposes of surgical or medical treatment, voluntarily causes harm to another person which, in the exercise of reasonable skill and precaution according to the circumstances of the case, he ought to have known to be plainly improper, he is liable to punishment as if he had caused such harm negligently within the meaning of this Code, and not otherwise.
+*or medical*
 
-*Hindering the saving of life.*
+*treatment.*
 
-**104.** If a person intentionally hinders any other person from a wrecked vessel, or from lawfully protecting himself or any other person against harm in any case, he shall be deemed to have intentionally caused any harm which happens to such other person by reason of his being so hindered.
+*according to known to be had caused Code, and not*
+
+**103.** Where a person in good faith, for the purposes of surgical treatment, voluntarily causes harm to another person which, in the exercise of reasonable skill and precaution the circumstances of the case, he ought to have plainly improper, he is liable to punishment as if he such harm negligently within the meaning of this otherwise.
+
+*Hindering the*
+
+*\104. If a*
+
+*saving of life.*
+
+*intentionally person by*
+
+person intentionally hinders any other person from a wrecked vessel, or from lawfully protecting himself or any other person against harm in any case, he shall be deemed to have caused any harm which happens to such other reason of his being so hindered.
 
 *Poison explained.*
 
@@ -2428,17 +2666,25 @@ any period that the offender has spent on remand awaiting trial;
 
 (e) any other factor that the court considers to be relevant.
 
-(5) Where an offender or the Crown is aggrieved by the decision of the court in specifying a minimum term under subsection (3), the offender or the Crown, as the case may be, has a right of appeal against the decision.
+*(5) Where*
 
-(6) Where a person has been sentenced to detention at the court’s pleasure in accordance with sub-section (2), the court, after having passed the sentence, shall specify a period, at the expiration of which, the offender shall be eligible to be taken before the court for a review of his detention.
+an offender or the Crown is aggrieved by the decision of the court in specifying a minimum term under subsection (3), the offender or the Crown, as the case may be, has a right of appeal against the decision.
 
-(7) Where an offender has served the period specified under sub-section (6), and is taken before the court for a review of his detention, the court may–
+*after having expiration of*
+
+(6) Where a person has been sentenced to detention at the court’s pleasure in accordance with sub-section (2), the court, passed the sentence, shall specify a period, at the which, the offender shall be eligible to be taken before the court for a review of his detention.
+
+*detention, the*
+
+(7) Where an offender has served the period specified under sub-section (6), and is taken before the court for a review of his court may–
 
 (a) order the release of the offender on the terms and conditions set out in the order, or
 
 (b) specify another period, not exceeding five years, at the expiration of which the offender is eligible to be returned before the court for the further review of his detention.
 
-(8) In determining whether to order the release of the offender upon the initial review of his detention, or upon any subsequent review of his detention, the court shall take into consideration–
+*(8) In offender upon subsequent*
+
+determining whether to order the release of the the initial review of his detention, or upon any review of his detention, the court shall take into consideration–
 
 (a) the comments of the prison authorities as to the rehabilitation of the offender;
 
@@ -2470,11 +2716,9 @@ the report of a psychiatrist, not employed at the prison, who has evaluated the 
 
 (2) Every person who causes the death of another by any careless conduct not amounting to negligence, as defined in this Code, commits an offence and is liable to imprisonment for two
 
-**109.** Every person who abets the commission of suicide by
-
 *Abetment of suicide.*
 
-any person shall, whether or not the suicide be actually committed, be liable to imprisonment for twenty years.
+**109.** Every person who abets the commission of suicide by any person shall, whether or not the suicide be actually committed, be liable to imprisonment for twenty years.
 
 *Infanticide.*
 
@@ -2504,11 +2748,9 @@ Provided that no person shall be found guilty of a crime under this subsection u
 
 (2) In determining whether the continuance of a pregnancy would involve such risk of injury to health as is mentioned in subsection (1) (a) account may be taken of the pregnant woman’s actual or reasonably foreseeable environment.
 
-**113.** (1) Subject to subsection (2) of this section, no person shall
-
 *Conscientious objection to participation in treatment.*
 
-be under any duty, whether by contract or by any statutory or other legal requirements, to participate in any treatment authorised by section 112 to which he has a conscientious objection.
+**113.** (1) Subject to subsection (2) of this section, no person shall be under any duty, whether by contract or by any statutory or other legal requirements, to participate in any treatment authorised by section 112 to which he has a conscientious objection.
 
 Provided that in any legal proceedings the burden of proof of conscientious objection shall rest upon the person claiming to rely on it.
 
@@ -2560,11 +2802,15 @@ deprived him, for the time being, of the power of self-control; or
 
 (d) in the case of a woman who causes the death of her child recently born, she (while not insane) was deprived of the power of self-control by a disease or disorder of mind produced by childbearing.
 
-*Provocation defined.*
+*Provocation*
 
-**120.** The following matters may amount to extreme provocation to one person to cause the death of another person,
+*\120. The*
 
-*namely–*
+*defined.*
+
+*provocation to namely–*
+
+following matters may amount to extreme one person to cause the death of another person,
 
 (a) an unlawful assault or battery committed upon the accused person by the other person, either in an unlawful fight or otherwise, which is of such a kind either in respect of its violence or by reason of words, gestures or other circumstances of insult or aggravation, as to be likely to deprive a person, being of ordinary character, and being in the circumstances in which the accused person was, of the power of self-control;
 
@@ -2584,9 +2830,9 @@ committed upon the accused person’s wife or child;
 
 (e) anything said to the accused person by the other person or by a third person which were grave enough to make a reasonable man to lose his self-control.
 
-*When provocation shall not be admitted. 18 of 1998.*
+*When 121.-(1) provocation shall referred to in not be admitted. 18 of 1998. be deemed to be either from the given on the*
 
-**121.** (1) Notwithstanding the existence of such evidence as is referred to in section 119 (a), the crime of the accused shall not be deemed to be thereby reduced to manslaughter if it appears, either from the evidence given on his behalf, or from evidence given on the part of the prosecution–
+Notwithstanding the existence of such evidence as is section 119 (a), the crime of the accused shall not thereby reduced to manslaughter if it appears, evidence given on his behalf, or from evidence part of the prosecution–
 
 (a) that he was not in fact deprived of the power of self-control by the provocation;
 
@@ -2622,13 +2868,19 @@ short a time, than it would probably have happened but for the harm.
 
 (d) death shall be held to have been caused by harm if the death be caused by the medical or surgical treatment of the harm, unless such treatment itself amount to murder or manslaughter.
 
-*Special provisions as to abetment.*
+*Special provisions as to 125. The abetment.*
 
-**125.** The general provisions with respect to abetment are in their application for the purposes of this Title subject to the special provision, namely, that where a person commands the killing of another person knowing that the killing will be unlawful, then, although the crime of the person so commanded be reduced to manslaughter, or to an attempt to commit manslaughter, by his belief that he was under a legal duty to obey the command, the person giving the command is guilty of the same crime as if the person commanded had not believed himself to be under a legal duty to obey the command.
+*their special killing of*
 
-*Explanation as to a child.*
+*obey the*
 
-**126.** (1) In order that a child may be such a person that it may be murder or manslaughter to cause its death, it is necessary that before its death the child should have been completely brought forth alive from the body of the mother.
+general provisions with respect to abetment are in application for the purposes of this Title subject to the provision, namely, that where a person commands the another person knowing that the killing will be unlawful, then, although the crime of the person so commanded be reduced to manslaughter, or to an attempt to commit manslaughter, by his belief that he was under a legal duty to command, the person giving the command is guilty of the same crime as if the person commanded had not believed himself to be under a legal duty to obey the command.
+
+*126.-(1) In Explanation as to*
+
+*a child.*
+
+order that a child may be such a person that it may be murder or manslaughter to cause its death, it is necessary that before its death the child should have been completely brought forth alive from the body of the mother.
 
 (2) It is not necessary either that a circulation of blood independent of the mother’s circulation, should have commenced in the child, or that the child should have breathed, or that it should have been detached from the mother by severance of the umbilical cord, and it is murder or manslaughter (as the case may be) to cause death to happen to a child after it becomes a person within the meaning of this section by means of harm caused to it before it became such a person.
 
@@ -2696,9 +2948,9 @@ to destroy or damage his own property in a way which he knows is likely to endan
 
 commits a crime.
 
-*Possessing anything with intent to destroy or damage property.*
+*Possessing anything with control intent to destroy or damage property.*
 
-**134.** A person who has anything in his custody or under his control intending without lawful excuse to use it or cause or permit another to use it–
+**134.** A person who has anything in his custody or under his intending without lawful excuse to use it or cause or permit another to use it–
 
 (a) to destroy or damage any property belonging to some other person; or
 
@@ -2720,15 +2972,27 @@ commits a crime.
 
 (3) A person who commits any other offence under this Title is liable on conviction on indictment to imprisonment for a term not exceeding ten years and on summary conviction to imprisonment for a term not exceeding five years.
 
-(4) Notwithstanding any other law to the contrary, the offence chargeable under section 132(3) as arson may, at the
+*offence*
 
-discretion of the Director of Public Prosecutions, be tried summarily.
+(4) Notwithstanding any other law to the contrary, the chargeable under section 132(3) as arson may, at the
+
+*discretion of summarily.*
+
+the Director of Public Prosecutions, be tried
+
+*136.-(1) This*
 
 *Without lawful excuse.*
 
-**136.** (1) This section applies to any crime under section 132 (1) and any crime under section 133 or section 134 other than one involving a threat by the person charged to destroy or damage property in a way which he knows is likely to endanger the life of another or involving an intent by the person charged to use or cause or permit the use of something in his custody or under his control so as to destroy or damage property.
+*and any crime involving a property in a of another or*
 
-(2) A person charged with a crime to which this section applies shall, whether or not he would be treated for the purposes of this Title as having a lawful excuse apart from this subsection, be treated for those purposes as having a lawful excuse–
+section applies to any crime under section 132 (1) under section 133 or section 134 other than one threat by the person charged to destroy or damage way which he knows is likely to endanger the life involving an intent by the person charged to use or cause or permit the use of something in his custody or under his control so as to destroy or damage property.
+
+*(2) A applies shall,*
+
+*subsection, be excuse–*
+
+person charged with a crime to which this section whether or not he would be treated for the purposes of this Title as having a lawful excuse apart from this treated for those purposes as having a lawful
 
 (a) if at the time of the act or acts alleged to constitute the crime he believed that the person or persons whom he believed to be entitled to consent to the destruction of or damage to the property in question had so consented, or would have so consented to it if he or they had known of the destruction or damage and its circumstances; or
 
@@ -2738,21 +3002,33 @@ that the property, right or interest was in immediate need of protection; and
 
 (ii) that the means of protection adopted or proposed to be adopted were or would be reasonable having regard to all the circumstances.
 
-(2) For the purpose of this section it is immaterial whether a belief is justified or not if it is honestly held.
+*(2) For the belief is*
 
-(3) For the purpose of sub-section (2) a right or interest in property includes any right or privilege in or over land, whether created by grant, licence or otherwise.
+purpose of this section it is immaterial whether a justified or not if it is honestly held.
 
-(4) This section shall not be construed as casting doubt on any defence recognised by law as a defence to criminal charges.
+*(3) For the property created by*
 
-*Meaning of property.*
+purpose of sub-section (2) a right or interest in includes any right or privilege in or over land, whether grant, licence or otherwise.
 
-**137.** (1) In this Title “property” means property of a tangible nature, whether real or personal, including money and–
+*(4) This any defence*
+
+section shall not be construed as casting doubt on recognised by law as a defence to criminal charges.
+
+*137.-(1) In this Meaning of*
+
+*property.*
+
+*nature, whether*
+
+Title “property” means property of a tangible real or personal, including money and–
 
 (a) including wild creatures which have been tamed or are ordinarily kept in captivity, and any other wild creatures or their carcasses if, but only if, they have been reduced into possession which has not been lost or abandoned or are in the course of being reduced into possession; but
 
 (b) not including flowers, fruits or foliage of a plant growing wild on any land.
 
-(2) Property shall be treated for the purposes of this Title as belonging to any person–
+*(2) Property belonging to*
+
+shall be treated for the purposes of this Title as any person–
 
 (a) having the custody or control of it;
 
@@ -2806,13 +3082,25 @@ Criminal Misappropriations and Frauds Theft
 
 had notice that the wife had no authority to consent to the appropriation.
 
-(2) If it appears that he had committed or designed to commit adultery with the wife, he shall be deemed to have had such notice, but he shall not in such case be deemed guilty of stealing by reason only of his appropriation, with the consent of the wife, or of his assisting the wife to appropriate, any wearing apparel of the wife, or any money or other thing of which the wife is apparently permitted to have the disposal for her own use.
+*(2) If it*
+
+*stealing by*
+
+*wife is use.*
+
+appears that he had committed or designed to commit adultery with the wife, he shall be deemed to have had such notice, but he shall not in such case be deemed guilty of reason only of his appropriation, with the consent of the wife, or of his assisting the wife to appropriate, any wearing apparel of the wife, or any money or other thing of which the apparently permitted to have the disposal for her own
+
+*\143. (1)*
 
 *Property.*
 
-**143.** (1) “Property” includes money and all other property real or personal, including things in action and other intangible property.
+*or personal, property.*
 
-(2) A person cannot steal land, or things forming part of land and severed from it by him or by his directions, except in the following cases, that is to say–
+“Property” includes money and all other property real including things in action and other intangible
+
+*and severed*
+
+(2) A person cannot steal land, or things forming part of land from it by him or by his directions, except in the following cases, that is to say–
 
 (a) when he is a trustee or personal representative, or is authorised by power of attorney, or as liquidator of a company, or otherwise, to sell or dispose of land belonging to another, and he appropriates the land or anything forming part of it by dealing with it in breach of the confidence reposed in him;
 
@@ -2896,29 +3184,31 @@ such crime as is mentioned in sub-section (2); or
 
 (4) A person guilty of burglary shall be punished as follows–
 
-(a) on conviction on indictment, to a term of imprisonment which shall not be less than ten
+*29 of 2010.*
+
+(a) on conviction on indictment, to a term of imprisonment which shall not be less than ten years but which may extend to fifteen years;
 
 *29 of 2010.*
 
-years but which may extend to fifteen years;
-
-(b) on summary conviction, to a term of imprisonment which shall not be less than
-
-*29 of 2010.*
-
-seven years but which may extend to ten years,
+(b) on summary conviction, to a term of imprisonment which shall not be less than seven years but which may extend to ten years,
 
 provided that (whether the case is tried summarily or on indictment) the court may, in the case of a first time offender who has no previous conviction for any offence involving dishonesty or violence, refrain from imposing the minimum mandatory sentence prescribed above if there be special extenuating circumstances which the court shall record in writing, and in lieu thereof, pass such other sentence (whether custodial or non-custodial) as the court shall deem just having regard to the prevalence of the crime and other relevant factors.
 
-(5) The offence of burglary or of attempted burglary may be tried summarily without the consent of the accused at the discretion of the Director of Public Prosecutions.
+*(5) The*
 
-*28 of 1994. CAP. 98.*
+offence of burglary or of attempted burglary may be tried summarily without the consent of the accused at the discretion of the Director of Public Prosecutions.
 
-(6) The provisions of this section shall have effect notwithstanding anything to the contrary contained in the Summary Jurisdiction (Offences) Act.
+*28 of 1994. (6) The CAP. 98.*
 
-*Aggravated burglary.*
+*Summary*
 
-**149.** (1) A person is guilty of aggravated burglary if he commits any burglary and at the time has with him any firearm, or imitation firearm, or any weapon of offence, or any explosive and for this purpose–
+provisions of this section shall have effect notwithstanding anything to the contrary contained in the Jurisdiction (Offences) Act.
+
+*Aggravated 149.-(1) A burglary.*
+
+*any burglary imitation and for this*
+
+person is guilty of aggravated burglary if he commits and at the time has with him any firearm, or firearm, or any weapon of offence, or any explosive purpose–
 
 “firearm” includes an airgun or air pistol, and (a)
 
@@ -2934,7 +3224,9 @@ for the purpose of producing a practical effect by explosion, or intended by the
 
 *28 of 1994.*
 
-(2) A person guilty of aggravated burglary shall be punished as follows–
+(2) A person guilty of aggravated burglary shall be punished
+
+*as follows–*
 
 (a) on conviction on indictment, to a term of imprisonment which shall not be less than ten years but which may extend to imprisonment for life;
 
@@ -3000,11 +3292,11 @@ the subject of a hiring agreement or hire-purchase agreement, means the person i
 
 (3) Section 145 of this Act shall apply for purposes of this section, with the necessary adaptation of the reference to appropriating, as it applies for purposes of section 139 of this Act.
 
-(4) For purposes of this section “deception” means any deception (whether deliberate or reckless) by words or conduct as to fact or as to law, including a deception as to the present intentions of the person using the deception or any other person.
+*(4) For deception*
 
-*Obtaining a money transfer by deception. 18 of 1998.*
+*Obtaining a 154.-(1) A money transfer dishonestly by deception. 18 of 1998.*
 
-**154.** (1) A person is guilty of an offence if by any deception he dishonestly obtains a money transfer for himself or another.
+purposes of this section “deception” means any (whether deliberate or reckless) by words or conduct as to fact or as to law, including a deception as to the present intentions of the person using the deception or any other person. person is guilty of an offence if by any deception he obtains a money transfer for himself or another.
 
 (2) A money transfer occurs when–
 
@@ -3014,9 +3306,11 @@ the subject of a hiring agreement or hire-purchase agreement, means the person i
 
 (c) the credit results from the debit or the debit results from the credit.
 
-(3) References to a credit and to a debit are to a credit of an amount of money and to a debit of an amount of money.
+*amount of*
 
-(4) It is immaterial (in particular)–
+*(4) It is*
+
+(3) References to a credit and to a debit are to a credit of an money and to a debit of an amount of money. immaterial (in particular)–
 
 (a) whether the amount credited is the same as the amount debited;
 
@@ -3050,7 +3344,9 @@ currency other than the currency of Belize.
 
 (6) A person guilty of an offence under this section shall be liable on conviction on indictment to imprisonment for a term not exceeding ten years.
 
-**155.** (1) A person is guilty of an offence if–
+*155.-(1) A*
+
+person is guilty of an offence if–
 
 *Dishonestly retaining a wrongful credit. 18 of 1998.*
 
@@ -3060,7 +3356,9 @@ a wrongful credit has been made to an account kept by him or in respect of which
 
 (c) he dishonestly fails to take such steps as are reasonable in the circumstances to secure that the credit is cancelled.
 
-(2) References to a credit are to a credit of an amount of money.
+(2) References to a credit are to a credit of an amount of
+
+*money.*
 
 (3) A credit to an account is wrongful if it is the credit side of a money transfer obtained contrary to section 154.
 
@@ -3074,9 +3372,15 @@ a wrongful credit has been made to an account kept by him or in respect of which
 
 (d) stolen goods.
 
-(5) In determining whether a credit to an account is wrongful, it is immaterial (in particular) whether the account is overdrawn before or after the credit is made.
+*(5) In*
 
-(6) A person guilty of an offence under this section shall be liable on conviction on indictment to imprisonment for a term not exceeding ten years.
+*overdrawn*
+
+determining whether a credit to an account is wrongful, it is immaterial (in particular) whether the account is before or after the credit is made.
+
+*liable on*
+
+(6) A person guilty of an offence under this section shall be conviction on indictment to imprisonment for a term not exceeding ten years.
 
 (7) Sub-section (8), applies for purposes of provisions of this Act relating to stolen goods (including sub-section (4).
 
@@ -3146,11 +3450,9 @@ some act to be done, on the understanding that the benefit has been or will be p
 
 (3) A person convicted summarily shall be liable to imprisonment for a term not exceeding six months; or to a fine not exceeding five hundred dollars, or to both such fine and term of imprisonment.
 
-**161.** For purposes of sections 157 and 158 “deception” has the
-
 *Supplementary.*
 
-same meaning as in section 153 of this Act, that is to say, it means any deception (whether deliberate or reckless) by words or conduct as to fact or as to law, including a deception as to the present intentions of the person using the deception or any other person, and section 163 (liability of company officers for offences by the company) shall apply in relation to sections 157 and 158 as it applies in relation to section 153.
+**161.** For purposes of sections 157 and 158 “deception” has the same meaning as in section 153 of this Act, that is to say, it means any deception (whether deliberate or reckless) by words or conduct as to fact or as to law, including a deception as to the present intentions of the person using the deception or any other person, and section 163 (liability of company officers for offences by the company) shall apply in relation to sections 157 and 158 as it applies in relation to section 153.
 
 *False accounting.*
 
@@ -3230,23 +3532,27 @@ defrauds any person by means of any false weight or measure, or by any false use
 
 (e) knowingly makes any false return or statement of any matter as to which he is required to make a return or statement for the purpose of any tax, rate or assessment.
 
-*Blackmail.*
+*Blackmail. 170.-(1) A*
 
-**170.** (1) A person is guilty of blackmail if, with a view to gain for himself or another or with intent to cause loss to another, he makes any unwarranted demand with menaces; and for this purpose a demand with menaces is unwarranted unless the person making it does so in the belief–
+*makes any purpose a*
+
+person is guilty of blackmail if, with a view to gain for himself or another or with intent to cause loss to another, he unwarranted demand with menaces; and for this demand with menaces is unwarranted unless the person making it does so in the belief–
 
 (a) that he has reasonable grounds for making the demand; and
 
 (b) that the use of the menaces is a proper means of reinforcing the demand.
 
-(2) The nature of the act or omission demanded is immaterial, and it is also immaterial whether the menaces relate to action to be taken by the person making the demand.
+*(2) The*
 
-*4 of 1987.*
+nature of the act or omission demanded is immaterial, and it is also immaterial whether the menaces relate to action to be taken by the person making the demand.
 
-(3) Any person guilty of blackmail shall on conviction on indictment be imprisoned for a term which shall not be less than seven years but which may extend to imprisonment for life.
+*4 of 1987. (3) Any*
 
-*Insider trading. 27 of 2013.*
+person guilty of blackmail shall on conviction on indictment be imprisoned for a term which shall not be less than seven years but which may extend to imprisonment for life.
 
-**170A.** (1) A person shall not, trade using inside information, or communicate inside information to others who will, or are likely to, trade in the inside information.
+*Insider trading. 170A. (1) A 27 of 2013.*
+
+person shall not, trade using inside information, or communicate inside information to others who will, or are likely to, trade in the inside information.
 
 (2) Any person who trades or aids and abets trading using inside information commits the offence of insider trading and is liable on conviction on indictment to a fine of not more than three times the profit gained or loss avoided as a result of the unlawful trade or communication or to imprisonment for a term of not less than two years and not exceeding ten years, or both.
 
@@ -3346,9 +3652,13 @@ what one might get, as well as a loss by parting with what one has;
 
 Forgery
 
-*Forgery of documents and securities.*
+*Forgery of*
 
-**175.** (1) Every person who–
+*175.-(1) Every*
+
+*documents and securities.*
+
+person who–
 
 (a) with intent to defraud, or with intent to defeat, obstruct or pervert the course of justice, forges any of the following documents, namely will, document of title to land, judicial record, power of attorney, bank note, bill of exchange, promissory note or negotiable instrument, policy of insurance, cheque or other authority for the payment of money by a person carrying on business as a banker or other valuable security;
 
@@ -3356,17 +3666,27 @@ Forgery
 
 (c) is convicted of being a common forger,
 
-shall be liable to imprisonment for life.
+*shall be liable to*
 
-*Forgery of official documents.*
+imprisonment for life.
 
-**176.** Every person who, with intent to defraud, or with intent to defeat, obstruct or pervert the course of justice or the execution of the law, forges any judicial or official document, shall be liable to imprisonment for ten years.
+*Forgery of*
 
-**177.** Every person who, with intent to defraud any person or
+*\176. Every*
+
+*official*
+
+*to defeat,*
+
+*documents.*
+
+*execution of the shall be liable to*
+
+person who, with intent to defraud, or with intent obstruct or pervert the course of justice or the law, forges any judicial or official document, imprisonment for ten years.
 
 *Forgery above twenty-five dollars.*
 
-persons to the amount or value of twenty-five dollars or upwards, forges any document or documents whatever not otherwise in this Title expressly mentioned, shall be liable to imprisonment for five years.
+**177.** Every person who, with intent to defraud any person or persons to the amount or value of twenty-five dollars or upwards, forges any document or documents whatever not otherwise in this Title expressly mentioned, shall be liable to imprisonment for five years.
 
 *Forgery of passport.*
 
@@ -3384,11 +3704,9 @@ persons to the amount or value of twenty-five dollars or upwards, forges any doc
 
 **181.** Every person who with intent to defraud, demands or accepts for himself or for any other person, any money or money’s worth as being due under or by virtue of any document which he knows to be forged, or not to be genuine, shall be liable to the same punishment as if he had forged such document with intent to defraud some person or persons of such money or money’s worth.
 
-**182.** Every person who with any of the intents mentioned in
-
 *Possessing false documents.*
 
-this Title has in his possession any document which is forged, counterfeited or falsified, or which he knows not to be genuine, shall be liable to the like punishment as if he had with that intent forged, counterfeited or falsified (as the case may be) such document.
+**182.** Every person who with any of the intents mentioned in this Title has in his possession any document which is forged, counterfeited or falsified, or which he knows not to be genuine, shall be liable to the like punishment as if he had with that intent forged, counterfeited or falsified (as the case may be) such document.
 
 *Procuring, making, etc., of documents by force, etc.*
 
@@ -3414,13 +3732,17 @@ shall be liable to imprisonment for ten years.
 
 **186.** Every person who with any of the intents mentioned in this Title has in his possession any current coin which is forged, counterfeited or falsified, or which he knows not to be genuine, shall be liable to the like punishment as if he had with that intent
 
-forged, counterfeited or falsified (as the case may be) such
+*forged, current coin.*
 
-*current coin.*
+counterfeited or falsified (as the case may be) such
 
-*Making, mending or having possession of any coining tools a felony.*
+*Making, 187. Every mending or*
 
-**187.** Every person who, without lawful authority or excuse (the proof whereof shall lie on the party accused)–
+*(the proof*
+
+*having possession of any coining tools a felony.*
+
+person who, without lawful authority or excuse whereof shall lie on the party accused)–
 
 (a) knowingly makes or mends, or begins or proceeds to make or mend, or buys or sells, or has in his custody or possession, any puncheon, counter puncheon, matrix, stamp, die, pattern or mould, in or upon which there is made or impressed, or which will make or impress, or which shall be adapted and intended to make or impress, the figure, stamp or apparent resemblance of both or either of the sides of any current coin or any part or parts of both or either of the sides of any current coin or any part or parts of both or either of such sides;
 
@@ -3486,15 +3808,25 @@ be lawful for the court to order the document in respect of which the offence wa
 
 **196.** Every person who, without lawful authority or excuse (the proof whereof shall lie on the person accused), makes use of or knowingly has in his possession any paper with any word, figure, device or distinction peculiar to and appearing in the substance of the paper used for currency notes or any material upon which the whole or part of any note purporting to resemble a currency note shall have been engraved or made or any facsimile of the signature of any person whose signature lawfully appears on notes still in circulation, shall be guilty of an offence, and shall on conviction be liable to imprisonment for a term not exceeding five years.
 
-**197.** Every person who, without lawful authority or excuse
+*\197. Every Mutilating or (the proof*
 
-*Mutilating or defacing currency notes.*
+*defacing*
 
-(the proof whereof shall lie on the person accused), mutilates, cuts, tears, or perforates with holes any currency note or in anyway defaces a currency note whether by writing, printing, drawing or stamping thereon, or by attaching or affixing thereto anything in the nature or form of an advertisement shall be liable on summary conviction to a fine not exceeding two hundred and fifty dollars.
+*cuts, tears, or currency notes.*
 
-*Making or having in possession paper or implements for forgery.*
+*drawing or anything in the on summary fifty dollars.*
 
-**198.** Every person who without lawful authority or excuse (the proof whereof shall lie on the accused)–
+person who, without lawful authority or excuse whereof shall lie on the person accused), mutilates, perforates with holes any currency note or in anyway defaces a currency note whether by writing, printing, stamping thereon, or by attaching or affixing thereto nature or form of an advertisement shall be liable conviction to a fine not exceeding two hundred and
+
+*\198. Every*
+
+*Making or having in*
+
+*(the proof*
+
+*possession paper or implements for forgery.*
+
+person who without lawful authority or excuse whereof shall lie on the accused)–
 
 (a) makes, uses or knowingly has in his custody or possession any paper intended to resemble and pass as the special paper used in the manufacture of currency notes;
 
@@ -3520,11 +3852,15 @@ commits an offence, and on conviction thereof be liable to imprisonment for a te
 
 **201.** Every person who, with intent to defraud, counterfeits or forges any die, stamp or impression or imports or exports or has in his possession, custody, power or control any counterfeited or forged die, stamp or impression used by the Financial Secretary to denote that the duty payable under any Act, has been paid, shall be liable to imprisonment for any term not exceeding ten years.
 
-Definitions and Special Provisions Relating to the Matter of this Title
+*Definitions*
 
-*Forgery explained.*
+and Special Provisions Relating to the Matter of this Title
 
-**202.** (1)The following provisions apply with respect to forgery, namely–
+*Forgery 202.-(1)The explained.*
+
+following provisions apply with respect to forgery,
+
+*namely–*
 
 (a) A person forges a document if he makes or alters such document or any material part thereof with intent to cause it to be believed either–
 
@@ -3534,7 +3870,9 @@ Definitions and Special Provisions Relating to the Matter of this Title
 
 (iii) that such document or part has been so made or altered at a time different from that at which it was in fact so made or altered,
 
-provided that a person who issues or uses any document which is exhausted or cancelled, with intent that it may pass or have effect as if it were not exhausted or cancelled, shall be deemed guilty of forging it.
+*provided which is have effect as deemed guilty*
+
+that a person who issues or uses any document exhausted or cancelled, with intent that it may pass or if it were not exhausted or cancelled, shall be of forging it.
 
 (b) The making or alteration of a document or part thereof by a person in his own name may be forgery if the making or alteration be with either of the intents mentioned in this section.
 
@@ -3550,29 +3888,37 @@ making or alteration be with one or other of the intents mentioned in this secti
 
 severance, interlineation or transposition, of or in a document, or of or in any material part thereto, and any other act or device whereby the purport, operation or validity of the document may be affected.
 
-(2) All the provisions of this section apply with respect to the forgery of a stamp or trade-mark in the same manner as with respect to the forgery of any document.
+*(2) All the the forgery of a respect to the*
 
-*Current coin, official document and currency notes defined.*
+provisions of this section apply with respect to stamp or trade-mark in the same manner as with forgery of any document.
 
-**203.** In this Title–
+*Current coin, official*
 
-“banknote” includes any note or bill of exchange of the Bank of England or of any other person, body corporate, or company carrying on the business of banking in any part of the world, and
+*In this*
+
+*document and currency notes*
+
+**203.** Title–
+
+*“banknote”*
+
+*defined.*
+
+*England or of carrying on the*
+
+includes any note or bill of exchange of the Bank of any other person, body corporate, or company business of banking in any part of the world, and
 
 includes “bank bill”, “bank post bill”, “blank bank note”, “blank bank bill of exchange” and “blank bank post bill”;
 
 “current coin” means any gold or silver coin or any other coin of any metal or mixed metal coined in or for any of Her Majesty’s mints, or lawfully current by virtue of any proclamation or otherwise in any part of Her Majesty’s dominions, whether within Belize or otherwise or lawfully current in any foreign country;
 
-“currency notes” means currency notes issued by the Board of Commissioners of Currency under the provisions of the Currency Notes Ordinance, or by the Directors of the Central
-
 *CAP. 50 R.E.*
 
-Bank of Belize under the provisions of the Central Bank of
-
-1958.
+“currency notes” means currency notes issued by the Board of Commissioners of Currency under the provisions of the Currency Notes Ordinance, or by the Directors of the Central Bank of Belize under the provisions of the Central Bank of
 
 *CAP. 262.*
 
-Belize Act, and any bank note and any notes issued by or on behalf of the Government of any country outside Belize and which are legal tender in the country in which they were issued.
+**1958.** Belize Act, and any bank note and any notes issued by or on behalf of the Government of any country outside Belize and which are legal tender in the country in which they were issued.
 
 “official document” means any document purporting to be made, used or issued by any public officer for any purpose relating to his office;
 
@@ -3642,19 +3988,29 @@ publishes any words or document with a seditious intention; or
 
 (c) without lawful excuse, is found in possession of a document containing a seditious intention,
 
-shall be liable on conviction on indictment to imprisonment for two years and on summary conviction to imprisonment for one year.
+*shall be liable two years and year.*
 
-(2) No proceedings shall be instituted under this section without the consent of the Director of Public Prosecutions.
+on conviction on indictment to imprisonment for on summary conviction to imprisonment for one
 
-(3) For the purposes of this section “publish”–
+*(2) No without the*
+
+proceedings shall be instituted under this section consent of the Director of Public Prosecutions.
+
+*(3) For the*
+
+purposes of this section “publish”–
 
 (a) in the case of spoken words, means to utter words or reproduce words by mechanical means at a public gathering or in a public street or any other place to which the public has access, or in such a way that they may be heard by persons in any street or place;
 
 (b) in the case of writings, drawings, pictures, photographs or images, means to distribute them to a number of persons, or exhibit them in such a way that they may be seen by persons in a public street or in any other place to which the public has access, or to sell or expose or offer them for sale in any place.
 
-*Seditious intention.*
+*215.-(1) For the Seditious*
 
-**215.** (1) For the purposes of section 214, a “seditious intention” is an intention–
+*intention.*
+
+purposes of section 214, a “seditious intention”
+
+*is an intention–*
 
 (a) to bring into hatred or contempt or to excite disaffection against the person of Her Majesty, or against the Governor-General in his official capacity or the Government of Belize, as by law established or the administration of justice;
 
@@ -3676,9 +4032,11 @@ to incite or excite inhabitants of Belize to attempt to procure the alteration o
 
 that there are errors or defects in the constitution or Government of Belize as by law established or in the administration of justice.
 
-*On proof of certain facts principal not liable for the acts of his agents.*
+*On proof of 216. On the certain facts*
 
-**216.** On the trial of any person as principal for publication by his agent of words alleged to have a seditious intention as defined in section 215 such person shall be entitled to be discharged if he proves that–
+*his agent of principal not liable for the acts defined in of his agents.*
+
+trial of any person as principal for publication by words alleged to have a seditious intention as section 215 such person shall be entitled to be discharged if he proves that–
 
 (a) the publication was made without his authority, consent or knowledge;
 
@@ -3686,21 +4044,25 @@ that there are errors or defects in the constitution or Government of Belize as 
 
 (c) he did everything in his power to assist in ascertaining the identity of the person responsible for writing and publishing respectively such words.
 
-*Defaming Her Majesty.*
+*Defaming Her 217. Every Majesty.*
 
-**217.** Every person who with intent to bring Her Majesty into hatred, ridicule or contempt, publishes any defamatory or insulting matter, whether by writing, print, word of mouth or in any other manner concerning Her Majesty, is guilty of a misdemeanour.
+*any other*
 
-*Aiding escape of prisoner of war.*
+person who with intent to bring Her Majesty into hatred, ridicule or contempt, publishes any defamatory or insulting matter, whether by writing, print, word of mouth or in manner concerning Her Majesty, is guilty of a misdemeanour.
 
-**218.** Every person who–
+*Aiding escape of Every prisoner of war.*
+
+**218.** person who–
 
 (a) intentionally and unlawfully aids or permits the escape of prisoner of war shall be liable to imprisonment for ten years;
 
 (b) negligently and unlawfully permits the escape of a prisoner of war shall be liable to imprisonment for two years.
 
-*Abetment of mutiny.*
+*Abetment of 219. Every mutiny.*
 
-**219.** Every person who, not being subject to any Articles of War or Articles of the Navy or the Air Force, abets the
+*War or*
+
+person who, not being subject to any Articles of Articles of the Navy or the Air Force, abets the
 
 commission of mutiny by a person subject to such Articles, shall be liable to imprisonment for twenty years.
 
@@ -3888,25 +4250,35 @@ other document which he is authorised or required to make, attest, verify or kee
 
 (c) in any oral declaration or oral answer which he is required to make by, under or in pursuance of any Act or other law for the time being in force,
 
-he shall be guilty of a misdemeanour and be liable on conviction thereof to imprisonment for any term not exceeding two years, or to a fine not exceeding five hundred dollars, or to both such fine and term of imprisonment.
+*he shall be thereof to*
 
-*Perjury for the purpose of defrauding by personation.*
+guilty of a misdemeanour and be liable on conviction imprisonment for any term not exceeding two years, or to a fine not exceeding five hundred dollars, or to both such fine and term of imprisonment.
 
-**253.** Every person who commits perjury or abets perjury, in furtherance of any purpose or conspiracy to defraud by personation, shall be liable to imprisonment for life.
+*Perjury for the 253. Every purpose of defrauding by personation. personation,*
 
-*Fabrication of evidence.*
+person who commits perjury or abets perjury, in furtherance of any purpose or conspiracy to defraud by shall be liable to imprisonment for life.
 
-**254.** Every person who fabricates false evidence, with intent to defeat, obstruct or pervert, the course of justice in any proceeding, shall be liable to the same penalties as if he had committed perjury in that proceeding.
+*Fabrication of 254. Every evidence.*
 
-*Contradicting previous evidence.*
+*to defeat, proceeding, committed*
 
-**255.** (1) Every person who, having given evidence on oath at a preliminary inquiry–
+person who fabricates false evidence, with intent obstruct or pervert, the course of justice in any shall be liable to the same penalties as if he had perjury in that proceeding.
+
+*Contradicting previous*
+
+*preliminary*
+
+*evidence.*
+
+**255.** (1) Every person who, having given evidence on oath at a inquiry–
 
 (a) wilfully gives at the trial evidence which contradicts the evidence given by him upon the same subject-matter at the preliminary inquiry; or
 
 (b) wilfully varies or alters at the trial the evidence given by him upon the same subject-matter at the preliminary inquiry,
 
-with intent unlawfully to shield or injure any person, or to deceive the court or to defeat, obstruct or pervert the course of
+*with intent deceive the*
+
+unlawfully to shield or injure any person, or to court or to defeat, obstruct or pervert the course of
 
 justice, shall be guilty of a misdemeanour punishable either on indictment or summarily,
 
@@ -4106,15 +4478,27 @@ Crimes Relating to Public Offices and Public Elections
 
 **283.** Every person who in order that he may obtain or be qualified to act in any public office, or to vote at a public election, makes, signs, publishes or uses any declaration, statement or oath, required by law in such case, or any certificate or testimonial as to his conduct or services, or as to any other matter which is material for the obtaining by him of such office, or for his qualification to act in such office, or to vote at such election, shall, if he does so knowing that such declaration,
 
-statement, oath, certificate or testimonial is false in any material particular, be liable to imprisonment for two years.
+*particular, be*
 
-*Corruption, oppression and extortion. 27 of 2013.*
+statement, oath, certificate or testimonial is false in any material liable to imprisonment for two years.
 
-**284.** (1) Every public officer or juror who is guilty of corruption or of wilful oppression or of extortion in respect of the duties of his office, shall be liable to imprisonment for three years.
+*Corruption,*
+
+*284.-(1) Every*
+
+*oppression and*
+
+*or of wilful*
+
+*extortion. 27 of 2013.*
+
+public officer or juror who is guilty of corruption oppression or of extortion in respect of the duties of his office, shall be liable to imprisonment for three years.
 
 *27 of 2013.*
 
-(2) Every person, other than a public officer or juror, who is guilty of corruption or of wilful oppression or of extortion, shall be liable to imprisonment for three years.
+*(2) Every guilty of be liable to*
+
+person, other than a public officer or juror, who is corruption or of wilful oppression or of extortion, shall imprisonment for three years.
 
 *27 of 2013.*
 
@@ -4128,7 +4512,11 @@ statement, oath, certificate or testimonial is false in any material particular,
 
 *False certificates.*
 
-**285.** Every public officer, who being bound or authorised as such officer to attest or certify by writing or otherwise any document or matter, or that an event has or has not happened, attests or certifies–
+*\285. Every*
+
+*document or attests or*
+
+public officer, who being bound or authorised as such officer to attest or certify by writing or otherwise any matter, or that an event has or has not happened, certifies–
 
 such document or matter knowing it to be false in any material particular; or
 
@@ -4228,11 +4616,9 @@ any office, including any commissionerships, the power of appointing to which or
 
 (7) “Public election” means any election the qualification for voting at which, or the mode of voting at which, is determined by or regulated by law.
 
-**300.** For the purpose of section 293, “corrupt bargain or
-
 *Corrupt bargains or transactions.*
 
-transaction” includes any agreement for the giving or receipt by any person of any valuable consideration for nominating or appointing a person to an office, or for procuring, soliciting or recommending the nomination or appointment of a person to an office, or for resigning or procuring the resignation of an office, or for any promise, offer or endeavour to do any such act as hereinbefore in this section mentioned, and includes any agreement for paying to any person, or permitting any person to retain or receive, the whole or any part of the salary, fees or other remuneration or benefits of an office.
+**300.** For the purpose of section 293, “corrupt bargain or transaction” includes any agreement for the giving or receipt by any person of any valuable consideration for nominating or appointing a person to an office, or for procuring, soliciting or recommending the nomination or appointment of a person to an office, or for resigning or procuring the resignation of an office, or for any promise, offer or endeavour to do any such act as hereinbefore in this section mentioned, and includes any agreement for paying to any person, or permitting any person to retain or receive, the whole or any part of the salary, fees or other remuneration or benefits of an office.
 
 *Corruption of officer, etc., explained.*
 
@@ -4380,13 +4766,25 @@ provided that the punishment on summary conviction shall not exceed imprisonment
 
 **326.** Every person who wantonly tortures, or wantonly and cruelly ill-uses, any animal shall be liable, on indictment or summary conviction, to imprisonment for six months.
 
-*Selling unwholesome food.*
+*\327. Every*
 
-**327.** Every person who sells, or prepares or offers for sale, as being fit for consumption as food or drink, anything which he knows or has reason to believe to be in such a condition from putrefaction, adulteration, or other cause, as to be likely to be noxious to health, is guilty of a misdemeanour.
+*Selling unwholesome*
 
-*Noxious trades and other interferences with public rights.*
+*being fit for*
 
-**328.** Every person who without any lawful authority or excuse (the proof whereof shall lie upon him) commits any of the following nuisances, namely–
+*food.*
+
+*knows or has putrefaction, noxious to*
+
+person who sells, or prepares or offers for sale, as consumption as food or drink, anything which he reason to believe to be in such a condition from adulteration, or other cause, as to be likely to be health, is guilty of a misdemeanour.
+
+*Noxious trades 328. Every and other*
+
+*(the proof interferences*
+
+*with public following rights.*
+
+person who without any lawful authority or excuse whereof shall lie upon him) commits any of the nuisances, namely–
 
 (a) so carries on any noxious, offensive or noisy business at any place, or causes or permits any noxious or offensive matter to be collected or continue at any place, or so keeps any animals at any place as to impair or endanger the health of the public inhabiting or using the neighbourhood of such place, or as to cause material damage to the lands, crops or cattle or goods of such public, or as to cause material interruption to such public in their lawful business or occupations, or as to materially affect the value of their property;
 
@@ -4398,9 +4796,13 @@ provided that the punishment on summary conviction shall not exceed imprisonment
 
 (e) corrupts or fouls the water of any public well, tank, spring or reservoir, shall be liable on summary conviction to a fine not exceeding two hundred dollars, and shall, upon conviction for a continuance or repetition of any such offence, be liable to imprisonment for six months.
 
-*Piracy. 27 of 2013.*
+*Piracy.*
 
-**328A.** A person who commits–
+*328A. A person*
+
+*27 of 2013.*
+
+who commits–
 
 (a) any illegal acts of violence or detention or any act of depredation committed for private ends, and directed
 
@@ -4416,11 +4818,15 @@ provided that the punishment on summary conviction shall not exceed imprisonment
 
 conviction on indictment to imprisonment for life.
 
-Definitions and Special Provisions Relating to the Matter of this Title
+*Definitions*
+
+and Special Provisions Relating to the Matter of this Title
+
+*For the*
 
 *Interpretation.*
 
-**329.** For the purpose of this Title–
+**329.** purpose of this Title–
 
 expressions referring to the “the public” refer (a)
 
@@ -4442,13 +4848,25 @@ place, street, bridge or other way which is lawfully used by the public;
 
 public way, building, place or conveyance, to which for the time being the public are entitled or permitted to have access, either without any condition or upon condition of making any payment, and any building or place which is for the time being used for any public or religious meeting or assembly, or as an open court.
 
-*Obstruction of public way.*
+*Obstruction of*
 
-**330.** A person shall not be deemed to be guilty, within the meaning of this Title, of obstructing the public use of any public way or work by reason only of his being a party to any meeting or assembled in or upon or near any public way or work, unless the purposes of such assembly be or include the obstruction of the public by force or threats or show of force.
+*\330. A*
 
-*Explanation as to noxious trades.*
+*public way.*
 
-**331.** The following provisions shall have effect with respect to the nuisance of carrying on a noxious, offensive, or noisy business at any place, or of causing or permitting noxious or offensive matter to be collected or continue at any place, or of keeping animals at any place as mentioned in this Title, namely–
+*meaning of this way or work by or assembled in the purposes of the public by*
+
+person shall not be deemed to be guilty, within the Title, of obstructing the public use of any public reason only of his being a party to any meeting or upon or near any public way or work, unless such assembly be or include the obstruction of force or threats or show of force.
+
+*Explanation as to*
+
+*\331. The*
+
+*noxious trades.*
+
+*to the nuisance business at any offensive matter keeping animals*
+
+following provisions shall have effect with respect of carrying on a noxious, offensive, or noisy place, or of causing or permitting noxious or to be collected or continue at any place, or of at any place as mentioned in this Title, namely–
 
 “business” includes not only any trade, (a)
 
@@ -4456,9 +4874,15 @@ manufacture, work, business or occupation, carried on for gain, but also any con
 
 (b) it is necessary in order that a person may be punishable in respect of any such nuisance, that the prejudice of danger caused thereby should extend to persons, inhabiting or occupying, under separate tenancies, not less than three houses or other tenements.
 
-*Medico - legal form.*
+*Medico - legal*
 
-**332.** (1) Subject to subsection (4) of this section, the medicolegal form set out in the Schedule to this Act shall be used by members of the Belize Police Department and medical
+*332.-(1) Subject*
+
+*form.*
+
+*legal form set members of*
+
+to subsection (4) of this section, the medico-out in the Schedule to this Act shall be used by the Belize Police Department and medical
 
 practitioners in the investigation and reporting of cases relating to child abuse, sexual abuse, and offences specified in Parts V, VI and VII of this Code.
 
@@ -4692,9 +5116,11 @@ Position: □ Body on back with hips and knees flexed and thighs apart □ Stand
 
 ### GRAPHIC DESCRIPTION OF INJURY(IES) (VAGINA)
 
-### SUMMARY REPORT COMPLAINANT’S NAME
+### [CAP. SUMMARY REPORT COMPLAINANT’S NAME
 
-General inspection (cleanliness/blood/staining/etc.) _______________________________________________ _______________________________________________ _______________________________________________ _______________________________________________ General injuries (bruises/torn and ragged wounds/scratches/etc.)
+General inspection (cleanliness/blood/staining/etc.)
+
+_______________________________________________ _______________________________________________ _______________________________________________ _______________________________________________ General injuries (bruises/torn and ragged wounds/scratches/etc.)
 
 _______________________________________________ _______________________________________________ _______________________________________________ _______________________________________________ Genital examination (classification of injury optional) _______________________________________________ _______________________________________________ _______________________________________________ _______________________________________________ Anal examination
 
@@ -4716,9 +5142,13 @@ _______________________________________________ ________________________________
 
 Declaration:
 
-This report of the physical examination is true to the best of my knowledge and belief, and I file it knowing that it is tendered in evidence and that I may be liable to prosecution if I have stated in it, anything which I either know to be false, or do not believe to be true.
+*in*
+
+This report of the physical examination is true to the best of my knowledge and belief, and I file it knowing that it is tendered evidence and that I may be liable to prosecution if I have stated in it, anything which I either know to be false, or do not believe to be true.
 
 Date of examination ________________________ Preparation Date of report____________________ Name of Examining Physician_________________ Signature __________________________________
+
+### REVISED EDITION
 
 Definitions of Harm (CAP. 84 § 92 of the Criminal Code
 

@@ -58,6 +58,8 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 **9.** Regulations.
 
+[CAP. 39:02 National Forensic Science Service
+
 ### NATIONAL FORENSIC SCIENCE SERVICE
 
 [1st January, 2008] 13 of 2004.
@@ -88,6 +90,8 @@ S.I.140 of 2007.
 
 (a) provision of an impartial, reliable and efficient forensic science service based on established scientific principles;
 
+National Forensic Science Service
+
 (b) assisting law enforcement agencies, in particular, the Police Department, in criminal investigations by providing scientific evidence used by the judicial system for the due administration of justice;
 
 (c) examining and determining the nature of seized substances using the classification specified in the Misuse of Drugs Act, Cap. 103;
@@ -98,15 +102,33 @@ S.I.140 of 2007.
 
 (f) increasing the participation of the Service in criminal investigations in conjunction with the Police Department by improving and establishing analytical methodologies through the acquisition of necessary instrumentation and training.
 
-(2) The Minister may by Order published in the Gazette require the Service to perform and provide additional duties and functions not specified in subsection (1) of this section, where such additional duties and functions will, in his opinion, facilitate the more efficient administration of this Act.
+*(2) The require the*
 
-*Appointment and duties of Executive Director.*
+*where such facilitate the*
 
-**5.** (1) There shall be appointed an Executive Director who shall be responsible for the administration of this Act and for the efficient conduct and administration of the Service.
+Minister may by Order published in the Gazette Service to perform and provide additional duties and functions not specified in subsection (1) of this section, additional duties and functions will, in his opinion, more efficient administration of this Act.
 
-(2) The Executive Director shall be appointed by the Public Services Commission pursuant to section 106 of the Belize Constitution, Cap. 4 and without prejudice to the generality of
+*Appointment and*
 
-subsection (1) above, shall perform and discharge the following duties and functions, namely,
+*5.-(1) There*
+
+*duties of*
+
+*shall be*
+
+*Executive Director.*
+
+*the efficient*
+
+shall be appointed an Executive Director who responsible for the administration of this Act and for conduct and administration of the Service.
+
+*(2) The Services Constitution,*
+
+Executive Director shall be appointed by the Public Commission pursuant to section 106 of the Belize Cap. 4 and without prejudice to the generality of
+
+*subsection (1) following duties*
+
+above, shall perform and discharge the and functions, namely,
 
 (a) having primary responsibility for the use of all monies appropriated to the Service from time to time by the National Assembly;
 
@@ -144,9 +166,9 @@ subsection (1) above, shall perform and discharge the following duties and funct
 
 exceeding five thousand dollars, or to imprisonment for a term not exceeding one year, or to both such fine and imprisonment.
 
-*Regulations.*
+*Regulations. 9.-(1) The*
 
-**9.** (1) The Minister may make Regulations generally for the better carrying out of the provisions of this Act and, without prejudice to the generality of the foregoing, may make Regulations in respect of any or all of the following,
+Minister may make Regulations generally for the better carrying out of the provisions of this Act and, without prejudice to the generality of the foregoing, may make Regulations in respect of any or all of the following,
 
 (a) the training to be carried out by officers and employees of the Service;
 
@@ -156,7 +178,9 @@ exceeding five thousand dollars, or to imprisonment for a term not exceeding one
 
 (d) generally for the better administration of the Service.
 
-(2) Regulations made by the Minister under this section shall be subject to negative resolution of the House of Representatives.
+*shall be*
+
+(2) Regulations made by the Minister under this section subject to negative resolution of the House of Representatives.
 
 (b) the establishment of forensic procedures and the circumstances for carrying out such training;
 
@@ -164,4 +188,6 @@ exceeding five thousand dollars, or to imprisonment for a term not exceeding one
 
 (d) generally for the better administration of the Service.
 
-(2) Regulations made by the Minister under this section shall be subject to negative resolution of the House of Representatives.
+*shall be*
+
+(2) Regulations made by the Minister under this section subject to negative resolution of the House of Representatives.

@@ -434,21 +434,31 @@ an asset acquired for the principal purpose of resale in the ordinary course of 
 
 (b) a lease, other than a lease of land, that is treated as a finance lease under international financial reporting standards;
 
-“gambling event” means–
+*“gambling*
+
+event” means–
 
 the conduct of a lottery or raffle, or similar undertaking; or
 
 (b) a race, game, sporting event, or any other event which has or is intended to have an outcome;
 
-“gambling supply” means–
+*“gambling*
+
+supply” means–
 
 (a) a supply of a ticket (however described) in a lottery, raffle or similar undertaking; or
 
 (b) the acceptance of a bet (however described) relating to the outcome of a gambling event;
 
-“goods” means any tangible property, whether real or personal, but does not include money;
+“goods” means
 
-“government entity” means–
+*but does not*
+
+any tangible property, whether real or personal, include money;
+
+*“government*
+
+entity” means–
 
 (a) the Government of Belize or a Department, Division, or Agency of Government;
 
@@ -456,27 +466,45 @@ the conduct of a lottery or raffle, or similar undertaking; or
 
 (c) a Government owned or operated body, or agency;
 
-“GST” or “general sales tax” means the tax imposed under this Act, and includes any amount to the extent that it is treated as GST for the purposes of this Act, including interest or a penalty payable under this Act, and the absence of a specific reference to the inclusion of such amounts in a particular provision should not be taken to imply that they are not included in the GST referred to in that section;
+*“GST” or Act, and GST for the*
 
-“GST return” means a return required by section 30;
+*referred to in*
+
+“general sales tax” means the tax imposed under this includes any amount to the extent that it is treated as purposes of this Act, including interest or a penalty payable under this Act, and the absence of a specific reference to the inclusion of such amounts in a particular provision should not be taken to imply that they are not included in the GST that section;
+
+*“GST return”*
+
+means a return required by section 30;
+
+*“importer”, in*
 
 *CAP. 48.*
 
-“importer”, in relation to an import of goods, means the person treated as the importer for the purposes of the Customs and Excise Duties Act;
+*treated as the Excise Duties*
 
-“individual” means a natural person;
+relation to an import of goods, means the person importer for the purposes of the Customs and Act;
 
-“input tax”–
+*“individual”*
+
+means a natural person;
+
+*“input tax”–*
 
 (a) in relation to an acquisition of goods or services by a person, means the GST imposed on the supply to that person of those goods or services; and
 
 (b) in relation to an import of goods by a person, means the GST imposed on that import; and includes any amount that is treated as input tax under this Act or the Regulations;
 
-“input tax credit” means a credit for input tax allowed under section 32 or under any other provision of this Act or the Regulations;
+*“input tax section 32 or Regulations;*
+
+credit” means a credit for input tax allowed under under any other provision of this Act or the
+
+*“international*
 
 *19 of 2018.*
 
-“international transport” means the supply of the following types of services–
+*types of*
+
+transport” means the supply of the following services–
 
 (a) the services, other than ancillary transport services in relation to passengers, of transporting passengers by road, water or air–
 
@@ -490,13 +518,13 @@ the conduct of a lottery or raffle, or similar undertaking; or
 
 (c) the services of insuring, arranging for the insurance of, or arranging for the transport of passengers or goods to which paragraphs (a) or (b) apply;
 
-“invoice” means a document notifying an obligation to make a
+*“invoice” means payment;*
 
-*payment;*
+a document notifying an obligation to make a
 
-“Minister” means the Minister for the time being responsible for
+*“Minister” Finance;*
 
-*Finance;*
+means the Minister for the time being responsible for
 
 *“money” means–*
 
@@ -564,13 +592,21 @@ a person that provides entertainment on a daily basis or a weekly basis; or
 
 (d) a church incorporated by statute or registered under the Non-Governmental Organisations Act;
 
-“real property” includes an estate, interest, easement, or right, whether equitable or legal, in, to, or out of land, and includes things attached to land or permanently fastened to anything attached to land;
+*whether*
 
-“recipient”, in relation to a supply of goods or services, means the person to whom the goods or services are supplied;
+“real property” includes an estate, interest, easement, or right, equitable or legal, in, to, or out of land, and includes things attached to land or permanently fastened to anything attached to land;
 
-“registered” means registered under Part III, Division 2 of this Act; “related person” has the meaning given in section 7;
+*the person to*
 
-“resident” means–
+“recipient”, in relation to a supply of goods or services, means whom the goods or services are supplied;
+
+*“registered” Act; “related*
+
+means registered under Part III, Division 2 of this person” has the meaning given in section 7;
+
+*“resident”*
+
+means–
 
 *CAP. 55.*
 
@@ -580,7 +616,9 @@ a person that provides entertainment on a daily basis or a weekly basis; or
 
 (c) any other person to the extent that the person carries on a business in Belize;
 
-“residential premises” means a building occupied or capable of being occupied as a residence, but not including hotel or holiday accommodation;
+*“residential*
+
+premises” means a building occupied or capable of being occupied as a residence, but not including hotel or holiday accommodation;
 
 “Schedule” means a Schedule to this Act;
 
@@ -610,7 +648,9 @@ a person that provides entertainment on a daily basis or a weekly basis; or
 
 “Taxpayer Identification Number” or “TIN”, in relation to a registered person, means the unique identifying number shown
 
-on the certificate of registration issued to that person under section 27;
+*on the section 27;*
+
+certificate of registration issued to that person under
 
 “tax invoice” means a tax invoice given under section 36;
 
@@ -634,13 +674,15 @@ on the certificate of registration issued to that person under section 27;
 
 (d) any other kind of supply;
 
-“value”–
+*“value”–*
 
 (a) in relation to an import, has the meaning given in section 13; and
 
 in relation to a supply, has the meaning in section 19;
 
-“voucher” means a voucher, stamp, token, coupon, or similar article, including an article issued electronically, that can be redeemed by the holder for supplies of goods or services, and includes a phone card but does not include a postage stamp;
+*“voucher” article, redeemed by*
+
+means a voucher, stamp, token, coupon, or similar including an article issued electronically, that can be the holder for supplies of goods or services, and includes a phone card but does not include a postage stamp;
 
 “zero-rated”, in relation to a supply or import, means–
 
@@ -652,7 +694,9 @@ in relation to a supply, has the meaning in section 19;
 
 *Definition of a business.*
 
-**3.** (1) For the purpose of this Act, a “business” is taken to include the following activities, whether or not carried on for pecuniary profit–
+*include the pecuniary*
+
+**3.** (1) For the purpose of this Act, a “business” is taken to following activities, whether or not carried on for profit–
 
 (a) a trade, profession or vocation;
 
@@ -662,7 +706,9 @@ in relation to a supply, has the meaning in section 19;
 
 (d) an activity involving the admission of persons to any premises.
 
-(2) The following activities shall not be considered to constitute a business or part of a business–
+*(2) The constitute a*
+
+following activities shall not be considered to business or part of a business–
 
 the supply to its members, by a body having objects in the public domain that are of a political, religious, philanthropic, philosophical, or patriotic nature, of the right to participate in its management or receive reports on its activities;
 
@@ -716,7 +762,9 @@ the grant, assignment, termination, or surrender of a right;
 
 (h) anything that is deemed to be a supply of services by this Act or by Regulations.
 
-(3) A progressive or periodic supply is treated as a series of separate supplies as follows–
+*(3) A separate*
+
+progressive or periodic supply is treated as a series of supplies as follows–
 
 (a) if the supply is made progressively or periodically under an agreement or law that provides for progressive or periodic payments–
 
@@ -730,7 +778,9 @@ if such parts are not readily identifiable, each separate supply corresponds to 
 
 (ii) in any other case, each separate supply corresponds to each tax period, to the extent that the period of the lease or hire occurs during that tax period.
 
-(4) If a taxable person–
+*(4) If a*
+
+taxable person–
 
 (a) applies goods or services wholly to a private or exempt use; or
 
@@ -738,9 +788,13 @@ if such parts are not readily identifiable, each separate supply corresponds to 
 
 (c) the taxable person is or has been allowed an input tax credit in respect of part or all of the input tax incurred on the acquisition or importation of the goods or services,
 
-the application is treated as a supply of the goods or services by the taxable person.
+*the application the taxable*
 
-(5) A supply of goods or services (“referred to in this section as the incidental supply”) that is ancillary or incidental to another supply of goods or services (“referred to in this section
+is treated as a supply of the goods or services by person.
+
+*(5) A supply as the another supply*
+
+of goods or services (“referred to in this section incidental supply”) that is ancillary or incidental to of goods or services (“referred to in this section
 
 as the principal supply”), is part of the supply of principal supply.
 
@@ -762,15 +816,29 @@ determined on the basis of the market conditions, including the registration sta
 
 (2) For the purpose of sub-section (l)(b), one supply is similar to another if it is the same as, or closely resembles, the
 
-other supply in character, quality, quantity, functionality, materials, and reputation.
+*other supply*
 
-(3) If the fair market value of a supply cannot be determined under sub-section (1), it may be determined using any method approved by the Commissioner for calculating an objective approximation of the consideration the supply would fetch in an open market transaction freely made between unrelated persons.
+in character, quality, quantity, functionality, materials, and reputation.
 
-(4) If a provision of this Act requires the fair market value to be determined for particular goods or services, or for an asset held by a person, that value is worked out under this section by reference to the value that a supply of those goods or services, or that asset, would fetch in a transaction freely made under appropriate market conditions.
+*under approved by*
+
+*open market*
+
+(3) If the fair market value of a supply cannot be determined sub-section (1), it may be determined using any method the Commissioner for calculating an objective approximation of the consideration the supply would fetch in an transaction freely made between unrelated persons.
+
+*(4) If a*
+
+*held by a*
+
+*or that asset, appropriate*
+
+provision of this Act requires the fair market value to be determined for particular goods or services, or for an asset person, that value is worked out under this section by reference to the value that a supply of those goods or services, would fetch in a transaction freely made under market conditions.
 
 *Definition of related persons.*
 
-**7.** (1) Persons are “related persons” if–
+are “related persons” if–
+
+**7.** (1) Persons
 
 they are officers or directors of one another’s (a)
 
@@ -796,29 +864,35 @@ owns 25 per cent or more of the rights to distributions of income or capital by 
 
 (i) in the case of a trust, they are the trust and a person who is or may be a beneficiary of that trust or whose relative is or may be a beneficiary of the trust.
 
-(2) Persons who are associated in business with one another in that one is the sole agent, sole distributor, or sole concessionaire, however described, of the other are related persons only if they fall within the criteria set out in sub-section (1).
+*(2) Persons in that one is concessionaire, persons only if (1).*
 
-(3) For the purposes of this section, one person controls another if the former is legally or operationally in a position to exercise restraint or direction over the latter.
+who are associated in business with one another the sole agent, sole distributor, or sole however described, of the other are related they fall within the criteria set out in sub-section
+
+*(3) For the another if the exercise*
+
+purposes of this section, one person controls former is legally or operationally in a position to restraint or direction over the latter.
 
 ## PART II
 
-Imposition of General Sales Tax and Taxable Importations
+*Imposition of*
 
-A tax, to be known as “general sales tax” or “GST”, shall
+*A tax, to*
+
+General Sales Tax and Taxable Importations be known as “general sales tax” or “GST”, shall
 
 8.
 
-*Imposition of GST.*
+*Imposition of be charged in GST.*
 
-be charged in accordance with this Act on–
+accordance with this Act on–
 
 (a) taxable importations; and
 
 (b) taxable supplies.
 
-*Rate of tax.*
+*Rate of tax. 9.–(1) The rate importation is–*
 
-**9.** (1) The rate of GST applicable to a taxable supply or importation is–
+of GST applicable to a taxable supply or
 
 *15 of 2010. Schedule I. Schedule II. Schedule III.*
 
@@ -826,11 +900,13 @@ be charged in accordance with this Act on–
 
 (b) in any other case, 12.5%.
 
-(2) The rate of tax specified in sub-section (1)(b) of this section may from time to time be varied by the Minister by Order published in the Gazette and every such Order shall be subject to negative resolution.
+*(2) The rate section may Order published subject to*
 
-*Person liable.*
+of tax specified in sub-section (1)(b) of this from time to time be varied by the Minister by in the Gazette and every such Order shall be negative resolution.
 
-**10.** The GST payable–
+*Person liable. The GST*
+
+**10.** payable–
 
 (a) on a taxable supply, is the liability of the supplier and must be accounted for to the Commissioner in accordance with the formula in section 31, unless otherwise specified; and
 
@@ -976,19 +1052,31 @@ payment in respect of the construction of the building to that stage is made; or
 
 (c) payment in respect of the construction of the building to that stage becomes due,
 
-except that the proportion of the supply to which the deposit, if any, relates shall be regarded as taking place at the time the deposit is paid.
+*except that the any, relates deposit is paid.*
 
-(5) The time at which an acquisition occurs is the time at which the corresponding supply occurs.
+proportion of the supply to which the deposit, if shall be regarded as taking place at the time the
+
+*which the*
+
+(5) The time at which an acquisition occurs is the time at corresponding supply occurs.
+
+*19.–(1) In this*
 
 *Value of supply.*
 
-**19.** (1) In this section, “tax fraction”, in relation to a taxable supply, means the fraction calculated in accordance with the following formula–
+*supply, means following*
+
+section, “tax fraction”, in relation to a taxable the fraction calculated in accordance with the formula–
 
 R/ (100+R)
 
-where R is the rate of GST applicable to the supply as
+*where R is the*
 
-(2) Subject to this section–
+rate of GST applicable to the supply as
+
+*(2) Subject*
+
+to this section–
 
 (a) the value of a taxable supply is the consideration for the supply reduced by an amount equal to that sum multiplied by the tax fraction;
 
@@ -996,7 +1084,9 @@ where R is the rate of GST applicable to the supply as
 
 (c) the value of a supply that is partly taxable is the consideration for the supply, minus the tax fraction of the part of the consideration that relates to the taxable part of the supply.
 
-(3) Where the recipient of the supply stands in such a relationship as affects or could reasonably be expected to affect
+*(3) Where relationship as*
+
+the recipient of the supply stands in such a affects or could reasonably be expected to affect
 
 the amount of the consideration, the value of the supply is the GST-exclusive fair market value of the supply.
 
@@ -1016,15 +1106,23 @@ Provided that, if only part of the input tax for the original acquisition or imp
 
 (6) Except as provided otherwise, the value of a supply of goods or services for no consideration is nil.
 
-(7) The value of an unconditional gift given to an approved non-profit body is nil if anything received by the donor as a consequence of the gift is of insignificant value, such as a recognition or acknowledgement of the gift.
+*(7) The*
 
-(8) The Regulations may specify or vary the way in which the value of a particular kind of supply is determined.
+value of an unconditional gift given to an approved non-profit body is nil if anything received by the donor as a consequence of the gift is of insignificant value, such as a recognition or acknowledgement of the gift.
+
+*(8) The*
+
+Regulations may specify or vary the way in which the value of a particular kind of supply is determined.
 
 *Rights, options and vouchers.*
 
-**20.** (1) If a right or option is exercised, the consideration for the supply made on exercise of the right or option is limited to any additional consideration provided for the supply or in connection with the exercise of the right or option.
+*additional*
 
-(2) This section applies to a supply made on redemption of a face value voucher unless–
+**20.** (1) If a right or option is exercised, the consideration for the supply made on exercise of the right or option is limited to any consideration provided for the supply or in connection with the exercise of the right or option.
+
+*(2) This a face value*
+
+section applies to a supply made on redemption of voucher unless–
 
 (a) the Regulations provide otherwise; or
 
@@ -1034,13 +1132,17 @@ Provided that, if only part of the input tax for the original acquisition or imp
 
 **21.** (1) In this section–
 
-“total amounts wagered”, in relation to a tax period, is the sum of–
+“total amounts wagered”, in relation to a tax period, is the sum
+
+*of–*
 
 (a) the consideration for all of the gambling supplies made by a taxable person in that tax period; and
 
 (b) any amounts recovered by the taxable person during the tax period in respect of an amount written off in the current or a previous tax period, which was included in total monetary prizes under paragraph (d) of the definition of that term; and
 
-“total monetary prizes”, in relation to a tax period and in relation to a taxable person, is the sum of the following amounts, whether or not the relevant gambling event, gambling supply, or gambling loss occurred during the tax period–
+*to a taxable whether or not gambling loss*
+
+“total monetary prizes”, in relation to a tax period and in relation person, is the sum of the following amounts, the relevant gambling event, gambling supply, or occurred during the tax period–
 
 (a) the monetary prizes paid by the person during the tax period because of the outcome of gambling events;
 
@@ -1050,11 +1152,21 @@ Provided that, if only part of the input tax for the original acquisition or imp
 
 (d) an amount the person writes off as a bad debt in relation to all or part of the consideration for a gambling supply made by the person that is due as a debt to the person and has not been received.
 
-(2) Notwithstanding section 15(3), the amount of GST payable on gambling supplies made by a taxable person shall be determined on a global basis under this section for each tax period rather than for each gambling supply.
+*payable on*
 
-(3) There shall be included in the output tax a person who makes gambling supplies an amount calculated according to the following formula–
+*period rather*
 
-Total amounts wagered - Total monetary prizes.
+(2) Notwithstanding section 15(3), the amount of GST gambling supplies made by a taxable person shall be determined on a global basis under this section for each tax than for each gambling supply.
+
+*(3) There*
+
+*following*
+
+shall be included in the output tax a person who makes gambling supplies an amount calculated according to the formula–
+
+*Total*
+
+amounts wagered - Total monetary prizes.
 
 (4) If the amount calculated under sub-section (3) is a negative amount in any tax period no amount is included in the output tax of the taxable person.
 
@@ -1102,7 +1214,9 @@ months commencing with the first day of that month will be seventy-five thousand
 
 (b) on the last day of any month, there are reasonable grounds for believing that the value of the person’s supplies during the period of twelve months commencing on the first day of the following month will be seventy-five thousand dollars or more.
 
-(2) For the purposes of sub-section (1)–
+*(2) For the*
+
+purposes of sub-section (1)–
 
 (a) the value of supplies made by a person is treated as if it did not include–
 
@@ -1132,11 +1246,9 @@ person and the related person are carried on, the connections between those pers
 
 **25.** A person who is not required to apply for registration may lodge an application for registration with the Commissioner in the approved form at any time if the person is carrying on or intends to carry on a business and makes or intends to make, supplies that would be taxable if the person were registered and the Commissioner is satisfied that 80% or more of the supplies will be made to taxable persons.
 
-**26.** (1) If a person applies for registration and the
-
 *Registration.*
 
-Commissioner is satisfied that the person is required to apply for registration, the Commissioner–
+**26.** (1) If a person applies for registration and the Commissioner is satisfied that the person is required to apply for registration, the Commissioner–
 
 (a) shall cause the person to be registered; and
 
@@ -1144,9 +1256,15 @@ Commissioner is satisfied that the person is required to apply for registration,
 
 and the date of effect of the registration shall be the beginning of the following month.
 
-(2) If the Commissioner is satisfied that a person is required to apply for registration and the person has not applied for registration within the time limit given in section 22(2), the Commissioner may cause that person to be registered.
+*(2) If the to apply for registration*
 
-(3) If a person applies for registration and the Commissioner is satisfied that the person is not required to apply for registration, he shall cause the person to be registered if he is satisfied that–
+Commissioner is satisfied that a person is required registration and the person has not applied for within the time limit given in section 22(2), the Commissioner may cause that person to be registered.
+
+*(3) If a is satisfied*
+
+person applies for registration and the Commissioner that the person is not required to apply for registration, he shall cause the person to be registered if he is
+
+*satisfied that–*
 
 (a) the person is making, or will make, supplies that would be taxable if the person were registered;
 
@@ -1160,21 +1278,35 @@ and the date of effect of the registration shall be the beginning of the followi
 
 complied with its obligations under other taxation laws, including laws relating to customs.
 
-(4) If the Commissioner registers a person who is not required to apply for registration–
+*required to*
+
+(4) If the Commissioner registers a person who is not apply for registration–
 
 (a) he shall notify the person of the registration by notice in writing issued no later than one month after the day on which the person applied to be registered;
 
 (b) the date of effect of the registration may be the date requested by the person in the application unless the Commissioner determines that a different date is appropriate having regard to the factors referred to in sub-section (3), the date on which the person commences or intends to commence carrying on business, and any other relevant factors.
 
-(5) If the Commissioner decides not to register a person who applies for registration, he must, within one month of receiving the application, notify the person by notice in writing stating the reasons for his decision and outlining the person’s rights of appeal and objection against the decision under Part III, Division 5.
+*(5) If the applies for*
 
-*Certificate of registration.*
+*appeal and Division 5.*
 
-**27.** (1) The Commissioner shall cause each person registered to be issued with a GST Registration Certificate and such number of certified copies of it, if any, as he requires for the purposes of sub-section (3).
+Commissioner decides not to register a person who registration, he must, within one month of receiving the application, notify the person by notice in writing stating the reasons for his decision and outlining the person’s rights of objection against the decision under Part III,
 
-(2) A certificate of registration shall bear the Taxpayer Identification Number (TIN) and shall show the date from which the registration is effective.
+*Certificate of 27.–(1) The registration.*
 
-(3) A registered person shall cause his GST Registration Certificate, or a certified copy of it issued by the Commissioner,
+*of certified*
+
+Commissioner shall cause each person registered to be issued with a GST Registration Certificate and such number copies of it, if any, as he requires for the purposes of sub-section (3).
+
+*(2) A*
+
+*which the*
+
+certificate of registration shall bear the Taxpayer Identification Number (TIN) and shall show the date from registration is effective.
+
+*(3) A*
+
+registered person shall cause his GST Registration Certificate, or a certified copy of it issued by the Commissioner,
 
 to be displayed in public view at the place from which the person carries on a business in connection with which he makes a taxable supply, or at each such place if there is more than one.
 
@@ -1348,13 +1480,17 @@ C is the value of all supplies made by the taxable person during the period, oth
 
 “vehicles to be used in the agricultural sector” means tractors, towheads, forklifts, platform trucks and other similar vehicles.
 
-(2) Notwithstanding any other provision of this Act, no entitlement to an input tax credit shall arise for a person in relation to a taxable acquisition or import by the person to the extent that–
+*entitlement to relation to a extent that–*
+
+Notwithstanding any other provision of this Act, no an input tax credit shall arise for a person in taxable acquisition or import by the person to the
 
 (a) the acquisition or import is not made in the course or furtherance and for the purposes of the person’s business;
 
 (b) the acquisition or import is of a passenger vehicle, of spare parts for such vehicle, or of repairs and maintenance services for such vehicle, unless the person’s business involves
 
-dealing in or hiring out such vehicles and the vehicle was acquired for that purpose or the vehicle is of a kind for use in the agricultural sector;
+*dealing in or acquired for the agricultural*
+
+hiring out such vehicles and the vehicle was that purpose or the vehicle is of a kind for use in sector;
 
 (c) the acquisition or import is used to provide entertainment, to the extent of such use, unless the person’s business involves providing entertainment and the entertainment was provided in the ordinary course of that business and was not supplied to a related person or employee;
 
@@ -1364,13 +1500,23 @@ dealing in or hiring out such vehicles and the vehicle was acquired for that pur
 
 *35 of 2017.*
 
-(2A) Subject to sub-section (3), input tax credit shall only be allowed for the tax period which gives rise to the input tax credit.
+*(2A) Subject allowed for the*
 
-(3) If, at the time a taxable person submits a GST return for a tax period in which an input tax credit would otherwise be allowable for an acquisition or importation, the person does not
+to sub-section (3), input tax credit shall only be tax period which gives rise to the input tax credit.
 
-hold the documentation referred to in sub-section (4), the input tax credit is not allowed in that tax period but is instead allowed in the first period in which the person holds the documentation required, provided that tax period occurs within the subsequent 6 months.
+*(3) If, at the a tax period in*
 
-(4) The documentation required for the purposes of subsection (3) is–
+time a taxable person submits a GST return for which an input tax credit would otherwise be allowable for an acquisition or importation, the person does not
+
+*hold the*
+
+*in the first required, 6 months.*
+
+documentation referred to in sub-section (4), the input tax credit is not allowed in that tax period but is instead allowed period in which the person holds the documentation provided that tax period occurs within the subsequent
+
+*(4) The section (3) is–*
+
+documentation required for the purposes of sub-
 
 (a) in the case of a taxable acquisition, the tax invoice issued by the supplier for the supply, except where the supply was a low value supply for which the supplier was not required to issue a tax invoice;
 
@@ -1484,19 +1630,25 @@ the goods or services supplied, or any part thereof, are returned to the supplie
 
 (d) the nature of a supply, whether or not it was a taxable supply, is fundamentally varied or altered.
 
-(2) Where this section applies, the supplier shall give to the recipient a credit note or a debit note, as the case requires, to adjust the amount of GST shown on the tax invoice to the amount, if any, (referred to in this section as “the adjusted amount”) that would have been so shown if–
+*(2) Where recipient a adjust the amount, if any, amount”) that*
+
+this section applies, the supplier shall give to the credit note or a debit note, as the case requires, to amount of GST shown on the tax invoice to the (referred to in this section as “the adjusted would have been so shown if–
 
 (a) the cancellation or alteration referred to in subsection (l) (a) or (b) had taken place before the tax invoice was given; or
 
 (b) the goods or services returned had not been supplied, as the case requires.
 
-(3) For the purposes of sub-section (2)–
+*(3) For the*
+
+purposes of sub-section (2)–
 
 (a) a credit note shall be given by the supplier where the amount of GST shown on the tax invoice, as affected by any previous credit or debit notes issued in respect of the supply, was more than the adjusted amount; and
 
 (b) a debit note shall be given by the supplier where the amount of GST shown on the tax invoice, as affected by any previous credit or debit notes issued in respect of the supply, was less than the adjusted amount.
 
-(4) A credit note or debit note required by sub-section (2) to be given shall include–
+*(4) A credit be given shall*
+
+note or debit note required by sub-section (2) to include–
 
 the words “credit note” or “debit note”, as the (a)
 
@@ -1512,17 +1664,25 @@ the name and address of the recipient;
 
 (g) a brief explanation of the circumstances giving rise to the note being given.
 
-(5) A supplier who gives a credit note under this section may, in calculating the amount of tax payable, or the amount of the refund due, for the tax period in which the credit note is given, include the amount of the adjustment as an input tax credit allowed to him during the tax period.
+*(5) A may, in*
 
-(6) A supplier who gives a debit note under this section shall, in calculating the amount of tax payable, or the amount of the refund due, for the tax period in which the debit note is given, include the amount of the adjustment as output tax payable by him during the tax period.
+supplier who gives a credit note under this section calculating the amount of tax payable, or the amount of the refund due, for the tax period in which the credit note is given, include the amount of the adjustment as an input tax credit allowed to him during the tax period.
 
-(7) A recipient who–
+*(6) A*
+
+supplier who gives a debit note under this section shall, in calculating the amount of tax payable, or the amount of the refund due, for the tax period in which the debit note is given, include the amount of the adjustment as output tax payable by him during the tax period.
+
+*(7) A*
+
+recipient who–
 
 (a) being registered, is given a credit note under this section; and
 
 (b) in calculating tax payable by him, has taken into account as input tax the amount that, in the tax invoice to which the note relates, was shown as being in respect of tax,
 
-shall, in calculating the amount of tax payable, or the amount of the refund due, for the tax period in which the credit note is
+*shall, in*
+
+calculating the amount of tax payable, or the amount of the refund due, for the tax period in which the credit note is
 
 given, include the amount of the adjustment as output tax payable by him during the tax period.
 
@@ -1832,11 +1992,9 @@ Appointment, Powers, Functions, etc., of the Officers of the Department of Gener
 
 *8 of 2019.*
 
-(2) Such tax shall thereupon be payable at the expiration of the time so specified and shall in default of payment, unless security for payment thereof be given to the satisfaction of the Commissioner, be recoverable forthwith and the person in default of payment shall be considered as in default under
-
 *CAP. 51.*
 
-section 53 of the Tax Administration and Procedure Act.
+(2) Such tax shall thereupon be payable at the expiration of the time so specified and shall in default of payment, unless security for payment thereof be given to the satisfaction of the Commissioner, be recoverable forthwith and the person in default of payment shall be considered as in default under section 53 of the Tax Administration and Procedure Act.
 
 (3) If in any particular case the Commissioner has reason to believe that tax may not be recovered, he may at any time and as the case requires, may–
 
@@ -1854,19 +2012,15 @@ section 53 of the Tax Administration and Procedure Act.
 
 *8 of 2019.*
 
-(5) Notice of assessment made in accordance with subsections (3) and (4) shall be given to the person assessed, and any tax so assessed in accordance with those sub-sections shall be payable on demand made in writing under the hand of the Commissioner and shall in default of payment, unless security for the payment thereof be given to the satisfaction of the
-
 *CAP. 51.*
 
-Commissioner, be recoverable forthwith and the person in default of payment shall be considered as in default under section 53 of the Tax Administration and Procedure Act.
+(5) Notice of assessment made in accordance with subsections (3) and (4) shall be given to the person assessed, and any tax so assessed in accordance with those sub-sections shall be payable on demand made in writing under the hand of the Commissioner and shall in default of payment, unless security for the payment thereof be given to the satisfaction of the Commissioner, be recoverable forthwith and the person in default of payment shall be considered as in default under section 53 of the Tax Administration and Procedure Act.
 
 *8 of 2019.*
 
-(6) Any person who has paid the tax in accordance with a demand made by the Commissioner, or who has given security for such payment under sub-sections (3) and (4), shall have the
-
 *CAP. 51.*
 
-rights of review, objection, and appeal conferred by the Tax Administration and Procedure Act, and the amount paid by him shall be adjusted in accordance with the result of any such review, objection or appeal.
+(6) Any person who has paid the tax in accordance with a demand made by the Commissioner, or who has given security for such payment under sub-sections (3) and (4), shall have the rights of review, objection, and appeal conferred by the Tax Administration and Procedure Act, and the amount paid by him shall be adjusted in accordance with the result of any such review, objection or appeal.
 
 (7) Sub-sections (3) and (4) shall not affect the powers conferred upon the Commissioner by section 39.
 
@@ -1878,15 +2032,17 @@ without lawful excuse fails to comply with a requirement made under this Act; or
 
 (b) knowingly provides any information required by or under this Act that is false or misleading in any material particular,
 
-commits an offence and unless a higher penalty is specifically prescribed, is liable on summary conviction to a fine of not less than five thousand dollars and not exceeding ten thousand dollars or to imprisonment for a term not exceeding two years or to both such fine and imprisonment.
+*commits an prescribed, is than five dollars or to*
 
-*Power of Commissioner to temporarily close business premises.*
+offence and unless a higher penalty is specifically liable on summary conviction to a fine of not less thousand dollars and not exceeding ten thousand imprisonment for a term not exceeding two years or to both such fine and imprisonment.
 
-**86A.** (1) The Commissioner may apply to the court for an order to temporarily close any business premises for a period up to thirty days if, as at the date of the application, the owner of that business has been in repeated violation of any of the following
+*Power of 86A.–(1) The Commissioner to temporarily close business premises.*
+
+*business has provisions, in*
 
 *35 of 2017.*
 
-provisions, in the manner specified, namely–
+Commissioner may apply to the court for an order to temporarily close any business premises for a period up to thirty days if, as at the date of the application, the owner of that been in repeated violation of any of the following the manner specified, namely–
 
 *S.I. 59 of 2006.*
 
@@ -1944,29 +2100,45 @@ Miscellaneous
 
 (5) A person who contravenes the requirements of this section commits an offence and is liable on summary conviction to a fine of not less than five thousand dollars and not exceeding
 
-ten thousand dollars, or to imprisonment for a term not exceeding two years or to both.
+*ten thousand exceeding two*
+
+dollars, or to imprisonment for a term not years or to both.
 
 *Currency.*
 
-**91.** (1) An amount taken into account under this Act must be expressed in the currency of Belize.
+*91.–(1) An*
 
-(2) Where an amount is expressed or paid in a currency other than the currency of Belize–
+amount taken into account under this Act must be expressed in the currency of Belize.
+
+*(2) Where than the*
+
+an amount is expressed or paid in a currency other currency of Belize–
 
 (a) if the amount relates to an import of goods, it must be converted to the currency of Belize at the selling rate for sight drafts as last declared by order of the Comptroller of Customs and published in the Gazette before the time when the goods are entered; and
 
 (b) if no such provisions apply, and in any other case, the amount must be converted to the currency of Belize at the Central Bank of Belize mid-exchange rate applying between the foreign currency and the currency of Belize on the date the amount is taken into account for the purposes of this Act.
 
-*Effect of changes in tax on existing contracts.*
+*Effect of changes*
 
-**92.** (1) For the purposes of this section the expression
+*92.–(1) For*
 
-“alteration in the law” means the coming into force of this Act or of any amendment to this Act by which–
+*in tax on existing*
+
+*“alteration in*
+
+*contracts.*
+
+*or of any*
+
+the purposes of this section the expression the law” means the coming into force of this Act amendment to this Act by which–
 
 (a) a supply of goods or services is charged with, or ceases to be charged with, tax; or
 
 (b) the rate of tax in respect of the supply of goods or services is increased or reduced.
 
-(2) Where an alteration in the law is made and a supplier has, at any time, entered into a contract with a recipient in respect of the supply of goods or services, then, unless–
+*(2) Where at any time, the supply of*
+
+an alteration in the law is made and a supplier has, entered into a contract with a recipient in respect of goods or services, then, unless–
 
 express provision for the exclusion of any such alteration in the law is contained in the contract; or
 
@@ -1976,11 +2148,7 @@ express provision for the exclusion of any such alteration in the law is contain
 
 (d) where the alteration in the law renders the supply no longer liable to be charged with tax, or liable to be charged with a reduced amount of tax, the supplier or the recipient may deduct from the amount agreed to be paid under the contract the amount of that tax, or reduction in tax, as the case may be.
 
-*Certain persons*
-
-*93.–(1) Where–*
-
-*required to register two months before appointed day.*
+*Certain persons 93.–(1) Where– required to register two months before appointed day.*
 
 (a) during the period of twelve months ending immediately before the day that is three months before the appointed day a person made taxable register two supplies the value of which was more than seventy-five thousand dollars; or months before;
 
@@ -2060,15 +2228,25 @@ Zero-Rated: Exported Goods
 
 (sections 2 and 9)
 
-**1.** The following taxable supplies of goods are zero-rated supplies for the purposes of this Act.
+*The supplies for the*
+
+**1.** following taxable supplies of goods are zero-rated purposes of this Act.
+
+*Supply*
 
 *CAP. 48.*
 
-(1) Supply of goods, if the supplier has entered the goods for export under the Customs and Excise Duties Act and the goods have been exported.
+*export under the have been*
 
-(2) A supply of goods, if the Commissioner is satisfied that the goods have been exported from Belize by the supplier.
+(1) of goods, if the supplier has entered the goods for Customs and Excise Duties Act and the goods exported.
 
-(3) A supply of goods, if–
+*A supply the goods have*
+
+(2) of goods, if the Commissioner is satisfied that been exported from Belize by the supplier.
+
+*A supply*
+
+(3) of goods, if–
 
 (a) the goods are supplied in Belize to a nonresident recipient who is not a taxable person, or to the agent of that recipient;
 
@@ -2078,11 +2256,9 @@ Zero-Rated: Exported Goods
 
 (c) the goods were exported without being altered or used in any way between the time they were delivered or made available to the recipient and the time they were exported, except to the extent, if any, necessary to prepare them for export.
 
-A supply of goods to a commercial free zone under the
-
 *CAP. 278. CAP. 280*
 
-Free Zones Act or to an export processing zone under the Export Processing Zone Act.
+A supply of goods to a commercial free zone under the Free Zones Act or to an export processing zone under the Export Processing Zone Act.
 
 A supply of aircraft’s stores or ship’s stores, or of spare (5)
 
@@ -2164,19 +2340,35 @@ directly in connection with goods situated in Belize at the time the services ar
 
 (c) the acceptance by a person of an obligation to refrain from pursuing or exercising, in whole or part, intellectual property rights for use outside Belize.
 
-(12) A supply of telecommunications services by a resident telecommunications supplier to a non-resident telecommunications supplier, to the extent that the supply is for the use or consumption of a person outside Belize at the time the services are performed.
+*the use or*
 
-(13) A supply of services is not zero-rated under sub-paragraphs (10) or (12), if the supply is a supply of a right or option to receive a supply of goods or services in Belize, unless the supply to be received would be zero-rated if it were made in Belize.
+(12) A supply of telecommunications services by a resident telecommunications supplier to a non-resident telecommunications supplier, to the extent that the supply is for consumption of a person outside Belize at the time the services are performed.
 
-(14) Without limiting sub-paragraph 13, a supply of services is not zero-rated under sub-paragraphs (10) or (12), if the services are supplied under an agreement that is entered into,
+*(13) A*
 
-whether directly or indirectly, with a person who is a nonresident, if,
+supply of services is not zero-rated under sub-paragraphs (10) or (12), if the supply is a supply of a right or option to receive a supply of goods or services in Belize, unless the supply to be received would be zero-rated if it were made in
+
+*Belize.*
+
+*is not*
+
+(14) Without limiting sub-paragraph 13, a supply of services zero-rated under sub-paragraphs (10) or (12), if the services are supplied under an agreement that is entered into,
+
+*whether resident, if,*
+
+directly or indirectly, with a person who is a non-
 
 (a) the performance of the services is, or it is reasonably foreseeable at the time the agreement is entered into that the performance of the services will be, received in Belize by another person, and
 
 (b) it is reasonably foreseeable, at the time the agreement is entered into, that the other person will not be a taxable person when it receives the performance of the services,
 
-and for the avoidance of doubt, if the supply is a supply of a right or option to receive services, the performance of the services referred to in this paragraph is the performance of the services to be received, rather than the granting of the right or option.
+*and for the*
+
+*services*
+
+avoidance of doubt, if the supply is a supply of a right or option to receive services, the performance of the referred to in this paragraph is the performance of the services to be received, rather than the granting of the right or
+
+*option.*
 
 ## SCHEDULE III 2
 
@@ -2214,11 +2406,9 @@ Unprocessed Foods:
 
 (3) Corn
 
-(4) Fresh Meat from any mammal, bird, or fish (Locally
-
 *S.I. 66 of 2017.*
 
-produced)
+(4) Fresh Meat from any mammal, bird, or fish (Locally produced)
 
 (5) Edible Offal of bovine animals, swine and sheep (6) Eggs
 
@@ -2300,7 +2490,7 @@ II. SUPPLIES CONNECTED WITH AGRICULTURE, LIVESTOCK BIRDS AND FISH, CRUSTACEAN, M
 
 Irrigation pipes and hoses.
 
-Spare parts for tractors.
+[CAP. Spare parts for tractors.
 
 Cables for Banana Industry.
 
@@ -2308,7 +2498,9 @@ Cables for Banana Industry.
 
 ### III. UTILITIES
 
-**1.** A supply of water (other than water supplied in bottles or similar containers) or domestic sewerage services.
+*or*
+
+**1.** A supply of water (other than water supplied in bottles similar containers) or domestic sewerage services.
 
 ### IV. MEDICINES AND MEDICAL SUPPLIES FOR HUMAN USE
 
@@ -2320,7 +2512,9 @@ Cables for Banana Industry.
 
 **3.** Diagnostic-testing kits and devices for testing glucose in blood and urine.
 
-**4.** Insulin and insulin syringes with needles and devices of a type not exceeding 100 units (1.0 ML) capacity, for the administration of U-100 insulin.
+*a*
+
+**4.** Insulin and insulin syringes with needles and devices of type not exceeding 100 units (1.0 ML) capacity, for the administration of U-100 insulin.
 
 **5.** Oral rehydration preparations in the form of salts and solutions of W.H.O./Paramacopoeia standards.
 
@@ -2362,13 +2556,19 @@ Exempt Supplies
 
 (1) In this Schedule–
 
-“residential premises” means a building occupied or capable of being occupied as a residence, but not including hotel or holiday accommodation.
+*“residential*
 
-(2) The following supplies are exempt for the purposes of this Act–
+premises” means a building occupied or capable of being occupied as a residence, but not including hotel or holiday accommodation.
+
+*(2) The this Act–*
+
+following supplies are exempt for the purposes of
 
 ### FINANCIAL SERVICES AND OTHER INTERMEDIATION SERVICES
 
-A supply of the following “financial services”, except
+*A*
+
+supply of the following “financial services”, except
 
 1.
 
@@ -2380,7 +2580,9 @@ where provided in return for an explicit fee of charge–
 
 3
 
-This Schedul e was substituted by Statutory Instrument 38 of 2010 and amended by Act No. 31 of 2017, Statutory Instrument No. 49 of 2014, Statutory Instrument No. 20 of 2018 and Statutory Instrument No. 84 of 2018.
+*of 2017, Statutory*
+
+This Schedul e was substituted by Statutory Instrument 38 of 2010 and amended by Act No. 31 Instrument No. 49 of 2014, Statutory Instrument No. 20 of 2018 and Statutory Instrument No. 84 of
 
 transactions relating to financial derivatives, forward contracts, options to acquire financial instruments, and similar arrangements;
 
@@ -2396,17 +2598,21 @@ transactions relating to financial derivatives, forward contracts, options to ac
 
 (i) the arranging of any of the services in paragraphs (a) to (h).
 
-*S.I. 92 of 2007.*
+*A S.I. 92 of 2007.*
 
-**2.** A gambling supply.
+**2.** gambling supply.
 
-### RESIDENTIAL PROPERTY
+*RESIDENTIAL*
 
-*S.I. 20 of 2018.*
+### PROPERTY
 
-**3.** A sale of real property to the extent that the property relates to residential premises.
+*S.I. 20 of 2018. A sale relates to*
 
-**4.** A supply of residential accommodation.
+**3.** of real property to the extent that the property residential premises.
+
+*A supply*
+
+**4.** of residential accommodation.
 
 *EDUCATION*
 
@@ -2426,19 +2632,29 @@ A supply of goods or services by an Educational Institution within the meaning o
 
 **8.** Equipment or furniture for the use of an Educational Institution within the meaning of the Education Act, provided that the supplier holds a Statutory Declaration from the
 
-Institution stating that the goods will be used only in the course of providing goods or services that are exempt under items 5, 6 and 7.
+*Institution of providing and 7.*
 
-### MEDICAL SUPPLIES
+stating that the goods will be used only in the course goods or services that are exempt under items 5, 6
+
+*MEDICAL*
+
+### SUPPLIES
 
 **9.** Medical, dental, hospital, optical and paramedical services, other than veterinary services and cosmetic surgery.
 
 ### ACCOMMODATION SERVICES
 
-**10.** The supply of accommodation in a hotel, inn, guesthouse, boarding house, lodging house or any other similar establishment.
+*The guesthouse,*
 
-### UTILITIES AND PUBLIC TRANSPORT
+**10.** supply of accommodation in a hotel, inn, boarding house, lodging house or any other similar establishment.
 
-**11.** A supply of electricity to consumers in any particular month whose value of such supply does not exceed $100.
+*UTILITIES*
+
+### AND PUBLIC TRANSPORT
+
+*month whose*
+
+**11.** A supply of electricity to consumers in any particular value of such supply does not exceed $100.
 
 **12.** A supply of Public Postal services.
 
@@ -2494,9 +2710,13 @@ a supply of rented office or business accommodation;
 
 (c) a supply of housing repair and maintenance services.
 
-### GOODS AND SERVICES SUPPLIED TO THE
+*GOODS*
 
-**18.** The following goods and services supplied to or procured by the Government of Belize shall be exempt for the purposes of this Act–
+### AND SERVICES SUPPLIED TO THE
+
+*The*
+
+**18.** following goods and services supplied to or procured by the Government of Belize shall be exempt for the purposes of this Act–
 
 (a) all importations by the Government of Belize; and
 

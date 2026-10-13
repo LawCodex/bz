@@ -124,6 +124,10 @@ Justice.”
 
 Schedule ― Omitted Acts
 
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
+
 ### CHAPTER 3
 
 ### LAW REVISION
@@ -198,9 +202,13 @@ contain ,
 
 (d) a table of contents, a chronological table of Acts and an index.
 
-(2) The revised edition may also contain a reprint of such Imperial Statutes, Orders in Council, and other instruments as the Commissioner may think desirable.
+*(2) The Imperial Commissioner*
 
-Acts may be 5.-(1) It shall not be necessary for the Commissioner to include in omitted. the revised edition,
+revised edition may also contain a reprint of such Statutes, Orders in Council, and other instruments as the may think desirable.
+
+*5.-(1) It shall the revised*
+
+Acts may be not be necessary for the Commissioner to include in omitted. edition,
 
 (a) the Acts specified in the Schedule to this Act;
 
@@ -208,9 +216,11 @@ Acts may be 5.-(1) It shall not be necessary for the Commissioner to include in 
 
 (c) enactments providing for the validation of acts, or indemnity or alterations as to names, locations, offices, titles or ranks where such alterations have been embodied by the Commissioner in the laws to which they relate.
 
-(2) The Minister may, at any time before the publication of the revised edition, by order vary or add to the Schedule.
+*(2) The the revised*
 
-Revised edition 6.-(1) The revised edition shall be published in such form as the to be published
+Minister may, at any time before the publication of edition, by order vary or add to the Schedule.
+
+**6.** (1) The revised edition shall be published in such form as the to be published
 
 Minister may determine, including electronically on CD-ROM and in form to be
 
@@ -250,9 +260,13 @@ omit provisions.
 
 (h) the definition of any expression in any enactment or any provision in any enactment which, in the opinion of the Commissioner, can be omitted having regard to the provisions of the Interpretation Act, Cap. 1.
 
-(2) The provisions of sections 27 and 28 of the Interpretation Act, Cap. 1 shall apply to such omissions in the same way as if the Acts or enactments omitted had been repealed.
+*(2) The Interpretation way as if the*
 
-Other powers of 9. In the preparation of the revised edition, the Commissioner Commissioner. shall have the following additional powers,
+provisions of sections 27 and 28 of the Act, Cap. 1 shall apply to such omissions in the same Acts or enactments omitted had been repealed.
+
+*In the shall have the*
+
+Other powers of 9. preparation of the revised edition, the Commissioner Commissioner. following additional powers,
 
 (a) where by any law any amendment has been made to any other law, to alter the amended law in the manner prescribed by the amending law;
 
@@ -271,6 +285,10 @@ Other powers of 9. In the preparation of the revised edition, the Commissioner C
 (h) to add a short title to any Act which may require it and, if desirable, to alter the short title of any Act, and to alter and amend the title of any Act so as to bring such title into conformity with the consolidated Acts appearing in such title;
 
 (i) to clarify (whether by shortening, expansion or otherwise) the language of any provision of any
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 enactment appearing to the Commissioner to require such clarification;
 

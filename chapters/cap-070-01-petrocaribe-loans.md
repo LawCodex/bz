@@ -46,9 +46,11 @@ This edition contains a consolidation of amendments made to the law by Act No. 8
 
 ### PETROCARIBE LOANS ACT
 
+*2012]*
+
 *4 of 2015. 8 of 2015.*
 
-[1st September 2012]
+[1st September
 
 *WHEREAS:*
 
@@ -72,13 +74,17 @@ owned company, Belize Petroleum and Energy Limited (BPEL);
 
 (i) it would therefore be expedient to make special provisions to govern the borrowing by the Government of Belize from APBEL to give effect to the Energy Cooperation Agreement between Belize and Venezuela:
 
+*This Act*
+
 *Short title.*
 
-**1.** This Act may be cited as the Petrocaribe Loans Act.
+**1.** may be cited as the Petrocaribe Loans Act.
 
 *Interpretation.*
 
-**2.** In this Act, unless the context otherwise requires–
+*In this*
+
+**2.** Act, unless the context otherwise requires–
 
 “Alba Petrocaribe (Belize Energy) Limited” or “APBEL” means a joint venture company owned by the Venezuelan State Enterprise, PDV Caribe and the Government of Belize company, Belize Petroleum and Energy Limited, in the ratio of 55% and 45%, respectively;
 
@@ -118,7 +124,9 @@ nationalization of the Belize Telemedia Limited (BTL);
 
 *8 of 2015.*
 
-(4) It is hereby provided that–
+*(4) It is*
+
+hereby provided that–
 
 (a) all money borrowed during a quarterly period from APBEL shall be reported to the National Assembly at any time but not later than three months after the expiration of that quarterly period;
 
@@ -130,9 +138,13 @@ such spending was not provided for in the annual Estimate of Revenue and Expendi
 
 (d) the supplementary appropriation required pursuant to paragraphs (b) and (c) shall be first Tabled in the House of Representatives at the time a report is being made pursuant to paragraph (a) in respect of that quarterly period.
 
-*Validation of the Loan Agreement and the borrowings there under. CAP. 15.*
+*Validation of the Loan Agreement and the borrowings there Finance and under.*
 
-**4.** (1) Without prejudice to the generality of the foregoing provisions and notwithstanding anything contained in the Finance and Audit (Reform) Act, 2005, or any other law to the contrary, the following agreement and the borrowings are hereby validated and confirmed retrospectively–
+*contrary, the*
+
+*CAP. 15.*
+
+**4.** (1) Without prejudice to the generality of the foregoing provisions and notwithstanding anything contained in the Audit (Reform) Act, 2005, or any other law to the following agreement and the borrowings are hereby validated and confirmed retrospectively–
 
 (a) Loan Agreement dated 18 September 2012, between the Government of Belize and ALBA Petrocaribe (Belize Energy) Limited;
 
@@ -140,8 +152,12 @@ such spending was not provided for in the annual Estimate of Revenue and Expendi
 
 (c) Borrowing of US$28,776,243.39 by the Government of Belize from APBEL during the period September 2014 to February 2015, under the aforesaid Loan Agreement.
 
-(2) The general provisions of section 3 of this Act shall equally apply to the particular loans mentioned in this section.
+*(2) The*
 
-*Resolution of conflicts.*
+general provisions of section 3 of this Act shall equally apply to the particular loans mentioned in this section.
 
-**5.** In the event of a conflict between the provisions of this Act and any other law, the provisions of this Act shall prevail.
+*Resolution of In the conflicts.*
+
+*Act and any*
+
+**5.** event of a conflict between the provisions of this other law, the provisions of this Act shall prevail.

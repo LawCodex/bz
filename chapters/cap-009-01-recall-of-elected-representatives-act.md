@@ -178,7 +178,11 @@ another person to do so, Representatives shall be guilty of an offence and shall
 
 *Regulations.*
 
-**10.** (1) The Governor-General, may on the advice of the Minister, make regulations for giving full effect to the provisions of this Act and for prescribing anything that needs to be prescribed.
+*10.-(1) The*
+
+*provisions of*
+
+Governor-General, may on the advice of the Minister, make regulations for giving full effect to the this Act and for prescribing anything that needs to be prescribed.
 
 (2) Without prejudice to the generality of the foregoing, such regulations may provide or prescribe,
 

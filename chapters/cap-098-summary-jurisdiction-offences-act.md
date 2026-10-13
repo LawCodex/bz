@@ -80,6 +80,8 @@ Petty Misdemeanours, Offences, and Vagrants
 
 **13.** Form of conviction.
 
+[CAP.
+
 Division 2
 
 Drunkenness, Suppression of Brothels, and Dancing Houses
@@ -128,6 +130,12 @@ Willful Trespass
 
 **29.** Trespasser refusing to quit or give his name, etc., may be apprehended.
 
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
+
+[CAP.
+
 Mode of dealing with article found in possession of willful trespasser.
 
 Dealing with animal or thing brought on land by willful trespasser.
@@ -172,6 +180,8 @@ Trespasses to Personality, and Detention of Property
 
 **49.** Making of complaint under this Part.
 
+*[CAP.*
+
 ## PART IV
 
 Crimes Triable Summarily without and with Consent of Accused
@@ -192,11 +202,17 @@ Schedules:
 
 Schedule 1 — Form of Conviction of Idle and Disorderly Persons, Rogues and Vagabonds, and Incorrigible Rogues Schedule 2 — Crimes Punishable as Summary Conviction Offences without Consent of Accused Person Schedule 3 — Crimes Triable Summarily with Consent of Accused Person
 
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
+
 ### CHAPTER 98
 
 ### SUMMARY JURISDICTION (OFFENCES)
 
-Ch. 23, [9th May, 1953] R.L., 1958.
+*1953]*
+
+Ch. 23, [9th May, R.L., 1958.
 
 CAP. 99,
 
@@ -288,9 +304,9 @@ Miscellaneous Summary Jurisdiction Offences Petty Misdemeanours, Offences and Va
 
 Division 1
 
-*3.-(1) A person who,*
+*3.-(1) A person who, Offences punishable as*
 
-*Offences punishable as petty misdemeanours.*
+*petty misdemeanours.*
 
 (i) unlawfully and willfully damages any public building, wall, parapet, sluice, bridge, causeway, jetty, road, path, paving, sewer, watercourse or other public property within Belize;
 
@@ -392,27 +408,37 @@ hundred yards outside the limits of any such town or village, wantonly or withou
 
 (xxiii) throws or discharges any fireworks or sets any bon-fire, or causes any fireworks to be thrown or discharged or any bonfire to be set, without the written permission of a police officer first had and obtained,
 
-is guilty of a petty misdemeanour.
+*is guilty of a*
 
-(2) In relation to paragraphs (xxii) and (xxiii) of subsection
+petty misdemeanour.
 
-(1) of this section,
+*(2) In (1) of this*
+
+relation to paragraphs (xxii) and (xxiii) of subsection section,
 
 (a) in addition to any punishment to which any person offending against either of those paragraphs may be liable, all firearms or fireworks found on or in the possession of any such offender shall be liable to be forfeited; and
 
 (b) any person convicted under either of those paragraphs after a previous conviction for the same offence shall be liable to imprisonment without the option of a fine for any period not exceeding six months.
 
-(3) In relation to paragraph (xxiii) of subsection (1) of this section, the permission mentioned therein shall specify the area within, the day upon and the hours between which such fireworks may be thrown or discharged or bonfire set, and the conditions, if any, upon which the permission is granted.
+*(3) In section, the within, the*
+
+*conditions, if*
+
+relation to paragraph (xxiii) of subsection (1) of this permission mentioned therein shall specify the area day upon and the hours between which such fireworks may be thrown or discharged or bonfire set, and the any, upon which the permission is granted.
 
 *28 of 1994.*
 
-(4) A person guilty of a petty misdemeanour shall be liable as follows,
+(4) A person guilty of a petty misdemeanour shall be liable
+
+*as follows,*
 
 (a) for the first offence, to a fine not exceeding three hundred dollars or to imprisonment for a term not exceeding six months;
 
 (b) for a second or subsequent offence (whether it be the same or any other petty misdemeanour), to a fine not exceeding six hundred dollars or to imprisonment for a term not exceeding one year.
 
-**4.** (1) A person who,
+*4.-(1) A person*
+
+who,
 
 *Unmuzzled ferocious dog.*
 
@@ -748,19 +774,41 @@ Provided that where the competent authority is a local authority, such vehicle m
 
 (9) Where the competent authority disposes of a derelict vehicle by selling it and before the expiration of three months from the date of sale any person satisfies the competent authority that at the time of such sale he was the owner of the derelict vehicle, the competent authority shall pay over to him any sum by which the proceeds of sale exceed the aggregate of the expenses incurred in respect of the removal, storage and disposal of the derelict vehicle.
 
-(10) Where any derelict vehicle is removed or disposed of in pursuance of the provisions of this section, no action, suit or other cause shall lie against the competent authority or the Government, or their agents or servants, unless it is shown that such removal or disposal was motivated by malice or fraud.
+*(10) Where in pursuance of other cause Government, or such removal or*
 
-*Idle and disorderly person.*
+any derelict vehicle is removed or disposed of the provisions of this section, no action, suit or shall lie against the competent authority or the their agents or servants, unless it is shown that disposal was motivated by malice or fraud.
 
-**7.** A person committing any of the offences mentioned in paragraphs (xxix), (xxx) and (xxxi) of section 4 (1) of this Act, shall be deemed an idle and disorderly person. Idle and disorderly person, etc., found in hotel, etc.
+*Idle and*
 
-*Rogue and vagabond.*
+*A person*
 
-**8.** A person committing any of the offences mentioned in paragraphs (vii) to (xix) of section 3 (1) of this Act, shall be deemed a rogue and vagabond.
+*disorderly*
 
-*Incorrigible rogue.*
+*paragraphs*
 
-**9.** A person who,
+*person.*
+
+*shall be disorderly*
+
+**7.** committing any of the offences mentioned in (xxix), (xxx) and (xxxi) of section 4 (1) of this Act, deemed an idle and disorderly person. Idle and person, etc., found in hotel, etc.
+
+*Rogue and*
+
+*A person*
+
+*vagabond.*
+
+*paragraphs (vii) deemed a rogue*
+
+**8.** committing any of the offences mentioned in to (xix) of section 3 (1) of this Act, shall be and vagabond.
+
+*Incorrigible*
+
+*A person*
+
+*rogue.*
+
+**9.** who,
 
 (a) breaks or escapes out of any place of legal confinement or out of lawful custody before the expiration of the term for which he was committed or ordered to be confined in consequence of a conviction under paragraphs (vii) to(xix) of section 3 (1), or paragraphs (xxix), (xxx), and(xxxi) of section 4 (1) of this Act;
 
@@ -852,7 +900,9 @@ offence as aforesaid committed during the subsistence of the subsequent lease or
 
 (5) A woman or girl shall be deemed to be unlawfully detained for immoral purposes if she is so detained for the
 
-purpose of being unlawfully and carnally known by any man, whether any particular man or generally, and,
+*purpose of whether any*
+
+being unlawfully and carnally known by any man, particular man or generally, and,
 
 (a) is under the age of sixteen years;
 
@@ -860,9 +910,13 @@ purpose of being unlawfully and carnally known by any man, whether any particula
 
 (c) if of or above the age of eighteen years, is so detained against her will.
 
-*Trading on prostitution.*
+*Trading on*
 
-**18.** (1) A person who,
+*18.-(1) A person*
+
+*prostitution.*
+
+who,
 
 (a) being a male person, knowingly lives wholly or in part on the earnings of prostitution;
 
@@ -870,7 +924,9 @@ purpose of being unlawfully and carnally known by any man, whether any particula
 
 (c) loiters about, or importunes any person in any street or other place for the purpose of prostitution,
 
-is guilty of an offence and is on summary conviction liable,
+*is guilty of an*
+
+offence and is on summary conviction liable,
 
 (i) in the case of a first conviction, to a fine not exceeding one hundred dollars or to imprisonment for a term not exceeding six months; and
 
@@ -892,17 +948,25 @@ is guilty of an offence and is on summary conviction liable,
 
 (4) If in the opinion of the Commissioner of Police or such other chief officer of police the holding of the dance will cause unreasonable annoyance or disturbance in the neighborhood,
 
-he may refuse to grant a permit to hold it and thereupon the occupier may forthwith appeal to the magistrate of the district in a summary manner.
+*he may refuse occupier may in a summary*
 
-(5) “Dance” includes any exhibition, performance, amusement or other like entertainment at which any musical instrument is played and to which the public is admitted for payment.
+to grant a permit to hold it and thereupon the forthwith appeal to the magistrate of the district manner.
+
+*(5) “Dance” amusement or instrument is payment.*
+
+includes any exhibition, performance, other like entertainment at which any musical played and to which the public is admitted for
 
 Division 3
 
-Indecency, Obscenity, Printers, and Publishers Names, etc.
+*Indecency,*
+
+Obscenity, Printers, and Publishers Names, etc.
+
+*A person*
 
 *Circulation of or traffic in obscene objects.*
 
-**20.** A person who,
+**20.** who,
 
 (a) for the purposes or by way of trade, or for distribution or public exhibition, makes or produces, or has in his possession, or imports, conveys or exports, or causes to be imported, conveyed or exported, or in any manner whatever puts into circulation, any obscene writing, drawing, print, painting, printed matter, picture, poster, emblem, photograph, cinematograph film or any other obscene object;
 
@@ -1140,11 +1204,9 @@ Provided further that where a person is convicted of the crime of aggravated ass
 
 *Summary trial of crimes.*
 
-**51.** (1) Where any person is charged before the court with any crime specified in the Third Schedule, the court, if it thinks it expedient to do so, having regard to any representation made
-
 *Third Schedule. 8 of 1970. 6 of 1987.*
 
-in the presence of the accused by or on behalf of the prosecutor, or by or on behalf of the accused, the nature of the crime, the absence of circumstances which would render the crime one of a grave or serious character and all the other circumstances of the case, and if the accused, when informed by the court of his right to be tried by a jury, consents to be
+**51.** (1) Where any person is charged before the court with any crime specified in the Third Schedule, the court, if it thinks it expedient to do so, having regard to any representation made in the presence of the accused by or on behalf of the prosecutor, or by or on behalf of the accused, the nature of the crime, the absence of circumstances which would render the crime one of a grave or serious character and all the other circumstances of the case, and if the accused, when informed by the court of his right to be tried by a jury, consents to be
 
 dealt with summarily, may, subject to the provisions of this section, deal summarily with the crime and if the accused pleads guilty to, or is found guilty of, the crime charged, may sentence him to be imprisoned for a term not exceeding two years or to a fine not exceeding six thousand dollars, or to both such fine and term of imprisonment,
 
@@ -1238,11 +1300,9 @@ Magistrate, Judicial District.
 
 ## SCHEDULE 2 SUMMARY JURISDICTION (OFFENCES) ACT Crimes Punishable as Summary Conviction Offences Without Consent of Accused Person
 
-[Section 50]
-
 *No.*
 
-Crimes Section of the Criminal Code
+[Section 50] Crimes Section of the Criminal Code
 
 **1.** Common Assault 44
 

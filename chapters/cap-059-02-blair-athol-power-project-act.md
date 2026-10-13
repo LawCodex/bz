@@ -82,6 +82,10 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 **3.** Notwithstanding anything to the contrary contained in the Customs and Excise Duties Act, the Customs Regulation Act, the Exchange Control Regulation Act, the General Sales Tax Act, and the Stamp Duties Act, or any regulations made
 
+*THE*
+
+### SUBSTANTIVE LAWS OF BELIZE
+
 thereunder, the Producer shall be exempt from all taxes, duties or imposts levied or imposed under the said Acts, for a period of fifteen years from the Commercial Operation Date, to the extent specified in section 5.
 
 *Exemption from business tax. CAP. 55.*
@@ -103,3 +107,7 @@ after which the Producer shall be liable to pay all business tax as provided fro
 **6.** (1) This Act shall come into force on a day to be appointed by the Minister by Order published in the Gazette.
 
 (2) Upon the commencement of this Act, Article 30 of the Agreement [relating to exemption from taxes and duties] shall cease to have effect.
+
+*EDITION 2020*
+
+### REVISED

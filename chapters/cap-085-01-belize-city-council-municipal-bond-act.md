@@ -36,6 +36,8 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 This is a revised edition of the Substantive Laws, prepared by the Law Revision Commissioner under the authority of the Law Revision Act, Chapter 3 of the Substantive Laws of Belize, Revised Edition 2020.
 
+Belize City Council (Municipal Bond) [CAP. 85:01 3
+
 ### BELIZE CITY COUNCIL (MUNICIPAL BOND)
 
 ## ARRANGEMENT OF SECTIONS
@@ -86,11 +88,9 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 **2.** In this Act–
 
-“Belize City Fund” means the fund established under section 21
-
 *CAP 85.*
 
-of the Belize City Council Act;
+“Belize City Fund” means the fund established under section 21 of the Belize City Council Act;
 
 “bond proceeds” means any monies raised by the issue of a Bond;
 
@@ -104,11 +104,9 @@ of the Belize City Council Act;
 
 “Central Bank” means the Central Bank of Belize established under section 4 of the Central Bank of Belize Act;
 
-“Council” means the Belize City Council constituted and
-
 *CAP. 85.*
 
-established under section 3 of the Belize City Council Act;
+“Council” means the Belize City Council constituted and established under section 3 of the Belize City Council Act;
 
 “cruise ship passenger fee” means the fee paid by a passenger of a cruise ship pursuant to the Agreement between the Government of Belize, Fort Street Tourism Village Limited and the Belize Tourist Board dated September 9, 2003 as amended from time to time;
 
@@ -118,11 +116,9 @@ established under section 3 of the Belize City Council Act;
 
 “Sinking Fund” means the Belize City Municipal Bond Sinking Fund established in section 5; and
 
-“treasury security” means a Treasury Bill or Treasury Note as
-
 *CAP 83.*
 
-defined in section 2 of the Treasury Bills Act.
+“treasury security” means a Treasury Bill or Treasury Note as defined in section 2 of the Treasury Bills Act.
 
 *Establishment of Belize City Infrastructure Fund. CAP. 85.*
 
@@ -148,7 +144,11 @@ Council in the administration of Belize City; and
 
 (b) which shall be used for the purpose of repaying principal and interest payable to bondholders in respect of a Bond.
 
-(2) Notwithstanding sub-section (1), the Minister may, where there are good and compelling reasons and after consultation with the Bond Trustee appointed under section 8, direct in writing that the deposit of monies referred to in subsection 1(a)(ii) into the Sinking Fund be interrupted or discontinued.
+*where there consultation*
+
+(2) Notwithstanding sub-section (1), the Minister may, are good and compelling reasons and after with the Bond Trustee appointed under section 8, direct in writing that the deposit of monies referred to in subsection 1(a)(ii) into the Sinking Fund be interrupted or
+
+*discontinued.*
 
 *Management of Sinking Fund.*
 
@@ -158,7 +158,9 @@ Council in the administration of Belize City; and
 
 (b) hold monies deposited into the Sinking Fund which are not required immediately for payments under paragraph (a) in treasury securities.
 
-(2) The Central Bank shall not be liable to the bondholder for any act or omission by the Central Bank or its employees in the discharge of any duty or function imposed by this Act, except in the case of fraud or gross neglect.
+*(2) The for any act or the discharge except in the*
+
+Central Bank shall not be liable to the bondholder omission by the Central Bank or its employees in of any duty or function imposed by this Act, case of fraud or gross neglect.
 
 (3) The Council shall indemnify the Central Bank and its employees against liability incurred in the performance of a function or duty imposed by this Act.
 
@@ -192,11 +194,9 @@ in respect of any trade licence fee or property tax due by that bondholder to th
 
 (3) For the purpose of sub-section (1), “trade licence fee” or
 
-“property tax” means any fee or tax imposed by the Council in accordance with its powers under section 59 (b) and (e) of the
-
 *CAP. 85.*
 
-Belize City Council Act, respectively.
+“property tax” means any fee or tax imposed by the Council in accordance with its powers under section 59 (b) and (e) of the Belize City Council Act, respectively.
 
 *Maintenance of records and accounts.*
 
@@ -242,13 +242,17 @@ a report of the audit conducted under sub-section (2) and a report on all the pr
 
 [section 2]
 
-The Belize City Municipal Bond (Issue No.1), 2012 authorized by the Council by Resolution dated 28 June, 2012.
+*The Belize City by the Council*
+
+Municipal Bond (Issue No.1), 2012 authorized by Resolution dated 28 June, 2012.
 
 ## SCHEDULE II
 
 [section 4]
 
-The Council may use the Infrastructure Bond proceeds for any of the following purposes–
+*The Council of the following*
+
+may use the Infrastructure Bond proceeds for any purposes–
 
 (a) to retire any existing overdraft facility, debt or liability (not to exceed $2.5 million in aggregate);
 
@@ -257,5 +261,7 @@ The Council may use the Infrastructure Bond proceeds for any of the following pu
 (c) to pay for any consultancy services, contractor services or services of any professional, including any attorney, auditor, accountant, financial advisor or bond trustee used as part of the municipal bond program (not to exceed 2% of the bond proceeds in aggregate or $400,000, whichever is the lower);
 
 (d) to pay for anything that is made a requirement by this Act, including any publications to be done; and
+
+City Council (Municipal Bond) [CAP.
 
 (e) to pay for any building, construction, renovation, beautification, park or playground or other similar project or activity within Belize City that benefits residents of Belize City and which the Minister may approve in writing.

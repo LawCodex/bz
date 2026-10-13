@@ -192,6 +192,10 @@ advertisement in the Gazette and in any local newspaper circulating in Belize, n
 
 (f) from and after the day so appointed the Accountant General shall, at his office, pay
 
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
+
 on demand to the holders of the debentures drawn for repayment the principal monies represented by those debentures, with all interest payable thereon up to the appointed day.
 
 *Cesser of interest from day appointed for payment of principal.*

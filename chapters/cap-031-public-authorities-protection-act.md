@@ -88,6 +88,10 @@ filling any public position in Belize, as well as police officers, whether tempo
 
 **4.** The plaintiff in any such action shall at any time, by order of a judge in chambers, be required to give security for costs in such an amount as to the judge appears reasonable.
 
+*THE*
+
+### SUBSTANTIVE LAWS OF BELIZE
+
 *Plea of general issue.*
 
 **5.** In every such action the defendant may plead the general issue and give all special matter in evidence at any trial to be had thereupon, and if the plaintiff becomes non-suited or discontinues the action, or if upon a verdict or an application to strike out the plaintiff’s statement of claim on the ground that it discloses no reasonable cause of action judgment is given against the plaintiff, the defendant shall receive costs and have such remedies for them as a defendant has in other cases where costs are given by law.
@@ -105,5 +109,9 @@ Provided that such defendant may by leave of the court, at any time before issue
 *Provisions extended.*
 
 **8.** The provisions of this Act shall extend and apply to any actions to be brought for anything done by a person acting
+
+*EDITION 2020*
+
+### REVISED
 
 bona fide in pursuance of any Act, or law, or in the execution of any duty imposed by law.

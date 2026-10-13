@@ -84,6 +84,8 @@ Institution of Action
 
 **17.** Payment into court by defendant.
 
+*[CAP.*
+
 ## PART III
 
 Witnesses and Hearing of Matters
@@ -137,6 +139,10 @@ Court Costs, Execution etc., of Judgements
 **37.** Enforcement of judgment by execution.
 
 **38.** Execution in case of judgment for payment by instalments. Execution in case of cross-judgments.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 Issue of writ of execution.
 
@@ -280,11 +286,9 @@ Preliminary
 
 **6.** Where in any action, the amount claimed consists of a balance, not exceeding fifteen thousand dollars, after an admitted set-off of any debt or demand claimed or recoverable by the defendant from the plaintiff, the court shall have jurisdiction to hear and determine that action.
 
-An executor or administrator may sue or be sued in the
-
 *Action by or against an executor. 21 of 1985. 10 of 2010 Action by infant for wages. 8 of 1970. 21 of 1985. 10 of 2010*
 
-court in like manner as if he were a party in his own right, and judgment and execution shall be such as, in the like cases, would be given or issued in the Supreme Court.
+An executor or administrator may sue or be sued in the court in like manner as if he were a party in his own right, and judgment and execution shall be such as, in the like cases, would be given or issued in the Supreme Court.
 
 **8.** Any person under the age of eighteen years may prosecute any action in the court for any sum of money, not exceeding fifteen thousand dollars, which may be due to him for wages or piece work or for work as a servant in the same manner, and with the same liability to the payment of costs, if he is unsuccessful in his action, as if he were of full age.
 
@@ -360,7 +364,11 @@ Witnesses and Hearing of Matters
 
 **18.** (1) Either of the parties to an action or matter may obtain from the clerk summonses for witnesses to appear at the hearing of the action or matter and give evidence or give evidence and produce any books, deeds, papers, writings or articles in their possession or control.
 
-(2) The provisions contained in sections 14 and 15 of this Act, with respect to service of the summons on a defendant shall, mutatis mutandis, apply to service of a summons on a witness.
+*(2) The Act, with*
+
+provisions contained in sections 14 and 15 of this respect to service of the summons on a defendant shall, mutatis mutandis, apply to service of a summons on a
+
+*witness.*
 
 *Witnesses not appearing or refusing to testify.*
 
@@ -372,7 +380,15 @@ Witnesses and Hearing of Matters
 
 shall be liable to a fine not exceeding one hundred dollars.
 
-(2) The whole or any part of such fine shall, after deducting the costs, be applicable, in the discretion of the magistrate, towards indemnifying the party injured by the refusal or
+*(2) The*
+
+*towards*
+
+whole or any part of such fine shall, after deducting the costs, be applicable, in the discretion of the magistrate, indemnifying the party injured by the refusal or
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 neglect, and the remainder, if any, shall be received and accounted for by the clerk.
 
@@ -476,11 +492,9 @@ reference to be made in the manner mentioned in subsection
 
 Failure of magistrate to attend on day of hearing.
 
-**34.** A cause shall not be deemed to have lapsed by reason
-
 *Failure of magistrate to attend on day of hearing.*
 
-of the failure of the magistrate to attend on the day of the hearing or adjourned hearing thereof, but in that case the parties may again, on another day to the magistrate seeming fit, be brought before the court by an oral or written notification from the magistrate or the clerk.
+**34.** A cause shall not be deemed to have lapsed by reason of the failure of the magistrate to attend on the day of the hearing or adjourned hearing thereof, but in that case the parties may again, on another day to the magistrate seeming fit, be brought before the court by an oral or written notification from the magistrate or the clerk.
 
 *Order for new hearing.*
 

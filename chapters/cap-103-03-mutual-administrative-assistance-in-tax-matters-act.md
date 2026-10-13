@@ -164,43 +164,33 @@ Schedule II Schedule III Schedule IV
 
 **2.** In this Act, unless the context otherwise requires–
 
-“Agreement”, or “MCAA CbC”, means the Multilateral Competent Authorities Agreement on the Exchange of Country-
-
 *4 of 2020.*
 
-by-Country Reports signed by the Government of Belize on 20 th day of June, 2017 and as set out in Schedule 3 in relation to agreements with participating jurisdictions to increase international tax transparency and improve access to information regarding the global allocation of income, taxes paid and indicators of the location or economic activity among tax jurisdiction or MNE group;
+“Agreement”, or “MCAA CbC”, means the Multilateral Competent Authorities Agreement on the Exchange of Country-by-Country Reports signed by the Government of Belize on 20 th day of June, 2017 and as set out in Schedule 3 in relation to agreements with participating jurisdictions to increase international tax transparency and improve access to information regarding the global allocation of income, taxes paid and indicators of the location or economic activity among tax jurisdiction or MNE group;
 
 “Approved Stock Exchange” has the meaning assigned in the International Business Companies Act;
 
 “CbC report” means the Country-by-Country report pursuant to section 8E;
 
-“competent authority”, in relation to Belize, means the Financial
-
 *18 of 2017.*
 
-Secretary in the Ministry of Finance or a person or authority designated by him in accordance with section 5A(1);
-
-“Convention” means the Convention on Mutual Administrative Assistance in Tax Matters, signed by Belize on the 29th May
+“competent authority”, in relation to Belize, means the Financial Secretary in the Ministry of Finance or a person or authority designated by him in accordance with section 5A(1);
 
 *Schedule.*
 
-2013, as set out in the Schedule hereto;
+“Convention” means the Convention on Mutual Administrative Assistance in Tax Matters, signed by Belize on the 29th May 2013, as set out in the Schedule hereto;
 
 “days” means calendar days;
 
-“IFS Practitioner” means any person or entity licensed by the International Financial Services Commission to carry on the business of ‘international financial services’ as that term is
-
 *CAP.272. CAP. 263.*
 
-defined in section 2 of the International Financial Services Commission Act;
+“IFS Practitioner” means any person or entity licensed by the International Financial Services Commission to carry on the business of ‘international financial services’ as that term is defined in section 2 of the International Financial Services Commission Act;
 
 *CAP. 267.*
 
-“financial institution” means a bank or financial institution as defined in the Domestic Banks and Financial Institutions Act or the International Banking Act, and includes brokerage firms and
-
 *.*
 
-insurance companies;
+“financial institution” means a bank or financial institution as defined in the Domestic Banks and Financial Institutions Act or the International Banking Act, and includes brokerage firms and insurance companies;
 
 “Member State” means a State which is a party to the Convention;
 
@@ -234,11 +224,9 @@ insurance companies;
 
 *Territorial application of the Convention.*
 
-**5.** With respect to Belize, the Convention shall apply to the territory of Belize as defined in Schedule 1 to the Belize Constitution, including the territorial waters and any other area in the sea and in the air within which Belize, in accordance with
-
 *CAP. 4.*
 
-international law, exercises sovereign rights or its jurisdiction.
+**5.** With respect to Belize, the Convention shall apply to the territory of Belize as defined in Schedule 1 to the Belize Constitution, including the territorial waters and any other area in the sea and in the air within which Belize, in accordance with international law, exercises sovereign rights or its jurisdiction.
 
 *Competent authority. 18 of 2017.*
 
@@ -290,11 +278,9 @@ International Insurance, taxing authority, public statutory corporations, public
 
 (c) any permanent establishment of any separate business unit of the MNE group included in paragraph (a) or (b) provided the business unit prepares a separate financial statement for such permanent establishment for financial reporting, regulatory, tax reporting or internal management control purposes;
 
-“Department” means the Belize Tax Service Department
-
 *8 of 2019.*
 
-established pursuant to section 5(2) of the Tax Administration and Procedure Act;
+“Department” means the Belize Tax Service Department established pursuant to section 5(2) of the Tax Administration and Procedure Act;
 
 “excluded MNE group” means a group that is not required to file a CbC report on the basis that the annual consolidated group revenue of the group during the financial year immediately preceding the reporting financial year, as reflected in its
 
@@ -432,13 +418,11 @@ automatic exchange of CbC reporting in respect to the filings of information und
 
 “account holder” has the meaning given by Section VIII E 1 of the Standard;
 
-“Agreement” or “MCAA” means the Multilateral Competent Authorities Agreement on the Automatic Exchange of Financial Account Information signed by the Government of Belize on 29th October 2015 in relation to agreements with the participating jurisdictions to improve international tax
-
 *Schedule II.*
 
 *18 of 2017.*
 
-compliance based on the Standard as set out in Schedule II;
+“Agreement” or “MCAA” means the Multilateral Competent Authorities Agreement on the Automatic Exchange of Financial Account Information signed by the Government of Belize on 29th October 2015 in relation to agreements with the participating jurisdictions to improve international tax compliance based on the Standard as set out in Schedule II;
 
 “Belizean financial institution” means–
 
@@ -450,11 +434,9 @@ compliance based on the Standard as set out in Schedule II;
 
 “CRS” or “Standard” means the Common Reporting Standard as set out in Schedule 3, including the Commentaries thereon, approved by the Council of the Organisation for Economic Co-operation and Development on 15 July 2014, which contains reporting and due diligence procedures for the exchange of information on an automatic basis, as amended from time to time;
 
-“financial account” has the meaning given by Section VIII of
-
 *18 of 2017.*
 
-the Standard;
+“financial account” has the meaning given by Section VIII of the Standard;
 
 *18 of 2017.*
 
@@ -552,11 +534,9 @@ or all of the duties and obligations imposed on the reporting financial institut
 
 **16.** (1) The competent authority, subject to the general directions of the Minister, shall generally administer and enforce compliance with the provisions of the Convention, this Act and any regulations made under this Act, with respect to the automatic exchange of financial account information.
 
-(2) The competent authority may exercise all powers vested in the competent authority of Income Tax under the Income and
-
 *CAP. 55.*
 
-Business Tax Act to administer and enforce compliance with the provisions of the Convention, this Act and any regulations made under this Act.
+(2) The competent authority may exercise all powers vested in the competent authority of Income Tax under the Income and Business Tax Act to administer and enforce compliance with the provisions of the Convention, this Act and any regulations made under this Act.
 
 (3) The competent authority may in writing, request information from and, at all reasonable times, enter, with the assistance of such agents as the competent authority considers necessary, any premises or place of business of a reporting financial institution for the purposes of–
 
@@ -682,11 +662,9 @@ set out grounds of appeal.
 
 (3) On appeal under section 25(b) that is notified to the Income Tax Appeal Board, the Income Tax Appeal Board may confirm the assessment or substitute another assessment that the competent authority had power to make.
 
-(4) Subject to this section and section 25, the provisions of
-
 *CAP. 55.*
 
-the Income and Business Tax Act relating to appeals shall apply in relation to appeals under section 25 as they apply in relation to an appeal under that Act.
+(4) Subject to this section and section 25, the provisions of the Income and Business Tax Act relating to appeals shall apply in relation to appeals under section 25 as they apply in relation to an appeal under that Act.
 
 *Procedure for payment of administrative penalty. 18 of 2017.*
 
@@ -700,11 +678,9 @@ the Income and Business Tax Act relating to appeals shall apply in relation to a
 
 (3) The rate of interest charged under sub-section (2) shall be [10%] per annum.
 
-Any failure pursuant to section 20 for which the
-
 *When administrative violation constitutes an offence. 18 of 2017.*
 
-administrative procedures set out in section 21 to 27 have been instituted, and for which the administrative penalty remains unpaid for two years or more shall constitute an offence and the person is liable on summary conviction to a fine of one hundred thousand dollars or to imprisonment for one year or to both.
+Any failure pursuant to section 20 for which the administrative procedures set out in section 21 to 27 have been instituted, and for which the administrative penalty remains unpaid for two years or more shall constitute an offence and the person is liable on summary conviction to a fine of one hundred thousand dollars or to imprisonment for one year or to both.
 
 *Anti-voidance. 18 of 2017.*
 
@@ -734,11 +710,9 @@ reporting financial institution to enable the financial institution to identify 
 
 (g) specifying the outstanding information in the MCAA (Annexes A to E) which are required for enabling the automatic exchange of financial account information, namely the list of non-reciprocating jurisdictions, transmission methods, specified data safeguards, confidentiality questionnaire, and the competent authority for which an agreement is in effect; and
 
-(gA) specifying the outstanding information in the MCAA CbC which are required for enabling
-
 *4 of 2020.*
 
-the automatic exchange of CbC reports, namely the list of jurisdictions for intended exchange, nonreciprocating jurisdictions, transmission methods, specifying additional data safeguards, confidentiality, and any other matter required for which the Agreement is in effect; and
+(gA) specifying the outstanding information in the MCAA CbC which are required for enabling the automatic exchange of CbC reports, namely the list of jurisdictions for intended exchange, nonreciprocating jurisdictions, transmission methods, specifying additional data safeguards, confidentiality, and any other matter required for which the Agreement is in effect; and
 
 (h) generally to carry out the purposes and provisions of the Convention, the Agreement or this Act.
 
@@ -1454,11 +1428,9 @@ than an Investment Entity described in subparagraph A(6)(b) of Section VIII that
 
 (c) Determining whether a Controlling Person of a Passive NFE is a Reportable Person. For the purposes of determining whether a Controlling Person of a Passive NFE is a Reportable Person, a Reporting Financial Institution may rely on:
 
-i) information collected and maintained pursuant to AML/KyC Procedures in the case of a Preexisting Entity Account held by one or more NFEs with an aggregate account balance or value that does not exceed USD1 000 000; or ii) a self-certification from the Account Holder or such Controlling Person of the jurisdiction(s) in which the Controlling Person is resident for tax purposes.
-
 *E.*
 
-Timing of Review and Additional Procedures Applicable to Preexisting Entity Accounts.
+i) information collected and maintained pursuant to AML/KyC Procedures in the case of a Preexisting Entity Account held by one or more NFEs with an aggregate account balance or value that does not exceed USD1 000 000; or ii) a self-certification from the Account Holder or such Controlling Person of the jurisdiction(s) in which the Controlling Person is resident for tax purposes. Timing of Review and Additional Procedures Applicable to Preexisting Entity Accounts.
 
 **1.** Review of Preexisting Entity Accounts with an aggregate account balance or value that exceeds USD 250 000
 

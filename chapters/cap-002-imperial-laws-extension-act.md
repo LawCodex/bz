@@ -76,6 +76,8 @@ R.E. 1980-1990.
 
 **4.** (1) Wherever by this Act, or any other law, it is declared that the common law of England or any other Imperial Law shall extend to Belize, the same shall be deemed to extend thereto so far only as the jurisdiction of the court and local circumstances reasonably permit and render such extension suitable and appropriate, and all the said Imperial Laws shall be subject to any existing or future laws of the National Assembly of Belize.
 
+[CAP.
+
 (2) For the purpose of facilitating the application of the said laws, it shall be lawful for the presiding judge to construe any such Imperial Statute with such verbal alteration not affecting the substance as may be necessary to render the same applicable to the matter before the court.
 
 (3) Every judge or officer of the Supreme Court having or exercising functions of the like kind, or functions analogous to those of any judge or officer referred to in such Statute, shall be deemed to be within the meaning of the enactments thereof relating to such last mentioned judge or officer.
@@ -99,6 +101,10 @@ R.E. 1980-1990.
 (a) having local or limited operation only, or
 
 (b) relating to bankruptcy or insolvency, or
+
+*EDITION 2020*
+
+### REVISED
 
 (c) regulating any profession, trade or business, or
 

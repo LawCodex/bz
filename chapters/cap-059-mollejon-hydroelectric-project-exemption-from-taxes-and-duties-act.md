@@ -100,17 +100,13 @@ Cayo District and all structures and facilities related to such storage and gene
 
 *Exemption from taxes and duties.*
 
-**3.** Notwithstanding anything contained in the Income and Business Tax Act Cap. 55, the Sales Tax Act, Cap. 63, the Stamp Duties Act, Cap. 64, the Customs and Excise Duties Act Cap.48, the Customs Regulation Act and duties Cap. 49, the Exchange Control Regulation Act Cap. 52, and Regulations made thereunder, or any other law, rule, regulation, order or
-
 *Act 7 of 2007.*
 
-instrument whatsoever, the exemptions from taxes and duties set out in the Schedule hereto shall have effect in Belize commencing from the 19th day of April 1991 and continuing for so long as the Agreement, the Amended Franchise Agreement and the Thermal and Additional Hydro Franchise Agreement remain in force.
-
-**4.** The exemptions from taxes and duties granted by
+**3.** Notwithstanding anything contained in the Income and Business Tax Act Cap. 55, the Sales Tax Act, Cap. 63, the Stamp Duties Act, Cap. 64, the Customs and Excise Duties Act Cap.48, the Customs Regulation Act and duties Cap. 49, the Exchange Control Regulation Act Cap. 52, and Regulations made thereunder, or any other law, rule, regulation, order or instrument whatsoever, the exemptions from taxes and duties set out in the Schedule hereto shall have effect in Belize commencing from the 19th day of April 1991 and continuing for so long as the Agreement, the Amended Franchise Agreement and the Thermal and Additional Hydro Franchise Agreement remain in force.
 
 *Extent of exemption. 7 of 2007.*
 
-section 3 of this Act shall apply only to such activities of the Producer as relate directly to the Mollejon Project, the Chalillo Project and the VACA Project, including any financing thereof.
+**4.** The exemptions from taxes and duties granted by section 3 of this Act shall apply only to such activities of the Producer as relate directly to the Mollejon Project, the Chalillo Project and the VACA Project, including any financing thereof.
 
 ## SCHEDULE
 

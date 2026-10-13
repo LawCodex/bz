@@ -86,6 +86,10 @@ Cybercrime Offences
 
 **18.** Offences prejudicing investigation.
 
+*[CAP.*
+
+106:01
+
 ## PART III
 
 Enforcement
@@ -137,6 +141,10 @@ International Cooperation
 **39.** Extradition.
 
 **40.** Transborder access to computer data with consent or when unsecured and publicly available.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 ## PART V
 
@@ -194,9 +202,15 @@ Miscellaneous
 
 (c) encrypted or unencrypted information that does not fall within paragraph (a) or (b) that is held or obtained by a person providing a communication service in relation to a person to whom the service is provided;
 
-“communication network” means any wire, radio, optical or other electromagnetic system used to route switch or transmit communication;
+*other*
 
-“communication service” means a service that consists in the provision of access to and of facilities for making use of, any communication network, whether or not it is one provided by the person providing the service;
+“communication network” means any wire, radio, optical or electromagnetic system used to route switch or transmit communication;
+
+*provision of*
+
+*the person*
+
+“communication service” means a service that consists in the access to and of facilities for making use of, any communication network, whether or not it is one provided by providing the service;
 
 “computer data” means any representation of–
 
@@ -222,15 +236,23 @@ that is in a form suitable for processing in a computer system and is capable of
 
 “person” includes a natural or legal person, an educational or financial institution or any legal or other entity;
 
-“security measure” means password, access code, encryption code or biometric information in the form of computer data and includes any means of limiting access to authorised persons or to secure recognition prior to granting access to communication data, a communication network, a computer system or computer data;
+*“security code or*
 
-“service provider” means–
+*to secure data, a data;*
+
+measure” means password, access code, encryption biometric information in the form of computer data and includes any means of limiting access to authorised persons or recognition prior to granting access to communication communication network, a computer system or computer
+
+*“service*
+
+provider” means–
 
 (a) any public or private entity that provides to users of its service the ability to communicate by means of a computer system; or
 
 (b) any public or private entity that processes or stores computer data on behalf of a communication service or users of the service;
 
-“subscriber information” means any information contained in the form of computer data or any other form that is held by a service provider, relating to subscribers of its services and by which can be established–
+*service*
+
+“subscriber information” means any information contained in the form of computer data or any other form that is held by a provider, relating to subscribers of its services and by which can be established–
 
 (a) the type of communication service used, the technical provisions taken and the period of service;
 
@@ -240,9 +262,13 @@ address, telephone and other access number, billing and payment information avai
 
 (c) any other information on the site of the installation of communication equipment available on the basis of the service agreement or arrangement;
 
-“Storage Direction” means any Order of a court compelling a service provider to store and make available to a stipulated party a person’s stored traffic data and subscriber information; and
+*“Storage service provider a person’s*
 
-“traffic data” means any communication data–
+Direction” means any Order of a court compelling a to store and make available to a stipulated party stored traffic data and subscriber information; and
+
+*“traffic data”*
+
+means any communication data–
 
 (a) identifying, or purporting to identify, any person, apparatus or location to or from which the communication that is, may be or may have been transmitted, and “data” in relation to a postal article, means anything written on the outside of the postal article;
 
@@ -258,7 +284,9 @@ address, telephone and other access number, billing and payment information avai
 
 (e) identifying a computer file or a computer programme, access to which is obtained or which is run by means of the communication,
 
-to the extent only that the file or the programme is identified by reference to the apparatus in which it is stored, and a reference to traffic data being attached to a communication includes a
+*to the extent reference to the to traffic data*
+
+only that the file or the programme is identified by apparatus in which it is stored, and a reference being attached to a communication includes a
 
 reference to the data and the communication being logically associated with each other.
 
@@ -290,15 +318,23 @@ Cybercrime Offences
 
 by infringing a security measure.
 
-(2) A person who commits an offence under sub-section (1), is liable on–
+*(2) A person is liable on–*
+
+who commits an offence under sub-section (1),
 
 (a) conviction to a fine of five thousand dollars and to a term of imprisonment for three years; or
 
 (b) conviction on indictment to a fine of ten thousand dollars and to a term of imprisonment for five years.
 
-*Illegal data interference.*
+*Illegal data*
 
-**5.** A person commits an offence who, intentionally and without lawful excuse or justification–
+*A*
+
+*interference.*
+
+*without lawful*
+
+**5.** person commits an offence who, intentionally and excuse or justification–
 
 (a) damages the computer data of another person;
 
@@ -306,25 +342,35 @@ by infringing a security measure.
 
 (c) denies access to computer data to another person who is authorised to access the computer data.
 
-(2) A person who commits an offence under sub-section (1), is liable on–
+*(2) A person is liable on–*
+
+who commits an offence under sub-section (1),
 
 (a) summary conviction to a fine of eight thousand dollars and to a term of imprisonment for three years; or
 
 (b) conviction on indictment to a fine of twelve thousand dollars and to a term of imprisonment for five years.
 
-*Illegal system interference.*
+*Illegal system 6.-(1) A interference.*
 
-**6.** (1) A person commits an offence who, intentionally and without lawful excuse or justification, seriously hinders or interferes with the functioning of the computer system of
+*without lawful interferes with*
 
-another person by inputting, transmitting, damaging, modifying or suppressing computer data.
+person commits an offence who, intentionally and excuse or justification, seriously hinders or the functioning of the computer system of
 
-(2) A person who commits an offence under sub-section (1), is liable- on–
+*another person or suppressing*
+
+by inputting, transmitting, damaging, modifying computer data.
+
+(2) A person who commits an offence under sub-section (1),
+
+*is liable- on–*
 
 (a) summary conviction to a fine of ten thousand dollars and to a term of imprisonment for three years; or
 
 (b) conviction on indictment to a fine of fifteen thousand dollars and to a term of imprisonment for five years.
 
-(3) For the purposes of this section “seriously hinders” includes–
+*(3) For the includes–*
+
+purposes of this section “seriously hinders”
 
 (a) disconnecting the electricity supply to the computer system;
 
@@ -334,43 +380,57 @@ another person by inputting, transmitting, damaging, modifying or suppressing co
 
 *Illegal devices and codes.*
 
-**7.** A person commits an offence who, for the purpose of committing an offence under this Act or any other law, intentionally and without lawful excuse or justification, possesses, procures for use, produces, sells, imports or exports, distributes, discloses or otherwise makes available–
+*committing an intentionally possesses, distributes,*
+
+**7.** A person commits an offence who, for the purpose of offence under this Act or any other law, and without lawful excuse or justification, procures for use, produces, sells, imports or exports, discloses or otherwise makes available–
 
 (a) a device or a computer programme, that is designed or adapted; or
 
 (b) a security measure by which the whole or any part of a computer system or computer data is capable of being accessed.
 
-(2) A person who commits an offence under sub-section (1), is liable on–
+*(2) A person is liable on–*
+
+who commits an offence under sub-section (1),
 
 (a) summary conviction to a fine of three thousand dollars and to a term of imprisonment for three years; or
 
 (b) conviction on indictment to a fine of eight thousand dollars and to a term of imprisonment for five years.
 
-*Computer related forgery.*
+*Computer related A person forgery.*
 
-**8.** A person commits an offence who, intentionally inputs, modifies or suppresses computer data, regardless of whether or not the data is directly readable and intelligible, and the input, modification or suppression causes the data to become inauthentic–
+*modifies or not the data is modification or inauthentic–*
+
+**8.** commits an offence who, intentionally inputs, suppresses computer data, regardless of whether or directly readable and intelligible, and the input, suppression causes the data to become
 
 (a) is liable on summary conviction to a fine of three thousand dollars and to a term of imprisonment for three years; or
 
 (b) on conviction on indictment to a fine of five thousand dollars and to a term of imprisonment for five years.
 
-*Identity related fraud.*
+*Identity related 9.-(1) A person fraud.*
 
-**9.** (1) A person commits an offence who, with the intent to defraud or deceive another person for the purpose of procuring an economic benefit for the person or another–
+*defraud or an economic*
+
+commits an offence who, with the intent to deceive another person for the purpose of procuring benefit for the person or another–
 
 (a) inputs, alters, deletes or suppresses computer data; or
 
 (b) interferes with the functioning of a computer system.
 
-(2) A person who commits an offence under sub-section (1), is liable on–
+*(2) A person is liable on–*
+
+who commits an offence under sub-section (1),
 
 summary conviction to a fine of five thousand dollars and to a term of imprisonment for five years; or
 
 (b) conviction on indictment to a fine of ten thousand dollars and to a term of imprisonment for ten years.
 
-*Identity related theft.*
+*Identity related*
 
-**10.** (1) A person commits an offence who, with the intent to assume the identity of another person, uses a computer system or computer data to–
+*10.-(1) A*
+
+*theft.*
+
+person commits an offence who, with the intent to assume the identity of another person, uses a computer system or computer data to–
 
 (a) obtain, transfer, possess or use a means of identification of another person; or
 
@@ -384,7 +444,9 @@ summary conviction to a fine of five thousand dollars and to a term of imprisonm
 
 *Child luring.*
 
-**11.** (1) A person commits an offence who, uses a computer system to communicate with a child with the intent to–
+*11.-(1) A system to*
+
+person commits an offence who, uses a computer communicate with a child with the intent to–
 
 (a) induce the child to engage in a sexual conversation or sexual activity with the child; or
 
@@ -392,23 +454,29 @@ summary conviction to a fine of five thousand dollars and to a term of imprisonm
 
 (c) arrange a meeting with a child for the purpose of abusing or engaging in sexual activity with the child, or producing child pornography, whether or not the person takes any steps to effect the meeting.
 
-(2) A person who commits an offence under sub- section (1), is liable on–
+(2) A person who commits an offence under sub- section (1),
+
+*is liable on–*
 
 (a) summary conviction to a fine of ten thousand dollars and to a term of imprisonment for five years; or
 
 (b) conviction on indictment to a fine of fifteen thousand dollars and to a term of imprisonment for ten years.
 
-*Publication or transmission of image of private area.*
+*Publication or transmission of consent of image of private area. publishes or*
 
-**12.** (1) A person commits an offence who, without the explicit consent of another person, intentionally captures, stores in, publishes or transmits through a computer system, an image of a private area of the other person and is liable–
+**12.** (1) A person commits an offence who, without the explicit another person, intentionally captures, stores in, transmits through a computer system, an image of a private area of the other person and is liable–
 
 (a) on summary conviction to a fine of five thousand dollars and to a term of imprisonment for five years; or
 
 (b) on conviction on indictment to a fine of ten thousand dollars and to a term of imprisonment for ten years.
 
-(2) For the purposes of this section, “private area” means genitalia, buttocks or breasts.
+*(2) For the genitalia,*
 
-(3) Notwithstanding the penalty under sub-section (1), a Court may, by Order prohibit the offender from using the internet or any computer system and impose any conditions on the offender as determined by the Court.
+purposes of this section, “private area” means buttocks or breasts.
+
+*internet or any the offender as*
+
+(3) Notwithstanding the penalty under sub-section (1), a Court may, by Order prohibit the offender from using the computer system and impose any conditions on determined by the Court.
 
 (4) An Order under sub-section (3) shall be for any period the Court considers appropriate, including any period of imprisonment imposed on the offender.
 
@@ -432,9 +500,9 @@ summary conviction to a fine of five thousand dollars and to a term of imprisonm
 
 (2) A service provider who fails to comply with the requirements under sub-section (1), commits an offence and is liable on summary conviction to a fine of twenty thousand dollars and to a term of imprisonment for three year.
 
-*Using a computer system to coerce, harass, intimidate, etc. a person.*
+*Using a 15.-(1) A person computer system another person to coerce, harass, intimidate, etc. a computer person.*
 
-**15.** (1) A person commits an offence who, with intent to compel another person to do or refrain from doing any act, uses a computer system to publish or transmit computer data that–
+commits an offence who, with intent to compel to do or refrain from doing any act, uses a system to publish or transmit computer data that–
 
 (a) intimidates the other person;
 
@@ -444,13 +512,17 @@ threatens a member of the other person’s (c)
 
 family with violence.
 
-(2) For the purposes of this section “intimidate” means–
+*(2) For the*
+
+purposes of this section “intimidate” means–
 
 (a) to cause in the mind of a reasonable person an apprehension of injury to the person, to a member of the person’s family or a to dependant of the person, or of violence or damage to the person’s property; or
 
 (b) to cause a person substantial emotional distress.
 
-(3) A person commits an offence who, uses a computer system to–
+*(3) A system to–*
+
+person commits an offence who, uses a computer
 
 (a) publish or transmit computer data that is obscene, vulgar, profane, lewd, lascivious or indecent, with intent to–
 
@@ -460,19 +532,25 @@ family with violence.
 
 repeatedly send to another person, computer data that is obscene, vulgar, profane, lewd, lascivious or indecent with intent to humiliate or harass the other person, and the humiliation or harassment is detrimental to the health, emotional well-being, self-esteem or reputation of the other person.
 
-(4) A person commits an offence who, uses a computer system to disseminate any information, statement or image, knowing the information, statement or image to be false, with the intent to cause–
+*(4) A system to*
+
+person commits an offence who, uses a computer disseminate any information, statement or image, knowing the information, statement or image to be false, with the intent to cause–
 
 (a) harm to the reputation of the other person; or
 
 (b) the other person to be subject to public ridicule, contempt, hatred or embarrassment.
 
-(5) A person commits an offence who, uses a computer system to threaten to publish computer data containing personal or private information of another person, with the intent to–
+*(5) A system to or private*
+
+person commits an offence who, uses a computer threaten to publish computer data containing personal information of another person, with the intent to–
 
 (a) extort a benefit from the other person; or
 
 (b) cause the other person public ridicule, contempt, hatred or embarrassment.
 
-(6) A person who commits an offence under this section is liable on–
+(6) A person who commits an offence under this section is
+
+*liable on–*
 
 (a) summary conviction to a fine of ten thousand dollars and to a term of imprisonment for five years; or
 
@@ -512,13 +590,17 @@ repeatedly send to another person, computer data that is obscene, vulgar, profan
 
 disposal of, documents or computer data that are relevant to the investigation.
 
-(2) A person who commits an offence under sub-section (1), is liable on–
+*(2) A person is liable on–*
+
+who commits an offence under sub-section (1),
 
 (a) summary conviction to a fine of five thousand dollars and to a term of imprisonment for three years; or
 
 (b) conviction on indictment to a fine of eight thousand dollars and to a term of imprisonment for five years.
 
-(3) Notwithstanding sub-section (1), it is a defence under sub-section (1)(a) if–
+*sub-section*
+
+(3) Notwithstanding sub-section (1), it is a defence under (1)(a) if–
 
 (a) the accused does not know or have reasonable grounds to believe that the disclosure is likely to prejudice the investigation;
 
@@ -530,23 +612,29 @@ disposal of, documents or computer data that are relevant to the investigation.
 
 (ii) to any person in connection with legal proceedings or contemplated legal proceedings.
 
-(4) Notwithstanding sub-section (1), it is a defence under sub-section (1)(b) if the accused–
+*sub-section*
+
+(4) Notwithstanding sub-section (1), it is a defence under (1)(b) if the accused–
 
 does not know or suspect that the documents or computer data are relevant to the investigation; or
 
 (b) does not intend to falsify, conceal, destroy or otherwise dispose of any facts disclosed by the documents or computer data, from any official carrying out the investigation.
 
-(5) Notwithstanding sub-section (2)(c)(ii), a person commits an offence if the disclosure is made in furtherance of a criminal purpose.
+(5) Notwithstanding sub-section (2)(c)(ii), a person commits an offence if the disclosure is made in furtherance of a criminal
+
+*purpose.*
 
 ## PART III
 
 Enforcement
 
-*Ex-parte application for Storage Direction.*
+*Ex-parte 19.-(1) The application for Prosecution Storage Direction.*
 
-**19.** (1) The Director of Public Prosecutions or Head of Prosecution Branch may in the prescribed form, make an ex-parte application for a Storage Direction.
+Director of Public Prosecutions or Head of Branch may in the prescribed form, make an ex-parte application for a Storage Direction.
 
-(2) An application under sub-section (1), shall–
+*(2) An*
+
+application under sub-section (1), shall–
 
 (a) be accompanied by an affidavit in support and attested to by the investigating police officer declaring the following–
 
@@ -594,9 +682,17 @@ Enforcement
 
 for a renewal of a Storage Direction.
 
-*Scope and form of Storage Direction.*
+*Scope and form*
 
-**20.** (1) A Storage Direction shall direct the named service provider to–
+*20.-(1) A*
+
+*of Storage*
+
+Storage Direction shall direct the named service
+
+*provider to–*
+
+*Direction.*
 
 (a) keep stored, at any place in Belize accurate records of–
 
@@ -608,21 +704,27 @@ for a renewal of a Storage Direction.
 
 (b) store the traffic data for the period of time as stated in the Storage Direction; and
 
-(c) submit the stored traffic data and subscriber information to a named police officer.
+*(2) A*
 
-(2) A Storage Direction shall specify–
+(c) submit the stored traffic data and subscriber information to a named police officer. Storage Direction shall specify–
 
-(a) the manner in which the data is to be stored and submitted to the police officer; and
+(a) the manner in which the data is to be stored and submitted to the police officer; and (b) any other conditions or restrictions that relate to the traffic data.
 
-(b) any other conditions or restrictions that relate to the traffic data.
+*(3) A*
 
-(3) A Storage Direction may contain any ancillary provisions as may be necessary to secure its implementation in accordance with the provisions of this Act.
+Storage Direction may contain any ancillary provisions as may be necessary to secure its implementation in accordance with the provisions of this Act.
 
-*Ex-parte application for Search and Seizure Warrant.*
+*Ex-parte*
 
-**21.** (1) The Director of Public Prosecutions or Head Prosecution Branch may in the prescribed form, make an ex-parte application for Search and Seizure Warrant.
+*21.-(1) The*
 
-(2) An application under sub-section (1), shall–
+*application for Search and Seizure Warrant.*
+
+Director of Public Prosecutions or Head Prosecution Branch may in the prescribed form, make an ex-parte application for Search and Seizure Warrant.
+
+*(2) An*
+
+application under sub-section (1), shall–
 
 be accompanied by an affidavit in support and attested to by the investigating police officer declaring the following–
 
@@ -758,7 +860,9 @@ prejudice–
 
 *Assistance.*
 
-**25.** (1) A person with knowledge about the functioning of a computer system or computer data storage medium, or security measures applied to protect computer data, that is the subject of a Search and Seizure Warrant shall, if requested, assist the police officer who is executing the search, by–
+*computer measures a Search and police officer*
+
+**25.** (1) A person with knowledge about the functioning of a system or computer data storage medium, or security applied to protect computer data, that is the subject of Seizure Warrant shall, if requested, assist the who is executing the search, by–
 
 (a) providing any information, about the computer system, computer data or storage medium sought, that may facilitate the execution of the Search and Seizure Warrant;
 
@@ -768,7 +872,9 @@ prejudice–
 
 (d) obtaining an intelligible output from a computer system or computer data storage medium in such a format that is admissible for the purpose of legal proceedings.
 
-(2) A person who fails, without lawful excuse or justification, to comply with the requirements under sub-section (1), commits an offence and is liable on summary conviction to
+*(2) A justification, to (1), commits an*
+
+person who fails, without lawful excuse or comply with the requirements under sub-section offence and is liable on summary conviction to
 
 a fine of three thousand dollars and to a term of imprisonment for one year.
 
@@ -802,9 +908,13 @@ dangerous to apply in order to obtain the required evidence;
 
 (v) any other relevant directives issued by a Court in relation to the matter.
 
-(3) A Court shall issue a Production Order, where it is satisfied that computer data or traffic data, a printout or other information is reasonably required for the purpose of a criminal investigation or criminal proceedings under this Act or any other law.
+*(3) A Court satisfied that information is investigation or law.*
 
-(4) A Production Order may direct–
+shall issue a Production Order, where it is computer data or traffic data, a printout or other reasonably required for the purpose of a criminal criminal proceedings under this Act or any other
+
+*(4) A*
+
+Production Order may direct–
 
 (a) a person in Belize who is in possession or control of a computer system or computer data storage medium, to produce, from the computer system or computer data storage medium, specified computer data or a printout or other intelligible output of the computer data; or
 
@@ -852,17 +962,25 @@ the basis for the application, including that it is the interest of–
 
 (e) the reason for the use of the tool.
 
-(3) A Court shall issue a Use of Remote Forensic Tools Order, where it is satisfied that computer data that is reasonably required for the purpose of a criminal investigation or criminal proceedings under this Act or any other law cannot be collected without the use of the Use of Remote Forensic Tools Order.
+*(3) A Court Order, where it required for the proceedings without the use*
 
-(4) On an application under sub-section (1), the Court may order that a person or a service provider support the installation of the remote forensic tool.
+shall issue a Use of Remote Forensic Tools is satisfied that computer data that is reasonably purpose of a criminal investigation or criminal under this Act or any other law cannot be collected of the Use of Remote Forensic Tools Order.
 
-(5) A Use of Remote Forensic Tools Order shall be in relation to the following only–
+*(4) On an order that a of the remote*
+
+application under sub-section (1), the Court may person or a service provider support the installation forensic tool.
+
+*(5) A Use relation to the*
+
+of Remote Forensic Tools Order shall be in following only–
 
 (a) modifications to a computer system shall be limited to those that are necessary for the investigation; and
 
 (b) modification to a computer system shall be done, so far as possible, after the investigation.
 
-(6) A police officer who executes a Use of Remote Forensic Tools Order as soon as possible after execution, prepare a record of–
+*Tools Order as of–*
+
+(6) A police officer who executes a Use of Remote Forensic soon as possible after execution, prepare a record
 
 (a) the remote forensic tool used;
 
@@ -872,9 +990,13 @@ the basis for the application, including that it is the interest of–
 
 (d) the information obtained.
 
-(7) A police officer who executes a Use of Remote Forensic Tools Order shall ensure that any information obtained by the utilisation of the remote forensic tool is protected against modification, unauthorised deletion and unauthorised access.
+*Tools Order utilisation of modification,*
 
-(8) A Use of Remote Forensic Tools Order shall cease to apply where–
+(7) A police officer who executes a Use of Remote Forensic shall ensure that any information obtained by the the remote forensic tool is protected against unauthorised deletion and unauthorised access.
+
+*(8) A Use apply where–*
+
+of Remote Forensic Tools Order shall cease to
 
 (a) the computer data sought is collected;
 
@@ -932,7 +1054,9 @@ claims to be the owner of the property that is the subject of the Order; or
 
 (b) appears to the Court to have an interest in the property that is the subject of the Order.
 
-(3) Where the Court is satisfied that the requirements under sub-section (2) have been met, the Court shall grant the Forfeiture Order and issue–
+*(3) Where sub-section (2) Forfeiture Order*
+
+the Court is satisfied that the requirements under have been met, the Court shall grant the and issue–
 
 (a) a warrant authorising a police officer to search the building, place or vessel for the property that is the subject of the Forfeiture Order and to seize–
 
@@ -942,17 +1066,29 @@ claims to be the owner of the property that is the subject of the Order; or
 
 (b) a Restraint Order prohibiting any person from disposing of, or otherwise dealing with any interest in, the property, other than as specified in the Restraint Order.
 
-(4) A person against whose property an Order under this section is made, may appeal the Order.
+*(4) A person section is made,*
 
-(5) Property forfeited to the State under sub-section (1) shall vest in the State–
+against whose property an Order under this may appeal the Order.
+
+*(5) Property vest in the State–*
+
+forfeited to the State under sub-section (1) shall
 
 (a) if no appeal is made against the Forfeiture Order, within the period for an appeal; or
 
 if an appeal is made, on the final determination of the matter, where the decision is made in favour of the State.
 
-*Failure to comply with a Court Order.*
+*Failure to*
 
-**34.** A person who fails to comply with any Order of the Court, under this Act, commits an offence and is liable–
+*A*
+
+*comply with a*
+
+*Court, under*
+
+*Court Order.*
+
+**34.** person who fails to comply with any Order of the this Act, commits an offence and is liable–
 
 (a) to a fine of one thousand dollars and to a term of imprisonment for one year; and
 
@@ -960,23 +1096,43 @@ if an appeal is made, on the final determination of the matter, where the decisi
 
 *Evidence.*
 
-**35.** In any criminal proceedings under this Act or any other law–
+*In any law–*
+
+**35.** criminal proceedings under this Act or any other
 
 (a) any computer data or traffic data, generated, retrieved or reproduced from a computer system, and whether in electronic or printed form; or
 
 (b) any computer acquired in respect of any offence, shall be admissible as evidence.
 
-*Determining the severity of charges.*
+*Determining the*
 
-**36.** It shall be within the discretion of the Director of Public Prosecutions to determine whether an offence is tried summarily or on indictment.
+*It shall*
+
+*severity of charges.*
+
+*or on*
+
+**36.** be within the discretion of the Director of Public Prosecutions to determine whether an offence is tried summarily indictment.
 
 ## PART IV
 
 International Cooperation
 
-*Mutual Legal Assistance and International Co-operation Act CAP. 103:02.*
+*Mutual Legal*
 
-**37.** For the purposes of international cooperation, the Mutual Legal Assistance and International Co-operation Act shall apply.
+*For the*
+
+*Assistance and*
+
+*Legal*
+
+*International Co-operation Act*
+
+**37.** purposes of international cooperation, the Mutual Assistance and International Co-operation Act shall
+
+*apply.*
+
+*CAP. 103:02.*
 
 *Spontaneous information.*
 
@@ -1026,7 +1182,9 @@ that director, manager, secretary, or other similar officer commits an offence.
 
 *Jurisdiction.*
 
-**43.** A Court in Belize shall have jurisdiction in respect of an offence under this Act where the act constituting the offence is carried out–
+*offence under carried out–*
+
+**43.** A Court in Belize shall have jurisdiction in respect of an this Act where the act constituting the offence is
 
 (a) wholly or in substantial part within its territory;
 
@@ -1038,6 +1196,10 @@ that director, manager, secretary, or other similar officer commits an offence.
 
 (e) outside its territory by persons not its nationals that is directed against the security of the state or against a limited class of other state interests.
 
+*The*
+
 *Regulations.*
 
-**44.** The Minister may make regulations prescribing all matters that are required to be prescribed under this Act and for such other matters as may be necessary for giving full effect to this Act and for its proper administration.
+*such other*
+
+**44.** Minister may make regulations prescribing all matters that are required to be prescribed under this Act and for matters as may be necessary for giving full effect to this Act and for its proper administration.

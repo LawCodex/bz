@@ -132,7 +132,9 @@ ARTICLE 3 Objects of the Institute
 
 (g) to seek to achieve the optimum decentralisation of facilities.
 
-**2.** For the purposes of this Article the Institute may take such action as may be necessary or expedient for the attainment of its objects and the performance of its functions.
+*For the such action as attainment of its*
+
+**2.** purposes of this Article the Institute may take may be necessary or expedient for the objects and the performance of its functions.
 
 ### ARTICLE 4
 
@@ -150,7 +152,9 @@ Structure
 
 Governing Body of the Institute
 
-**1.** The Standing Committee of Ministers responsible for Agriculture (hereinafter referred to as “The Standing Committee”) shall be the Governing body of the Institute.
+*The Agriculture Committee”)*
+
+**1.** Standing Committee of Ministers responsible for (hereinafter referred to as “The Standing shall be the Governing body of the Institute.
 
 **2.** Without prejudice to the generalities of paragraph 1 of this Article the Standing Committee shall have the power to, (a) give general or specific policy directions to the Board of Directors;
 
@@ -200,7 +204,9 @@ Functions and Powers of the Board of Directors
 
 **1.** The Board of the Institute shall be responsible, subject to any directions of the Standing Committee, for the general operation of the Institute. It shall implement the general policies of the Institute and may give the Executive Director general instructions for the implementation of such policies.
 
-Without prejudice to the functions specified in sub article 1 of this Article, the Board shall,
+*Without article 1 of this*
+
+prejudice to the functions specified in sub Article, the Board shall,
 
 (a) make recommendations to the Standing Committee in respect of the appointment of the Executive Director;
 
@@ -238,17 +244,25 @@ Chairperson of the Board
 
 **1.** The Chairperson of the Board shall be appointed by the Standing Committee after considering the recommendation of the Board.
 
-The Chairperson of the Board while holding office shall not be a Director or Alternate Director of a Member State or any Body which is represented on the Board.
+*not be a*
 
-**3.** The term of office of the Chairperson shall be for three years and he shall be eligible for re-appointment.
+Chairperson of the Board while holding office shall Director or Alternate Director of a Member State or any Body which is represented on the Board.
 
-**4.** The Deputy Chairperson shall be elected by the Board from among its Members.
+*years and he*
+
+**3.** The term of office of the Chairperson shall be for three shall be eligible for re-appointment.
+
+*The*
+
+**4.** Deputy Chairperson shall be elected by the Board from among its Members.
 
 ### ARTICLE 10
 
 The Executive Director
 
-**1.** The duties of the Executive Director shall include,
+*The*
+
+**1.** duties of the Executive Director shall include,
 
 (a) the day to day management and control of the Institute;
 
@@ -302,9 +316,13 @@ The revenue of the Institute shall be derived from,
 
 Location of the Institute
 
-**1.** The Headquarters of the Institute shall be located in Trinidad and Tobago.
+*The Trinidad and*
 
-**2.** The Executive Director shall negotiate suitable arrangements with the University of the West Indies for the establishment of the Headquarters of the Institute at the St. Augustine Campus of the University of the West Indies.
+**1.** Headquarters of the Institute shall be located in Tobago.
+
+*The arrangements establishment Augustine*
+
+**2.** Executive Director shall negotiate suitable with the University of the West Indies for the of the Headquarters of the Institute at the St. Campus of the University of the West Indies.
 
 The conclusion of such arrangements shall be subject to the approval of the Standing Committee.
 
@@ -324,7 +342,9 @@ ARTICLE 15 Legal Status
 
 **3.** The Institute shall enjoy in each Member State such privileges and immunities as may be necessary for the fulfilment of its objectives and the exercise of its functions.
 
-The Institute may co-operate with international organisations active in similar fields and may seek all appropriate contacts with a view to co- operating with other Institutions in similar fields.
+*organisations appropriate Institutions in*
+
+Institute may co-operate with international active in similar fields and may seek all contacts with a view to co- operating with other similar fields.
 
 **5.** Upon the entry into force of this Agreement,
 
@@ -336,7 +356,13 @@ The Institute may co-operate with international organisations active in similar 
 
 Disputes
 
-**1.** If a dispute should arise between the Institute and a Member State or any of the Authorities represented on the Board, such dispute shall be submitted to arbitration by a Tribunal of three arbitrators. Each party shall appoint one arbitrator and the two arbitrators shall appoint a third who shall be Chairperson. If within 30 days of the request for arbitration either party has not appointed an arbitrator, or if within 15 days of the appointment of the second arbitrator, the third arbitrator
+*If a*
+
+*Board, such Tribunal of arbitrator and*
+
+*of the*
+
+**1.** dispute should arise between the Institute and a Member State or any of the Authorities represented on the dispute shall be submitted to arbitration by a three arbitrators. Each party shall appoint one the two arbitrators shall appoint a third who shall be Chairperson. If within 30 days of the request for arbitration either party has not appointed an arbitrator, or if within 15 days appointment of the second arbitrator, the third arbitrator
 
 has not been appointed either party may request the Secretary-General of the Caribbean Community to appoint an arbitrator.
 

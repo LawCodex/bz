@@ -72,6 +72,10 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 **13.** Offence of facilitating child prostitution, etc.
 
+*[CAP.*
+
+108:01
+
 Offence of facilitating exploitation, etc.
 
 Offence of profiteering from trafficking in persons.
@@ -121,6 +125,10 @@ Assistance and Protection for Victims
 **35.** Assistance to victims of trafficking who are unable to prove. their nationality status through normal means.
 
 **36.** Special consideration to be given to a child victim.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 ## PART V
 
@@ -172,7 +180,7 @@ Miscellaneous Provisions
 
 ### CHAPTER 108:01 TRAFFICKING IN PERSONS (PROHIBITION) ACT
 
-2 of 2013.
+*2 of 2013.*
 
 [31st January, 2013]
 
@@ -180,13 +188,15 @@ Miscellaneous Provisions
 
 *Short title.*
 
-**1.** This Act may be cited as the Trafficking in Persons (Prohibition) Act.
+*(Prohibition)*
 
-*Interpretation*
+**1.** This Act may be cited as the Trafficking in Persons Act.
 
-**2.** In this Act, unless the context otherwise requires–
+*Interpretation In this*
 
-“abuse of a position of vulnerability” means–
+*“abuse of a*
+
+**2.** Act, unless the context otherwise requires– position of vulnerability” means–
 
 (a) an abuse committed on a person where the person abused believes he has no reasonable alternative but to submit to the labour or service demand of him; or;
 
@@ -222,7 +232,11 @@ which reduced the abused person’s capacity to form judgment;
 
 “debt bondage” means the status or condition of a debtor from a pledge by the debtor of his personal services or those of a person under his control as a security or payment for debt, when the
 
-length and nature of services is not respectively limited and is not clearly defined or the value of those services as reasonable assessed is not applied towards the liquidation of the debt or where the length and nature of those services are not respectively limited and defined;
+*length and not clearly*
+
+*where the respectively*
+
+nature of services is not respectively limited and is defined or the value of those services as reasonable assessed is not applied towards the liquidation of the debt or length and nature of those services are not limited and defined;
 
 “exploitation” means–
 
@@ -242,7 +256,9 @@ length and nature of services is not respectively limited and is not clearly def
 
 “forced labour” means labour or services obtained or maintained through force, threats of force, or other means of coercion;
 
-“forfeiture” means the permanent deprivation of property by order of a court or other competent authority;
+*“forfeiture”*
+
+means the permanent deprivation of property by order of a court or other competent authority;
 
 “illicit removal of human organs” means the unlawful removal of human organs and does not include legitimate medical procedures for which proper consent has been obtained under the laws of Belize;
 
@@ -282,11 +298,9 @@ and includes debt bondage, serfdom, force servile marriages and delivery of chil
 
 “slavery” means the status or condition of a person over whom any or all the powers attaching to the rights of ownership are exercised;
 
-“spouse” includes a member of a common law union as defined
-
 *CAP. 91.*
 
-by section 148D of the Supreme Court of Judicature Act; and
+“spouse” includes a member of a common law union as defined by section 148D of the Supreme Court of Judicature Act; and
 
 “trafficking in persons” means the recruitment, transportation, transfer, habouring or receipt of a person by means of threat or use of force or other means of coercion, or abduction, fraud, deception, abuse of power or abuse of a position of vulnerability, or by the giving or receiving of payments or benefits to achieve the consent of a person having control of or over another person, for the purpose of exploitation.
 
@@ -306,7 +320,9 @@ Anti-Trafficking in Persons Council
 
 **5.** (1) There is hereby established a body to be known as the Anti-Trafficking in Persons Council.
 
-(2) The Council shall consist of the following members appointed by the Minister–
+*(2) The appointed by the*
+
+Council shall consist of the following members Minister–
 
 (a) the Chief Executive Officer of the Ministry responsible for human development, as Chairman;
 
@@ -332,11 +348,17 @@ Anti-Trafficking in Persons Council
 
 to trafficking in persons including the protection and support of trafficked persons.
 
-(3) The members appointed under subsection (2)(l), may be appointed for a period not exceeding three years and at the expiration of that period may be eligible for reappointment.
+*(3) The appointed for a expiration of*
 
-*Functions of the Council.*
+members appointed under subsection (2)(l), may be period not exceeding three years and at the that period may be eligible for reappointment.
 
-**6.** (1) The functions of the Council shall be as follows–
+*Functions of the*
+
+*6.-(1) The*
+
+*Council.*
+
+functions of the Council shall be as follows–
 
 (a) coordinate the implementation of this Act, and formulate policies and programmes to prevent or suppress trafficking in persons, including the support and protection of victims of trafficking in persons;
 
@@ -430,21 +452,33 @@ a fine of five hundred thousand dollars or imprisonment for a term of ten years 
 
 **16.** A person who advertises, publishes, prints or broadcasts or causes the advertisement, publication, by any means, including the use of information technology of any brochure, flyer or other materials which promotes trafficking in person
 
-commits an offence and is liable on conviction on indictment to imprisonment for a term of eight years.
+*commits an imprisonment*
 
-*Offence of providing facilities in support of trafficking in persons.*
+offence and is liable on conviction on indictment to for a term of eight years.
 
-**17.** A person who is the owner, occupier, lessee or person in charge of–
+*Offence of A person providing*
+
+**17.** who is the owner, occupier, lessee or person in
+
+*charge of–*
+
+*facilities in support of trafficking in persons.*
 
 (a) a premises, room or place, who knowingly permits a meeting to be held in that premises, room or place; or
 
 (b) any equipment or facility that allows for recording, conferencing or meetings via technology, who knowingly permits that equipment or facility to be used,
 
-for the purpose of committing an offence under this Act, commits an offence and is liable on conviction on indictment to a fine of ten thousand dollars or to imprisonment for a term of five years or to both.
+*for the purpose commits an a fine of ten five years or to*
 
-*Offence of providing services for the purpose of trafficking in persons.*
+of committing an offence under this Act, offence and is liable on conviction on indictment to thousand dollars or to imprisonment for a term of both.
 
-**18.** (1) A person who, directly or indirectly, provides or makes available financial services or facilities–
+*Offence of 18.-(1) A person providing*
+
+*available services for the*
+
+who, directly or indirectly, provides or makes financial services or facilities–
+
+*purpose of trafficking in persons.*
 
 (a) intended to be used, or knowingly, or having reasonable grounds to believe that the services or facilities will be used for the purpose of committing or facilitating the commission of an act of trafficking in persons, or for the purpose of benefiting any person who is committing or facilitating the commission of an act of trafficking in persons; or
 
@@ -472,9 +506,15 @@ commits an offence and is liable on conviction on indictment to the penalty pres
 
 where that person is a body corporate, to a fine of two hundred and fifty thousand dollars; and any officer, director or agent of
 
-that body corporate who directed, authorized, assented to, acquiesced in or participated in the commission of the offence may also be liable on conviction on indictment to the penalty prescribed in section 19(2)(b)(i).
+*that body*
 
-(4) In proceedings under this section, it may be a defence for an owner, operator or master of a conveyance to prove that–
+*may also be prescribed in*
+
+corporate who directed, authorized, assented to, acquiesced in or participated in the commission of the offence liable on conviction on indictment to the penalty section 19(2)(b)(i).
+
+*(4) In an owner,*
+
+proceedings under this section, it may be a defence for operator or master of a conveyance to prove that–
 
 (a) he has reasonable grounds to believe that the travel documents of the person travelling on board are travel documents required for lawful entry of that person into the receiving country;
 
@@ -484,9 +524,13 @@ that body corporate who directed, authorized, assented to, acquiesced in or part
 
 (5) Where a person is convicted under sub-section (2), that person shall pay, in addition to any penalty imposed pursuant to sub-section (3), the costs of the accommodations, meals and repatriation of the victim of trafficking in persons.
 
-*Additional penalties in relation to a body corporate.*
+*Additional penalties in*
 
-**20.** Where a body corporate or its officer, director or agent has been convicted of an offence under this Act, the court shall
+*has been*
+
+*relation to a body corporate.*
+
+**20.** Where a body corporate or its officer, director or agent convicted of an offence under this Act, the court shall
 
 have the power, in addition to the power to impose the penalty prescribed for the stated offence, to–
 
@@ -562,19 +606,29 @@ the victim’s loss of income;
 
 (f) the trafficking occurred as the result of abuse of power or authority or abuse of a position of vulnerability, including abuse by a parent or guardian, teacher, the leader of any children’s club or other group, or any other person who had been entrusted with the care of supervision of a child,
 
-the court may impose an additional term of imprisonment of up to twenty-five years.
+*the court may to twenty-five*
 
-(2) In this section–
+impose an additional term of imprisonment of up years.
 
-“dangerous weapon” means–
+*(2) In this*
+
+section–
+
+*“dangerous*
+
+weapon” means–
 
 (a) an instrument capable of inflicting death or serious bodily injury; or
 
 (b) an object that is not an instrument capable of inflicting death or serious bodily injury, but closely resembles such an instrument, or is used in such a way that it creates the impression that the object is an instrument capable of inflicting death or serious bodily injury;
 
-“life-threatening illness” means any illness that involves a substantial risk of death, and includes Human Immuno Deficiency Virus Infection (HIV/AIDS) and tuberculosis;
+*“life-threatening substantial risk Deficiency*
 
-“permanent or life-threatening injury” means–
+illness” means any illness that involves a of death, and includes Human Immuno Virus Infection (HIV/AIDS) and tuberculosis;
+
+*“permanent or*
+
+life-threatening injury” means–
 
 an injury involving a substantial risk of death, loss or substantial impairment of the function of a bodily member, organ or sense that is likely to be permanent; or
 
@@ -582,13 +636,17 @@ an injury involving a substantial risk of death, loss or substantial impairment 
 
 (c) maltreatment to a life-threatening degree or proportion, such as denial of food or medical care or drugs that results in substantial impairment of function of the body or mind;
 
-“serious bodily injury” means–
+*“serious bodily*
+
+injury” means–
 
 (a) an injury involving extreme physical pain or the protracted impairment of a function of a bodily member, organ or sense; or
 
 (b) an injury requiring medical intervention such as surgery, hospitalization or physical rehabilitation; and
 
-“sexual assault” means–
+*“sexual assault”*
+
+means–
 
 (a) the engagement of another person in a sexual act by a person–
 
@@ -602,15 +660,19 @@ an incapacitated person; or
 
 a person who cannot express consent.
 
-(3) Notwithstanding the penalty prescribed under sections 11, 12 or 13, where a person is convicted of an offence under any of those sections and that person engaged in sexual intercourse with a child, the court may impose a sentence of life imprisonment.
+*11, 12 or 13, any of those*
+
+(3) Notwithstanding the penalty prescribed under sections where a person is convicted of an offence under sections and that person engaged in sexual intercourse with a child, the court may impose a sentence of life
+
+*imprisonment.*
 
 ## PART IV
 
 Assistance and Protection for Victims
 
-*Guiding principles.*
+*Guiding In the principles.*
 
-**29.** In the investigation and prosecution of offences relating to trafficking in persons, the following guidelines shall apply–
+**29.** investigation and prosecution of offences relating to trafficking in persons, the following guidelines shall apply–
 
 (a) all steps necessary to identify the victim of the offence of trafficking in persons shall be taken;
 
@@ -620,9 +682,11 @@ Assistance and Protection for Victims
 
 (d) protection and enforcement of the rights of a child victim.
 
-*Privacy of victims.*
+*Privacy of In a victims.*
 
-**30.** In a prosecution of a person for the offence of trafficking in persons, the court shall–
+*in persons, the*
+
+**30.** prosecution of a person for the offence of trafficking court shall–
 
 hold all proceedings in camera;
 
@@ -638,11 +702,9 @@ ensure that the identity of the victim and the victim’s family is kept confide
 
 **31.** (1) The Director of Public Prosecution shall inform a victim of the offence of trafficking in persons of the progress of the criminal court proceedings and the right to seek compensation.
 
-(2) The Director of Immigration and Nationality Services shall inform a victim of the offence of trafficking in persons of decisions for the return of the victim to his country of citizenship or lawful residence, and the procedures for seeking permanent residency status or citizenship in Belize, where the victim qualifies to apply for permanent residency or citizenship status
-
 *CAP. 161.*
 
-under the Belize Nationality Act.
+(2) The Director of Immigration and Nationality Services shall inform a victim of the offence of trafficking in persons of decisions for the return of the victim to his country of citizenship or lawful residence, and the procedures for seeking permanent residency status or citizenship in Belize, where the victim qualifies to apply for permanent residency or citizenship status under the Belize Nationality Act.
 
 *Immigration status of victims of trafficking in persons. CAP.56*
 
@@ -668,11 +730,9 @@ offence of trafficking in persons and any dependent children accompanying him to
 
 (2) A plan developed under sub-section (1) shall take due account that a victim of the offence of trafficking in persons may elect to apply for permanent residency or citizenship of Belize, or remain in Belize during the proceedings against a person charged with the offence of trafficking in persons.
 
-**35.** (1) The Ministry responsible for foreign affairs shall,
-
 *Assistance to victims of trafficking who are unable to prove their nationality status through normal means*
 
-through diplomatic channels, assist a victim of the offence of trafficking in persons who is unable to prove his citizenship or nationality status.
+**35.** (1) The Ministry responsible for foreign affairs shall, through diplomatic channels, assist a victim of the offence of trafficking in persons who is unable to prove his citizenship or nationality status.
 
 (2) In providing assistance under subsection (1), the Ministry responsible for foreign affairs shall take into account the victim’s alleged connection to any country through factors such as–
 
@@ -720,7 +780,9 @@ who, in the opinion of the court, appears to have an interest in the property; a
 
 **39.** (1) Where, upon an application by the Director of Public Prosecutions, the court is satisfied that a property is proceeds of trafficking in respect of which a person has been convicted, the court may order that property to be forfeited.
 
-(2) In determining whether property is proceeds of trafficking the court may infer, in the absence of evidence to the contrary–
+*(2) In trafficking the contrary–*
+
+determining whether property is proceeds of court may infer, in the absence of evidence to the
 
 that the property was in the person’s (a)
 
@@ -728,9 +790,15 @@ possession at the time of, or immediately after the commission of the offence of
 
 (b) that the property was derived, obtained or realized as a result of the commission of the offence of trafficking in persons if it was acquired by the person before, during or within six years after the period of the commission of the offence of trafficking in persons of which the person was convicted, and the court is satisfied that the income of that person from sources unrelated to criminal activity of that person cannot reasonably account for the acquisition of that property.
 
-(3) Where the court orders that property, other than money, be forfeited, the court shall specify in the order the amount that it considers to be the value of the property at the time when the order is made.
+*(3) Where*
 
-(4) In considering whether a forfeiture order should be made under sub-section (1) the court shall have regard to
+*it considers to order is made.*
+
+the court orders that property, other than money, be forfeited, the court shall specify in the order the amount that be the value of the property at the time when the
+
+*(4) In under*
+
+considering whether a forfeiture order should be made sub-section (1) the court shall have regard to
 
 (a) the rights and interests, if any, of third parties in the property;
 
@@ -740,39 +808,53 @@ any hardship that may reasonably be expected to be caused to any person by the o
 
 (d) the use that is ordinarily made of the property, or the use to which the property was intended.
 
-(5) Where the court makes a forfeiture order, the court may give such directions as are necessary or convenient for giving effect to the order.
+*(5) Where give such effect to the*
 
-*Effect of forfeiture order on conviction.*
+the court makes a forfeiture order, the court may directions as are necessary or convenient for giving order.
 
-**40.** (1) Subject to sub-section (2), where a court makes a forfeiture order against any property, that property shall vest absolutely in the Government by virtue of that order.
+*Effect of 40.-(1) Subject forfeiture order forfeiture order on conviction. absolutely in the*
 
-(2) Where the property ordered to be forfeited is land–
+to sub-section (2), where a court makes a against any property, that property shall vest Government by virtue of that order.
+
+*(2) Where*
+
+the property ordered to be forfeited is land–
 
 (a) the Government shall be entitled to be registered as the legal owner of that property;
 
-(b) that property shall vest in the Government in equity but does not vest in law until the
-
 *CAP. 194. CAP. 190.*
 
-applicable registration requirements under the Registered Land Act or the Law of Property Act, as appropriate, has been complied with; and
+(b) that property shall vest in the Government in equity but does not vest in law until the applicable registration requirements under the Registered Land Act or the Law of Property Act, as appropriate, has been complied with; and
 
 (c) the Director of Public Prosecutions shall, on behalf of the Government, do or authorize the doing of anything necessary or convenient to obtain the registration of the Government as the legal owner, including the execution of any instrument to be executed by a person transferring an interest in property of that kind.
 
-(3) Where the court makes a forfeiture order against property–
+*(3) Where property–*
+
+the court makes a forfeiture order against
 
 the property shall not, except with the leave of the court and in accordance with any directions of the court, be disposed of, or otherwise dealt with, by or on behalf of the Government before the relevant appeal date; or
 
 (b) if after the relevant appeal date, the order has not been discharge, the property may be disposed of and the proceeds thereof deposited into the Consolidated Revenue Fund.
 
-(4) In this section “relevant appeal date” used in relation to a forfeiture order made in consequence of a person's conviction of the offence of trafficking in persons means–
+*(4) In this a forfeiture*
+
+section “relevant appeal date” used in relation to order made in consequence of a person's conviction of the offence of trafficking in persons means–
 
 (a) the date on which the period allowed by the Rules of Court for the lodging of an appeal against a person's conviction or for the lodging of an appeal against the making of the forfeiture order expires without an appeal having been lodged, whichever is the later; or
 
 (b) where an appeal against a person's conviction or against the making of the forfeiture order is lodged, the date on which the appeal lapses in accordance with the Rules of Court or is finally determined, whichever is the later.
 
-*Forfeiture order for property.*
+*Forfeiture order*
 
-**41.** (1) Where, upon application by the Director of Public Prosecutions, the court is satisfied, on a balance of probabilities, that property to which the application relates is property in respect of the offence of trafficking in persons, the court shall order that property be forfeited.
+*41.-(1) Where,*
+
+*for property.*
+
+*Prosecutions,*
+
+*respect of the order that*
+
+upon application by the Director of Public the court is satisfied, on a balance of probabilities, that property to which the application relates is property in offence of trafficking in persons, the court shall property be forfeited.
 
 (2) Notwithstanding subsection (1), if a person claiming an interest in the property to which an application relates satisfies the court that he–
 
@@ -794,11 +876,9 @@ the property shall not, except with the leave of the court and in accordance wit
 
 set aside any transfer of the property that occurred after the seizure of the property or the service of the restraining order, unless the transfer was made for valuable consideration to a person acting in good faith and without notice.
 
-**43.** (1) Where an application is made for a forfeiture order
-
 *Protection of third parties.*
 
-against property, a person who claims an interest in the property may apply to the court, before the forfeiture order is made, for an order under sub-section (2).
+**43.** (1) Where an application is made for a forfeiture order against property, a person who claims an interest in the property may apply to the court, before the forfeiture order is made, for an order under sub-section (2).
 
 (2) Where a person applies to the court for an order under this section in respect of property and the court is satisfied on a balance of probabilities–
 
@@ -862,13 +942,17 @@ has been transferred to a third party in circumstances which do not give rise to
 
 (e) has been comingled with other property that cannot be divided without difficulty,
 
-the court may, instead of ordering the property or part thereof or interest therein to be forfeited, order the person to pay to the Government an amount equal to the value of the property, part thereof or interest.
+*the court may, interest therein Government an thereof or*
 
-(2) Where the court orders a person to pay an amount under sub-section (1), that amount shall be treated as if it were a fine imposed upon him in respect of a conviction for the offence of trafficking in persons.
+instead of ordering the property or part thereof or to be forfeited, order the person to pay to the amount equal to the value of the property, part interest.
 
-*Default.*
+*(2) Where sub-section (1), imposed upon trafficking in*
 
-**46.** Where the court orders a person to pay any fine under this Act, notwithstanding any other law, if the person fails to pay, the court shall–
+the court orders a person to pay an amount under that amount shall be treated as if it were a fine him in respect of a conviction for the offence of persons.
+
+*Default. Where this Act, pay, the court*
+
+**46.** the court orders a person to pay any fine under notwithstanding any other law, if the person fails to shall–
 
 (a) impose in default of the payment of that amount, a term of imprisonment often years;
 
@@ -924,7 +1008,9 @@ Miscellaneous Provisions
 
 *Data collection.*
 
-**48.** (1) The Ministry responsible for human development shall collect and publish, once every year in the month of December, statistical data on trafficking in persons in Belize.
+*48.-(1) The collect and*
+
+Ministry responsible for human development shall publish, once every year in the month of December, statistical data on trafficking in persons in Belize.
 
 (2) The data referred to in subsection (1) shall include–
 
@@ -936,9 +1022,17 @@ Miscellaneous Provisions
 
 (d) border crossing issues, including use of fraudulent documents.
 
-*Restriction on media reporting and publication.*
+*Restriction on*
 
-**49.** (1) Not withstanding any written law to the contrary, any mass media report regarding–
+*49.-(1) Not*
+
+*media reporting*
+
+*mass media*
+
+*and publication.*
+
+withstanding any written law to the contrary, any report regarding–
 
 (a) any step taken in relation to a victim of the offence of trafficking in persons in any proceedings be it at the pre-trial, trial or post-trial stages;
 
@@ -1176,7 +1270,9 @@ Border Measures
 
 Security and Control of Documents
 
-**1.** Each State Part shall take such measures as may be necessary, within available means,
+*Each necessary,*
+
+**1.** State Part shall take such measures as may be within available means,
 
 (a) To ensure that travel or identity documents issued by it are of such quality that they cannot easily be misused and cannot readily be falsified or unlawfully altered, replicated or issued; and
 
@@ -1186,7 +1282,11 @@ Article 13
 
 Legitimacy and Validity of Documents
 
-**1.** At the request of another State Party, a State Party shall, in accordance with its domestic law, verify within a reasonable time the legitimacy and validity of travel or identify documents issued or purported to have been issued in its name suspected of being used for trafficking in persons.
+*\1. At the in*
+
+*or*
+
+request of another State Party, a State Party shall, accordance with its domestic law, verify within a reasonable time the legitimacy and validity of travel identify documents issued or purported to have been issued in its name suspected of being used for trafficking in persons.
 
 IV. Final Provisions
 

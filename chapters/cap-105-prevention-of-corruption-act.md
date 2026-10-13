@@ -84,6 +84,8 @@ Financial Disclosure
 
 Commission may hold formal inquiry.
 
+*[CAP.*
+
 Powers of Tribunal.
 
 Findings of Tribunal.
@@ -142,6 +144,10 @@ Miscellaneous
 
 **40.** Powers of investigation, appointment of ad hoc investigator, etc.
 
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
+
 Special powers of investigation.
 
 Powers of investigation authorized by the Commissioner of Police
@@ -198,7 +204,9 @@ Schedule 2 — Declaration of Assets and Liabilities Forms Schedule 3 — Act of
 
 ### PREVENTION OF CURRUPTION
 
-[31st December, 2007] 21 of 2007.
+*21 of 2007.*
+
+[31st December, 2007]
 
 ## PART I
 
@@ -208,13 +216,15 @@ Preliminary
 
 **1.** This Act may be cited as Prevention of Corruption Act.
 
-*Interpretation.*
+*Interpretation. In this*
 
-**2.** In this Act, unless the context otherwise requires,
+*“act” includes doing or making of an construed*
 
-“act” includes omission or failure to act and a reference to the doing or commission of an act includes a reference to the making of an omission, and any cognate words shall be construed accordingly;
+**2.** Act, unless the context otherwise requires, omission or failure to act and a reference to the commission of an act includes a reference to the omission, and any cognate words shall be accordingly;
 
-“advantage’’ include,
+*“advantage’’*
+
+include,
 
 (a) money or any donation, gift, loan, fee, reward, valuable security, property or interest in property of any description, whether movable or immovable, over a value of $2,500.00;
 
@@ -238,7 +248,9 @@ Preliminary
 
 (a) to (i);
 
-“agent” includes any person employed by or acting for another, any trustee of an insolvent estate, the assignee of an estate assigned for the benefit or with the consent of creditors, the liquidator of a company which is being wound up, the executor of the estate of a deceased person, the legal representative of any person who is of unsound mind or is a minor or is otherwise under disability, any public servant or an officer
+*any trustee of assigned for liquidator of a of the estate of any person otherwise*
+
+“agent” includes any person employed by or acting for another, an insolvent estate, the assignee of an estate the benefit or with the consent of creditors, the company which is being wound up, the executor a deceased person, the legal representative of who is of unsound mind or is a minor or is under disability, any public servant or an officer
 
 serving in or under or acting for any public body, a trustee, an administrator or a subcontractor and any person appointed as an agent in terms of any law;
 
@@ -272,7 +284,9 @@ Members of the House of Representatives including the Speaker;
 
 (c) Members of local authorities (City Councils and Town Councils);
 
-“principal” includes,
+*“principal”*
+
+includes,
 
 (a) any employer;
 
@@ -286,9 +300,17 @@ Members of the House of Representatives including the Speaker;
 
 “public body” includes local and public authorities of all descriptions;
 
-“public officer” has the meaning ascribed to it in section 131 of the Constitution;
+*of the*
 
-“public servant” includes the Governor General, members of the National Assembly, members of the Belize Advisory Council, members of the Public Services Commission, members of the Elections and Boundaries Commission, public officers, members and officers of statutory corporations and
+“public officer” has the meaning ascribed to it in section 131 Constitution;
+
+*“public*
+
+*Council,*
+
+*officers,*
+
+servant” includes the Governor General, members of the National Assembly, members of the Belize Advisory members of the Public Services Commission, members of the Elections and Boundaries Commission, public members and officers of statutory corporations and
 
 government agencies, and members and employees of all public bodies, including local authorities;
 
@@ -350,11 +372,19 @@ an Administrative Secretary;
 
 (f) any other personnel reasonably necessary to carry out the functions of the Commission.
 
-(2) The Executive Director is accountable and answerable to the Commission and he shall carry out all directions given to him by the Commission in pursuance of its functions.
+*(2) The to the him by the*
 
-(3) The Office of the Secretariat is charged with the administrative responsibilities of the Commission and shall perform any duties reasonably incidental to the office of the Commission, and which are assigned to it by the Commission.
+Executive Director is accountable and answerable Commission and he shall carry out all directions given to Commission in pursuance of its functions.
 
-(4) Without prejudice to the generality of the foregoing, the Office of the Secretariat shall,
+*(3) The*
+
+*perform any Commission,*
+
+Office of the Secretariat is charged with the administrative responsibilities of the Commission and shall duties reasonably incidental to the office of the and which are assigned to it by the Commission.
+
+*Office of the*
+
+(4) Without prejudice to the generality of the foregoing, the Secretariat shall,
 
 (a) receive, record and lay before the Commission, all declarations required to be filed under the provisions of this Act;
 
@@ -400,17 +430,27 @@ commits an offence and is liable on summary conviction to a fine not less than f
 
 Financial Disclosure
 
+*10.-(1) A*
+
 *Duty to file declaration of financial affairs.*
 
-**10.** (1) A person in public life shall, in accordance with this Act, file with the Commission, a sworn declaration of assets, income and liabilities in the manner prescribed in Form A of the Second Schedule.
+*income and the Second*
 
-(2) A declaration shall be filed pursuant to subsection (1) of this section,
+person in public life shall, in accordance with this Act, file with the Commission, a sworn declaration of assets, liabilities in the manner prescribed in Form A of Schedule.
+
+*(2) A*
+
+declaration shall be filed pursuant to subsection (1) of this section,
 
 (a) in the case of a person who is a person in public life at the commencement, in respect of his or her assets, income and liabilities for the year;
 
 (b) in the case of a person who becomes a person in public life after the date of commencement of this Act, within three months of his becoming a person in public life, in respect of his or her assets, income and liabilities for the year ended on the previous 31st December,
 
-and thereafter on the 31st December in each year that the person is a person in public life, in respect of his assets, income and liabilities as at the 31st day of December in that year, so, however, that a declaration required to be furnished on the 31st day of December in any year shall be deemed to comply with the requirements of this subsection if it is furnished before the 1st day of March next following that date;
+*person is a income and year, so,*
+
+*comply with*
+
+and thereafter on the 31st December in each year that the person in public life, in respect of his assets, liabilities as at the 31st day of December in that however, that a declaration required to be furnished on the 31st day of December in any year shall be deemed to the requirements of this subsection if it is furnished before the 1st day of March next following that date;
 
 (c) in the case of every person who ceases to be a person in public life, at any time after the commencement of this Act, on the first anniversary of the date on which he or she ceases to be a person in public life in respect of his assets, income and liabilities, covering
 
@@ -538,9 +578,13 @@ fails to file with the Commission, a declaration which he is required to file in
 
 (c) fails to give such information as a Tribunal may require under section 15 of this Act,
 
-commits a first offense and is liable on summary conviction to a fine not less than three thousand dollars. On a second or subsequent offence to a fine of not less than five thousand dollars or to imprisonment for a period of one year, or to both fine and imprisonment.
+*commits a first a fine not less subsequent dollars or to fine and*
 
-(2) Without prejudice to subsection (1) of this section, every person who, without reasonable cause,
+offense and is liable on summary conviction to than three thousand dollars. On a second or offence to a fine of not less than five thousand imprisonment for a period of one year, or to both imprisonment.
+
+*(2) Without every person*
+
+prejudice to subsection (1) of this section, who, without reasonable cause,
 
 (a) fails to file a declaration in accordance with the provisions of this Act;
 
@@ -550,9 +594,13 @@ commits a first offense and is liable on summary conviction to a fine not less t
 
 (d) fails to give such information as a Tribunal may require under section 15,
 
-is liable to pay to the Commission, an administrative fine of one hundred dollars for each day that the declaration or information or explanation, as the case may be, remains outstanding.
+*is liable to pay one hundred information or outstanding.*
 
-(3) A person who,
+to the Commission, an administrative fine of dollars for each day that the declaration or explanation, as the case may be, remains
+
+*(3) A person*
+
+who,
 
 knowingly makes any false statement in such declaration;
 
@@ -564,9 +612,13 @@ knowingly makes any false statement in such declaration;
 
 (e) fails without reasonable cause to attend an inquiry being conducted by the Commission under section 15, or knowingly gives any false information in such inquiry,
 
-commits an offence and is liable on summary conviction to a fine not less than one thousand dollars and not more than five thousand dollars or to imprisonment for a period not exceeding six months, or to both fine and imprisonment.
+*commits an fine not less thousand dollars six months, or*
 
-(4) Where the offence under this section involves the nondisclosure of property corruptly acquired while in public life, the Court shall, in addition to the penalty specified in this section,
+offence and is liable on summary conviction to a than one thousand dollars and not more than five or to imprisonment for a period not exceeding to both fine and imprisonment.
+
+*(4) Where disclosure of the Court shall, section,*
+
+the offence under this section involves the non-property corruptly acquired while in public life, in addition to the penalty specified in this
 
 where the property involved is situated in Belize, declare that it be forfeited to the Government;
 
@@ -588,19 +640,27 @@ after three years from the date when the person in respect of whose declaration 
 
 *Application of Act.*
 
-**21.** (1) Subject to the provisions of this Act, the National Assembly may, by resolution passed in that behalf, apply this Act to any public servant or any class of public servants.
+*Act to any*
 
-(2) Before passing the resolution referred to in subsection
+**21.** (1) Subject to the provisions of this Act, the National Assembly may, by resolution passed in that behalf, apply this public servant or any class of public servants.
 
-(1) of this section, the National Assembly,
+*(1) of this*
+
+(2) Before passing the resolution referred to in subsection section, the National Assembly,
 
 (a) shall carry out consultations with representatives of civil society organizations and other interested persons and bodies as is considered appropriate, with an aim to seeking public opinion on applying the provisions of this Act to persons other than persons in public life; and
 
 (b) shall give a reasonable opportunity to public servants affected thereby to express their views, which shall be given due consideration.
 
-(3) Where, by this section, the National Assembly is required to perform any function after consultation with any persons or authority, it shall consider any representations or objections which are duly made and not withdrawn but it shall not be obliged to exercise that function in accordance with the advice of those persons or that authority.
+*required to persons or objections*
 
-(4) Any person to whom this Act is applied under this section shall, from the date of such application, become a person in public life within the meaning of section 2 of this Act and the provisions of this Act regarding the furnishing of declarations to the Commission and other matters relating to a person in public life shall apply to him in like manner.
+(3) Where, by this section, the National Assembly is perform any function after consultation with any authority, it shall consider any representations or which are duly made and not withdrawn but it shall not be obliged to exercise that function in accordance with the advice of those persons or that authority.
+
+*(4) Any*
+
+*and the*
+
+person to whom this Act is applied under this section shall, from the date of such application, become a person in public life within the meaning of section 2 of this Act provisions of this Act regarding the furnishing of declarations to the Commission and other matters relating to a person in public life shall apply to him in like manner.
 
 (5) All expenses incurred in carrying this section into effect shall be defrayed out of moneys provided by the National Assembly.
 
@@ -664,11 +724,23 @@ commits an offence of corrupt activities relating to contracts and is liable on 
 
 with the intent to influence or affect, in any way, the result of an election conducted for the purpose of electing persons to serve as members of the legislative authority,
 
-commits an offence and is liable on conviction on indictment to a fine of not less than fifty thousand dollars.
+*commits an*
 
-*Offence for acquisition of private interest in contract, agreement, etc. of public body.*
+offence and is liable on conviction on indictment to a fine of not less than fifty thousand dollars.
 
-**25.** (1) Every person who, subject to subsection (2), acquires or holds a private interest in any contract, agreement or investment emanating from or connected with the public body in which he or she is employed or which is made on account of that public body, commits an offence of corrupt activities and is liable on summary conviction to a fine of not less than ten thousand dollars.
+*Offence for acquisition of*
+
+*or holds a*
+
+*private interest in contract,*
+
+*investment*
+
+*agreement, etc. of public body.*
+
+*that public is liable on thousand*
+
+**25.** (1) Every person who, subject to subsection (2), acquires private interest in any contract, agreement or emanating from or connected with the public body in which he or she is employed or which is made on account of body, commits an offence of corrupt activities and summary conviction to a fine of not less than ten dollars.
 
 (2) Subsection (1) does not apply to a person,
 
@@ -680,19 +752,23 @@ commits an offence and is liable on conviction on indictment to a fine of not le
 
 (d) unless the person makes a disclosure of such interest to the relevant public body within thirty days of acquiring or holding such interest.
 
-*Bribing Members of National Assembly.*
+*A person Bribing*
 
-A person who,
+*Members of National Assembly.*
+
+who,
 
 offers any advantage to a Member of the National Assembly as an inducement or reward for such Member’s doing or forbearing to do any act in his capacity as such Member; or
 
 (b) being a Member of the National Assembly, solicits or accepts any advantage as an inducement or a reward for his doing or forbearing to do any act in his capacity as such Member,
 
-commits an offence of corrupt activities and is liable on conviction on indictment to a fine not less than twenty-five thousand dollars or to imprisonment for a period not exceeding one year or to both fine and imprisonment.
+*commits an conviction on thousand dollars one year or to*
 
-*Bribing members of public bodies.*
+offence of corrupt activities and is liable on indictment to a fine not less than twenty-five or to imprisonment for a period not exceeding both fine and imprisonment.
 
-**27.** A person who,
+*Bribing members A person of public bodies.*
+
+**27.** who,
 
 (a) offers any advantage to any member of a public body as an inducement or reward for
 
@@ -720,7 +796,9 @@ the granting of any contract or advantage in favour of any person; or
 
 (b) corruptly agrees to accept or attempts to obtain, for himself, or for any other person;
 
-any gift, consideration or advantage as an inducement to, or reward for, or otherwise on account of, the agent doing any act in relation to his office or position or his principal’s affairs or business, commits an offence.
+*any gift, reward for, or in relation to business,*
+
+consideration or advantage as an inducement to, or otherwise on account of, the agent doing any act his office or position or his principal’s affairs or commits an offence.
 
 (2) A person who,
 
@@ -728,7 +806,9 @@ any gift, consideration or advantage as an inducement to, or reward for, or othe
 
 (b) corruptly offers, any gift, consideration or advantage,
 
-to an agent or any other person, whether for the benefit of that agent, person or another person, as an inducement to, or reward for, or otherwise on account of, the agent doing any act in relation to his office or position or his principal’s affairs or business commits an offence.
+*to an agent or agent, person reward for, or in relation to business*
+
+any other person, whether for the benefit of that or another person, as an inducement to, or otherwise on account of, the agent doing any act his office or position or his principal’s affairs or commits an offence.
 
 (3) A person who knowingly gives to any agent, or an agent who knowingly uses with intent to deceive his principal, any receipt, account or other document in respect of which the principal is interested, and which contains any statement which is false, erroneous or defective in any material particular, and which to his knowledge is intended to mislead the principal commits an offence.
 
@@ -804,13 +884,15 @@ of this Act commits an offence and is liable on summary conviction to a fine not
 
 (5) In imposing a fine on a person found guilty of an offence under this section, the Court shall have regard to the value of the property or pecuniary resource in the possession of that person, which cannot be accounted for taking into account his or her legitimate sources of income.
 
-*Complaint to Commission.*
+*34.-(1) Any Complaint to Commission. a person, is in*
 
-**34.** (1) Any person who has reasonable grounds to believe that a person, is in breach of a provision of this Act,
+person who has reasonable grounds to believe that breach of a provision of this Act,
 
 (a) has committed an act of corruption, or of corrupt activities may make a complaint in writing to the Commission.
 
-(2) The complaint shall state,
+*(2) The*
+
+complaint shall state,
 
 (a) the particulars of the breach or act of corruption;
 
@@ -820,11 +902,17 @@ of this Act commits an offence and is liable on summary conviction to a fine not
 
 (d) such other particulars as may be prescribed in regulations made by the Minister.
 
-(3) A complaint to the Commission under this section may be presented in person, or may be sent by registered post to the Chairperson of the Commission.
+*(3) A*
 
-*Protection of persons making complaint.*
+*Chairperson of*
 
-**35.** (1) Subject to subsection (2) of this section, where a person makes a complaint to the Commission pursuant to section 34 of this Act,
+complaint to the Commission under this section may be presented in person, or may be sent by registered post to the the Commission.
+
+*Protection of 35.-(1) Subject persons making makes a complaint.*
+
+to subsection (2) of this section, where a person complaint to the Commission pursuant to section 34
+
+*of this Act,*
 
 (a) in good faith;
 
@@ -912,13 +1000,23 @@ account, or any safety deposit box in any bank or other financial institution, G
 
 make a legal submission to the Commission.
 
-(3) Section 8 of this Act relating to duty as to secrecy applies to legal counsel in like manner.
+*(3) Section applies to legal*
 
-*Penalties on witnesses.*
+8 of this Act relating to duty as to secrecy counsel in like manner.
 
-**44.** (1) Every person summoned to attend and give evidence or to produce books, plans or documents at any sitting of the Commission shall be bound to obey the summons served upon him.
+*Penalties on*
 
-(2) Every person who,
+*44.-(1) Every*
+
+*witnesses.*
+
+*to produce Commission him.*
+
+person summoned to attend and give evidence or books, plans or documents at any sitting of the shall be bound to obey the summons served upon
+
+*(2) Every*
+
+person who,
 
 (a) refuses or omits, without sufficient cause, to attend at the time and place mentioned in the summons served on him;
 
@@ -948,13 +1046,21 @@ commits an offence and is liable on summary conviction to a fine, not exceeding 
 
 (2) A request to give information under subsection (1) of this section, includes the disclosure or production by any person of all or any information or accounts or documents or articles as may be required by the officer so authorized, whether it is a natural person or a body corporate.
 
-(3) The failure by any person or body to comply with the provision of this Act is an offence punishable on summary conviction by a fine of ten thousand dollars or imprisonment to a period of three years, or to both fine and imprisonment.
+*(3) The provision of conviction by a*
 
-(4) Notwithstanding subsection (3) of this section, a Court shall order the disclosure of information or the production of documents, as the case may be, in relation to the investigation for which the same was required.
+failure by any person or body to comply with the this Act is an offence punishable on summary fine of ten thousand dollars or imprisonment to a period of three years, or to both fine and imprisonment.
 
-*General offences.*
+*shall order the documents, as for which the*
 
-**48.** (1) Any person who,
+(4) Notwithstanding subsection (3) of this section, a Court disclosure of information or the production of the case may be, in relation to the investigation same was required.
+
+*General*
+
+*48.-(1) Any*
+
+*offences.*
+
+person who,
 
 (a) wilfully hinders or deters any person from attending, giving evidence or producing any article or document;
 
@@ -1072,11 +1178,15 @@ the direction of the Commission, for anything done or omitted to be done in good
 
 **60.** For the purposes of the Income and Business Tax Act, Cap. 55, all out goings and expenses reasonably incurred in a year of assessment by a person in public life in connection with the preparation of a declaration required to be furnished by him for the purposes of this Act are deemed to be incurred
 
-by him wholly and exclusively in the production of his income for that year of assessment and shall be deductible against his chargeable income for income tax purposes of his receipts for business tax purposes.
+*by him wholly for that year of chargeable business tax*
+
+and exclusively in the production of his income assessment and shall be deductible against his income for income tax purposes of his receipts for purposes.
 
 *Regulations.*
 
-**61.** (1) The Commission may, with the approval of the Prime Minister, make regulations,
+*61.-(1) The Minister, make*
+
+Commission may, with the approval of the Prime regulations,
 
 (a) prescribing the manner in which enquiries may be carried out and any matters incidental to or consequential on such inquiries;
 
@@ -1194,19 +1304,31 @@ an original vote, the Chairperson or any another person presiding at the meeting
 
 Declaration of Assets and Liabilities Forms
 
-[Sections 10 and 11] FORM 1 NOTES: 1. To be completed legibly in ink or typewritten.
+[Sections 10 and 11] FORM 1
+
+*NOTES:*
+
+**1.** To be completed legibly in ink or typewritten.
 
 **2.** Complete all sections, leave no blank spaces.
 
 **3.** If space is insufficient under any section the required information may be supplied on a separate sheet and a note inserted under the section showing the total.
 
-PLEASE FOLLOW ALL NOTES AND INSTRUCTIONS CAREFULLY DECLARATION of Assets and Liabilities at
+*PLEASE*
+
+*of Assets and*
+
+FOLLOW ALL NOTES AND INSTRUCTIONS CAREFULLY DECLARATION Liabilities at
 
 (Declaration Date)
 
-and of income for the twelve months (or other period where appropriate) ended on that date.
+*appropriate)*
 
-NOTE: (a) Where any property is held by the declarant, the declarant’s spouse or the declarant’s child or children in trust for any other person, this should be indicated by a note to that effect. (b) The declaration date should be the date as indicated above.
+and of income for the twelve months (or other period where ended on that date.
+
+*NOTE:*
+
+(a) Where any property is held by the declarant, the declarant’s spouse or the declarant’s child or children in trust for any other person, this should be indicated by a note to that effect. (b) The declaration date should be the date as indicated above.
 
 Name and address of declarant
 
@@ -1394,11 +1516,15 @@ __________________________ Chairman/Executive Director INTEGRITY COMMISSION
 
 DATED this_________ day of______________, 20_______.
 
-Acts of Corruption and Summons to Witness
+*Acts of*
+
+Corruption and Summons to Witness
 
 [Section 22]
 
-A person commits an act of corruption if 1.
+*A person*
+
+commits an act of corruption if 1.
 
 **1.** (a) he in the performance of his public functions does any act or omits to do any act for the purpose of obtaining any illicit benefit for himself or any other person;
 

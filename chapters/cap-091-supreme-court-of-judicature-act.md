@@ -202,6 +202,8 @@ Judges’ Rules, 1964.
 
 Power of Court to impose terms as to costs.
 
+*[CAP.*
+
 Saving for Government.
 
 Explanation of term “reference”.
@@ -263,6 +265,10 @@ Fees and Costs
 **95.** Power to make rules of court.
 
 **96.** Saving of the Supreme Court Rules, 1926.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 Provisions Relating to Districts
 
@@ -378,6 +384,8 @@ Matrimonial Causes and Matters
 
 **143.** Periodical payments in default of compliance with decree for restitution of conjugal rights.
 
+[CAP.
+
 **144.** Additional grounds for decree of nullity.
 
 **145.** Proceedings for decree of presumption of death and dissolution of marriage.
@@ -428,6 +436,8 @@ Probate Causes and Matters
 
 **160.** Grant of probate and letters of administration.
 
+*[CAP.*
+
 Proof of will in solemn form.
 
 Certain decrees, etc., may be set aside.
@@ -467,6 +477,10 @@ Restriction on officer’s purchase of property sold at execution.
 **176.** Public Services Commission, Judicial and Legal Services Commission.
 
 Schedule
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 ### CHAPTER 91
 
@@ -572,11 +586,9 @@ In this Act, unless the context otherwise requires–
 
 “prescribed” means prescribed by rules of court; “registry” means the registry of the Court;
 
-“rules of court” means the rules of practice and procedure made
-
 *CAP. 153., c. l.*
 
-under the Supreme Court Ordinance, in force immediately
+“rules of court” means the rules of practice and procedure made under the Supreme Court Ordinance, in force immediately
 
 **1924.** before the commencement of this Act, under this Act and under any other Act conferring the power on the Chief Justice, either by himself or with the concurrence of the other judges, to make rules and orders, and includes forms, fees and costs; and
 
@@ -614,11 +626,9 @@ Provided that the Registrar shall have no jurisdiction in respect of matters rel
 
 (2) Any person affected by any order or decision of the Registrar with respect to the exercise of any such power and jurisdiction may appeal to the Court which shall have power to hear and determine such appeal.
 
-**6.** (1) There shall be a deputy registrar of the Court who shall,
-
 *Deputy registrar and assistant registrar.*
 
-in the absence of the Registrar or his inability from any cause whatever to act, have all the powers and may perform all the duties of the Registrar except where otherwise provided by rules of court.
+**6.** (1) There shall be a deputy registrar of the Court who shall, in the absence of the Registrar or his inability from any cause whatever to act, have all the powers and may perform all the duties of the Registrar except where otherwise provided by rules of court.
 
 *28 of 1980.*
 
@@ -666,19 +676,15 @@ Provided that the Public Services Commission, may, for good and sufficient reaso
 
 **1980.** sentences, orders, writs and processes of the Court, serve all subpoenas, citations and other summonses issuing out of the Court, levy execution against property in accordance with the law, maintain order when present in Court and otherwise carry out the commands of the Court or a judge.
 
-(2) The marshal, the deputy marshal or the assistant marshal,
-
 *28 of 1980.*
 
-as the case may be, shall be liable for all losses, damages, costs, charges and expenses, had and suffered by any person from or by reason of any irregularity, informality, omission or neglect of duty by him, and he may be sued in any manner and form applicable to the circumstances of the case, for the recovery of those losses, damages, costs, charges or expenses,
+(2) The marshal, the deputy marshal or the assistant marshal, as the case may be, shall be liable for all losses, damages, costs, charges and expenses, had and suffered by any person from or by reason of any irregularity, informality, omission or neglect of duty by him, and he may be sued in any manner and form applicable to the circumstances of the case, for the recovery of those losses, damages, costs, charges or expenses,
 
 *28 of 1980.*
-
-Provided that, in that suit, the marshal, the deputy marshal and
 
 *CAP. 31.*
 
-the assistant marshal shall be entitled to the protection given by the Public Authorities’ Protection Act.
+Provided that, in that suit, the marshal, the deputy marshal and the assistant marshal shall be entitled to the protection given by the Public Authorities’ Protection Act.
 
 *28 of 1980.*
 
@@ -726,11 +732,9 @@ Divisions and Jurisdiction of the Court
 
 *Jurisdictions, powers and authorities of the Court.*
 
-**18.** (1) There shall be vested in the Court, and it shall have and exercise within Belize, all the jurisdictions, powers and authorities whatever possessed powers and vested in the High Court of Justice in England, including the jurisdictions, powers and authorities in relation to matrimonial causes and matters and in respect of suits to establish legitimacy and validity of marriages and the right to be deemed natural-born Belizean citizens as are, by the Supreme Court of Judicature
-
 *1925, c. 49.*
 
-(Consolidation) Act, vested in the High Court of Justice in England,
+**18.** (1) There shall be vested in the Court, and it shall have and exercise within Belize, all the jurisdictions, powers and authorities whatever possessed powers and vested in the High Court of Justice in England, including the jurisdictions, powers and authorities in relation to matrimonial causes and matters and in respect of suits to establish legitimacy and validity of marriages and the right to be deemed natural-born Belizean citizens as are, by the Supreme Court of Judicature (Consolidation) Act, vested in the High Court of Justice in England,
 
 Provided that a decree declaring a person to be a natural-born Belizean citizen shall have effect only within Belize.
 
@@ -742,11 +746,9 @@ procedure for the time being in force in the High Court of Justice in England.
 
 *Jurisdiction in insolvency, etc.*
 
-**19.** The Court shall have and exercise jurisdiction in all matters of insolvency and bankruptcy under the Bankruptcy
-
 *CAP. 244.*
 
-Act, or any other Act relating to, bankruptcy and shall have all necessary powers for enforcing such jurisdiction.
+**19.** The Court shall have and exercise jurisdiction in all matters of insolvency and bankruptcy under the Bankruptcy Act, or any other Act relating to, bankruptcy and shall have all necessary powers for enforcing such jurisdiction.
 
 *Jurisdiction in infancy, lunacy, etc.*
 
@@ -786,11 +788,9 @@ Admiralty Jurisdiction
 
 **25.** It is hereby declared that the Court is a Court of Admiralty having, and capable of exercising, the jurisdiction conferred on a court of law in a British possession under the Colonial Courts of Admiralty Act 1890, c. 27, which was brought into force in Belize on 1st July 1911, by Order of His Majesty the King in Council, G. G. 1911, p. 156, S. R. O. 1911 No. 440, p.19, dated 4th May 1911.
 
-Where an agreement for the payment of interest is sought
-
 *Power to reduce interest.*
 
-to be enforced, and the Court is of opinion that the rate agreed to be paid is excessive and ought not to be enforced by legal process, the Court may give judgment for the payment of interest at the rate that it thinks just.
+Where an agreement for the payment of interest is sought to be enforced, and the Court is of opinion that the rate agreed to be paid is excessive and ought not to be enforced by legal process, the Court may give judgment for the payment of interest at the rate that it thinks just.
 
 *Injunctions and appointment of receivers.*
 
@@ -816,11 +816,9 @@ to be enforced, and the Court is of opinion that the rate agreed to be paid is e
 
 *Saving of jurisdiction.*
 
-**29.** Nothing in this Act shall be construed to take away or abridge any jurisdiction, power or authority now vested in the
-
 *CAP. 158., C.L.*
 
-Court under the Supreme Court Ordinance in force immediately
+**29.** Nothing in this Act shall be construed to take away or abridge any jurisdiction, power or authority now vested in the Court under the Supreme Court Ordinance in force immediately
 
 **1924.** before the commencement of this Act, and the Court shall have and exercise all other jurisdictions, powers and authorities whatever, which now are, or may hereafter, be expressly or by implication vested in it by any law.
 
@@ -850,15 +848,29 @@ all such relief against any plaintiff or petitioner as the parties defendant has
 
 (b) all such relief relating to or connected with the original subject of the cause or matter, claimed in like manner against any other person, whether already a party to the cause or matter or not, who has been duly served with notice in writing of the claim pursuant to rules of court or any order of the Court, as might properly have been granted against that person if he had been made a defendant to a cause duly instituted by the same defendant for the like purpose.
 
-(2) Every person served with any such notice as aforesaid shall thence-forth be deemed a party to the cause or matter with the same rights in respect of his defence against the claim as if he had been duly sued in the ordinary way by the defendant.
+*shall*
 
-*Equities appearing incidentally.*
+(2) Every person served with any such notice as aforesaid thence-forth be deemed a party to the cause or matter with the same rights in respect of his defence against the claim as if he had been duly sued in the ordinary way by the defendant.
 
-**35.** The Court or judge shall take notice of all equitable estates, titles and rights, and all equitable duties and liabilities appearing incidentally in the course of any cause or matter, in the same manner in which the High Court of Justice in England may now take notice of those matters in any suit or proceeding duly instituted therein.
+*Equities*
 
-*Defence or stay instead of injunction or prohibition.*
+*The*
 
-**36.** No cause or proceeding at any time pending in the Court shall be restrained by prohibition or injunction, but every matter of equity on which an injunction against the prosecution of any such cause or proceeding might formerly have been obtained, whether unconditionally or on any terms or conditions, may be relied on by way of defence thereto,
+*appearing incidentally.*
+
+*appearing the same*
+
+**35.** Court or judge shall take notice of all equitable estates, titles and rights, and all equitable duties and liabilities incidentally in the course of any cause or matter, in manner in which the High Court of Justice in England may now take notice of those matters in any suit or proceeding duly instituted therein.
+
+*Defence or stay instead of*
+
+*shall be*
+
+*injunction or prohibition.*
+
+*whether*
+
+**36.** No cause or proceeding at any time pending in the Court restrained by prohibition or injunction, but every matter of equity on which an injunction against the prosecution of any such cause or proceeding might formerly have been obtained, unconditionally or on any terms or conditions, may be relied on by way of defence thereto,
 
 Provided that–
 
@@ -866,23 +878,31 @@ nothing in this Act shall disable the Court, if it thinks fit to do so, from dir
 
 (b) any person, whether a party or not to any such cause or matter, who would formerly have been entitled to apply to any Court to restrain the prosecution thereof, or who may be entitled to enforce, by attachment or otherwise, any judgment, decree, rule or order, in contravention of which all or any part of the proceedings in the cause or matter have been taken, may apply to the Court, by motion in a summary way, for a stay of proceedings in the cause or matter, either generally, or so far as may be necessary for the purposes of justice, and the Court shall thereupon make such order as shall be just.
 
-*Common law and statutory rights and duties.*
+*Common law and statutory effect to rights and duties.*
 
-**37.** Subject to the provisions of this Act relating to giving effect to equitable rights and other matters of equity, the Court or judge shall give effect to all legal claims and demands, and all estates, titles, rights, duties, obligations and liabilities
+*all estates,*
 
 *CAP. 2.*
 
-existing by the common law of England or by any custom, subject, however, to the Imperial Laws (Extension) Act or created by any law, in the same manner as those matters may now be given effect to by the High Court of Justice in England.
+*subject,*
 
-*Determination of matter completely and finally.*
+**37.** Subject to the provisions of this Act relating to giving equitable rights and other matters of equity, the Court or judge shall give effect to all legal claims and demands, and titles, rights, duties, obligations and liabilities existing by the common law of England or by any custom, however, to the Imperial Laws (Extension) Act or created by any law, in the same manner as those matters may now be given effect to by the High Court of Justice in England.
 
-**38.** The Court, in the exercise of the jurisdictions vested in it by this Act, shall, in every cause or matter pending before it, grant, either absolutely or on such terms and conditions as the Court thinks just, all such remedies whatever as any of the parties thereto may appear to be entitled to in respect of any legal or equitable claim properly brought forward by them in the cause or matter, so that, as far as possible, all matters in controversy between the parties may be completely and finally determined, and all multiplicity of legal proceedings concerning any of those matters avoided.
+*Determination of The matter*
 
-Subject to the express provisions of any other Act, in
+*by this Act, completely and*
+
+*finally. grant, either Court thinks*
+
+*legal or cause or controversy*
+
+*any of those*
+
+**38.** Court, in the exercise of the jurisdictions vested in it shall, in every cause or matter pending before it, absolutely or on such terms and conditions as the just, all such remedies whatever as any of the parties thereto may appear to be entitled to in respect of any equitable claim properly brought forward by them in the matter, so that, as far as possible, all matters in between the parties may be completely and finally determined, and all multiplicity of legal proceedings concerning matters avoided.
 
 *Rules of equity prevail.*
 
-questions relating to the custody and education of infants and generally in all matters not particularly mentioned in this Act in which there was formerly or is any conflict or variance between the rules of equity and the rules of the common law in England with reference to the same matter, the rules of equity shall prevail in the Court so far as the matters to which those rules relate are cognisable by the Court.
+Subject to the express provisions of any other Act, in questions relating to the custody and education of infants and generally in all matters not particularly mentioned in this Act in which there was formerly or is any conflict or variance between the rules of equity and the rules of the common law in England with reference to the same matter, the rules of equity shall prevail in the Court so far as the matters to which those rules relate are cognisable by the Court.
 
 ## PART V
 
@@ -1042,17 +1062,13 @@ whenever circumstances render it in his opinion expedient to do so, and any such
 
 (2) Any judge may preside at any such special sitting.
 
-**55.** (1) The Chief Justice may make such orders as may be
-
 *Attendance of jurors at special sitting.*
 
-necessary to procure the attendance of special or common jurors for the trial of any cause or matter at such special sitting of the Court, at such time and place and in such manner as he may think fit, and prescribe the number of jurors to be summoned, having regard to the list of causes and matters pending for trial by jury at that special sitting.
-
-(2) Every juror who without lawful excuse fails to attend and to serve in accordance with the summons issued in pursuance of such orders shall be liable to the same penalties as may be
+**55.** (1) The Chief Justice may make such orders as may be necessary to procure the attendance of special or common jurors for the trial of any cause or matter at such special sitting of the Court, at such time and place and in such manner as he may think fit, and prescribe the number of jurors to be summoned, having regard to the list of causes and matters pending for trial by jury at that special sitting.
 
 *CAP. 128.*
 
-imposed upon jurors for non-attendance under the Juries Act.
+(2) Every juror who without lawful excuse fails to attend and to serve in accordance with the summons issued in pursuance of such orders shall be liable to the same penalties as may be imposed upon jurors for non-attendance under the Juries Act.
 
 *Attendance of police at sittings.*
 
@@ -1086,11 +1102,9 @@ if the Chief Justice for some special reason so directs, during the period fixed
 
 (a) hold sittings on Saturdays; and
 
-(b) not hold sittings on Sundays and public and
-
 *CAP. 289.*
 
-bank holidays as defined by the Holidays Act.
+(b) not hold sittings on Sundays and public and bank holidays as defined by the Holidays Act.
 
 *Delivery of judgment in vacation.*
 
@@ -1104,9 +1118,11 @@ bank holidays as defined by the Holidays Act.
 
 Practice and Procedure
 
+*The*
+
 *Regulation of practice and procedure in the several jurisdictions of the Court.*
 
-**60.** The practice and procedure of the Court–
+**60.** practice and procedure of the Court–
 
 (a) in its general civil jurisdiction, shall be regulated by this or any other Act or by rules of court and where no provision is made, by the practice and procedure in the High Court of Justice in England;
 
@@ -1118,13 +1134,15 @@ Practice and Procedure
 
 *Judges’ Rules*
 
-**61.** (1) Notwithstanding anything contained in this or in any
+*61.-(1) other Act, until*
 
-964.
+Notwithstanding anything contained in this or in any
 
 *15 of 1967.*
 
-other Act, until the Chief Justice shall so direct, the Court in the exercise of its criminal jurisdiction shall not be obliged to follow the revised edition of the Judges’ Rules, which came into force
+*exercise of its the revised*
+
+**964.** the Chief Justice shall so direct, the Court in the criminal jurisdiction shall not be obliged to follow edition of the Judges’ Rules, which came into force
 
 in England and Wales on 27th January 1964. In any such directions the Chief Justice may prescribe that the said Rules shall be followed subject to such modifications as may be stated in the directions.
 
@@ -1172,17 +1190,19 @@ arbitrator respectively agreed on by the parties, or before an official referee 
 
 **68.** Nothing in this Act shall empower the Court or a judge to order any proceedings to which the Government is a party, or any question or issue in any such proceedings, to be tried before any special referee or arbitrator or before an official referee or other officer of the Court without the consent of the Minister, or shall affect the law as to costs payable by the Government.
 
-In the provisions of this Act relating to trials by referees,
+*In the*
 
-*Explanation of term “reference”.*
+*Explanation of term “reference”. made by the*
 
-the expression “reference” means a reference under an order made by the Court or a judge under the said provisions.
+provisions of this Act relating to trials by referees, the expression “reference” means a reference under an order Court or a judge under the said provisions.
 
-*Exercise of jurisdiction in summary procedure.*
+*Exercise of 70.-(1) The jurisdiction in respect of the summary procedure. exercised in hereinafter*
 
-**70.** (1) The jurisdictions, powers and authorities of the Court in respect of the actions mentioned in sub-section (2), shall be exercised in accordance with the summary procedure hereinafter prescribed and regulated.
+jurisdictions, powers and authorities of the Court in actions mentioned in sub-section (2), shall be accordance with the summary procedure prescribed and regulated.
 
-(2) All actions–
+*(2) All*
+
+actions–
 
 (a) in which the debt or damages claimed or the value of the matter or thing in dispute does not exceed the sum of fifteen thousand dollars;
 
@@ -1190,9 +1210,15 @@ the expression “reference” means a reference under an order made by the Cour
 
 (c) in which, in the case of an easement or licence, either the value of the land on, through, over or under which such easement or licence is claimed or the yearly rent reserved thereout does not exceed the sum of one thousand dollars, shall be instituted, heard and determined in accordance with that procedure.
 
-*Prescribing summary procedure.*
+*Prescribing 71.-(1) The summary*
 
-**71.** (1) The summary procedure of the Court shall be prescribed, defined and regulated by rules of court and shall include provisions relating to–
+*defined and*
+
+*procedure.*
+
+*provisions*
+
+summary procedure of the Court shall be prescribed, regulated by rules of court and shall include relating to–
 
 (a) the institution of claims in all such actions;
 
@@ -1218,11 +1244,9 @@ the expression “reference” means a reference under an order made by the Cour
 
 Service and Execution of Process
 
-**73.** (1) Any process in civil and criminal cases may be served
-
 *Persons by whom process may be served.*
 
-by any one authorised by the Registrar to do so.
+**73.** (1) Any process in civil and criminal cases may be served by any one authorised by the Registrar to do so.
 
 (2) “Process” in this Part includes all proceedings whatever involving service of any document on any party, witness or other person concerned in any of those proceedings and any step either before or after judgment in any civil action, cause or matter or in execution of any judgment or order therein.
 
@@ -1256,11 +1280,9 @@ is guilty of a misdemeanour and, on conviction thereof, shall be liable to a ter
 
 **78.** (1) Every non-commissioned police officer stationed in a district other than the Belize District shall have all the powers of the marshal for the purposes of serving any process, or executing any judgment of the Court in its civil jurisdiction, or any other process which the law requires to be served or executed by the marshal.
 
-(2) The term “district” used in this and in sections 79 and 80, has the same meaning as that given to it by section 3 of the
-
 *CAP. 1.*
 
-Interpretation Act.
+(2) The term “district” used in this and in sections 79 and 80, has the same meaning as that given to it by section 3 of the Interpretation Act.
 
 *Procedure by Registrar.*
 
@@ -1284,11 +1306,9 @@ a list of the writ and other papers so forwarded, which, if it is correct, shall
 
 *Writ of subpoena.*
 
-**81.** (1) Subject to rules of court, a writ of subpoena ad testificandum or a writ of subpoena duces tecum or a writ of subpoena ad testificandum et duces tecum may issue out of the Court in the manner and form in which any such writ is issued in proceedings in the High Court of Justice in England to compel the attendance before any court, judge, justice or other judicature, or before any arbitrator or referee, or before any
-
 *CAP. 125.*
 
-arbitrator or umpire appointed under the Arbitration Act or any other Act, of a witness wherever he may be within Belize.
+**81.** (1) Subject to rules of court, a writ of subpoena ad testificandum or a writ of subpoena duces tecum or a writ of subpoena ad testificandum et duces tecum may issue out of the Court in the manner and form in which any such writ is issued in proceedings in the High Court of Justice in England to compel the attendance before any court, judge, justice or other judicature, or before any arbitrator or referee, or before any arbitrator or umpire appointed under the Arbitration Act or any other Act, of a witness wherever he may be within Belize.
 
 (2) If any person served in any cause or matter with any writ of subpoena refuses or neglects to attend the Court as a witness, or to produce any document or documents in his possession,
 
@@ -1298,25 +1318,19 @@ custody or power or to attend the Court as a witness and produce any document or
 
 *Writ of habeas corpus ad testificandum.*
 
-**82.** The Court or a judge may award a writ of habeas corpus ad testificandum for bringing up any prisoner detained in any gaol or prison before any court, judge, justice or other judicature, or before any arbitrator or referee, or before any
-
 *CAP. 125.*
 
-arbitrator or umpire appointed under the Arbitration Act or any other Act, for examination as a witness in any cause or matter, civil or criminal, whatever, which now is, or hereafter may be, depending or to be inquired or determined in or before such court, judge, justice or other judicature, referee, arbitrator or umpire.
+**82.** The Court or a judge may award a writ of habeas corpus ad testificandum for bringing up any prisoner detained in any gaol or prison before any court, judge, justice or other judicature, or before any arbitrator or referee, or before any arbitrator or umpire appointed under the Arbitration Act or any other Act, for examination as a witness in any cause or matter, civil or criminal, whatever, which now is, or hereafter may be, depending or to be inquired or determined in or before such court, judge, justice or other judicature, referee, arbitrator or umpire.
 
 *Compelling attendance of witness by warrant or order.*
 
-**83.** (1) The Court or a judge may, in any case where it or he may see fit to do so upon application by affidavit, issue a warrant or order for bringing up by any prisoner or person confined in any gaol, prison or place, under any sentence or under commitment for trial or otherwise, before any court, judge, justice or other judicature, or before any arbitrator or referee, or before any
+*CAP. 125.*
+
+**83.** (1) The Court or a judge may, in any case where it or he may see fit to do so upon application by affidavit, issue a warrant or order for bringing up by any prisoner or person confined in any gaol, prison or place, under any sentence or under commitment for trial or otherwise, before any court, judge, justice or other judicature, or before any arbitrator or referee, or before any arbitrator or umpire appointed under the Arbitration Act or any other Act, for examination as a witness in any cause or matter, civil or criminal whatever, which now is, or hereafter may be, depending or to be inquired into or determined in or before such court, judge, justice or other judicature, referee, arbitrator or umpire.
 
 *CAP. 125.*
 
-arbitrator or umpire appointed under the Arbitration Act or any other Act, for examination as a witness in any cause or matter, civil or criminal whatever, which now is, or hereafter may be, depending or to be inquired into or determined in or before such court, judge, justice or other judicature, referee, arbitrator or umpire.
-
-(2) The person so required by any such warrant or order to be so brought before such court, judge, justice or other judicature, referee, arbitrator or umpire, shall be so brought under the same care and custody, and be dealt with in like manner in all respects, as a prisoner required by any writ of habeas corpus awarded by the Court to be brought before any court, judge, justice or other judicature, or before any arbitrator or referee, or before any arbitrator or umpire appointed under
-
-*CAP. 125.*
-
-the Arbitration Act or any other Act, for examination as a witness in any cause or matter depending before such court, judge, justice or other judicature, referee, arbitrator or umpire, is now by law required to be dealt with.
+(2) The person so required by any such warrant or order to be so brought before such court, judge, justice or other judicature, referee, arbitrator or umpire, shall be so brought under the same care and custody, and be dealt with in like manner in all respects, as a prisoner required by any writ of habeas corpus awarded by the Court to be brought before any court, judge, justice or other judicature, or before any arbitrator or referee, or before any arbitrator or umpire appointed under the Arbitration Act or any other Act, for examination as a witness in any cause or matter depending before such court, judge, justice or other judicature, referee, arbitrator or umpire, is now by law required to be dealt with.
 
 *Writs of subpoena, etc., rules.*
 
@@ -1376,9 +1390,39 @@ Provided that nothing in this section shall operate to preclude any person who h
 
 **94.** Any failure on the part of the Registrar to comply with any of the requirements of this Act relating to unclaimed moneys shall render him liable on summary conviction to a fine not exceeding five hundred dollars.
 
-*Power to make rules of court. 11 of 2020. CAP. 99. CAP. 94. CAP. 97. CAP. 93. CAP. 90. CAP. 92.*
+*95.-(1)*
 
-**95.** (1) Notwithstanding anything contained in the Summary Jurisdiction (Procedure) Act, the Inferior Courts Act, the District Courts (Procedure) Act, the Family Courts Act or any other law, save and except the Court of Appeal Act and the Caribbean Court of Justice Act, the Chief Justice may, by himself or with the concurrence of the other judges, from time to time make rules of court and issue practice directions under this Act for the following purposes–
+*Power to make*
+
+*Jurisdiction*
+
+*rules of court.*
+
+*District Courts*
+
+*11 of 2020.*
+
+*other law, save*
+
+*CAP. 99.*
+
+*Caribbean*
+
+*CAP. 94.*
+
+*himself or with*
+
+*CAP. 97.*
+
+*to time make*
+
+*CAP. 93.*
+
+*this Act for the*
+
+*CAP. 90. CAP. 92.*
+
+Notwithstanding anything contained in the Summary (Procedure) Act, the Inferior Courts Act, the (Procedure) Act, the Family Courts Act or any and except the Court of Appeal Act and the Court of Justice Act, the Chief Justice may, by the concurrence of the other judges, from time rules of court and issue practice directions under following purposes–
 
 (a) regulating and prescribing the procedure, including the method of pleading, and the practice to be followed in the Court in all civil and criminal causes and matters whatever in or with respect to which the Court has for the time being jurisdiction, including the procedure and practice in interpleaders and the procedure and practice to be followed in the registry, the forms to be used, the fees of Court, the costs of attorneys-at-law, the duties of the officers of the Court and the powers of commissioners other than those conferred by this Act, and any matters incidental or relating to any such procedure or practice, including, but without prejudice to the generality of the foregoing provision, the manner in which, and the time within which, any applications which under this or any other Act are to be made to the Court shall be made;
 
@@ -1408,11 +1452,19 @@ Court Act hitherto in force, or any amendment thereof, or by any rules or regula
 
 (l) regulating and prescribing the practice, procedure and related matters to be followed in Inferior Courts and the Supreme Court, in all civil and criminal causes and matters, to protect the health and safety of court staff and the public.
 
-(2) No rule of court which may involve an increase of expenditure out of public funds shall be made except with the concurrence of the National Assembly but the validity of a rule of court shall not in any proceedings in the Court be called in question either by the Court or by any party to the proceedings on the ground only that it was a rule to which the concurrence of the National Assembly was necessary and that the National Assembly did not concur or is not expressed to have concurred in the making thereof.
+*(2) No rule*
 
-(3) Rules of court made under this section shall apply to all proceedings by or against the State.
+*concurrence of of court shall question either on the ground of the National Assembly did in the making*
 
-(4) Wherever in any Act it is provided that rules of court may be made for any purpose or that any practice and procedure shall be regulated by “rules of court”, such rules of court shall be made by the rule-making authority established under, and in accordance with, this section.
+of court which may involve an increase of expenditure out of public funds shall be made except with the the National Assembly but the validity of a rule not in any proceedings in the Court be called in by the Court or by any party to the proceedings only that it was a rule to which the concurrence Assembly was necessary and that the National not concur or is not expressed to have concurred thereof.
+
+*(3) Rules of proceedings by*
+
+court made under this section shall apply to all or against the State.
+
+*made by the accordance*
+
+(4) Wherever in any Act it is provided that rules of court may be made for any purpose or that any practice and procedure shall be regulated by “rules of court”, such rules of court shall be rule-making authority established under, and in with, this section.
 
 (5) No such rules or orders shall have any force or effect until the same are laid before and approved by the Minister, and subject to negative resolution by the National Assembly, they shall come into operation on such day as may be provided in such rules and orders or, if not so provided, on such day as the Minister may by Order appoint.
 
@@ -1466,11 +1518,9 @@ Contempt of Court
 
 **103.** (1) An appeal shall lie to the Court of Appeal from any order or decision of the Supreme Court in the exercise of jurisdiction to punish for contempt of court, including criminal contempt.
 
-(2) The Court of Appeal may reverse or vary the order or decision of the Supreme Court and make such other order as may be just, and without prejudice to the power of the Court of
-
 *CAP. 90.*
 
-Appeal under the Court of Appeal Act or the rules made thereunder, provision may be made by rules of court for authorising the releasing on bail of an appellant under this section.
+(2) The Court of Appeal may reverse or vary the order or decision of the Supreme Court and make such other order as may be just, and without prejudice to the power of the Court of Appeal under the Court of Appeal Act or the rules made thereunder, provision may be made by rules of court for authorising the releasing on bail of an appellant under this section.
 
 (3) In this section, “Supreme Court” includes a single judge when exercising jurisdiction to punish for contempt of court.
 
@@ -1490,11 +1540,9 @@ and anyone liable to serve on a common or special jury or as tales man, who does
 
 *Criminal contempt of court. 18 of 2010. 26 of 2010.*
 
-106.A-(1) Notwithstanding any other law or rule of practice to the contrary but without prejudice to the power of Court to punish for contempt in accordance with Part 53 of the Supreme
-
 *S.I. 75 of 2005.*
 
-Court (Civil Procedure) Rules, 2005, by way of committal and seizure of assets, every person, whether in Belize or elsewhere, who knowingly disobeys or fails to comply with an injunction, or an order in the nature of an injunction, issued by the Court, whether such injunction was issued before or after 31st day of March, 2010, commits an offence and shall be tried summarily in the Supreme Court by a judge sitting alone without a jury, on a criminal information and complaint laid under sub-section (2), and in every such case, any rule of court relating to the unlimited jurisdiction of the Court shall apply.
+106.A-(1) Notwithstanding any other law or rule of practice to the contrary but without prejudice to the power of Court to punish for contempt in accordance with Part 53 of the Supreme Court (Civil Procedure) Rules, 2005, by way of committal and seizure of assets, every person, whether in Belize or elsewhere, who knowingly disobeys or fails to comply with an injunction, or an order in the nature of an injunction, issued by the Court, whether such injunction was issued before or after 31st day of March, 2010, commits an offence and shall be tried summarily in the Supreme Court by a judge sitting alone without a jury, on a criminal information and complaint laid under sub-section (2), and in every such case, any rule of court relating to the unlimited jurisdiction of the Court shall apply.
 
 (2) A complaint of an offence under sub-section (1) may be laid by the Attorney-General or the aggrieved party or a police officer not below the rank of an Inspector.
 
@@ -1502,15 +1550,17 @@ Court (Civil Procedure) Rules, 2005, by way of committal and seizure of assets, 
 
 in the case of a natural person, with a fine which shall not be less than fifty thousand dollars but which may extend to two hundred and fifty thousand dollars, or with imprisonment for a term which shall not be less than five years but which may extend to ten years, or with both such fine and term of imprisonment, and in the case of a continuing offence, with an additional fine of one hundred thousand dollars for each day the offence continues,
 
-*26 of 2010.*
+*26 of 2010. Provided that offence under circumstances, her case, a court above, impose a not more than such fine, a term not more than*
 
-Provided that where a natural person who is convicted of an offence under this section shows that the extenuating circumstances, as described in sub-section (3A), exist in his or her case, a court may, in lieu of imposing the penalties specified above, impose a fine of not less than five thousand dollars and not more than ten thousand dollars, and in default of payment of such fine, a term of imprisonment of not less than one year and not more than two years; or
+where a natural person who is convicted of an this section shows that the extenuating as described in sub-section (3A), exist in his or may, in lieu of imposing the penalties specified fine of not less than five thousand dollars and ten thousand dollars, and in default of payment of of imprisonment of not less than one year and two years; or
 
 (b) in the case of a legal person or other entity, whether corporate or un-incorporate, with a fine which shall not be less than one hundred thousand dollars but which may extend to five hundred thousand dollars, and in the case of a continuing offence, with an additional fine of three hundred thousand dollars for each day the offence continues.
 
-*26 of 2010.*
+*26 of 2010. (3A) For the expression*
 
-(3A) For the purpose of the proviso to sub-section (3)(a), the expression “extenuating circumstances” means where–
+purpose of the proviso to sub-section (3)(a), the
+
+“extenuating circumstances” means where–
 
 (a) the convicted person has previously been a law abiding person and has no criminal record;
 
@@ -1530,9 +1580,13 @@ shall be guilty of abetting the said offence and shall be punished in a like man
 
 (6) Notwithstanding anything to the contrary contained in any other law, the offence created by this section shall be investigated, tried, judged and punished by the Court regardless of whether the offence occurred in Belize or in any other territorial jurisdiction, or whether or not the offender was
 
-present in Belize or elsewhere, but without prejudice to extradition, where applicable, in accordance with the law.
+*present in extradition,*
 
-(7) For the avoidance of doubt, it is hereby declared that this section shall have effect regardless of whether the injunction referred to in this section was issued before or after the 31st day of March, 2010.
+Belize or elsewhere, but without prejudice to where applicable, in accordance with the law.
+
+*section shall referred to in*
+
+(7) For the avoidance of doubt, it is hereby declared that this have effect regardless of whether the injunction this section was issued before or after the 31st day of March, 2010.
 
 (8) Without prejudice to the generality of the foregoing provisions, the Court shall have jurisdiction–
 
@@ -1542,9 +1596,15 @@ present in Belize or elsewhere, but without prejudice to extradition, where appl
 
 (b) to void and vacate an award made by an arbitral tribunal, whether in Belize or abroad, in disregard of or contrary to any such injunction.
 
-*S.I. 75 of 2005.*
+*S.I. 75 of 2005. (9) In*
 
-(9) In addition to the modes of service prescribed in the Supreme Court (Civil Procedure) Rule, 2005, notice of an injunction issued by the court, or of an application for such injunction, or of any order associated therewith, whether such injunction or order was issued before or after the 31st day of March, 2010, may be served by registered post, fax, courier service or a notice in the Belize Gazette, as may be appropriate in the circumstances of each case, regardless of whether the person against whom the injunction or order was issued, or against whom the application for such injunction or order was
+*injunction*
+
+*injunction or*
+
+*service or a in the*
+
+addition to the modes of service prescribed in the Supreme Court (Civil Procedure) Rule, 2005, notice of an issued by the court, or of an application for such injunction, or of any order associated therewith, whether such order was issued before or after the 31st day of March, 2010, may be served by registered post, fax, courier notice in the Belize Gazette, as may be appropriate circumstances of each case, regardless of whether the person against whom the injunction or order was issued, or against whom the application for such injunction or order was
 
 issued or against whom the application for such injunction or order was made, be present or resident within or outside Belize, and for this purpose, no leave of the court for serving the injunction, notice or order, as the case may be, outside Belize shall be required notwithstanding anything to the contrary contained in any other law or rule of practice.
 
@@ -1554,11 +1614,9 @@ issued or against whom the application for such injunction or order was made, be
 
 (12) The notice referred to in sub-section (11), may be served personally, or by registered post, or by a notice in the Belize Gazette, as may be appropriate in the circumstances of each case.
 
-(13) No person shall be liable to be prosecuted for an offence under this section if he or she has already been punished for the
-
 *S.I. 75 of 2005.*
 
-same offence under Part 53 of the Supreme Court (Civil Procedure) Rules, 2005, or vice versa.
+(13) No person shall be liable to be prosecuted for an offence under this section if he or she has already been punished for the same offence under Part 53 of the Supreme Court (Civil Procedure) Rules, 2005, or vice versa.
 
 (14) In this Act, the word “person” shall have the meaning ascribed to it in section 3 of the Interpretation Act.
 
@@ -1570,15 +1628,21 @@ same offence under Part 53 of the Supreme Court (Civil Procedure) Rules, 2005, o
 
 (16) Subject to the provisions of this section and any rules made by the Attorney-General under sub-section (15), the rules
 
+*contained in*
+
 *Schedule.*
 
-contained in the Schedule thereto shall apply to the trial on criminal information and complaint laid under this section.
+*criminal*
 
-*Right of appeal from decision of inferior court.*
+the Schedule thereto shall apply to the trial on information and complaint laid under this section.
 
-**107.** Pursuant to section 24, any person dissatisfied with any decision of an inferior court may appeal to the Court subject to the conditions and regulations prescribed by this Act and by any rules of court,
+*Right of appeal decision of an from decision of inferior court. the conditions rules of court,*
 
-Provided that no appeal shall lie to the Court in the following cases–
+**107.** Pursuant to section 24, any person dissatisfied with any inferior court may appeal to the Court subject to and regulations prescribed by this Act and by any
+
+*Provided that cases–*
+
+no appeal shall lie to the Court in the following
 
 (a) where a party in the inferior court confessed or admitted the truth of the accusation or the correctness of the claim, as the case may be, brought against him;
 
@@ -1590,19 +1654,29 @@ Provided that no appeal shall lie to the Court in the following cases–
 
 (e) where it is provided by any statute that no appeal shall lie from the decision of an inferior court in any particular case.
 
-*Regulating appeal from decision of inferior court.*
+*Regulating 108.-(1) Every appeal from*
 
-**108.** (1) Every appeal from a decision of an inferior court shall be heard and determined by the Court, and the practice and procedure of the Court in cases of appeal under this section shall
+*be heard and*
 
-be in accordance with this or any other Act relating to appeals from inferior courts and any rules of court.
+*decision of inferior court.*
 
-(2) Rules of court may make provisions regulating, inter alia–
+appeal from a decision of an inferior court shall determined by the Court, and the practice and procedure of the Court in cases of appeal under this section shall
+
+*be in from inferior*
+
+accordance with this or any other Act relating to appeals courts and any rules of court.
+
+*(2) Rules of alia–*
+
+court may make provisions regulating, inter
 
 (a) the giving of notice of, and security for, prosecuting, the appeal;
 
 (b) the recording of the appeal and the obtaining of a copy of the proceedings and the reasons for the inferior court’s decision;
 
-(c) the lodging of the grounds of appeal; (d) the manner of setting forth the grounds of appeal and the signing of the notice of appeal and the grounds of appeal;
+(c) the lodging of the grounds of appeal;
+
+(d) the manner of setting forth the grounds of appeal and the signing of the notice of appeal and the grounds of appeal;
 
 (e) the transmission of the record of appeal to the Registrar;
 
@@ -1674,19 +1748,15 @@ committed in the course of the proceedings therein or in the decision; or
 
 (3) If the application for stay is refused by the inferior court, or the inferior court fails to give its reasons for the decision under appeal within the time specified in sub-section (2), the appellant may apply to the Court for appropriate relief.
 
-(4) Where the appellant has been sentenced to imprisonment by the inferior court, nothing contained in sub-sections (1) to (3), shall prejudice his right to apply to the Court for bail pending appeal; and in every such case, the provisions of the
-
 *CAP. 102.*
 
-Crime Control and Criminal Justice Act pertaining to the grant of bail to an accused person shall mutatis mutandis apply.
+(4) Where the appellant has been sentenced to imprisonment by the inferior court, nothing contained in sub-sections (1) to (3), shall prejudice his right to apply to the Court for bail pending appeal; and in every such case, the provisions of the Crime Control and Criminal Justice Act pertaining to the grant of bail to an accused person shall mutatis mutandis apply.
 
 *9 of 2008.*
 
-(5) Where the inferior court orders the payment of a sum of
-
 *CAP. 55. CAP. 63. CAP. 58. CAP. 64. CAP. 65. CAP. 66.*
 
-money by way of tax, duty, rate or charge arising under the Income and Business Tax Act, the General Sales Tax Act, the Land Tax Act, the Stamp Duty Act, the Town Property Tax Act, the Trade Licencing Act, or any other enactment, rule or regulation imposing a tax, duty, rate or charge, an appeal shall
+(5) Where the inferior court orders the payment of a sum of money by way of tax, duty, rate or charge arising under the Income and Business Tax Act, the General Sales Tax Act, the Land Tax Act, the Stamp Duty Act, the Town Property Tax Act, the Trade Licencing Act, or any other enactment, rule or regulation imposing a tax, duty, rate or charge, an appeal shall
 
 not result in the suspension of the decision under appeal, and the entire amount ordered to be paid by the inferior court, including any penalty and interest, shall be paid before any such appeal or review is entertained or determined by the court; but where any such appeal or review results in nil or less tax, duty, rate or charge being payable by the taxpayer than that ordered by the inferior court, the excess tax, duty, rate or charge paid by the taxpayer shall, subject to any further appeal by either party to a higher court, be promptly refunded to the taxpayer with interest thereon from the date of payment of such excess tax, duty, rate or charge until the date of such refund, at such rate of interest as may be determined by the Court to be fair and reasonable.
 
@@ -1726,11 +1796,9 @@ made at any time within three months after the pronouncement of the decision, ap
 
 **115.** On the hearing, no objection to any defect in the form of stating any ground of appeal shall be allowed, and no objection to the reception of evidence adduced pursuant to section 119, which is offered in support grounds of any ground of appeal shall prevail, unless the Court is of opinion that the ground of appeal is so imperfectly or incorrectly set forth as to be insufficient to enable the respondent to inquire into the subject of the statement and to prepare for the hearing, but the Court may, if it thinks fit, cause the ground of appeal to be forthwith amended upon the terms and conditions, if any, the Court thinks just.
 
-**116.** (1) If, on the hearing, any objection is made on account of
-
 *Objection of form to information or conviction.*
 
-any defect or in a complaint or information, or on account of any omission or mistake in the drawing up of a conviction or order, and if it is shown, to the satisfaction of the Court, that sufficient grounds were in proof before the inferior court which made the conviction or order to have authorised the drawing up thereof free from that omission or mistake, the Court shall amend the complaint or information, or the conviction or order, and proceed thereafter as if the defect, omission or mistake had not existed.
+**116.** (1) If, on the hearing, any objection is made on account of any defect or in a complaint or information, or on account of any omission or mistake in the drawing up of a conviction or order, and if it is shown, to the satisfaction of the Court, that sufficient grounds were in proof before the inferior court which made the conviction or order to have authorised the drawing up thereof free from that omission or mistake, the Court shall amend the complaint or information, or the conviction or order, and proceed thereafter as if the defect, omission or mistake had not existed.
 
 (2) Nothing in this section shall affect section 114.
 
@@ -1744,11 +1812,11 @@ Provided that if any error, defect or variance mentioned in this section appears
 
 **118.** No objection shall be taken or allowed on appeal to any notice of which is in writing, or to any recognisance entered into under this Act for the due prosecution of the appeal, for any alleged error or defect therein, but if the error or defect appears to the Court to be such that the respondent on the appeal has been thereby deceived or misled, the Court may amend it and, if it is expedient to do so, may also adjourn the further hearing of the appeal, the amendment and the adjournment, if any, being made on any terms the Court thinks just.
 
-**119.** (1) The Court may, in any case where it considers it
+*119.-(1) The Power of the necessary–*
 
-*Power of the Court with regard to new evidence.*
+Court may, in any case where it considers it
 
-necessary–
+*Court with regard to new evidence.*
 
 (a) direct that a case be re-heard before the Court itself on some day to be fixed in that behalf, and any person may be called as a witness, whether he gave evidence before the inferior court or not;
 
@@ -1756,11 +1824,13 @@ necessary–
 
 (c) remit the cause to the inferior court to take the evidence of any witness or witnesses, whether that witness or those witnesses gave evidence before the inferior court or not, and in that case either direct the inferior court to adjudicate afresh after taking the evidence subject to such directions in law, if any, as the Court thinks fit to give, or may direct it, after taking the evidence, to report specific findings of fact for the information of the Court, the cause on any such reference, so far as may be practicable and necessary, being so dealt with as if it were being heard in the first instance.
 
-(2) Whenever any person is required to give evidence under this section he may be summoned or produced in the same manner, and remunerated at the same rate, and be subject to the same pains, penalties and liabilities for non-attendance as are provided in respect of witnesses summoned to attend at the hearing or trial of a civil cause before the Court.
+*this section he manner, and same pains, provided in hearing or trial*
 
-*Power of the Court generally.*
+(2) Whenever any person is required to give evidence under may be summoned or produced in the same remunerated at the same rate, and be subject to the penalties and liabilities for non-attendance as are respect of witnesses summoned to attend at the of a civil cause before the Court.
 
-**120.** (1) The Court may–
+*Power of the 120.-(1) The Court generally.*
+
+Court may–
 
 affirm, modify, amend or reverse, either in whole or in part, the decision made by the inferior court with reference to the cause, or may render any decision which the inferior court ought to have made;
 
@@ -1780,11 +1850,9 @@ Provided that the Court may, if of opinion that a different sentence should have
 
 **122.** Wherever a magistrate refuses to entertain a complaint or information relating to a summary conviction offence, the person aggrieved by the refusal may obtain from the magistrate a copy of the entry in the record book relating to the refusal, and may, on giving to the magistrate not less than three days’ previous notice in writing thereof, make application to the Court for an order on the magistrate to entertain, hear and determine the complaint or information and, if the Court sees fit to make the order, the magistrate shall entertain, and thereafter hear and determine, the complaint or information in due course of law.
 
-**123.** (1) Wherever a magistrate or a justice of the peace refuses
-
 *Application to Court to compel magistrate or justice to do act.*
 
-to do any act relating to the duties of his office, the person requiring the act to be done may apply to the Court on motion supported by affidavit of the facts for an order calling upon the magistrate or justice, and also upon the person to be affected by the act, to show cause why the act should not be done.
+**123.** (1) Wherever a magistrate or a justice of the peace refuses to do any act relating to the duties of his office, the person requiring the act to be done may apply to the Court on motion supported by affidavit of the facts for an order calling upon the magistrate or justice, and also upon the person to be affected by the act, to show cause why the act should not be done.
 
 (2) If, after proof of due service of the order, good cause is not shown against it, the Court may make it absolute and the magistrate or justice, upon being served with the order absolute, shall obey it and do the act required, and the costs of the proceedings shall be in the discretion of the Court.
 
@@ -1830,11 +1898,9 @@ and by the wife on the ground that her husband has, since the celebration of the
 
 (2) Notwithstanding the provisions of sub-section (1), a petition for divorce may be presented to the Court by either party to a marriage on the grounds that the marriage between them has broken down irretrievably, and that they have been living separately for at least three years immediately preceding the presentation of the petition.
 
-**129A.** (1) Notwithstanding section 129, a petition for divorce
-
 *Divorce by consent of parties. 21 of 2018. 11 of 2020.*
 
-by consent of the parties may be presented to the Court by either the husband or the wife on the grounds that they have been living separate and apart for a period of one year or more since the presentation of the petition and that they can no longer live together as husband and wife and consent that the marriage should be dissolved.
+**129A.** (1) Notwithstanding section 129, a petition for divorce by consent of the parties may be presented to the Court by either the husband or the wife on the grounds that they have been living separate and apart for a period of one year or more since the presentation of the petition and that they can no longer live together as husband and wife and consent that the marriage should be dissolved.
 
 (2) Notwithstanding section 131, no petition for divorce by consent of the parties shall be presented to the Court unless at the date of the presentation of the petition one year has passed since the date of the marriage.
 
@@ -1876,7 +1942,9 @@ accessory to, or connived at, or condoned, the adultery, or where the ground of 
 
 (c) the petition is not presented or prosecuted in collusion with the respondent or either of the respondents, the Court shall pronounce a decree of divorce, but if the Court is not satisfied with respect to any of the aforesaid matters, it shall dismiss the petition,
 
-Provided that the Court shall not be bound to pronounce a decree of divorce and may dismiss the petition if it finds that the petitioner has during the marriage been guilty of adultery or if, in the opinion of the Court, the petitioner has been guilty–
+*Provided that the of divorce and petitioner has in the opinion of*
+
+Court shall not be bound to pronounce a decree may dismiss the petition if it finds that the during the marriage been guilty of adultery or if, the Court, the petitioner has been guilty–
 
 (i) of unreasonable delay in presenting prosecuting the petition;
 
@@ -1886,11 +1954,9 @@ Provided that the Court shall not be bound to pronounce a decree of divorce and 
 
 (iv) where the ground of the petition is adultery or unsoundness of mind or desertion, of such wilful neglect or misconduct as has conducted to the adultery or unsoundness of mind or desertion.
 
-**134.** In any case in which, on the petition of a husband for
-
 *Dismissal of respondent or corespondent from proceedings.*
 
-divorce, the alleged adulterer is made a co-respondent or in which, on the petition of a wife for divorce, the person with whom the husband is alleged to have committed adultery is made a respondent, the Court may, after the close of the evidence on the part of the petitioner, direct the co-respondent or the respondent, as the case may be, to be dismissed from the proceedings if the Court is of opinion that there is not sufficient evidence against him or her.
+**134.** In any case in which, on the petition of a husband for divorce, the alleged adulterer is made a co-respondent or in which, on the petition of a wife for divorce, the person with whom the husband is alleged to have committed adultery is made a respondent, the Court may, after the close of the evidence on the part of the petitioner, direct the co-respondent or the respondent, as the case may be, to be dismissed from the proceedings if the Court is of opinion that there is not sufficient evidence against him or her.
 
 *Relief to respondent on petition for divorce.*
 
@@ -1960,11 +2026,9 @@ the absence of the person making the application or, if desertion was the ground
 
 **142.** A petition for restitution of conjugal rights may be presented to the Court either by the husband or the wife and the Court may, on being satisfied that the allegations contained in the petition are true and that there is no legal ground why a decree for restitution of conjugal rights should not be granted, make the decree accordingly.
 
-**143.** (1) A decree for restitution of conjugal rights shall not be
-
 *Periodical payments in default of compliance with decree for restitution of conjugal rights.*
 
-enforced by attachment, but where the application is by the wife the Court, at the time of making the decree or at any time afterwards, may, in the event of the decree not being complied with within any time in that behalf limited by the Court, order the respondent to make to the petitioner such periodical payments as may be just, and the order may be enforced in the same manner as an order for alimony in proceedings for judicial separation.
+**143.** (1) A decree for restitution of conjugal rights shall not be enforced by attachment, but where the application is by the wife the Court, at the time of making the decree or at any time afterwards, may, in the event of the decree not being complied with within any time in that behalf limited by the Court, order the respondent to make to the petitioner such periodical payments as may be just, and the order may be enforced in the same manner as an order for alimony in proceedings for judicial separation.
 
 (2) The Court may, if it thinks fit, order that the husband shall, to the satisfaction of the Court, secure to the wife the periodical payments, and for that purpose may direct that it shall be referred to the Registrar to settle and approve a proper deed or instrument to be executed by all necessary parties.
 
@@ -2032,9 +2096,9 @@ notwithstanding that the husband has changed his domicile since the desertion or
 
 (4) The Court shall not make an order under sub-section (3), unless it is satisfied that, in all the circumstances, it is just and equitable to make the order.
 
-(5) In considering whether it is just and equitable to make an order under sub-section (3), the court shall take into account the
+*(5) In order under following–*
 
-*following–*
+considering whether it is just and equitable to make an sub-section (3), the court shall take into account the
 
 (a) the financial contribution made directly or indirectly by or on behalf of either the husband or the wife in the acquisition, conservation or improvement of the property, or otherwise in relation to the property;
 
@@ -2066,19 +2130,15 @@ the education, training and development of either of them in whose favour the or
 
 (2) Section 148A(7), shall apply in respect of an order made under sub-section (1).
 
-148.C-(1) Any person affected by a final order made under
-
 *Appeals. 8 of 2001.*
 
-section 148A or 148B, or by the setting aside of a final order under section 148B, may appeal against such order or setting aside of the order to the Court of Appeal, pursuant to section 14(l)(a) of the Court of Appeal Act.
+148.C-(1) Any person affected by a final order made under section 148A or 148B, or by the setting aside of a final order under section 148B, may appeal against such order or setting aside of the order to the Court of Appeal, pursuant to section 14(l)(a) of the Court of Appeal Act.
 
 *CAP. 90.*
 
-(2) In the case of interlocutory orders, any person affected by such an order made under section 148A or 148B, or by the setting aside of such an order under section 148B, shall have recourse in the matter to the Supreme Court in the first instance, but may appeal the decision of the Supreme Court made under this section to the Court of Appeal pursuant to section 14(1) of
-
 *CAP. 90.*
 
-the Court of Appeal Act.
+(2) In the case of interlocutory orders, any person affected by such an order made under section 148A or 148B, or by the setting aside of such an order under section 148B, shall have recourse in the matter to the Supreme Court in the first instance, but may appeal the decision of the Supreme Court made under this section to the Court of Appeal pursuant to section 14(1) of the Court of Appeal Act.
 
 (3) The same procedure used in applying to the court or in appealing to the Court of Appeal in divorce proceedings shall as far as applicable be used for applications under section 148A to
 
@@ -2098,15 +2158,21 @@ the Court of Appeal Act.
 
 (3) In addition to making a declaration under sub-section (2), the court may also in such proceedings make such order as
 
-it thinks fit altering the interests and rights of the parties to the union in the property, including–
+*it thinks fit union in the*
+
+altering the interests and rights of the parties to the property, including–
 
 (a) an order for a settlement of some other property in substitution for any interest or right in the property; and
 
 (b) an order requiring either or both parties to the union to make, for the benefit of the other party, such settlement or transfer of property as the court determines.
 
-(4) The court shall not make an order under sub-section (3) unless it is satisfied that, in all the circumstances, it is just and equitable to make the order.
+*(4) The unless it is equitable to*
 
-(5) In considering whether it is just and equitable to make an order under sub-section (3), the court shall take into account the following–
+court shall not make an order under sub-section (3) satisfied that, in all the circumstances, it is just and make the order.
+
+*(5) In order under following–*
+
+considering whether it is just and equitable to make an sub-section (3), the court shall take into account the
 
 (a) the financial contribution made directly or indirectly by or on behalf of either party to the union in the acquisition, conservation or improvement of the property, or otherwise in relation to the property;
 
@@ -2126,25 +2192,27 @@ it thinks fit altering the interests and rights of the parties to the union in t
 
 (i) any other fact or circumstance that, in the opinion of the court, the justice of the case requires to be taken into account.
 
-(6) Where the court makes an order under sub-section (3), it may also make such consequential orders in respect thereto, including orders as to sale or partition, and interim or permanent orders as to possession, and may further order that any necessary deed or instrument be executed, and that such documents of title to the property be produced or such other things be done as are necessary to enable the court’s order to be carried out effectively, or that security be provided for the due performance of an order.
+*(6) Where*
 
-(7) Any order made by the court under this section shall be binding on the parties to the union, but not on any other person.
+*orders as to deed or to the property necessary to effectively, or of an order.*
 
-148.F-(1) Where a court is satisfied on an application by a
+the court makes an order under sub-section (3), it may also make such consequential orders in respect thereto, including orders as to sale or partition, and interim or permanent possession, and may further order that any necessary instrument be executed, and that such documents of title be produced or such other things be done as are enable the court’s order to be carried out that security be provided for the due performance
+
+*(7) Any binding on the*
+
+order made by the court under this section shall be parties to the union, but not on any other person.
 
 *Power to set aside orders altering property rights and interests in separation in common- law union.*
 
-person affected by an order made under section 148E, the order was obtained by fraud, duress, the giving of false evidence or by the suppression of evidence, the court may in its discretion, set aside the order, or make another order in substitution of the order.
+148.F-(1) Where a court is satisfied on an application by a person affected by an order made under section 148E, the order was obtained by fraud, duress, the giving of false evidence or by the suppression of evidence, the court may in its discretion, set aside the order, or make another order in substitution of the order.
 
 (2) Section 148E(7), all apply in respect of an order made under sub-section (1).
 
 *Appeals in separation in common-law union.*
 
-148.G Any person affected by an order made under section 148E or 148F, or by the setting aside of an order made under section 148F, may appeal against such order or the setting aside of the order to the Court of Appeal, pursuant to section 14(1)(a) of the Court of Appeal Act and the provisions of section 148E
-
 *CAP. 90.*
 
-shall, mutatis mutandis, apply to such an appeal.
+148.G Any person affected by an order made under section 148E or 148F, or by the setting aside of an order made under section 148F, may appeal against such order or the setting aside of the order to the Court of Appeal, pursuant to section 14(1)(a) of the Court of Appeal Act and the provisions of section 148E shall, mutatis mutandis, apply to such an appeal.
 
 *Transfers of property to avoid court orders to be void.*
 
@@ -2284,9 +2352,13 @@ Probate Causes and Matters
 
 **164.** Under special circumstances where it may appear to the Court to be just or expedient, probate or administration may be granted to some person other than the person ordinarily or by law entitled to such probate or administration.
 
+*165.-(1)*
+
 *Rules.*
 
-**165.** (1) Provisions may from time to time be made by rules of court–
+Provisions may from time to time be made by rules of
+
+*court–*
 
 (a) for giving effect to any Act relating to administration of estates of deceased persons in respect of both real and personal property;
 
@@ -2294,9 +2366,23 @@ Probate Causes and Matters
 
 (c) for regulating the practice and procedure, including fees and costs, on, and incidental to, an application for sealing a probate or letters of administration granted by any Court in any part of the Commonwealth or Her Majesty’s dominions or a British Court of Probate in a foreign country as provided for by any law.
 
-(2) “Non-contentious business” includes the issue of grants of probate and letters of administration when there is no contention as to the right thereto, including the passing of probates and administration through the Court in contentious cases when the contest is terminated, and all business of a noncontentious nature taken in Court in matters of testacy and intestacy, not being proceedings in any action, and also the business of lodging caveats against the grant of probate or administration.
+“Non-contentious business” includes the issue of grants (2)
 
-(3) “Contentious business” includes all other probate and administration business of the Court, except the warning of caveats and rules of court may further provide what shall be deemed “contentious business.”
+*probates and*
+
+*contentious*
+
+*business of*
+
+of probate and letters of administration when there is no contention as to the right thereto, including the passing of administration through the Court in contentious cases when the contest is terminated, and all business of a non-nature taken in Court in matters of testacy and intestacy, not being proceedings in any action, and also the lodging caveats against the grant of probate or administration.
+
+“Contentious business” includes all other probate and (3)
+
+*caveats and deemed*
+
+administration business of the Court, except the warning of rules of court may further provide what shall be
+
+“contentious business.”
 
 Miscellaneous
 
@@ -2498,9 +2584,9 @@ service or a notice in the Gazette, as may be appropriate in the circumstances o
 
 (d) a certificate signed by the Registrar, that a certified copy of a criminal information and complaint was duly sent in the manner aforesaid shall be deemed prima facie evidence that the copy reached the accused person charged in the criminal information and complaint.
 
-*Trial judge to give directions.*
+*Trial judge to Where a give directions. the Supreme section l06A*
 
-**11.** Where a criminal information and complaint is filed in the Supreme Court Registry, the trial Judge shall, subject to section l06A and these Rules, give directions as to–
+**11.** criminal information and complaint is filed in Court Registry, the trial Judge shall, subject to and these Rules, give directions as to–
 
 (a) the date of arraignment of the accused person;
 

@@ -364,9 +364,13 @@ an ongoing defined benefit pension plan that is or is being wound up, means the 
 
 (b) winding up of a pension plan, means the cessation of the accrual of benefits under the plan by members of the plan;
 
-“winding up”, in relation to a pension plan, means the distribution of the assets of the pension plan after the plan is terminated.
+*“winding up”, distribution of terminated.*
 
-(2) For the purposes of this Act, “affiliated” in relation to an employer, means that the employer is affiliated with another employer by virtue of both employers being companies and–
+in relation to a pension plan, means the the assets of the pension plan after the plan is
+
+*(2) For the employer, employer by*
+
+purposes of this Act, “affiliated” in relation to an means that the employer is affiliated with another virtue of both employers being companies and–
 
 (a) one of them is the subsidiary of the other;
 
@@ -374,7 +378,11 @@ an ongoing defined benefit pension plan that is or is being wound up, means the 
 
 (c) each of them is controlled by the same person.
 
-(3) The requirements of this Act and the regulations shall not be construed to prevent the registration or administration of a pension plan and related pension fund that provide pension
+*(3) The*
+
+*pension plan*
+
+requirements of this Act and the regulations shall not be construed to prevent the registration or administration of a and related pension fund that provide pension
 
 benefits or ancillary benefits more advantageous to members and former members than those required by this Act and the regulations.
 
@@ -436,9 +444,9 @@ Registration and Administration of Pension Plans
 
 (i) the prescribed fee.
 
-*Administrator.*
+*Administrator. 6.–(1) A administered by*
 
-**6.** (1) A pension plan is not eligible for registration unless it is administered by an administrator, which administrator shall be–
+pension plan is not eligible for registration unless it is an administrator, which administrator shall be–
 
 (a) the employer participating in the pension plan;
 
@@ -452,13 +460,23 @@ Registration and Administration of Pension Plans
 
 (f) any other person approved by the Supervisor,
 
-and shall be resident in Belize, being a person that the Supervisor is satisfied is fit and proper to administer the pension plan.
+*and shall be Supervisor is plan.*
 
-(2) For the purposes of sub-section (1), “employer” includes an affiliated employer or parent company.
+resident in Belize, being a person that the satisfied is fit and proper to administer the pension
 
-*Content of documents.*
+*(2) For the an affiliated*
 
-**7.** (1) The documents establishing a pension plan and its related pension fund, shall set out the following information–
+purposes of sub-section (1), “employer” includes employer or parent company.
+
+*Content of*
+
+*7.–(1) The*
+
+*documents.*
+
+*related pension*
+
+documents establishing a pension plan and its fund, shall set out the following information–
 
 (a) the objects for which the pension plan is established, and the rules governing the administration of the pension plan and the pension fund;
 
@@ -498,7 +516,9 @@ and shall be resident in Belize, being a person that the Supervisor is satisfied
 
 (s) such other information as may be prescribed by regulations or required by the Supervisor.
 
-(2) As regards a defined benefit pension plan, the most recent valuation report shall set out, on the basis of a going concern valuation–
+*(2) As recent valuation concern*
+
+regards a defined benefit pension plan, the most report shall set out, on the basis of a going valuation–
 
 (a) the normal cost in the year of registration of the plan (“the initial year”) and the formula for computing normal cost in subsequent years up to the scheduled date of the next such valuation report (“subsequent years”);
 
@@ -540,9 +560,13 @@ amortize it over a term not exceeding fifteen years;
 
 any other document or information required by the Supervisor.
 
-(3) If the amendment is in conformity with the documents establishing the pension plan and pension fund, this Act and the regulations, the Supervisor shall register the amendment.
+*(3) If the establishing the regulations, the*
 
-(4) Before the registration of an amendment to a pension plan, by virtue of any amendment referred to in sub-section (1), an administrator shall–
+amendment is in conformity with the documents pension plan and pension fund, this Act and the Supervisor shall register the amendment.
+
+*(4) Before plan, by virtue*
+
+the registration of an amendment to a pension of any amendment referred to in sub-section (1), an administrator shall–
 
 (a) give notice containing–
 
@@ -558,7 +582,9 @@ any other document or information required by the Supervisor.
 
 (c) provide the Supervisor with a copy of the notice of the proposed amendment.
 
-(5) The notice required under sub-section (4) shall be given whether electronically or otherwise to–
+*(5) The whether*
+
+notice required under sub-section (4) shall be given electronically or otherwise to–
 
 (a) each member who is affected by the proposed amendment;
 
@@ -568,11 +594,21 @@ each former member who is affected by the proposed amendment;
 
 (d) and any registered trade union representing members of the pension plan.
 
-(6) The Supervisor shall not register an amendment until forty-five days after the date of the notice of amendment to members, former members and beneficiaries.
+*(6) The*
 
-(7) An administrator shall notify each member of the date of registration of an amendment.
+*members,*
 
-(8) The Supervisor may, upon the written application of an administrator, exempt that administrator from the requirements of sub-section (1) where the Supervisor is of the opinion that the amendment-
+Supervisor shall not register an amendment until forty-five days after the date of the notice of amendment to former members and beneficiaries.
+
+*(7) An*
+
+administrator shall notify each member of the date of registration of an amendment.
+
+*(8) The*
+
+Supervisor may, upon the written application of an administrator, exempt that administrator from the requirements of sub-section (1) where the Supervisor is of the opinion that the
+
+*amendment-*
 
 (a) is of a technical nature;
 
@@ -584,9 +620,11 @@ each former member who is affected by the proposed amendment;
 
 (d) is required as a result of changes in the law.
 
-*Reduction of benefits.*
+*Reduction of 9.–(1) An benefits.*
 
-**9.** (1) An amendment to a pension plan by virtue of any amendment referred to in section 8(1) is void if the amendment purports to reduce–
+*amendment purports to*
+
+amendment to a pension plan by virtue of any referred to in section 8(1) is void if the amendment reduce–
 
 (a) the amount or the actuarial equivalent of a pension benefit accrued under the pension
 
@@ -596,11 +634,21 @@ plan with respect to employment before the effective date of the amendment;
 
 (c) the amount or the actuarial equivalent of an ancillary benefit for which a member or former member has met all eligibility requirements under the pension plan necessary to exercise the right to receive payment of the benefit.
 
-(2) The Supervisor may approve an amendment which would otherwise be void under sub-section (1), subject to any conditions specified by the Supervisor and prescribed by regulations, if the amendment is in the best interests of the members, former members and beneficiaries of the pension plan.
+*(2) The would conditions*
 
-*Refusal of registration.*
+*members, plan.*
 
-**10.** (1) Subject to the provisions of this Act relating to hearings and appeals, the Supervisor may–
+Supervisor may approve an amendment which otherwise be void under sub-section (1), subject to any specified by the Supervisor and prescribed by regulations, if the amendment is in the best interests of the former members and beneficiaries of the pension
+
+*Refusal of*
+
+*10.–(1)*
+
+*registration.*
+
+*hearings and*
+
+Subject to the provisions of this Act relating to appeals, the Supervisor may–
 
 (a) refuse to register a pension plan that is not in compliance with this Act and the regulations;
 
@@ -608,31 +656,49 @@ plan with respect to employment before the effective date of the amendment;
 
 (c) refuse to register an amendment to a pension plan if the amendment or the pension plan as sought to be amended would result in the pension plan ceasing to comply with this Act and the regulations.
 
-(2) Where the Supervisor refuses to register a pension plan or revokes the registration of a plan, the administrator shall wind up the pension plan in accordance with this Act and the regulations.
+*(2) Where or revokes the*
 
-*Duties of Administrator.*
+the Supervisor refuses to register a pension plan registration of a plan, the administrator shall wind up the pension plan in accordance with this Act and the
 
-**11.** The administrator of a pension plan shall ensure that the pension plan and the pension fund are, at all times, administered in accordance with–
+*regulations.*
+
+*Duties of The Administrator.*
+
+*in accordance*
+
+**11.** administrator of a pension plan shall ensure that the pension plan and the pension fund are, at all times, administered with–
 
 (a) the documents establishing the pension plan and the pension fund as approved by the Supervisor for the registration or the continued registration of the pension plan; and
 
 (b) this Act and the regulations.
 
-*Standard of care of Administrators and Agents.*
+*Standard of care 12.–(1) An of Administrators and Agents.*
 
-**12.** (1) An administrator shall and in accordance with the prudent person rule–
+administrator shall and in accordance with the prudent person rule–
 
 (a) exercise the care, diligence and skill in the administration of a pension plan and in the management and investment of the pension fund that a person of ordinary prudence would exercise in dealing with the property of another; and
 
 (b) use in the administration of a pension plan and in the management and investment of a pension fund all relevant knowledge and skill that, by reason of the administrator’s profession, business or calling, he ought to possess.
 
-(2) An administrator or, where the administrator is a board of trustees, a member of the board, shall not knowingly permit the administrator’s private interests to conflict with his duties and powers in respect of a pension fund.
+*(2) An of trustees, a the and powers in*
 
-(3) Where it is reasonable and in the interests of the members of a plan so to do, an administrator may employ one or more agents to carry out any act required to be done in the administration of the pension plan and in the management and investment of the pension fund.
+administrator or, where the administrator is a board member of the board, shall not knowingly permit administrator’s private interests to conflict with his duties respect of a pension fund.
 
-(4) Every actuary, accountant or other professional person who has been engaged by an administrator to provide professional services with respect to the administration, management and investment of a pension plan or pension fund, shall be deemed to be an agent of the administrator.
+*(3) Where members of a*
 
-(5) An administrator who employs an agent shall–
+*administration investment of*
+
+it is reasonable and in the interests of the plan so to do, an administrator may employ one or more agents to carry out any act required to be done in the of the pension plan and in the management and the pension fund.
+
+*(4) Every*
+
+*professional management*
+
+actuary, accountant or other professional person who has been engaged by an administrator to provide services with respect to the administration, and investment of a pension plan or pension fund, shall be deemed to be an agent of the administrator.
+
+*(5) An*
+
+administrator who employs an agent shall–
 
 (a) select the agent;
 
@@ -644,9 +710,13 @@ perform the acts for which the agent is employed; and
 
 (6) An agent of an administrator is subject to the standards that apply to the administrator under sub-sections (1) and (2).
 
-*Information reporting requirements.*
+*Information*
 
-**13.** (1) The administrator of a pension plan shall,
+*13.–(1)*
+
+*reporting requirements.*
+
+The administrator of a pension plan shall,
 
 (a) within six months after the end of a fiscal year of a pension plan, submit to the Supervisor, an annual information report on the pension plan in the form prescribed by regulations;
 
@@ -670,19 +740,33 @@ a pension plan which provides defined benefits, within six months after the expi
 
 (iii) any ancillary benefits for which the member is eligible.
 
-(2) For the purposes of this section, “auditor” means–
+*(2) For the*
+
+purposes of this section, “auditor” means–
 
 (a) a person entitled to practice as a public accountant in Belize; or
 
 (b) a person who has qualified as an accountant by examination of one of the Institutes of Chartered Accountants of England and Wales, Ireland or Scotland, the Canadian Institute of Chartered Accountants, the American Institute of Certified Public Accountants or any other professional body recognized by the Supervisor;
 
-*Duties of employer.*
+*Duties of*
 
-**14.** An employer shall provide the administrator of a pension plan with any information required by the administrator for the purpose of administering the pension plan or complying with this Act or the regulations.
+*An*
 
-*Accrual of benefits.*
+*employer.*
 
-**15.** (1) The Supervisor shall not register a pension plan or amendment to the pension plan where–
+*plan with any purpose of this Act or the*
+
+**14.** employer shall provide the administrator of a pension information required by the administrator for the administering the pension plan or complying with regulations.
+
+*Accrual of*
+
+*15.–(1) The*
+
+*benefits.*
+
+*amendment to*
+
+Supervisor shall not register a pension plan or the pension plan where–
 
 (a) the pension plan does not provide for the accrual of pension benefits, with the exception of ancillary benefits, in a gradual and uniform manner; or
 
@@ -690,15 +774,17 @@ the formula for computation of the employer’s (b)
 
 contributions to the pension fund or, in the case of a defined benefit pension plan, the pension benefits provided under the pension plan, are variable at the discretion of the employer or the administrator.
 
-(2) Notwithstanding sub-section (1), the Supervisor shall register a pension plan or amendment in respect of additional voluntary contributions except where not required.
+*register a voluntary*
+
+Notwithstanding sub-section (1), the Supervisor shall pension plan or amendment in respect of additional contributions except where not required.
 
 ## PART III
 
 Information Disclosure
 
-*Information booklet.*
+*Information 16.–(1) booklet.*
 
-**16.** (1) An administrator shall provide, in writing, to each person who is eligible or is required to become a member of a pension plan–
+An administrator shall provide, in writing, to each person who is eligible or is required to become a member of a pension plan–
 
 (a) an explanation of the provisions of the plan that apply to the person;
 
@@ -708,15 +794,19 @@ obligations under the pension plan; and
 
 (c) any other information prescribed by the regulations.
 
-(2) An administrator shall provide the information mentioned in sub-section (1)–
+*(2) An*
+
+administrator shall provide the information mentioned in sub-section (1)–
 
 (a) to each member, within ninety days of the date of establishment of the plan; and
 
 (b) to each person who becomes eligible to become a member of the pension plan upon being employed by the employer, within thirty days after the date on which the person becomes employed.
 
-*Access to documents.*
+*Access to 17.–(1) documents.*
 
-**17.** (1) On written request, an administrator shall make available the prescribed documents and information in respect of a pension plan and the pension fund for inspection without charge to–
+On written request, an administrator shall make available the prescribed documents and information in respect of a pension plan and the pension fund for inspection without
+
+*charge to–*
 
 a member;
 
@@ -742,11 +832,9 @@ a former member;
 
 **18.** An administrator shall, where a member ceases to be a member of a plan, give to that member or any other person who is, as a result, entitled to a benefit under the pension plan, a written statement setting out the prescribed information in respect of the benefits, rights and options of the former member.
 
-An administrator shall, where a former member becomes
-
 *Retirement and other option statement.*
 
-eligible to retire or reaches normal retirement age, or where a person becomes entitled to a benefit pursuant to the death of a former member, give to that former member or beneficiary a written statement setting out the prescribed information in respect of that person’s benefits, rights and options.
+An administrator shall, where a former member becomes eligible to retire or reaches normal retirement age, or where a person becomes entitled to a benefit pursuant to the death of a former member, give to that former member or beneficiary a written statement setting out the prescribed information in respect of that person’s benefits, rights and options.
 
 ## PART IV
 
@@ -804,17 +892,13 @@ determined in accordance with the plan provisions or on the fifth anniversary of
 
 (2) The member’s early retirement pension benefit must be not less the actuarial equivalent of the member’s pension benefit.
 
-A member of a pension plan who, after his normal
-
 *Postponed Retirement age.*
 
-retirement date, continues in employment may elect to continue accruing pension benefits under the pension plan or retire, and shall receive the first instalment of his pension on the first day of the month following–
-
-(a) the date of termination of employment; or
+A member of a pension plan who, after his normal retirement date, continues in employment may elect to continue accruing pension benefits under the pension plan or retire, and shall receive the first instalment of his pension on the first day of the month following–
 
 *19 of 2017.*
 
-(b) a date selected by the member, which shall not be later than the member’s 70th birthday.
+(a) the date of termination of employment; or (b) a date selected by the member, which shall not be later than the member’s 70th birthday.
 
 ## PART V
 
@@ -1018,11 +1102,9 @@ account balance in the case of a defined contribution pension plan–
 
 (2) A defined contribution pension plan may provide for payment of the former member’s account balance to the former member if the account balance is not more than the amount prescribed by regulations.
 
-**42.** (1) A defined contribution pension plan may provide
-
 *Draw down account.*
 
-and a financial institution pension plan must provide that a member who retires with a defined contribution benefit may elect to have the member’s account balance transferred to a draw down account within the pension fund.
+**42.** (1) A defined contribution pension plan may provide and a financial institution pension plan must provide that a member who retires with a defined contribution benefit may elect to have the member’s account balance transferred to a draw down account within the pension fund.
 
 (2) The draw down account may be established no earlier than the date the member reaches the early retirement age under the pension scheme.
 
@@ -1052,13 +1134,21 @@ each former member of the pension plan;
 
 (e) any other person entitled to a payment from the pension fund.
 
-(3) The notice of a proposal to wind up shall contain such information and be filed by the date as may be prescribed in regulations.
+*(3) The*
+
+notice of a proposal to wind up shall contain such information and be filed by the date as may be prescribed in
+
+*regulations.*
 
 (4) Subject to sub-section (5), in the case of a contributory pension plan, the effective date of the wind up shall not be earlier than the date members’ contributions, if any, cease to be deducted or, in any other case, on the date notice of the wind up is given to the members.
 
-(5) Notwithstanding sub-section (4), the Supervisor may direct that a different date be taken as the effective date of wind up if it is satisfied that there are reasonable grounds for the change.
+*direct that a up if it is change.*
 
-(6) The Supervisor may order the wind up of a pension plan–
+(5) Notwithstanding sub-section (4), the Supervisor may different date be taken as the effective date of wind satisfied that there are reasonable grounds for the
+
+*(6) The*
+
+Supervisor may order the wind up of a pension plan–
 
 (a) if all or a significant part of the business of the employer is discontinued;
 
@@ -1076,21 +1166,35 @@ each former member of the pension plan;
 
 (h) if any other event or circumstance occurs such that the Supervisor considers that the wind up of the pension plan would be in the best interests of members, former members and beneficiaries.
 
-*Wind up report. 19 of 2017.*
+*Wind up report.*
 
-**44.** (1) The administrator shall, at the commencement of the wind up, submit a report to the Supervisor for its approval.
+*44.–(1) The*
 
-(2) The contents of the wind up report shall be prescribed in regulations.
+*19 of 2017.*
 
-(3) The Supervisor may refuse to approve a wind up report if the report–
+administrator shall, at the commencement of the wind up, submit a report to the Supervisor for its approval.
+
+*(2) The regulations.*
+
+contents of the wind up report shall be prescribed in
+
+*(3) The if the report–*
+
+Supervisor may refuse to approve a wind up report
 
 (a) is not in accordance with the requirements of this Act or regulations; or
 
 (b) in its proposals or recommendations, does not protect the interests of the members and former members.
 
-*Payments from Plan wind up.*
+*Payments from*
 
-**45.** With effect from the effective date of the wind up of a pension plan–
+*With*
+
+*Plan wind up.*
+
+**45.** effect from the effective date of the wind up of a
+
+*pension plan–*
 
 (a) except as otherwise provided in paragraphs (b) and (c), no payment shall be made out of the pension fund of a pension plan until the Supervisor has approved the report of the person wind up the pension plan;
 
@@ -1102,9 +1206,11 @@ a pension or any other benefit the payment of which commenced before the effecti
 
 (e) an employer shall remain liable for the contributions which he was, immediately before the effective date of the wind up, liable to pay into the pension fund.
 
-*Wind up statements.*
+*Wind up On the statements.*
 
-**46.** On the wind up of a pension plan, the administrator shall give to each person entitled to a benefit in respect of the pension plan a statement setting out–
+*give to each plan a statement*
+
+**46.** wind up of a pension plan, the administrator shall person entitled to a benefit in respect of the pension setting out–
 
 the person’s entitlement under the pension (a)
 
@@ -1114,11 +1220,9 @@ plan; and
 
 (c) any other information prescribed by regulations or required by the Supervisor.
 
-For the purpose of determining the amount of pension
-
 *Deemed termination of employment.*
 
-benefits and any other rights, benefits and entitlements on the wind up of a pension plan, the employment of each member affected by the wind up shall be deemed to have been terminated on the effective date of the wind up.
+For the purpose of determining the amount of pension benefits and any other rights, benefits and entitlements on the wind up of a pension plan, the employment of each member affected by the wind up shall be deemed to have been terminated on the effective date of the wind up.
 
 *Liability of employer upon wind up.*
 
@@ -1188,9 +1292,11 @@ Surplus, Asset Transfers and Conversions
 
 members and other persons who are entitled to payments under the pension plan as of the date of the wind up.
 
-*Sale of business.*
+*Sale of business. 52.–(1) plan sells,*
 
-**52.** (1) Where an employer who contributes to a pension plan sells, assigns or otherwise disposes of all or part of his business or all or part of the assets of his business, and a member of the pension plan as a result becomes an employee of the successor employer, that member–
+*successor*
+
+Where an employer who contributes to a pension assigns or otherwise disposes of all or part of his business or all or part of the assets of his business, and a member of the pension plan as a result becomes an employee of the employer, that member–
 
 (a) continues to be entitled to the benefits provided under the employer’s pension plan in respect of his employment up to the effective date of sale, assignment or disposition, without further accrual;
 
@@ -1202,9 +1308,15 @@ plan for the period of employment with the successor employer for the purpose of
 
 *19 of 2017.*
 
-(2) Sub-section (1)(a) does not apply if the successor employer assumes responsibility for the accrued benefits of the employer’s pension plan and the pension plan of the successor employer shall be deemed to be a continuation of the employer’s plan with respect to any benefits or assets transferred.
+*employer employer’s*
 
-(3) Where a transaction described in sub-section (1) takes place, the employment of the employee shall be deemed, for the
+*plan with*
+
+(2) Sub-section (1)(a) does not apply if the successor assumes responsibility for the accrued benefits of the pension plan and the pension plan of the successor employer shall be deemed to be a continuation of the employer’s respect to any benefits or assets transferred.
+
+*place, the*
+
+(3) Where a transaction described in sub-section (1) takes employment of the employee shall be deemed, for the
 
 purposes of this Act, not to be terminated by reason of the transaction.
 
@@ -1296,15 +1408,27 @@ Act, and the regulations or the pension plan; or
 
 (c) that the administrator of the pension plan, the employer or any other person dealing with a pension plan is contravening a requirement of this Act or the regulations.
 
-(3) In an order made under this section the Supervisor may specify the time or times when or the periods of time within which the persons to whom the order is directed must comply with the order.
+*(3) In an specify the time which the with the order.*
 
-(4) An order under this section is not effective unless the reasons for the order are set out in the order.
+order made under this section the Supervisor may or times when or the periods of time within persons to whom the order is directed must comply
 
-*Order for Correction.*
+*(4) An order reasons for the*
 
-**59.** (1) The Supervisor, in the circumstances mentioned in sub-section (2), may order an administrator to take the action specified in sub-section (3).
+under this section is not effective unless the order are set out in the order.
 
-(2) The Supervisor may make an order under this section where he is of the opinion that–
+*Order for*
+
+*59.–(1) The*
+
+*Correction.*
+
+*sub-section (2), specified in*
+
+Supervisor, in the circumstances mentioned in may order an administrator to take the action sub-section (3).
+
+*(2) The where he is of*
+
+Supervisor may make an order under this section the opinion that–
 
 (a) the assumptions or methods used by the administrator in the preparation of a report required under this Act or regulations in respect of a pension plan are inappropriate for a pension plan;
 
@@ -1312,11 +1436,13 @@ Act, and the regulations or the pension plan; or
 
 a report submitted in respect of a pension plan does not meet the requirements of this Act, the regulations or the pension plan.
 
-(3) An order under this section may include, but is not limited to, requiring the preparation of a new report and specifying the assumptions or methods or both that shall be used in the preparation of the new report.
+*limited to, specifying the in the*
 
-*Appointed administrator.*
+(3) An order under this section may include, but is not requiring the preparation of a new report and assumptions or methods or both that shall be used preparation of the new report.
 
-**60.** (1) The Supervisor may appoint a person (who may be a corporation, partnership, association or other organization) who shall have the powers and functions of the administrator in any of the following circumstances–
+*Appointed 60.–(1) The administrator. a corporation, who shall have any of the*
+
+Supervisor may appoint a person (who may be partnership, association or other organization) the powers and functions of the administrator in following circumstances–
 
 (a) when the pension plan is being wound up;
 
@@ -1326,7 +1452,9 @@ a report submitted in respect of a pension plan does not meet the requirements o
 
 (d) where the Supervisor considers that the pension fund or member benefits are at risk from mismanagement or non-compliance with the Act or regulations.
 
-(2) The appointed administrator shall–
+*(2) The*
+
+appointed administrator shall–
 
 (a) perform any act for and on behalf of the pension plan and represent it in and out of court;
 
@@ -1368,15 +1496,19 @@ at any reasonable time, enter any premises, where that person has reasonable gro
 
 (b) may not enter a private residence without the consent of the owner or occupier except on the authority of an inspection order issued under sub-section (4).
 
-(3) A copy of any book, paper or other document respecting a pension plan or pension fund and made under this section by the Supervisor or the designated person in the course of any investigation, examination or inquiry, and certified by the Supervisor, is admissible in evidence in any action for all purposes for which the original would have been admissible.
+*(3) A copy a pension plan the Supervisor investigation, Supervisor, is purposes for*
 
-(4) Where an owner or occupier of premises denies entry to any person referred to in sub-section (1) or orders him to leave the premises, or obstructs him or refuses to comply with a request for the production of any document required under that sub-section, that person may apply to a magistrate for an inspection order authorising him to enter the premises and do anything for the purpose of any matter set out in sub-section (1).
+of any book, paper or other document respecting or pension fund and made under this section by or the designated person in the course of any examination or inquiry, and certified by the admissible in evidence in any action for all which the original would have been admissible.
 
-For the purpose of ascertaining compliance with this Act
+*(4) Where any person the premises, request for the sub-section,*
+
+*anything for the*
+
+an owner or occupier of premises denies entry to referred to in sub-section (1) or orders him to leave or obstructs him or refuses to comply with a production of any document required under that that person may apply to a magistrate for an inspection order authorising him to enter the premises and do purpose of any matter set out in sub-section (1).
 
 *Power to order Information and reports.*
 
-and the regulations, the Supervisor may order an employer or an administrator of a pension plan to provide the Supervisor with such information or report and within such time limits as he may specify.
+For the purpose of ascertaining compliance with this Act and the regulations, the Supervisor may order an employer or an administrator of a pension plan to provide the Supervisor with such information or report and within such time limits as he may specify.
 
 ## PART 11
 
@@ -1398,11 +1530,13 @@ Miscellaneous
 
 (5) Where a person is convicted of an offence relating to the failure to submit or make payment to a pension fund, the court may, in addition to any penalty, assess the amount not submitted or paid and order the person to pay the amount to the pension fund.
 
-**65.** (1) The Supervisor may, after giving 14 days written
+*65.–(1) Administrative notice, impose*
 
-*Administrative penalties.*
+*penalties.*
 
-notice, impose an administrative penalty of five thousand dollars where the Supervisor is of the opinion–
+*dollars where*
+
+Supervisor may, after giving 14 days written an administrative penalty of five thousand the Supervisor is of the opinion–
 
 (a) that the pension plan or pension fund is not being administered in accordance with this Act, and the regulations or the pension plan;
 
@@ -1414,15 +1548,25 @@ notice, impose an administrative penalty of five thousand dollars where the Supe
 
 (e) the administrator of the pension plan, the employer or any other person dealing with a pension plan has failed to comply with an order for correction. but an appeal shall lie to the court within thirty days of the imposition of such penalty.
 
-(2) Where after the imposition of a penalty in accordance with sub-section (1) the violation continues for three months, a company commits an offence and shall be liable on summary conviction to a fine of ten thousand dollars and to a penalty of one thousand dollars for each day on which the offence is continued after conviction.
+*(2) Where*
 
-(3) A person who pays an administrative penalty for an incident of non-compliance cannot be charged with an offence
+*company conviction to a one thousand continued after*
 
-in respect of that non-compliance, unless the non-compliance continues after the penalty is paid.
+after the imposition of a penalty in accordance with sub-section (1) the violation continues for three months, a commits an offence and shall be liable on summary fine of ten thousand dollars and to a penalty of dollars for each day on which the offence is conviction.
+
+*(3) A incident of*
+
+person who pays an administrative penalty for an non-compliance cannot be charged with an offence
+
+*in respect of continues after*
+
+that non-compliance, unless the non-compliance the penalty is paid.
 
 *Regulations.*
 
-**66.** The Minister may, after consultation with the Supervisor, make regulations–
+*The Supervisor,*
+
+**66.** Minister may, after consultation with the make regulations–
 
 (a) for the administration of pension plans, pension funds and benefits;
 

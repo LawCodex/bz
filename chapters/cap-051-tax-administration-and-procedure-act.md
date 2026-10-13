@@ -410,11 +410,9 @@ General Sales Tax or “GST” have the same meaning as in the General Sales Tax
 
 “resident” means–
 
-a person who is resident in Belize for the year
-
 *CAP. 55.*
 
-in question for the purposes of determining the person’s liability for income tax under the Income and Business Tax Act;
+a person who is resident in Belize for the year in question for the purposes of determining the person’s liability for income tax under the Income and Business Tax Act;
 
 (b) a person, including a body, company, partnership, board, or trust, which is formed or created under the laws of Belize or which is managed and controlled in Belize; or
 
@@ -484,6 +482,8 @@ Tax Administration in General
 
 **7.** (1) A person shall not use or disclose any information obtained under a tax law other than for the purposes of this Act.
 
+51 Tax Administration and Procedure
+
 (2) A person commits an offence if that person uses or discloses any information obtained under a tax law other than for the purposes of this Act or the administration of any other tax administered by the Director General.
 
 (3) Notwithstanding sub-section (1), a person does not commit an offence if the use or disclosure of the information is–
@@ -520,11 +520,19 @@ makes payments which are subject to tax in the hands of the recipient;
 
 (b) furnish the TIN to another person designated, in regulations, as a person who is required to furnish tax information with respect to the person furnishing the number.
 
-(5) The Director General shall include the TIN on all correspondence sent to a taxpayer concerning the taxpayer’s tax liability.
+*(5) The*
 
-(6) A taxpayer shall include the TIN on any returns and correspondence with the Director General.
+Director General shall include the TIN on all correspondence sent to a taxpayer concerning the taxpayer’s tax
 
-(7) A taxpayer shall notify the Director General, in writing, of a change in–
+*liability.*
+
+*(6) A*
+
+taxpayer shall include the TIN on any returns and correspondence with the Director General.
+
+*(7) A*
+
+taxpayer shall notify the Director General, in writing, of a change in–
 
 (a) name, including business name or other trading name;
 
@@ -586,13 +594,17 @@ may retain out of any money coming to that person’s hands on behalf of that ot
 
 (b) shall be indemnified against any person for all payments made in pursuance and by virtue of this Act.
 
-(2) Every person resident in Belize having the receipt, control, or disposal of money belonging to a non-resident person who derives income from a source in Belize–
+*(2) Every control, or who derives*
+
+person resident in Belize having the receipt, disposal of money belonging to a non-resident person income from a source in Belize–
 
 (a) shall, when required by the Director General, pay the tax due and payable by the nonresident; and
 
 (b) is personally liable for the tax payable by him on behalf of the non-resident to the extent of any amount that the person has retained or should have retained under sub-section (1), but the person shall not be otherwise personally liable for the tax.
 
-(3) For the purpose of this section–
+*(3) For the*
+
+purpose of this section–
 
 (a) every person who is liable under any contract to pay money to a non-resident shall be deemed to be–
 
@@ -604,11 +616,19 @@ may retain out of any money coming to that person’s hands on behalf of that ot
 
 (a) shall be deemed to be money which comes to the person on behalf of the non-resident.
 
-**14.** (1) A notice, statement, or agreement issued by the
+*14.—(1) A*
 
-*Communications with taxpayers and other persons*
+*Communications*
 
-Director General to a taxpayer or other person is effective only if it is–
+*Director*
+
+*with taxpayers*
+
+notice, statement, or agreement issued by the General to a taxpayer or other person is effective only
+
+*if it is–*
+
+*and other persons*
 
 (a) authorised by law;
 
@@ -618,9 +638,13 @@ Director General to a taxpayer or other person is effective only if it is–
 
 (d) served upon the taxpayer or other person to whom it is addressed.
 
-(2) Every notice described in this Act shall be in writing.
+*(2) Every*
 
-(3) If the Director General is required to give notice to a person other than a company or a partnership, the notice is considered sufficiently served if it is–
+notice described in this Act shall be in writing.
+
+*(3) If the person other considered*
+
+Director General is required to give notice to a than a company or a partnership, the notice is sufficiently served if it is–
 
 (a) served personally on that person;
 
@@ -630,7 +654,9 @@ known address; or
 
 (c) communicated electronically and in accordance with the Electronic Transactions Act.
 
-(4) If the Director General is required to give notice to a company or other body of persons, the notice is considered sufficiently served if it is–
+*(4) If the company or sufficiently*
+
+Director General is required to give notice to a other body of persons, the notice is considered served if it is–
 
 served personally on the company’s or body’s (a)
 
@@ -648,7 +674,9 @@ place of business in Belize; or
 
 (d) sent by registered mail to the registered office of the company or body.
 
-(5) If the Director General is required to give notice to a partnership, the notice is considered served if it is–
+*(5) If the*
+
+Director General is required to give notice to a partnership, the notice is considered served if it is–
 
 (a) personally served on a partner or agent of the partnership;
 
@@ -666,9 +694,13 @@ place of business in Belize; or
 
 (b) thirty days succeeding the day when posted, where the address is not in Belize.
 
-(7) In proving service, it shall be sufficient to prove that the letter containing the notice was properly addressed and posted.
+*(7) In*
 
-(8) A signature written on a notice, statement, agreement, return, form, declaration, table, or other document and
+proving service, it shall be sufficient to prove that the letter containing the notice was properly addressed and posted.
+
+*(8) A return, form,*
+
+signature written on a notice, statement, agreement, declaration, table, or other document and
 
 purporting to be the signature of a particular person is considered to be the signature of that person unless the contrary is shown.
 
@@ -768,15 +800,23 @@ orders, delivery notes, bank statements, contracts, and other documents which re
 
 (b) for purposes of the General Sales Tax Act, a copy of all GST invoices, credit notes, debit notes issued and received by the person, and all customs documentation relating to imports and exports of goods by a taxpayer.
 
-*Obligations of financial institutions.*
+*Obligations of financial*
 
-**21.** A bank or other financial institution shall keep account of all transactions with a client, including the client’s identity.
+*of all*
+
+*institutions.*
+
+**21.** A bank or other financial institution shall keep account transactions with a client, including the client’s identity.
 
 *Tax returns.*
 
-**22.** (1) Every taxpayer shall, if required by a law to which this Act applies, furnish to the Director General a tax return in accordance with sub-section (2), within the time and at the place specified by that law, or as demanded by the Director General.
+*22.—(1)*
 
-(2) The Director General shall specify–
+Every taxpayer shall, if required by a law to which this Act applies, furnish to the Director General a tax return in accordance with sub-section (2), within the time and at the place specified by that law, or as demanded by the Director General.
+
+*(2) The*
+
+Director General shall specify–
 
 (a) the form for returns;
 
@@ -784,11 +824,17 @@ orders, delivery notes, bank statements, contracts, and other documents which re
 
 (c) the manner of filing, including electronically and with electronic signature.
 
-(3) A taxpayer may file an amended return for a tax period no later than six years after the end of the tax period.
+*(3) A*
 
-(4) A taxpayer or the taxpayer’s duly authorised agent, shall sign the return, attesting to its accuracy and completeness.
+taxpayer may file an amended return for a tax period no later than six years after the end of the tax period.
 
-(5) If a return or part of a return was prepared for reward by some other person, other than a full-time employee of the taxpayer, that other person shall also sign the return.
+*(4) A*
+
+taxpayer or the taxpayer’s duly authorised agent, shall sign the return, attesting to its accuracy and completeness.
+
+*(5) If a some other*
+
+return or part of a return was prepared for reward by person, other than a full-time employee of the taxpayer, that other person shall also sign the return.
 
 (6) The Director General may, by notice to a person, require the person to file, whether on that person’s own behalf or as agent or trustee for another person, returns for a tax period containing additional information as the Director General requires, even if the taxpayer has not submitted a return for the period.
 
@@ -870,7 +916,9 @@ by a person in respect of whom the officer has exercised, or is about to exercis
 
 (6) The Director General shall determine the amount of compensation, which shall not be less than the fair market value of the goods.
 
-(7) An authorised officer shall, for the purpose of the administration of this Act, have power to–
+*(7) An*
+
+authorised officer shall, for the purpose of the administration of this Act, have power to–
 
 (a) enter, at all reasonable times, any premises or place where any business is carried on or where any property is kept or anything is done in connection with any business or any books or where records are kept or are required to be kept pursuant to this Act;
 
@@ -878,13 +926,17 @@ by a person in respect of whom the officer has exercised, or is about to exercis
 
 (c) examine every person who the officer finds in any premise or place, with respect to any matters under this Act on which the officer may reasonably require information.
 
-(8) An authorised officer may enter a taxpayer’s dwelling, or other premises not described in sub-section (7), for the purpose of the administration of this Act–
+*(8) An or other*
+
+authorised officer may enter a taxpayer’s dwelling, premises not described in sub-section (7), for the purpose of the administration of this Act–
 
 (a) with the consent of the taxpayer; or
 
 (b) at the time stated and in the manner authorised in writing by a magistrate upon application by the Director General showing the magistrate the need for the authorisation.
 
-(9) An authorised officer who is lawfully upon premises or in a dwelling under sub-sections (7) or (8) may–
+*(9) An*
+
+authorised officer who is lawfully upon premises or in a dwelling under sub-sections (7) or (8) may–
 
 (a) make a copy of a record;
 
@@ -912,19 +964,29 @@ a fine not exceeding one thousand dollars and in default to imprisonment for a t
 
 (b) to a fine not exceeding five thousand dollars and in default to imprisonment for a term not exceeding one year, in the case of a second or subsequent such offence.
 
-(16) No person shall be required to answer any question or to give any evidence tending to incriminate the person.
+*(16) No to give any*
 
-(17) This section shall not authorise access to premises of diplomatic, consular, or other missions of foreign countries and international organizations which enjoy immunity from such investigations under international law.
+person shall be required to answer any question or evidence tending to incriminate the person.
 
-(18) A person may claim privilege, under law, over documents or other evidence which the Director General wishes to seize or examine, pursuant to this section.
+*(17) This diplomatic, international*
+
+section shall not authorise access to premises of consular, or other missions of foreign countries and organizations which enjoy immunity from such investigations under international law.
+
+*(18) A*
+
+*to seize or*
+
+person may claim privilege, under law, over documents or other evidence which the Director General wishes examine, pursuant to this section.
 
 (19) Documents or other evidence which are claimed to be privileged shall be deposited into envelopes, sealed and retained unopened until a determination by a court of competent jurisdiction in accordance with sub-section (20).
 
-(20) The Director General shall apply to a court to determine whether the documents or other evidence referred to in this section are privileged.
+*(20) The whether the section are*
 
-(21) For the purposes of this section and section 30,
+Director General shall apply to a court to determine documents or other evidence referred to in this privileged.
 
-“authorised purpose” means–
+*“authorised*
+
+(21) For the purposes of this section and section 30, purpose” means–
 
 (a) the collection of information for the purpose of determining the liability of a specific person for a tax;
 
@@ -932,15 +994,19 @@ the collection of information for the purpose of collecting tax from a specific 
 
 (c) the collection of information related to the investigation or prosecution of tax matters related to a specific person.
 
-*Notice to obtain information.*
+*Notice to obtain 30.—(1) In information.*
 
-**30.** (1) In respect of an authorised purpose, the Director General may, by giving reasonable notice, require a person, whether a taxpayer or not–
+*General may, whether a*
+
+respect of an authorised purpose, the Director by giving reasonable notice, require a person, taxpayer or not–
 
 (a) to furnish the information that is required by the notice, including information concerning another person; or
 
 (b) to appear at the time and place designated in the notice for the purpose of being examined or for producing documents or other evidence in the control of that person which are described in the notice for inspection.
 
-(2) Without prejudice to the generality of sub-section (1), the Director General may require–
+*(2) Without the Director*
+
+prejudice to the generality of sub-section (1), General may require–
 
 (a) any bank to–
 
@@ -954,25 +1020,31 @@ together with the names, taxpayer identification numbersand addresses of the per
 
 (b) the attendance of any officer of a bank before the Director General to give evidence respecting any bank account or other assets which may be held by the bank on behalf of any person.
 
-(3) Sub-section (1) extends to the supply of information, the production of documents, and the giving of evidence to the Director General in relation to–
+*production of Director*
+
+(3) Sub-section (1) extends to the supply of information, the documents, and the giving of evidence to the General in relation to–
 
 (a) the payment of income by any person to a nonresident; or
 
 (b) the payment of remuneration by an employer to an employee, the deduction of tax there from, and the accounting for any tax so deducted.
 
-(4) The Director General may–
+*(4) The*
+
+Director General may–
 
 (a) make copies of books of account or other documents that are produced for the purposes of this section; or
 
 (b) retain the books of account or other documents if it appears necessary for the prosecution of an offence or the substantiation of any assessment..
 
-(5) Section 29 and this section shall have effect notwithstanding any law relating to confidentiality, privilege, or the public interest with respect to the production of or access to documents or other evidence, including a law relating to bank secrecy and any contractual duty of confidentiality.
+*(5) Section*
 
-**31.** (1) The Director General may require any officer in the
+*the public documents or secrecy and any*
+
+29 and this section shall have effect notwithstanding any law relating to confidentiality, privilege, or interest with respect to the production of or access to other evidence, including a law relating to bank contractual duty of confidentiality.
 
 *Information from public bodies*
 
-employment of the Government or any municipality or other public body to supply particulars as may be required for the purposes of this Act and which may be in the possession of such officer.
+**31.** (1) The Director General may require any officer in the employment of the Government or any municipality or other public body to supply particulars as may be required for the purposes of this Act and which may be in the possession of such officer.
 
 (2) No officer mentioned in sub-section (1) shall by virtue of this section be obliged to disclose any particulars as to which the officer is under any statutory obligation to observe secrecy.
 
@@ -1060,11 +1132,9 @@ taxpayer identification numbers;
 
 (7) Nothing in this section prevents the amendment of an assessment to give effect to a decision of the Board of Tax Appeals or the Supreme Court.
 
-**37.** (1) At the conclusion of an assessment, the Director
-
 *Notice of assessment.*
 
-General shall issue a notice of assessment on the person assessed.
+**37.** (1) At the conclusion of an assessment, the Director General shall issue a notice of assessment on the person assessed.
 
 (2) A notice issued under sub-section (1) shall be signed by an authorised officer, and contain the following information–
 
@@ -1090,13 +1160,13 @@ General shall issue a notice of assessment on the person assessed.
 
 (3) The original or a certified copy of a notice of assessment is receivable in proceedings as conclusive evidence that the assessment has been duly made and, except in proceedings in relation to the assessment under Part V, that the amount and all particulars of the assessment are correct.
 
-**38.** (1) A person may, by notice, apply to the Director
-
 *Application for review of assessment.*
 
-General for a review of an assessment if that person disputes or objects to an assessment.
+**38.** (1) A person may, by notice, apply to the Director General for a review of an assessment if that person disputes or objects to an assessment.
 
-(2) A notice for review of an assessment filed under subsection (1) shall–
+*section (1)*
+
+(2) A notice for review of an assessment filed under sub-shall–
 
 (a) be filed within fifteen days of the notice of assessment; and
 
@@ -1104,21 +1174,27 @@ General for a review of an assessment if that person disputes or objects to an a
 
 (3) Notwithstanding sub-section (2)(a), a person may apply to the Director General for an extension of time to file a notice for review of an assessment.
 
-(4) The Director General may grant an extension of time to file a notice for review of an assessment, if the Director General–
+*(4) The*
+
+Director General may grant an extension of time to file a notice for review of an assessment, if the Director
+
+*General–*
 
 (a) considers it reasonable in the circumstances; and
 
-(b) is satisfied that the applicant was unable to file the notice within the time prescribed under sub-section (2)(a) because the applicant was–
-
-(i) absent from the country;
+(b) is satisfied that the applicant was unable to file the notice within the time prescribed under sub-section (2)(a) because the applicant was– (i) absent from the country;
 
 (ii) sick; or
 
 (iii) any other reasonable cause.
 
-(5) On receipt of a notice of review, the Director General may–
+*(5) On may–*
+
+receipt of a notice of review, the Director General
 
 (a) require the person concerned to–
+
+51 Tax Administration and Procedure
 
 furnish such particulars as the Director General may deem necessary with respect to the tax liability of the person assessed; and
 
@@ -1148,7 +1224,9 @@ hear and determine objections against assessments made under this Act; and
 
 (b) determine other matters where an appeal lies to the Board under this Act.
 
-(3) The Board shall consist of the following three persons–
+*(3) The*
+
+Board shall consist of the following three persons–
 
 (a) a public officer, or a person who has previously held office in the Public Service;
 
@@ -1158,25 +1236,37 @@ standing; and
 
 (c) a member of the Institute of Chartered Accountants of Belize in private practice.
 
-(4) Two members of the Board shall form a quorum, one of whom shall be the member who is an attorney- at-law.
+*(4) Two whom shall be*
 
-(5) The Minister may appoint a person qualified to be a member of the Board to be temporarily a member to the Board of Tax Appeal during the absence or leave of any member, if considered necessary.
+members of the Board shall form a quorum, one of the member who is an attorney- at-law.
+
+*(5) The member of the of Tax Appeal considered*
+
+Minister may appoint a person qualified to be a Board to be temporarily a member to the Board during the absence or leave of any member, if necessary.
 
 *Appeal to Board*
 
-**40.** (1) A person assessed may appeal in writing to the Board on any of the following grounds–
+*40.—(1) A*
+
+person assessed may appeal in writing to the Board on any of the following grounds–
 
 (a) that the person is aggrieved by a decision of the Director General on review under the provisions of section 38; or
 
 (b) that the person has served on the Director General a notice requesting a review under section 38 and the Director General has not served notice of the Director General’s decision within thirty days of the date on which the review was requested.
 
-(2) For the purposes of an appeal under sub-section (1)(b), the Director General shall be considered to have confirmed the original assessment.
+*original*
 
-(3) All appeals to the Board under this section shall be heard, as far as practicable, within a period not exceeding ninety days of the notice of appeal.
+(2) For the purposes of an appeal under sub-section (1)(b), the Director General shall be considered to have confirmed the assessment.
+
+*(3) All as far as*
+
+appeals to the Board under this section shall be heard, practicable, within a period not exceeding ninety days of the notice of appeal.
 
 (4) On an appeal against an assessment made to the Board, the onus of proving that the assessment complained of is excessive shall be on the appellant.
 
-(5) On receipt of a notice of appeal, a meeting of the Board shall be summoned to hear the appeal of the person assessed, and the Board may–
+*(5) On shall be*
+
+receipt of a notice of appeal, a meeting of the Board summoned to hear the appeal of the person assessed, and the Board may–
 
 (a) require the person assessed and the Director General to furnish such particulars as the Board may think necessary in order to ascertain the tax liability;
 
@@ -1192,21 +1282,29 @@ any necessary amendment shall be made in the amount assessed by the Director Gen
 
 (b) notice of the amount of tax or the amount of refund, if any, payable shall be served upon the person assessed and that amount of tax or refund shall, subject to section 41(1), be the tax payable or refundable.
 
-(7) The Board shall add interest to any amount determined by it to be payable or refundable pursuant to Part VII.
+*(7) The by it to be*
 
-(8) Subject to sub-section (9) –
+Board shall add interest to any amount determined payable or refundable pursuant to Part VII.
+
+*(8) Subject*
+
+to sub-section (9) –
 
 (a) a notice of appeal to be sent under sub-section (l)(a) shall be sent within twenty- one days from the date of service of the notice of the Director General’s decision on review under section 38; and
 
 (b) a notice of appeal to be sent under sub-section (l)(b) shall be sent within sixty days from the date of service of the notice of assessment.
 
-(9) A person may apply to the Board for an extension of time to appeal an assessment if that person was unable to–
+*to appeal an*
+
+(9) A person may apply to the Board for an extension of time assessment if that person was unable to–
 
 (a) apply to the Director General for a review or revision of an assessment within the time prescribed in section 38(2); or
 
 (b) serve a notice of appeal on the Board within the time prescribed in sub-section (8).
 
-(10) The Board may grant an extension of time under subsection (9) if the Board—
+*(10) The*
+
+Board may grant an extension of time under subsection (9) if the Board—
 
 considers it reasonable in the circumstances; and
 
@@ -1218,9 +1316,15 @@ considers it reasonable in the circumstances; and
 
 (iii) any other reasonable cause.
 
-(11) Wherever by this Act or any other tax law or statutory instrument a discretion is conferred on the Director General, that discretion may be exercised by the Board on hearing an appeal against an assessment.
+*instrument a*
 
-(12) The Board shall provide a written statement of its decision, including–
+*against an*
+
+(11) Wherever by this Act or any other tax law or statutory discretion is conferred on the Director General, that discretion may be exercised by the Board on hearing an appeal assessment.
+
+*(12) The decision,*
+
+Board shall provide a written statement of its including–
 
 (a) a summary of the evidence;
 
@@ -1236,7 +1340,9 @@ considers it reasonable in the circumstances; and
 
 (b) dissatisfied with the decision of the Board in relation to an assessment.
 
-(2) An application under sub-section (1) shall be made—
+*(2) An*
+
+application under sub-section (1) shall be made—
 
 within thirty days from the date of the decision of the Board; and
 
@@ -1254,11 +1360,17 @@ within thirty days from the date of the decision of the Board; and
 
 (iii) any other reasonable cause.
 
-(4) Any person who appeals against an assessment shall attend before the Supreme Court in person or through an attorney-at-law on the day and at the time fixed for the hearing of the appeal.
+*(4) Any*
+
+person who appeals against an assessment shall attend before the Supreme Court in person or through an attorney-at-law on the day and at the time fixed for the hearing
+
+*of the appeal.*
 
 (5) If it is proved to the satisfaction of the Supreme Court that any person is prevented from attending in person at the hearing of the person’s appeal, on the day and at the time fixed for that purpose, the Supreme Court may–
 
 (a) postpone the hearing of the appeal for such reasonable time as it thinks necessary for the attendance of the appellant; or
+
+51 Tax Administration and Procedure
 
 admit the appeal to be made by any agent, clerk, or servant of the appellant on the appellant’s behalf.
 
@@ -1336,9 +1448,15 @@ possession of the representative or which come to the representative after the t
 
 (5) Nothing in this section relieves a person from performing duties imposed by this Act on the person if the representative of the person has failed to perform.
 
-(6) If there are two or more representatives of a person, the duties or obligations referred to in this section shall apply jointly and severally to the representatives but may be discharged by any of them.
+*duties or*
 
-(7) A dissolved partnership, association or body and the new partnership association or body shall be deemed to be one and the same if–
+(6) If there are two or more representatives of a person, the obligations referred to in this section shall apply jointly and severally to the representatives but may be discharged by
+
+*any of them.*
+
+*(7) A partnership the same if–*
+
+dissolved partnership, association or body and the new association or body shall be deemed to be one and
 
 (a) a partnership or other unincorporated association or body is dissolved or otherwise ceases to exist because of the retirement or withdrawal of one or more, but not all, of its partners or members, or because of the admission or a new partner or member;
 
@@ -1346,21 +1464,31 @@ possession of the representative or which come to the representative after the t
 
 (c) the new partnership, association, or body continues to carry on the activity that was carried on by the dissolved partnership, association, or body.
 
-(8) The estate of the taxpayer, as represented by the executor or trustee, shall be deemed, for the purposes of this Act to be the taxpayer, in respect of the taxable activity, if after the death of a taxpayer or the sequestration of a taxpayer’s estate—
+*(8) The*
+
+*taxpayer, in*
+
+estate of the taxpayer, as represented by the executor or trustee, shall be deemed, for the purposes of this Act to be the respect of the taxable activity, if after the death of a taxpayer or the sequestration of a taxpayer’s estate—
 
 a taxable activity previously carried on by the taxpayer is carried on by or on behalf of the executor or trustee of the taxpayer’s estate; or
 
 (b) anything is done in connection with the termination of the taxable activity.
 
-(9) A mortgagee shall be deemed to be the taxpayer carrying on a taxable activity, from the date the mortgagee takes possession of land or property until such time as the mortgagee ceases to be in possession of the land or property, if- the mortgagee–
+*(9) A on a taxable possession of ceases to be in mortgagee–*
+
+mortgagee shall be deemed to be the taxpayer carrying activity, from the date the mortgagee takes land or property until such time as the mortgagee possession of the land or property, if- the
 
 (a) is in possession of land or other property previously mortgaged by a mortgagor who is a taxpayer; and
 
 (b) the mortgagee carries on a taxable activity in relation to the land or other property.
 
-(10) For the purposes of the tax legislation, if a person is a trustee in more than one capacity, the person is treated as a separate person in relation to each of those capacities.
+*(10) For the trustee in more separate person*
 
-(11) For the purposes of this section, “representative,” in respect of a person, means–
+purposes of the tax legislation, if a person is a than one capacity, the person is treated as a in relation to each of those capacities.
+
+*(11) For the respect of a*
+
+purposes of this section, “representative,” in person, means–
 
 (a) if the person is an individual under a legal disability, the guardian or manager who receives or is entitled to receive income on behalf of, or for the benefit of, the individual;
 
@@ -1380,13 +1508,25 @@ if the person is a body of persons other than a partnership or company, an indiv
 
 (i) if the person is a non-resident, a person controlling the person’s affairs in Belize, including a manager of a business of that person in Belize.
 
-*Designation of representative.*
+*Designation of*
 
-**46.** (1) If there is more than one representative in respect of a person, that person shall designate who will serve as their representative.
+*46.—(1) If*
 
-(2) If there is no designation under sub-section (3), every representative in respect of a person shall serve as that person’s representative until a designation is made.
+*representative.*
 
-(3) If a representative of a person designated under subsection (3) is unable to perform duties, the Director General may, by notice to the person and the other individual concerned,
+*a person, that representative.*
+
+there is more than one representative in respect of person shall designate who will serve as their
+
+*(2) If there*
+
+*representative*
+
+is no designation under sub-section (3), every representative in respect of a person shall serve as that person’s until a designation is made.
+
+*(3) If a section (3) is may, by notice*
+
+representative of a person designated under sub-unable to perform duties, the Director General to the person and the other individual concerned,
 
 declare another individual to be a representative of the person for the purposes of this Act.
 
@@ -1486,7 +1626,9 @@ payment or, if made on the Director General’s initiative, within this time per
 
 **53.** (1) The Director General may send a notice to the taxpayer demanding payment when a tax is not paid by the date on which it became due and payable.
 
-(2) The notice shall state–
+*(2) The*
+
+notice shall state–
 
 the name of the taxpayer;
 
@@ -1496,15 +1638,17 @@ the name of the taxpayer;
 
 (e) a demand for payment of these amounts; (f) the place at which payment is to be made; and (g) that the taxpayer is on notice that, if payment is not made within twenty onedays after service of the notice, the Director General has the right to pursue collection action to collect the amounts specified in the notice.
 
-(3) For the purposes of this section, a taxpayer is considered to be in default twenty-one days after service of the notice, in respect of any amounts remaining unpaid as of that date.
+*(3) For the*
 
-(4) Sub-section (3) does not apply if the taxpayer has– (a) entered into a payment arrangement with the Director General pursuant to the applicable tax legislation; or
+*respect of any*
+
+purposes of this section, a taxpayer is considered to be in default twenty-one days after service of the notice, in amounts remaining unpaid as of that date. (4) Sub-section (3) does not apply if the taxpayer has– (a) entered into a payment arrangement with the Director General pursuant to the applicable tax legislation; or
 
 (b) received an extension pursuant to section 52, and has remained in compliance with the terms of the arrangement.
 
-*Order of payment of tax debts.*
+*Order of 54.—(1) payment of tax the taxpayer’s debts.*
 
-**54.** (1) Payments of a specific tax shall be applied against the taxpayer’s liability in the following order–
+Payments of a specific tax shall be applied against liability in the following order–
 
 interest relating to the tax;
 
@@ -1568,11 +1712,9 @@ Interest
 
 Recovery of Tax
 
-**60.** (1) The Director General may proceed with any remedy
-
 *General.*
 
-under this Part once the taxpayer is determined to be in default pursuant to section 53.
+**60.** (1) The Director General may proceed with any remedy under this Part once the taxpayer is determined to be in default pursuant to section 53.
 
 (2) This Part does not apply to GST or excise collected by the Comptroller of Customs, which is recoverable under procedures for recovery of customs duty.
 
@@ -1668,31 +1810,57 @@ directing and authorising the authorised collector to make levy on goods of pers
 
 show cause why the amount of taxes not paid should not be ordered as a judgment debt.
 
-(2) The Magistrate may issue a summons and cause it to be served on the person in default of payment.
+*(2) The served on the*
 
-*Magistrate may order payment into court.*
+Magistrate may issue a summons and cause it to be person in default of payment.
 
-**67.** (1) If a summons is issued under section 65,the Magistrate may order the person in default of payment to pay into court–
+*Magistrate may*
+
+*67.—(1) If a*
+
+*order payment*
+
+*Magistrate may*
+
+*into court.*
+
+summons is issued under section 65,the order the person in default of payment to pay
+
+*into court–*
 
 (a) the amount of the unpaid tax and penalties, and such costs and expenses as are for this purpose from time to time fixed by the Minister; or
 
 (b) any part of such amounts which the Magistrate thinks that person is able to pay, either in a lump sum or by instalments.
 
-(2) For the purposes of sub-section (1), payments shall be made–
+*(2) For the made–*
+
+purposes of sub-section (1), payments shall be
 
 (a) on the date named in the summons or at any other date to which the hearing may be adjourned, where an order is made under subsection (1)(a); or
 
 (b) within seven days of the order or within such extended time as may be determined by the magistrate, where an order is made under subsection (1)(b).
 
-*Imprisonment for failure to obey order*
+*Imprisonment*
 
-**68.** (1) If a person summonsed under section 65 fails to comply with the summons without lawful excuse, or makes default in payment into court, the Magistrate may commit that person to prison–
+*68.—(1) If a*
+
+*for failure to*
+
+*comply with*
+
+*obey order*
+
+*default in person to*
+
+person summonsed under section 65 fails to the summons without lawful excuse, or makes payment into court, the Magistrate may commit that prison–
 
 (a) for a term not exceeding six weeks; or
 
 until the payment of the sum ordered.
 
-(2) No committal under sub-section (1) shall be ordered for default in payment into court unless it is proved to the satisfaction of the Magistrate that the person making default–
+*(2) No default in*
+
+committal under sub-section (1) shall be ordered for payment into court unless it is proved to the satisfaction of the Magistrate that the person making default–
 
 (a) has or has had, since the date of the order, the means to pay the sum in respect of which the person has made default; and
 
@@ -1708,15 +1876,15 @@ until the payment of the sum ordered.
 
 (c) the person making default and witnesses may be examined on oath.
 
-(5) Every order of committal under this section shall be issued, obeyed, and executed in a manner similar to commitments by Magistrates in the exercise of their summary jurisdiction in criminal cases.
+*issued,*
+
+(5) Every order of committal under this section shall be obeyed, and executed in a manner similar to commitments by Magistrates in the exercise of their summary jurisdiction in criminal cases.
 
 (6) Imprisonment under this section does not operate as a satisfaction or extinguishment of the judgment debt.
 
-In the event a person who defaults in payment into court
-
 *Procedure on payment.*
 
-pays the whole of the amount ordered to be paid as provided in section 67, the Magistrate shall–
+In the event a person who defaults in payment into court pays the whole of the amount ordered to be paid as provided in section 67, the Magistrate shall–
 
 (a) give notice of such payment to the Minister; and
 
@@ -1758,11 +1926,19 @@ pays the whole of the amount ordered to be paid as provided in section 67, the M
 
 (4) If the debt owed by the person in default of payment is not satisfied by a sale under sub-section (1), the Director General may proceed to sell any other real property that was charged and marked off for the payment of the unpaid tax, even if those properties have passed out of possession of the person in default of payment before the date of the sale.
 
-(5) The Director General may issue to the officer in charge of the district tax office in which any real property intended for sale are situate, a praecipe in the approved form to levy the tax by the sale of the real property mentioned in the praecipe.
+*(5) The*
 
-*Notice to defaulter.*
+Director General may issue to the officer in charge of the district tax office in which any real property intended for sale are situate, a praecipe in the approved form to levy the tax by the sale of the real property mentioned in the praecipe.
 
-**73.** (1) Before proceeding with the sale of any real property as described in section 72, the Director General or the authorized person conducting the sale shall serve, or cause to be served on the person in default of payment of taxes, a notice in the approved form.
+*Notice to*
+
+*73.—(1)*
+
+*defaulter.*
+
+*person*
+
+Before proceeding with the sale of any real property as described in section 72, the Director General or the authorized conducting the sale shall serve, or cause to be served on the person in default of payment of taxes, a notice in the approved form.
 
 (2) A notice shall–
 
@@ -1774,7 +1950,9 @@ pays the whole of the amount ordered to be paid as provided in section 67, the M
 
 (d) inform the person in default of payment of taxes that failure to comply with the terms of the notice will render the person liable to fine not exceeding one hundred dollars.
 
-(3) A written statement from the person in default of payment shall contain the following–
+*(3) A*
+
+written statement from the person in default of payment shall contain the following–
 
 (a) an admission or denial whether the amount stated in the notice is owed;
 
@@ -1786,11 +1964,19 @@ a statement of the amounts which the person admits owing;
 
 (d) a statement of any right, title, or interestin properties which are specified in the notice given to the person, and of the nature of that right, title or interest.
 
-(4) Except in cases specially sanctioned by the Director General or the authorized person conducting the sale, every notice under this section shall be served personally on the person in default of payment of taxes.
+*in default of*
 
-(5) Whenever the Director General or the authorized person conducting the sale has reason to believe that the person in default is avoiding service of the notice or that neither the person nor the person’s authorized agent can be found, the Director General or the authorized person may order the notice to be affixed in some conspicuous manner to the property with respect to which the praecipe to levy has been issued.
+(4) Except in cases specially sanctioned by the Director General or the authorized person conducting the sale, every notice under this section shall be served personally on the person payment of taxes.
 
-(6) The server or the authorized person serving any notice personally shall–
+*default is nor the*
+
+*to which the*
+
+(5) Whenever the Director General or the authorized person conducting the sale has reason to believe that the person in avoiding service of the notice or that neither the person person’s authorized agent can be found, the Director General or the authorized person may order the notice to be affixed in some conspicuous manner to the property with respect praecipe to levy has been issued.
+
+*(6) The personally*
+
+server or the authorized person serving any notice shall–
 
 (a) endeavour to explain its purport fully to the person upon whom it is served; and
 
@@ -1798,11 +1984,17 @@ a statement of the amounts which the person admits owing;
 
 (7) In the event that the statement is prepared by the server or authorised person, the signature or mark of person in default
 
-of payment shall, if practicable, be attested by a witness other than the server or authorized person.
+*of payment*
 
-(8) The authorized person or server of the notice shall write upon it the date when it is served, and shall enter upon a counterfoil of the notice or upon some other record the date and manner of service and the place where it was made.
+shall, if practicable, be attested by a witness other than the server or authorized person.
 
-(9) A person duly served with a notice under this section, who defaults in complying with the terms of the notice, is liable on summary conviction to a fine not exceeding one hundred dollars, unless that person proves that–
+*(8) The upon it the counterfoil of manner of*
+
+authorized person or server of the notice shall write date when it is served, and shall enter upon a the notice or upon some other record the date and service and the place where it was made.
+
+*on summary*
+
+(9) A person duly served with a notice under this section, who defaults in complying with the terms of the notice, is liable conviction to a fine not exceeding one hundred dollars, unless that person proves that–
 
 (a) the person had paid the tax or penalties prior to the notice being served; or
 
@@ -1810,7 +2002,9 @@ of payment shall, if practicable, be attested by a witness other than the server
 
 *Conditions of sale.*
 
-**74.** (1) In all cases of the sale of real property under this Act, the following shall be the conditions of sale–
+*the following*
+
+**74.** (1) In all cases of the sale of real property under this Act, shall be the conditions of sale–
 
 the purchaser buys at the purchaser’s own risk (a)
 
@@ -1926,15 +2120,11 @@ the property; and
 
 (9) The defendant shall not be ordered to pay any costs unless the court is of the opinion that the defendant has been guilty of wilful neglect.
 
-Notwithstanding any other enactment, all amounts
-
 *Withholding held in trust.*
-
-deducted or withheld by any person pursuant to the Income and Business Tax Act are deemed to be held in trust by that person for the Director General and are not subject to attachment in respect of any debt or liability of that person and in the event of any liquidation, assignment, or bankruptcy, the amounts do not form part of the estate in liquidation, assignment, or bankruptcy
 
 *CAP. 55.*
 
-but shall be paid in full to the Director General before any distribution of the property is made.
+Notwithstanding any other enactment, all amounts deducted or withheld by any person pursuant to the Income and Business Tax Act are deemed to be held in trust by that person for the Director General and are not subject to attachment in respect of any debt or liability of that person and in the event of any liquidation, assignment, or bankruptcy, the amounts do not form part of the estate in liquidation, assignment, or bankruptcy but shall be paid in full to the Director General before any distribution of the property is made.
 
 *Priority in bankruptcy*
 
@@ -2002,13 +2192,21 @@ treated as having acted with the authority of the taxpayer and of all other pers
 
 (b) indemnified in respect of the payment against all proceedings, civil or criminal, and all processes, judicial or extra-judicial.
 
-(2) A third party who pays the Director General pursuant to this section may be entitled to recover the amount paid from the taxpayer originally liable to make the payment.
+*taxpayer*
+
+(2) A third party who pays the Director General pursuant to this section may be entitled to recover the amount paid from the originally liable to make the payment.
 
 (3) Sub-section (1) applies irrespective of a provision to the contrary in written law, contract, or agreement.
 
-(4) A notice under section 82 ceases to have effect once the tax or obligations described in it is paid or otherwise satisfied.
+*tax or*
 
-(5) If a third party served with a notice under section 82 is unable to comply with the notice by reason of lack of money owing to or held for the taxpayer, the third party shall notify the Director General.
+(4) A notice under section 82 ceases to have effect once the obligations described in it is paid or otherwise satisfied.
+
+*unable to*
+
+*Director*
+
+(5) If a third party served with a notice under section 82 is comply with the notice by reason of lack of money owing to or held for the taxpayer, the third party shall notify the General.
 
 (6) A third party notice under sub-section (5) shall–
 
@@ -2018,7 +2216,9 @@ treated as having acted with the authority of the taxpayer and of all other pers
 
 (c) be filed with the Director General as soon as practicable after the third party becomes aware of the inability and, in any event, before the payment date specified in the section 82 notice.
 
-(7) On receipt of a third party notice the Director General may, by notice served on the third party–
+*(7) On*
+
+receipt of a third party notice the Director General may, by notice served on the third party–
 
 accept the third party notice and cancel or amend the section 81 notice; or
 
@@ -2070,15 +2270,23 @@ accept the third party notice and cancel or amend the section 81 notice; or
 
 (2) Procedures for the assessment, payment, collection, and dispute of a tax apply equally to penalties relating to a tax.
 
-(3) A person’s liability for a penalty under this Part is–
+*(3) A*
+
+person’s liability for a penalty under this Part is–
 
 separate and distinct from the person’s liability, if any, for a penalty under another section of this Act or another tax law; and
 
 (b) in addition to interest levied under Part VII and to a criminal sanction imposed under Part X.
 
-(4) The burden of proof is on the Director General to show non-compliance with the provisions of tax laws with respect to the imposition of a penalty.
+*(4) The*
 
-(5) The Director General may make an assessment of a penalty charged as if the penalty were tax payable under this Act, and may specify the date on which the penalty is payable.
+burden of proof is on the Director General to show non-compliance with the provisions of tax laws with respect to the imposition of a penalty.
+
+*(5) The*
+
+*Act, and may*
+
+Director General may make an assessment of a penalty charged as if the penalty were tax payable under this specify the date on which the penalty is payable.
 
 (6) A notice of an assessment of a penalty shall–
 
@@ -2086,7 +2294,9 @@ separate and distinct from the person’s liability, if any, for a penalty under
 
 (b) state the amount of the penalty payable, the provision under which it is payable, and the due date for payment.
 
-(7) On service of the notice–
+*(7) On*
+
+service of the notice–
 
 (a) the notice and the assessment are treated as if they were a notice and assessment of tax payable under this Act;
 
@@ -2130,11 +2340,9 @@ issues a false GST credit note or debit note; or
 
 *Late filing of tax return.*
 
-**89.** (1) A person who fails to file on or before the due date, a statement of emoluments, business tax return or withholds
-
 *Schedule IV.*
 
-contract tax, is liable to the administrative penalty listed in Schedule IV to this Act.
+**89.** (1) A person who fails to file on or before the due date, a statement of emoluments, business tax return or withholds contract tax, is liable to the administrative penalty listed in Schedule IV to this Act.
 
 (2) The amount of the penalty in sub-section (1) is limited to ten thousand dollars.
 
@@ -2144,19 +2352,15 @@ contract tax, is liable to the administrative penalty listed in Schedule IV to t
 
 **90.** (1) A person who fails to pay all or part of a tax, including withholding tax, interest, or penalty within fourteen days of the due date, or by the due date specified in the notice of assessment, if later, is liable to a penalty equal to 20 percent of the amount due but not paid.
 
-(2) A person who fails to pay all or part of an instalment,
-
 *CAP. 55.*
 
-required pursuant to the Income and Business Tax Act, within fourteen days of the due date for the instalment, is liable to a penalty equal to 10 percent of the amount of tax due but not paid.
+(2) A person who fails to pay all or part of an instalment, required pursuant to the Income and Business Tax Act, within fourteen days of the due date for the instalment, is liable to a penalty equal to 10 percent of the amount of tax due but not paid.
 
 *CAP. 63.*
 
-(3) Sub-section (1) does not apply to cases described in
-
 *CAP. 55.*
 
-section 58 of the General Sales Tax Act or section 96(3) or section 112(5) of the Income and Business Tax Act.
+(3) Sub-section (1) does not apply to cases described in section 58 of the General Sales Tax Act or section 96(3) or section 112(5) of the Income and Business Tax Act.
 
 (4) Where an extension is granted under section 52, a person is not liable to a penalty under sub-section (1) unless the extension period expires without payment having been made.
 
@@ -2184,9 +2388,17 @@ if an amount payable by the person would have been less, if it were determined o
 
 (b) if the amount of a refund that the person applied for would be increased, if it were determined on the basis of the information provided in the statement, the amount by which that amount would have been so increased.
 
-(3) No penalty shall be imposed under this section if the person who made the statement did not know, and could not reasonably be expected to know, that the statement was false or misleading in a material particular.
+*(3) No person who reasonably be misleading in a*
 
-(4) A reference in this section to a statement made to a tax officer includes a reference to a statement made orally, in writing, or in another form to that officer acting in the performance of the officer’s duties under this Act, and includes a statement made–
+penalty shall be imposed under this section if the made the statement did not know, and could not expected to know, that the statement was false or material particular.
+
+*(4) A*
+
+*writing, or in*
+
+*a statement*
+
+reference in this section to a statement made to a tax officer includes a reference to a statement made orally, in another form to that officer acting in the performance of the officer’s duties under this Act, and includes made–
 
 (a) in an application, certificate, declaration, notification, return, objection, or other document made, prepared, given, filed, lodged, or furnished under this Act;
 
@@ -2230,11 +2442,9 @@ the specified time, is liable to a penalty in an amount not exceeding two thousa
 
 Criminal Proceedings
 
-**97.** (1) The Director General may investigate an offence
-
 *General provisions*
 
-specified in this Act or a tax law.
+**97.** (1) The Director General may investigate an offence specified in this Act or a tax law.
 
 (2) The power to bring charges and seek prosecution for the criminal offences specified in this Act belongs exclusively to the Director of Public Prosecutions or a delegate authorised by the Director, but criminal proceedings may be brought only with the sanction of, and in the name of, the Director General.
 
@@ -2246,15 +2456,19 @@ specified in this Act or a tax law.
 
 (b) the person may not subsequently be prosecuted for additional offences in relation to the same act, omission, or course of conduct.
 
-(5) No penalty is payable under Part IX in respect of an act, omission, or course of conduct by a person if—
+*(5) No*
+
+penalty is payable under Part IX in respect of an act, omission, or course of conduct by a person if—
 
 (a) the person has been convicted of an offence under this Part in respect of the same act, omission, or course of conduct; or
 
 (b) the offence has been compounded by the Director of Public Prosecutions.
 
-*Aiding and abetting*
+*Aiding and A abetting*
 
-**98.** A person who wilfully aids, abets, assists, counsels, incites, or induces another person to commit a criminal offence under this Part is liable on summary conviction to the same penalty as if the offence had been committed by that person.
+*incites, or*
+
+**98.** person who wilfully aids, abets, assists, counsels, induces another person to commit a criminal offence under this Part is liable on summary conviction to the same penalty as if the offence had been committed by that person.
 
 *Period of limitations.*
 
@@ -2268,15 +2482,27 @@ specified in this Act or a tax law.
 
 *Tax evasion.*
 
-**100.** A person who wilfully evades, or attempts to evade the assessment, payment, or collection of tax, or who wilfully claims a refund of tax to which the person is not entitled, commits an offence and is liable on summary conviction to a fine not exceeding one hundred thousand dollars, or to imprisonment for a term not exceeding two years, or both.
+*fine not*
 
-**101.** (1) A person who wilfully impedes, or attempts to
+**100.** A person who wilfully evades, or attempts to evade the assessment, payment, or collection of tax, or who wilfully claims a refund of tax to which the person is not entitled, commits an offence and is liable on summary conviction to a exceeding one hundred thousand dollars, or to imprisonment for a term not exceeding two years, or both.
 
-*Impeding tax administration.*
+*101.—(1) A*
 
-impede, the Department in its administration of this Act commits an offence and is liable on summary conviction to a fine of not less than five thousand dollars and not exceeding twenty thousand dollars, or to imprisonment for a term not exceeding one year, or both.
+*Impeding tax*
 
-(2) For the purposes of this section, a person impedes the administration of this Act if the person–
+*impede, the*
+
+*administration.*
+
+*commits an*
+
+*twenty exceeding one*
+
+person who wilfully impedes, or attempts to Department in its administration of this Act offence and is liable on summary conviction to a fine of not less than five thousand dollars and not exceeding thousand dollars, or to imprisonment for a term not year, or both.
+
+*(2) For the administration*
+
+purposes of this section, a person impedes the of this Act if the person–
 
 (a) fails to comply with a lawful request by officials of the Department to examine documents, records, documents, or data within the control of the person;
 
@@ -2302,7 +2528,9 @@ fails to comply with a notice issued under section 81;
 
 (l) otherwise impedes the determination, assessment, or collection of tax.
 
-(3) A taxpayer is not guilty of an offence under sub-sections (2)(f) and (g) only because information relating to the recipient of the supply, which was relevant to the issue of, or required to be included in, the GST invoice, debit or credit note, or sales receipt, was incorrect, if the person believes on reasonable grounds that the information relating to the recipient was accurate.
+*(3) A (2)(f) and (g) of the supply, be included in, receipt, was grounds that accurate.*
+
+taxpayer is not guilty of an offence under sub-sections only because information relating to the recipient which was relevant to the issue of, or required to the GST invoice, debit or credit note, or sales incorrect, if the person believes on reasonable the information relating to the recipient was
 
 Repealed by 24 of 2019.
 
@@ -2368,13 +2596,19 @@ Miscellaneous
 
 the transfer or assignment was not made for the purpose of avoiding tax.
 
-(2) A person shall be liable to be taxed on the income derived from property transferred in trust, or from property substituted there for, as if the transfer had not been made, if a person transfers property in trust and the trust provides that–
+*(2) A*
+
+*substituted*
+
+person shall be liable to be taxed on the income derived from property transferred in trust, or from property there for, as if the transfer had not been made, if a person transfers property in trust and the trust provides that–
 
 (a) the corpus of the trust shall revert either to the donor or to the person as the donor may determine at a future date; or
 
 (b) during the lifetime of the donor, no disposition or other dealing with the trust property shall be made without the consent, written or otherwise, of the donor.
 
-(3) The Director General may disregard any transaction or disposition where he is of the opinion that–
+*(3) The disposition*
+
+Director General may disregard any transaction or where he is of the opinion that–
 
 (a) any transaction which reduces, or would reduce, the amount of tax payable by any person is artificial or fictitious; or
 
@@ -2382,9 +2616,17 @@ the transfer or assignment was not made for the purpose of avoiding tax.
 
 (c) the persons concerned shall be assessable accordingly.
 
-(4) Nothing in this section shall prevent a decision of the Director General made in the exercise of any discretion given to the Director General by this section, from being tested on review, objection or appeal against an assessment.
+*Director*
 
-(5) For the purposes of this section, “disposition” includes any trust, grant, covenant, agreement or arrangement.
+*review,*
+
+(4) Nothing in this section shall prevent a decision of the General made in the exercise of any discretion given to the Director General by this section, from being tested on objection or appeal against an assessment.
+
+purposes of this section, “disposition” includes
+
+(5) For the
+
+any trust, grant, covenant, agreement or arrangement.
 
 (6) Where it appears to the Director General that with a view to the avoidance or reduction of tax, a company controlled by not more than five persons has not distributed to its shareholders, in such manner as to render the amount distributed liable to taxation in the hands of the shareholders, profits made in any period ending after the 31st December, 1943, which could be distributed without detriment to the company’s existing business, the Director General, by notice to the company, may direct that, for the purposes of assessment to income taxes and surtaxes, the profits for the period specified in the notice be deemed to be the income of the members, and–
 
@@ -2406,9 +2648,13 @@ a person has obtained a tax benefit in connection with the scheme in a manner th
 
 (b) having regard to the substance of the scheme, it would be concluded that the person, or one of the persons, who entered into or carried out the scheme, did so for the sole or dominant purpose of enabling the person to obtain the tax benefit,
 
-the Director General may, in making an assessment, determine the liability of the person who has obtained the tax benefit as if the scheme had not been entered into or carried out, or in such manner as the Director General considers appropriate for the prevention or reduction of the tax benefit.
+*the Director the liability of the scheme had manner as the prevention or*
 
-(10) For the purposes of determining a person’s liability under sub-section (9), and for the purposes of ensuring the prevention or reduction of the tax benefit, the Director General may do any of the following–
+General may, in making an assessment, determine the person who has obtained the tax benefit as if not been entered into or carried out, or in such Director General considers appropriate for the reduction of the tax benefit.
+
+*under prevention or may do any of*
+
+(10) For the purposes of determining a person’s liability sub-section (9), and for the purposes of ensuring the reduction of the tax benefit, the Director General the following–
 
 (a) treat a particular event that actually happened as not having happened;
 
@@ -2450,7 +2696,9 @@ the officer has knowledge of the facts in the particular case;
 
 (d) the officer identifies, as exhibits attached to the affidavit, the post office certificate of registration of the letter or a true copy of the relevant portion thereof, and a true copy of the notice.
 
-(3) Where provision is made for personal service of a notice, an affidavit of an officer of the Department shall be received as prima facie evidence of the notice if the affidavit sets out that–
+*prima facie*
+
+(3) Where provision is made for personal service of a notice, an affidavit of an officer of the Department shall be received as evidence of the notice if the affidavit sets out that–
 
 (a) the officer has charge of the appropriate records;
 
@@ -2460,25 +2708,33 @@ the officer has knowledge of the facts in the particular case;
 
 (d) the officer identifies as an exhibit attached to the affidavit a true copy of the notice.
 
-(4) Where a person has been required to make a return, statement, or answer, an affidavit of an officer of the Department shall be received as prima facie evidence that the return, statement or answer, as the case may be, was not received by the Department or any officer, if the affidavit sets out that the officer has–
+*Department return, by the officer has–*
+
+(4) Where a person has been required to make a return, statement, or answer, an affidavit of an officer of the shall be received as prima facie evidence that the statement or answer, as the case may be, was not received Department or any officer, if the affidavit sets out that the
 
 (a) charge of the appropriate records; and
 
 been unable to find that the return, statement or answer, as the case may be, has been made by the person, after a careful examination and search of the records.
 
-(5) An affidavit of an officer of the Department shall be received as prima facie evidence that a return, statement or answer was filed on a particular day by a person required to make a return, statement or answer, if the affidavit sets out that the officer has–
+*(5) An received as answer was*
+
+affidavit of an officer of the Department shall be prima facie evidence that a return, statement or filed on a particular day by a person required to make a return, statement or answer, if the affidavit sets out that the officer has–
 
 (a) charge of the appropriate records; and
 
 (b) found that the return, statement, or answer was filed on a particular day, after careful examination of the records.
 
-(6) With the leave of the court an affidavit of an officer of the Department shall be admissible in evidence, together with the document annexed, as conclusive evidence of the content of the original document where the affidavit sets out that–
+*the document the original*
+
+(6) With the leave of the court an affidavit of an officer of the Department shall be admissible in evidence, together with annexed, as conclusive evidence of the content of document where the affidavit sets out that–
 
 (a) the officer has charge of the appropriate records; and
 
 (b) a document annexed thereto is a document, or true copy of a document, made by or on behalf of the Director General, or some person exercising the powers of the Director General or by or on behalf of a taxpayer.
 
-(7) Where evidence is offered under this section by an affidavit from which it appears that the person making the affidavit is an officer of the Department, it shall not be necessary to prove–
+*affidavit is an to prove–*
+
+(7) Where evidence is offered under this section by an affidavit from which it appears that the person making the officer of the Department, it shall not be necessary
 
 the person’s signature;
 
@@ -2504,19 +2760,27 @@ the signature or official character of the person before whom the affidavit was 
 
 (3) The fact that a crime has been induced by the activities of any agent shall not be treated as a mitigating factor on sentence by any court.
 
-*Exit certificate.*
+*Exit certificate. 109.—(1)*
 
-**109.** (1) Subject to sub-section (4), no person who is a resident shall leave or attempt to leave Belize, unless the person has, in the person’s possession, a certificate in the prescribed form issued by the Director General on payment of the prescribed fee certifying that the person–
+*has, in the*
+
+Subject to sub-section (4), no person who is a resident shall leave or attempt to leave Belize, unless the person person’s possession, a certificate in the prescribed form issued by the Director General on payment of the prescribed fee certifying that the person–
 
 (a) does not owe any tax under a tax law; or
 
 (b) has made satisfactory arrangements for the payment of any tax payable by the person.
 
-(2) The certificate issued under sub-section (1) may be valid for the period prescribed.
+*(2) The*
 
-(3) Any person who neglects to comply with or acts in contravention of this section commits an offence.
+certificate issued under sub-section (1) may be valid for the period prescribed.
 
-(4) It shall be a good defence to any proceedings against any person, in respect of an offence against this section, to prove that–
+*(3) Any*
+
+person who neglects to comply with or acts in contravention of this section commits an offence.
+
+*person, in that–*
+
+(4) It shall be a good defence to any proceedings against any respect of an offence against this section, to prove
 
 (a) the certificate required by sub-section (1) could properly have been issued; and
 
@@ -2696,9 +2960,9 @@ in sub-section (2) by deleting the words “in the manner prescribed by section 
 
 (iii) in sub-section (6) by deleting the words “Part IV, Division 7” and substituting the words “the Tax Administration and Procedure Act.”.
 
-**2.** The Income and Business Tax Act is amended as
+*The follows:*
 
-*follows:*
+**2.** Income and Business Tax Act is amended as
 
 *24 of 2019.*
 
@@ -2742,8 +3006,8 @@ centum per month” and substituting the words “specified in section 59 of the
 
 (i) Section 113(5) is repealed and replaced with the following–
 
-“Whoever fails or neglects to deduct the amount or to render an account of to pay the amount deducted to the Commissioner as provided in sub-sections (1), (2), (3), and
+*“Whoever fails an account Commissioner (4) shall be section 57 and Act, as well applicable.”;*
 
-(4) shall be liable to penalties and interest specified under section 57 and 90 of the Tax Administration and Procedure Act, as well as criminal liability under that Act as applicable.”; and
+or neglects to deduct the amount or to render of to pay the amount deducted to the as provided in sub-sections (1), (2), (3), and liable to penalties and interest specified under 90 of the Tax Administration and Procedure as criminal liability under that Act as and
 
 (j) the First Schedule and Fourth Schedule is repealed. Printed in Belize by the Government Printer

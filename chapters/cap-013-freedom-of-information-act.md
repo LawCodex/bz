@@ -84,6 +84,8 @@ Access to Documents
 
 Access to documents to be given on request.
 
+*[CAP.*
+
 Time within which formal requests to be decided.
 
 Forms of access.
@@ -135,6 +137,10 @@ Exempt Documents
 Review of Decisions
 
 **35.** Applications to Ombudsman.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 Internal review.
 
@@ -224,37 +230,55 @@ Preliminary
 
 (c) in relation to a prescribed authority, the chief executive officer, general manager or other similar officer of that authority;
 
-“regulations” means regulations made under this Act;
+*“regulations”*
 
-“record” shall have the same meaning as assigned to the term
+means regulations made under this Act;
 
-“document”;
+*“record” shall “document”;*
+
+have the same meaning as assigned to the term
 
 (a) in relation to a Ministry - the Minister who has been assigned responsibility under the Constitution, Cap. 4 for that Ministry; or
 
 (b) in relation to a prescribed authority - the Minister who has been assigned responsibility under the Constitution, Cap. 4 for the subject-matter of that authority.
 
-(2) References in this Act to a Ministry shall include a reference to a Department of Government.
+*reference to a*
 
-*Act not to apply to courts and registries.*
+(2) References in this Act to a Ministry shall include a Department of Government.
 
-**4.** For the purposes of this Act,
+*Act not to apply For the to courts and registries.*
+
+**4.** purposes of this Act,
 
 (a) a court, or the holder of a judicial office or other office pertaining to a court, in his capacity as the holder of that office, is not to be taken to be included in a Department;
 
 (b) a registry or other office of a court, and the staff of such a registry or other office in their capacity as members of that staff, shall not be taken to be part of a Department.
 
-*Office of the Governor General not to be deemed to be a department.*
+*Office of the The Governor*
 
-**5.** The Office of the Governor-General shall not be deemed to be a Department of Government for the purposes of this Act.
+*deemed to be a General not to be deemed to be a this Act.*
+
+**5.** Office of the Governor-General shall not be Department of Government for the purposes of
+
+*department.*
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 ## PART II
 
 Publication of Certain Documents and Information
 
-*Publication of information concerning documents.*
+*6.-(1) The*
 
-**6.** (1) The responsible Minister or principal officer of a Ministry or prescribed authority shall,
+*Publication of information*
+
+*Ministry or*
+
+*concerning documents.*
+
+responsible Minister or principal officer of a prescribed authority shall,
 
 (a) cause to be published, as soon as practicable after the commencement of this Act but not later than 12 months after that commencement, in a form approved by the Minister administering this Act,
 
@@ -282,7 +306,9 @@ thereafter at intervals of not more than 12 months, cause to be published statem
 
 (b) documents containing particulars of such a scheme, not being particulars contained in an enactment or published under this Act, but not including documents that are available to the public as published otherwise than by a Ministry or prescribed authority.
 
-(2) The principal officer shall,
+*(2) The*
+
+principal officer shall,
 
 (a) cause copies of all documents to which this section applies that are in use from time to time to be made available for inspection and for purchase by members of the public;
 
@@ -290,9 +316,15 @@ thereafter at intervals of not more than 12 months, cause to be published statem
 
 (c) within 12 months after the publication of the statement under paragraph (b) and thereafter at intervals of not more than 12 months, cause to be published in the Gazette, statements bringing up to date information contained in the previous statement or statements.
 
-(3) The principal officer is not required to comply fully with paragraph (2) (a) before the expiration of 12 months after the commencement of this Act, but shall, before that time, comply with that paragraph so far as is practicable.
+*(3) The*
 
-(4) This section does not require a document of the kind referred to in subsection (1) of this section containing exempt matter to be made available in accordance with subsection (2)
+*the comply with*
+
+principal officer is not required to comply fully with paragraph (2) (a) before the expiration of 12 months after commencement of this Act, but shall, before that time, that paragraph so far as is practicable.
+
+*(4) This referred to in matter to be*
+
+section does not require a document of the kind subsection (1) of this section containing exempt made available in accordance with subsection (2)
 
 of this section, but, if such a document is not so made available, the principal officer shall, if practicable, cause to be prepared a corresponding document, altered only to the extent necessary to exclude the exempt matter, and cause the document so prepared to be dealt with in accordance with subsection (2) of this section.
 
@@ -332,15 +364,25 @@ the access to that document shall be obtained in accordance with that enactment 
 
 (3) Where a request is expressed to relate to all documents, or to all documents of a specified class, that contain information of a specified kind or relate to a specified subject-matter, compliance with the request may be refused if it would interfere unreasonably with the operations of the Ministry or prescribed authority, having regard to any difficulty that would exist in identifying, locating or collating documents containing relevant information within the filing system of the Ministry or prescribed authority.
 
-(4) It is the duty of a Ministry or prescribed authority, where practicable, to assist a person who wishes to make a request, or has made a request that does not comply with this section or has not been directed to the appropriate Ministry or prescribed authority, to make a request in a manner that complies with this section or to direct a request to the appropriate Ministry or specified authority.
+*where*
 
-(5) Where a request in writing is made to a Ministry or prescribed authority for access to a document, the Ministry or prescribed authority, as the case may be, shall not refuse to comply with the request on the ground,
+*prescribed*
+
+*appropriate*
+
+(4) It is the duty of a Ministry or prescribed authority, practicable, to assist a person who wishes to make a request, or has made a request that does not comply with this section or has not been directed to the appropriate Ministry or authority, to make a request in a manner that complies with this section or to direct a request to the Ministry or specified authority.
+
+*prescribed prescribed*
+
+(5) Where a request in writing is made to a Ministry or authority for access to a document, the Ministry or authority, as the case may be, shall not refuse to comply with the request on the ground,
 
 (a) that the request does not comply with subsection (2) of this section; or
 
 (b) that, in the case of a request of the kind referred to in subsection (3) of this section, compliance with the request would interfere unreasonably with the operations of the Ministry or prescribed authority, as the case may be,
 
-without first giving the applicant a reasonable opportunity of consultation with the Ministry or prescribed authority with a view to the making of a request in a form that would remove the ground for refusal.
+*without first consultation view to the*
+
+giving the applicant a reasonable opportunity of with the Ministry or prescribed authority with a making of a request in a form that would remove the ground for refusal.
 
 *Transfer of requests.*
 
@@ -350,11 +392,21 @@ without first giving the applicant a reasonable opportunity of consultation with
 
 (b) the document is not in the possession of that Ministry or prescribed authority but is in the possession of another Ministry or prescribed authority or the subject-matter of the document is more closely connected with the functions of another Ministry or prescribed
 
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
+
 authority than with those of the Ministry or prescribed authority to which the request is made,
 
-the Ministry or prescribed authority to which the request is made may transfer the request to the other Ministry or prescribed authority and inform the person making the request accordingly and, if it is necessary to do so in order to enable the other Ministry or prescribed authority to deal with the request, send the document to the other Ministry or prescribed authority.
+*made may prescribed accordingly the other request, send authority.*
 
-(2) Where a request is transferred to a Ministry or prescribed authority in accordance with this section, it shall be deemed to be a request made to that Ministry or prescribed authority and received at the time at which it was originally received.
+the Ministry or prescribed authority to which the request is transfer the request to the other Ministry or authority and inform the person making the request and, if it is necessary to do so in order to enable Ministry or prescribed authority to deal with the the document to the other Ministry or prescribed
+
+*prescribed*
+
+(2) Where a request is transferred to a Ministry or authority in accordance with this section, it shall be deemed to be a request made to that Ministry or prescribed authority and received at the time at which it was originally
+
+*received.*
 
 *Requests involving use of computers, etc.*
 
@@ -390,11 +442,15 @@ the Ministry or prescribed authority shall deal with the request as if it were a
 
 the Ministry or prescribed authority shall take all reasonable steps to enable the applicant to be notified of a decision on the
 
-request as soon as practicable but in any case not later than two weeks after the day on which the request is received by or on behalf of the Ministry or prescribed authority.
+*request as soon weeks after the behalf of the*
+
+as practicable but in any case not later than two day on which the request is received by or on Ministry or prescribed authority.
 
 *Forms of access.*
 
-**17.** (1) Access to a document may be given to a person in one or more of the following forms,
+*17.-(1) Access or more of the*
+
+to a document may be given to a person in one following forms,
 
 (a) a reasonable opportunity to inspect the document;
 
@@ -404,9 +460,13 @@ request as soon as practicable but in any case not later than two weeks after th
 
 (d) in the case of a document by which words are recorded in a manner in which they are capable of being reproduced in the form of sound or in which words are contained in the form of shorthand writing or in codified form, provision by the Ministry or prescribed authority of a written transcript of the words recorded or contained in the document.
 
-(2) Subject to subsection (3) of this section and to section 19 of this Act, where the applicant has requested access in a particular form, access shall be given in that form.
+*(2) Subject 19 of this Act, particular form,*
 
-(3) If the form of access requested by the applicant,
+to subsection (3) of this section and to section where the applicant has requested access in a access shall be given in that form.
+
+*(3) If the*
+
+form of access requested by the applicant,
 
 (a) would interfere unreasonably with the operations of the Ministry or prescribed authority;
 
@@ -506,9 +566,11 @@ Exempt Documents
 
 (4) A reference in this section to the Cabinet shall be read as including a reference to a committee of the Cabinet.
 
+*A*
+
 *Documents affecting enforcement and ad- ministration of the law.*
 
-A document is an exempt document if its disclosure under this Act would, or would be reasonably likely to,
+document is an exempt document if its disclosure under this Act would, or would be reasonably likely to,
 
 (a) prejudice the investigation of a breach or possible breach of the law or the enforcement or proper administration of the law in a particular instance;
 
@@ -520,9 +582,19 @@ A document is an exempt document if its disclosure under this Act would, or woul
 
 (e) endanger the lives or physical safety of persons engaged in or in connection with law enforcement.
 
-*Documents to which secrecy provisions of enactments apply.*
+*Documents to*
 
-**25.** A document is an exempt document if it is a document to which a prescribed provision of an enactment, being a provision prohibiting or restricting disclosure of the document or of information or other matter contained in the document, applies.
+*A*
+
+*which secrecy provisions of enactments*
+
+*provision*
+
+*apply.*
+
+*or of applies.*
+
+**25.** document is an exempt document if it is a document to which a prescribed provision of an enactment, being a prohibiting or restricting disclosure of the document information or other matter contained in the document,
 
 *7 of 2008.*
 

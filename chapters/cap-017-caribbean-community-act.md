@@ -174,9 +174,9 @@ declare that any country other than a country specified in subsection (1) of thi
 
 (b) declare that any country named, or deemed by virtue of paragraph (a) to be named subsection (1) of this section has ceased to be a member the CARICOM Single Market and Economy and where such a declaration is made, the country shall be deemed no longer to be named in that subsection.
 
-*Goods of Community*
+*Goods of 6.-(1) Subject Community*
 
-**6.** (1) Subject to this Part, goods of Community origin, shall
+to this Part, goods of Community origin, shall
 
 *not be liable to,*
 
@@ -186,9 +186,13 @@ declare that any country other than a country specified in subsection (1) of thi
 
 (b) any quantitative restriction,
 
-on their importation into or exportation from Belize.
+*on their*
 
-(2) The Minister of Finance shall,
+importation into or exportation from Belize.
+
+*(2) The*
+
+Minister of Finance shall,
 
 (a) make a provision for,
 
@@ -198,7 +202,9 @@ on their importation into or exportation from Belize.
 
 prohibit the imposition of any internal taxes or other fiscal charges to goods of Community origin, save as otherwise provided by the CARICOM Treaty.
 
-(3) The provisions referred to in subsection (2) (a) of this section shall,
+*(3) The section shall,*
+
+provisions referred to in subsection (2) (a) of this
 
 (a) include measures respecting;
 
@@ -210,7 +216,11 @@ prohibit the imposition of any internal taxes or other fiscal charges to goods o
 
 (b) take into account different classes and descriptions of goods and quantities of the goods and purposes for which the goods are imported into Belize.
 
-(4) Subject to any enactment made under subsection (1) of this section, where in connection with eligibility for a CARICOM Single Market and Economy rate of duty any question arises as to whether goods are of Community origin, the Comptroller may require the importer of the goods to furnish to him, in such form as he requires, proof of any statement made to him as to any fact necessary to determine the question and, if such proof is not furnished to his
+*(4) Subject this section, CARICOM question arises*
+
+*furnish to him, statement made the question*
+
+to any enactment made under subsection (1) of where in connection with eligibility for a Single Market and Economy rate of duty any as to whether goods are of Community origin, the Comptroller may require the importer of the goods to in such form as he requires, proof of any to him as to any fact necessary to determine and, if such proof is not furnished to his
 
 satisfaction, the question may be determined without regard to the statement.
 
@@ -230,31 +240,41 @@ satisfaction, the question may be determined without regard to the statement.
 
 (5) Regulations made under this section shall be subject to negative resolution.
 
+*8.-(1) The*
+
 *Common External Tariff.*
 
-**8.** (1) The Minister of Finance shall establish a Common External Tariff that shall apply,
+Minister of Finance shall establish a Common External Tariff that shall apply,
 
 (a) in respect of goods which do not qualify for Community Treatment as set out in an Order made by the Minister; and
 
 (b) subject to such conditions as are set out in the Order.
 
-(2) The Minister of Finance may by Order published in the Gazette,
+*(2) The Gazette,*
+
+Minister of Finance may by Order published in the
 
 (a) suspend or reduce the Common External Tariff applicable to any good imported into Belize; or
 
 (b) modify the conditions applicable to goods referred to in paragraph (a).
 
-*Verification of origin of exported goods.*
+*Verification of*
 
-**9.** (1) The Comptroller, for the purpose of complying with any request, from a government or authority, respecting the ascertainment of whether the origin of any goods exported from or produced directly or indirectly are eligible to be treated as being of Community origin, may
+*9.-(1) The*
+
+*origin of exported goods.*
+
+*from or as being of*
+
+Comptroller, for the purpose of complying with any request, from a government or authority, respecting the ascertainment of whether the origin of any goods exported produced directly or indirectly are eligible to be treated Community origin, may
 
 (a) carry out such investigations as are necessary; and
 
 (b) provide a report or provide such information, as appeared to the Comptroller requisite, to the government or authority making the request.
 
-(2) For the purposes of an investigation under subsection
+*(l) of this require,*
 
-(l) of this section, the Comptroller or any other officer may require,
+(2) For the purposes of an investigation under subsection section, the Comptroller or any other officer may
 
 the exporter;
 
@@ -618,17 +638,27 @@ levels, in an expeditious and informed manner;
 
 The Community Council of Ministers
 
-**1.** The Community Council shall consist of Ministers responsible for Community Affairs and any other Minister designated by the Member States in their absolute discretion.
+*The*
 
-**2.** The Community Council shall in accordance with the policy directions established by the Conference, have primary responsibility for the development of Community strategic planning and co-ordination in the areas of economic integration, functional co-operation and external relations.
+**1.** Community Council shall consist of Ministers responsible for Community Affairs and any other Minister designated by the Member States in their absolute discretion.
 
-**3.** In pursuance of paragraph 2, the Community Council shall,
+*The policy*
+
+*integration,*
+
+**2.** Community Council shall in accordance with the directions established by the Conference, have primary responsibility for the development of Community strategic planning and co-ordination in the areas of economic functional co-operation and external relations.
+
+*In shall,*
+
+**3.** pursuance of paragraph 2, the Community Council
 
 (a) approve the programmes of the Community on the basis, inter alia, of proposals emanating from other Community Organs;
 
 (b) subject to paragraph 5 of Article 20, amend proposals developed by the Ministerial Councils or request them to develop proposals for the achievement of Community objectives,
 
-and have responsibility for promoting and monitoring the implementation of Community decisions in the Member States.
+*and have*
+
+responsibility for promoting and monitoring the implementation of Community decisions in the Member States.
 
 **4.** Without prejudice to the generality of the foregoing provisions, the Community Council shall,
 
@@ -654,9 +684,17 @@ undertake any additional functions remitted to it by the Conference, arising und
 
 The Council for Finance and Planning
 
-**1.** The Council for Finance and Planning shall consist of Ministers designated by the Member States. Each Member State shall be entitled to designate alternates to represent it on COFAP.
+*The Ministers*
 
-**2.** Subject to the relevant provisions of Article, COFAP shall have primary responsibility for economic policy co-ordination and financial and monetary integration of Member States and, without prejudice to the generality of the foregoing, shall,
+**1.** Council for Finance and Planning shall consist of designated by the Member States. Each Member State shall be entitled to designate alternates to represent it on
+
+*COFAP.*
+
+*shall have*
+
+*States and, shall,*
+
+**2.** Subject to the relevant provisions of Article, COFAP primary responsibility for economic policy co-ordination and financial and monetary integration of Member without prejudice to the generality of the foregoing,
 
 (a) establish and promote measures for the co-ordination and convergence of national macro-economic policies of the Member States and for the execution of a harmonised policy on foreign investment;
 
@@ -672,15 +710,25 @@ currencies of the Member States on a reciprocal basis;
 
 (f) undertake any additional functions remitted to it by the Conference arising under this Treaty.
 
-**3.** Under the direction of COFAP, the Committee of Central Bank Governors shall assist in the performance of the functions mentioned in paragraph 2 of this Article.
+*Under Central Bank functions*
+
+**3.** the direction of COFAP, the Committee of Governors shall assist in the performance of the mentioned in paragraph 2 of this Article.
 
 ### ARTICLE 15
 
-The Council for Trade and Economic Development
+*The*
 
-**1.** The Council for Trade and Economic Development shall consist of Ministers designated by the Member States. Each Member State shall be entitled to designate alternates to represent it on COTED.
+Council for Trade and Economic Development
 
-**2.** Subject to the provisions of Article 12, COTED shall be responsible for the promotion of trade and economic development of the Community. In particular, COTED shall,
+*The*
+
+*Each Member represent it on*
+
+**1.** Council for Trade and Economic Development shall consist of Ministers designated by the Member States. State shall be entitled to designate alternates to COTED.
+
+*Subject*
+
+**2.** to the provisions of Article 12, COTED shall be responsible for the promotion of trade and economic development of the Community. In particular, COTED shall,
 
 (a) promote the development and oversee the operation of the CSME;
 
@@ -704,13 +752,19 @@ agricultural production on a sustainable and regionally integrated basis;
 
 (j) undertake any additional functions remitted to it by the Conference, arising under this Treaty.
 
-The Council for Foreign and Community Relations
+Council for Foreign and Community Relations
 
-**1.** The Council for Foreign and Community Relations shall consist of Ministers Responsible for the Foreign Affairs of Member States. Each Member State shall be entitled to designate an alternate to represent it on COFCOR.
+*The shall consist of of Member designate an*
 
-**2.** Subject to the provisions of Article 12, COFCOR shall be responsible for determining relations between the Community and international organisations and Third States.
+**1.** Council for Foreign and Community Relations Ministers Responsible for the Foreign Affairs States. Each Member State shall be entitled to alternate to represent it on COFCOR.
 
-**3.** Without prejudice to the generality of paragraph 2, COFCOR shall,
+*Subject be responsible Community and*
+
+**2.** to the provisions of Article 12, COFCOR shall for determining relations between the international organisations and Third States.
+
+*Without COFCOR shall,*
+
+**3.** prejudice to the generality of paragraph 2,
 
 (a) promote the development of friendly and mutually beneficial relations among the Member States;
 
@@ -724,15 +778,25 @@ co-ordinate, in close consultation with the Member States, Community policy on i
 
 (f) undertake any additional functions remitted to it by the Conference, arising under this Treaty.
 
-**4.** Only Member States possessing the necessary competence with respect to the matters under consideration from time to time may take part in the deliberations of COFCOR.
+*Only competence from time to COFCOR.*
+
+**4.** Member States possessing the necessary with respect to the matters under consideration time may take part in the deliberations of
 
 ### ARTICLE 17
 
-The Council for Human and Social Development
+*The*
 
-**1.** The Council for Human and Social Development shall consist of Ministers designated by the Member States. Each Member State shall be entitled to designate alternates to represent it on COHSOD.
+Council for Human and Social Development
 
-**2.** Subject to the provisions of Article 12, COHSOD shall be responsible for the promotion of human and social development in the Community. In particular, COHSOD shall,
+*The consist of*
+
+*represent it on*
+
+**1.** Council for Human and Social Development shall Ministers designated by the Member States. Each Member State shall be entitled to designate alternates to COHSOD.
+
+*Subject*
+
+**2.** to the provisions of Article 12, COHSOD shall be responsible for the promotion of human and social development in the Community. In particular, COHSOD shall,
 
 (a) promote the improvement of health, including the development and organisation of efficient and affordable health services in the Community;
 
@@ -750,7 +814,9 @@ Community, including elementary and advanced vocational training and technical f
 
 (g) undertake any additional functions remitted to it by the Conference, arising under this Treaty.
 
-**3.** Without prejudice to the requirements of any other provision of this Treaty, COHSOD shall promote co-operation among the Member States in the areas set out in the schedule hereto in furtherance of the objectives set out in Article 6.
+*Without provision of among the hereto in*
+
+**3.** prejudice to the requirements of any other this Treaty, COHSOD shall promote co-operation Member States in the areas set out in the schedule furtherance of the objectives set out in Article 6.
 
 *Protocol of 13th March, 2009, Belize City.*
 
@@ -790,9 +856,9 @@ establish measures to increase cooperation in mutual legal assistance in crimina
 
 Bodies of the Community
 
-**1.** There are hereby established as Bodies of the
+*There Community,*
 
-*Community,*
+**1.** are hereby established as Bodies of the
 
 the Legal Affairs Committee; and
 
@@ -830,47 +896,49 @@ Co-operation by Community Organs
 
 **6.** The Secretariat shall monitor the development and implementation of proposals for the achievement of Community objectives and keep the Community Council informed accordingly.
 
-Institutions of the Community The following entities established by or under the auspices of the Community shall be recognised as Institutions of the Community,
+*The the*
 
-•
+Institutions of the Community following entities established by or under the auspices of Community shall be recognised as Institutions of the Community,
+
+*•*
 
 Caribbean Disaster Emergency Response Agency (CDERA);
 
-•
+*•*
 
 Caribbean Meteorological Institute (CMI);
 
-•
+*•*
 
-Caribbean Meteorological Organisation (CMO); •
+*•*
 
-Caribbean Environmental Health Institute (CEHI; •
+*•*
 
-Caribbean Agricultural Research and Development Institute (CARDI);
+Caribbean Meteorological Organisation (CMO); Caribbean Environmental Health Institute (CEHI; Caribbean Agricultural Research and Development Institute (CARDI);
 
-•
+*•*
 
 Caribbean Regional Center for the Education and Training of Animal Health and Veterinary Public Health Assistants (REPAHA);
 
-•
+*•*
 
 Assembly of Caribbean Community Parliamentarians (ACCP);
 
-•
+*•*
 
 Caribbean Centre For Developmental Administration (CARICAD);
 
-•
+*•*
 
-Caribbean Food and Nutrition Institute (CFNI);
+*• Protocol of 13th*
 
-*Protocol of 13th March, 2009, Belize City.*
+*March, 2009, Belize City.*
 
-•
+Caribbean Food and Nutrition Institute (CFNI); CARICOM Implementation Agency for Crime and Security (IMPACS)
 
-CARICOM Implementation Agency for Crime and Security (IMPACS)
+*and*
 
-and such other entities as may be designated by the Conference.
+such other entities as may be designated by the Conference.
 
 Associate Institutions of the Community
 
@@ -924,7 +992,9 @@ The Secretary-General
 
 **1.** The Secretary-General shall be appointed by the Conference, on the recommendation of the Community Council, for a term not exceeding five years and may be reappointed by the Conference.
 
-The Secretary-General shall be the Chief Executive Officer of the Community and shall, subject to the determination of competent Organs of the Community and in accordance with the financial and other regulations, perform the following functions,
+*Officer of determination accordance the following*
+
+Secretary-General shall be the Chief Executive the Community and shall, subject to the of competent Organs of the Community and in with the financial and other regulations, perform functions,
 
 (a) represent the Community;
 
@@ -944,7 +1014,9 @@ The Secretary-General shall be the Chief Executive Officer of the Community and 
 
 Functions of the Secretariat
 
-In addition to any functions which may be assigned to it by Organs of the Community, the Secretariat shall,
+*In by Organs of the*
+
+addition to any functions which may be assigned to it Community, the Secretariat shall,
 
 (a) service meetings of the Organs and Bodies of the Community and take appropriate follow-up action on determinations issuing from such meetings;
 
@@ -1046,9 +1118,13 @@ activities conducted by a central bank or monetary authority or any other public
 
 Treatment of Monopolies
 
-**1.** The Member States may determine that the public interest requires the exclusion or restriction of the right of establishment in any industry or in a particular sector of an industry.
+*The interest establishment industry.*
 
-**2.** Where such a determination has been made,
+**1.** Member States may determine that the public requires the exclusion or restriction of the right of in any industry or in a particular sector of an
+
+*Where*
+
+**2.** such a determination has been made,
 
 (a) if the determination results in the continuation or establishment of a government monopoly, the Member State shall adopt appropriate measures to ensure that the monopoly does not discriminate between nationals of Member States, save as otherwise provided in this Treaty, and is subject to the agreed rules of competition established for Community economic enterprises;
 
@@ -1058,17 +1134,33 @@ if the determination results in the continuation or establishment of a private s
 
 Prohibitions of New Restrictions on the Rights of Establishment
 
-**1.** The Member States shall not introduce in their territories any new restrictions relating to the right of establishment of nationals of other Member States save as otherwise provided in this Treaty.
+*The*
 
-**2.** The Member States shall notify COTED of existing restrictions on the right of establishment in respect of nationals of other Member States.
+*otherwise*
 
-**3.** (1) the right of establishment within the meaning of this Chapter shall include the right to,
+**1.** Member States shall not introduce in their territories any new restrictions relating to the right of establishment of nationals of other Member States save as provided in this Treaty.
+
+*The*
+
+*of other*
+
+**2.** Member States shall notify COTED of existing restrictions on the right of establishment in respect of nationals Member States.
+
+*Chapter shall*
+
+**3.** (1) the right of establishment within the meaning of this include the right to,
 
 (a) engage in any non-wage-earning activities of a commercial, industrial, agricultural, professional or artisanal nature;
 
 (b) create and manage economic enterprises referred to in paragraph 5 (b) of this Article.
 
-(2) For the purposes of this Chapter “non-wage earning activities” means activities undertaken by self-employed persons.
+purposes of this Chapter “non-wage earning
+
+(2) For the
+
+*activities” persons.*
+
+means activities undertaken by self-employed
 
 The Community Council may, with the approval of the Conference and upon the recommendation of COTED or COFAP, as the case may be, enlarge the body of rights provided in paragraph 3 of this Article. the competent Organ shall establish basic criteria for Member States in order to safeguard against manipulation or abuse of such rights so as to gain an unfair advantage against other Member States, for example, in the areas of nationality criteria and in the operation of companies.
 
@@ -1098,11 +1190,17 @@ organisation for the production of or trade in goods or the provision of service
 
 ### ARTICLE 33
 
-Removal of Restrictions on the Right of Establishment
+*Removal of*
 
-**1.** Subject to the provisions of Article 221 and Article 222, the Member States shall remove restrictions on the right of establishment of nationals of a Member State in the territory of another Member State.
+Restrictions on the Right of Establishment
 
-**2.** The removal of restrictions on the right of establishment mentioned in paragraph 1 of this Article shall also apply to restrictions on the setting up of agencies, branches or subsidiaries by nationals of a Member State in the territory of another Member State.
+*Subject the Member*
+
+**1.** to the provisions of Article 221 and Article 222, States shall remove restrictions on the right of establishment of nationals of a Member State in the territory of another Member State.
+
+*The establishment also apply to branches or territory of*
+
+**2.** removal of restrictions on the right of mentioned in paragraph 1 of this Article shall restrictions on the setting up of agencies, subsidiaries by nationals of a Member State in the another Member State.
 
 Subject to the approval of the Conference, COTED, in consultation with COHSOD and COFAP, shall, within one year from the entry into force of this Treaty, establish a programme providing for the removal of restrictions on the right of nationals of a Member State in the territory of another Member State. the programme shall, inter alia,
 
@@ -1174,13 +1272,21 @@ State in the territory of another Member State.
 
 ### ARTICLE 37
 
-Removal of Restrictions on Provision of Services
+*Removal*
 
-**1.** Subject to the provisions of this Treaty, Member States shall abolish discriminatory restrictions on the provision of services within the Community in respect of Community nationals.
+of Restrictions on Provision of Services
 
-**2.** Subject to the approval of the Conference, COTED, in conclusion with other component Organs, shall, within one year from the entry into force of this Treaty, establish a programme for the removal of restrictions on the provision of such services in the Community by Community nationals.
+*Subject shall abolish services within nationals.*
 
-**3.** In establishing the programme mentioned in paragraph 2 of this Article, COTED shall,
+**1.** to the provisions of this Treaty, Member States discriminatory restrictions on the provision of the Community in respect of Community
+
+*Subject conclusion with year from the programme for such services in*
+
+**2.** to the approval of the Conference, COTED, in other component Organs, shall, within one entry into force of this Treaty, establish a the removal of restrictions on the provision of the Community by Community nationals.
+
+*In 2 of this Article,*
+
+**3.** establishing the programme mentioned in paragraph COTED shall,
 
 (a) accord priority to services which directly affect production costs or facilitate the trade in goods and services which generate foreign exchange earnings;
 
@@ -1198,11 +1304,17 @@ conditions governing the entry of personnel, including their spouses and immedia
 
 ### ARTICLE 38
 
-Removal of Restrictions on Banking Insurance and Other Financial Services
+*Removal of*
 
-**1.** Subject to the provisions of this Chapter, the Member States shall remove discriminatory restrictions on banking, insurance and other financial services.
+Restrictions on Banking Insurance and Other Financial Services
 
-**2.** Subject to the approval of the Conference, COFAP, in consultation with other component Organs of the Community, may exclude certain financial services from the operation of the provisions of this Article.
+*Subject States shall insurance and*
+
+**1.** to the provisions of this Chapter, the Member remove discriminatory restrictions on banking, other financial services.
+
+*Subject consultation may exclude*
+
+**2.** to the approval of the Conference, COFAP, in with other component Organs of the Community, certain financial services from the operation of the provisions of this Article.
 
 Prohibition of New Restrictions on Movement of Capital and Current Transactions
 
@@ -1252,9 +1364,13 @@ Co-Ordination of Foreign Exchange Policies and Exchange of Information
 
 Restrictions to Safeguard Balance of Payments
 
-**1.** In the event of serious balance-of-payments and external financial difficulties or threat thereof, a Member State may, consistently with its international obligations and subject to paragraph 5 of this Article, adopt or maintain restrictions to address such difficulties.
+*external may,*
 
-**2.** The restrictions which may be adopted or maintained pursuant to paragraph 1 of this Article may include quantitative restrictions on imports, restrictions on the right of establishment, restrictions on the right to provide services, restrictions on the right to move capital or on payments and transfers for transactions connected therewith. However, such restrictions,
+**1.** In the event of serious balance-of-payments and financial difficulties or threat thereof, a Member State consistently with its international obligations and subject to paragraph 5 of this Article, adopt or maintain restrictions to address such difficulties.
+
+*The*
+
+**2.** restrictions which may be adopted or maintained pursuant to paragraph 1 of this Article may include quantitative restrictions on imports, restrictions on the right of establishment, restrictions on the right to provide services, restrictions on the right to move capital or on payments and transfers for transactions connected therewith. However, such restrictions,
 
 (a) shall, subject to the provisions of this Treaty, not discriminate among Member States or against Member States in favour of third States;
 
@@ -1264,7 +1380,9 @@ Restrictions to Safeguard Balance of Payments
 
 (d) shall be temporary but in any event not longer than a period of eighteen (18) months and be phased out progressively as the situation described in paragraph 1 improves.
 
-**3.** In determining the incidence of such restrictions, the Member State concerned may accord priority to activities
+*In*
+
+**3.** determining the incidence of such restrictions, the Member State concerned may accord priority to activities
 
 which are essential to its economic stability. Such restrictions shall not be adopted or maintained for the purpose of protecting a particular sector in contravention of the relevant provisions of this Treaty, due regard being paid in either case to any special factors which may be affecting the reserves of such Member State or its need for reserves.
 
@@ -1332,9 +1450,13 @@ sportspersons;
 
 (e) musicians,
 
-recognised as such by the competent authorities of the receiving Member States.
+*recognised as receiving*
 
-**2.** Member States shall establish appropriate legislative, administrative and procedural arrangements to,
+such by the competent authorities of the Member States.
+
+*Member administrative*
+
+**2.** States shall establish appropriate legislative, and procedural arrangements to,
 
 (a) facilitate the movement of skills within the contemplation of this Article;
 
@@ -1368,9 +1490,13 @@ Restrictions to Resolve Difficulties of Hardships Arising from the Exercise of R
 
 is unable to comply with sub-paragraph (a) of this paragraph, it shall, upon applying the restrictions in accordance with paragraph 1, immediately notify the competent Organ of the application and nature of the restrictions.
 
-**3.** The Member State shall, at the time of application of the restrictions mentioned in paragraph 1, submit to COTED or COFAP, as the case may require, a programme setting out the measures to be taken by that Member State to resolve the difficulties or to alleviate the hardships.
+*The the restrictions COFAP, as the*
 
-**4.** The competent Organ shall give its earliest consideration to the programme, and,
+**3.** Member State shall, at the time of application of mentioned in paragraph 1, submit to COTED or case may require, a programme setting out the measures to be taken by that Member State to resolve the difficulties or to alleviate the hardships.
+
+*The consideration to*
+
+**4.** competent Organ shall give its earliest the programme, and,
 
 (a) make a determination in respect of the appropriateness of the restrictions and whether they shall be continued; and
 
@@ -1380,27 +1506,41 @@ is unable to comply with sub-paragraph (a) of this paragraph, it shall, upon app
 
 (ii) where the Member State removes the restrictions before the end of the period of the waiver, notify the Community Council accordingly.
 
-The competent Organ, in making a determination under subparagraph (b) of this paragraph, may impose such conditions as it considers necessary.
+*The competent*
 
-**5.** Restrictions applied by a Member State pursuant to paragraph 1 of this Article shall be confined to those necessary,
+*it considers*
+
+Organ, in making a determination under subparagraph (b) of this paragraph, may impose such conditions as necessary.
+
+*paragraph 1 necessary,*
+
+**5.** Restrictions applied by a Member State pursuant to of this Article shall be confined to those
 
 to resolve the difficulties in the affected sectors;
 
 (b) to alleviate economic hardships in a particular region.
 
-**6.** In applying restrictions mentioned in paragraph 5, Member States shall,
+*In*
+
+**6.** applying restrictions mentioned in paragraph 5, Member States shall,
 
 (a) minimise damage to the commercial or economic interests of any other Member State; or
 
 (b) prevent the unreasonable exercise of rights granted under this Chapter, the exclusion of which could impair the development of the CSME.
 
-**7.** The Member States, in applying restrictions pursuant to paragraph 1 of this Article, shall not discriminate and,
+*The*
+
+**7.** Member States, in applying restrictions pursuant to paragraph 1 of this Article, shall not discriminate and,
 
 (a) shall progressively relax them as relevant conditions improved;
 
 (b) may maintain them only to the extent that conditions mentioned in paragraph 1 of this Article continue to justify their application.
 
-**8.** If COTED or COFAP, as the case may require, is not satisfied that Member States applying restrictions are acting in accordance with the provisions of paragraph 6 of this Article, it may recommend to the Member States adversely affected thereby alternative arrangements to the same end.
+*If*
+
+*may thereby*
+
+**8.** COTED or COFAP, as the case may require, is not satisfied that Member States applying restrictions are acting in accordance with the provisions of paragraph 6 of this Article, it recommend to the Member States adversely affected alternative arrangements to the same end.
 
 Waiver of Obligations to Grant Rights
 
@@ -1454,9 +1594,13 @@ Nothing in this Chapter shall be construed as precluding the Member States from 
 
 Objectives of the Community Industrial Policy
 
-**1.** The goal of the Community Industrial policy shall be market- led, internationally competitive and sustainable production of goods and services for the promotion of the Region’s economic and social development.
+*market- led, production of Region’s*
 
-**2.** In the fulfilment if the goal set out in paragraph 1 of this Article, the Community shall pursue the following objectives,
+**1.** The goal of the Community Industrial policy shall be internationally competitive and sustainable goods and services for the promotion of the economic and social development.
+
+*In the this Article, objectives,*
+
+**2.** fulfilment if the goal set out in paragraph 1 of the Community shall pursue the following
 
 (a) cross-border employment of natural resources, human resources, capital, technology and management capabilities for the production of goods and services on a sustainable basis;
 
@@ -1480,7 +1624,9 @@ enhanced and diversified production of goods and services for both export and do
 
 Implementation of Community Industrial Policy
 
-**1.** In order to achieve the objectives of its industrial policy, the Community shall promote, inter alia,
+*In order policy, the*
+
+**1.** to achieve the objectives of its industrial Community shall promote, inter alia,
 
 (a) the co-ordination of national industrial policies of the Member State;
 
@@ -1516,7 +1662,9 @@ the elimination of bureaucratic impediments to deployment of investments in indu
 
 (f) communications systems.
 
-**7.** In order to facilitate the implementation of the Community Industrial Policy, COTED shall, in collaboration with competent organs and agencies,
+*In order Community with competent*
+
+**7.** to facilitate the implementation of the Industrial Policy, COTED shall, in collaboration organs and agencies,
 
 (a) develop strategies for the development and dissemination of market information and appropriate mechanisms to facilitate acquisition, storage and retrieval of such information;
 
@@ -1524,11 +1672,11 @@ the elimination of bureaucratic impediments to deployment of investments in indu
 
 (c) encourage the Member States to establish and develop export markets, especially in nontraditional sectors, through the development of sector-specific incentives and appropriate policy instruments.
 
-For the purpose of this Article, “production integration”
+*For the includes,*
+
+purpose of this Article, “production integration”
 
 8.
-
-*includes,*
 
 (a) the direct organisation of production in more than one Member State by a single economic enterprise;
 
@@ -1542,9 +1690,15 @@ States to produce and use required inputs in the production chain; and
 
 Micro and Small Economic Enterprise Development
 
-**1.** The Community shall adopt appropriate policy measures to encourage the development of competitive micro and small economic enterprises in the Member States.
+*The measures to and small*
 
-**2.** Without prejudice to the generality of the foregoing, the competent Organ shall encourage policy initiatives and the establishment of effective programmes to foster a facilitative legal, economic, and administrative framework in the Member States to enhance micro and small economic enterprise development, and shall promote,
+**1.** Community shall adopt appropriate policy encourage the development of competitive micro economic enterprises in the Member States.
+
+*competent establishment*
+
+*States to development,*
+
+**2.** Without prejudice to the generality of the foregoing, the Organ shall encourage policy initiatives and the of effective programmes to foster a facilitative legal, economic, and administrative framework in the Member enhance micro and small economic enterprise and shall promote,
 
 (a) the development of the capacities of national and regional support agencies for micro and small economic enterprises, including the creation of entrepreneurial centres, by organising technical assistance inclusive of planning, delivery and evaluation of support services to the sector;
 
@@ -1558,13 +1712,17 @@ access by micro and small economic enterprises to the technical assistance provi
 
 (f) the creation of, and access to, trade and technology information networks.
 
-**3.** For the purposes of this Article, micro and small economic enterprises shall be economic enterprises within the meaning of Article 32 that satisfy such other criteria as may be determined by the competent authorities.
+*economic meaning of*
+
+**3.** For the purposes of this Article, micro and small enterprises shall be economic enterprises within the Article 32 that satisfy such other criteria as may be determined by the competent authorities.
 
 ### ARTICLE 54
 
 Development of the Services Sector
 
-**1.** COTED shall, in collaboration with the appropriate Councils, promote the development of the services sector in the Community in order to stimulate economic complementarities among, accelerate economic development in, the Member States. In particular, COTED shall promote measures to achieve,
+*Councils, the*
+
+**1.** COTED shall, in collaboration with the appropriate promote the development of the services sector in Community in order to stimulate economic complementarities among, accelerate economic development in, the Member States. In particular, COTED shall promote measures to achieve,
 
 (a) increased investment in services;
 
@@ -1574,9 +1732,9 @@ competitiveness in the modes of delivering services; and
 
 (d) enhanced enterprise and infrastructural development, including that of micro and small service enterprises.
 
-**2.** In order to achieve the objectives set out in paragraph 1, the Member States shall, through the appropriate Councils,
+*In order the Member collaborate in,*
 
-*collaborate in,*
+**2.** to achieve the objectives set out in paragraph 1, States shall, through the appropriate Councils,
 
 (a) designing programmes for the development of human resources to achieve competitiveness in the provisions of services;
 
@@ -1596,9 +1754,15 @@ competitiveness in the modes of delivering services; and
 
 Sustainable Tourism Development
 
-**1.** The Community shall, in collaboration with competent international organisations, formulate proposals for sustainable tourism development. These proposals shall recognise the importance of the tourism sub-sector to the economic development of the Region, and the need to conserve its cultural and natural resources and to maintain a balance between a healthy ecology and economic development.
+*The international tourism*
 
-**2.** The programme for sustainable tourism development shall have the following objectives:
+*cultural and between a*
+
+**1.** Community shall, in collaboration with competent organisations, formulate proposals for sustainable development. These proposals shall recognise the importance of the tourism sub-sector to the economic development of the Region, and the need to conserve its natural resources and to maintain a balance healthy ecology and economic development.
+
+*The*
+
+**2.** programme for sustainable tourism development shall have the following objectives:
 
 (a) an enhanced image for the Region as a tourist destination;
 
@@ -1622,9 +1786,9 @@ Sustainable Tourism Development
 
 The Community Agricultural Policy
 
-**1.** The goal of the Community Agricultural Policy shall
+*The goal be,*
 
-*be,*
+**1.** of the Community Agricultural Policy shall
 
 (a) the fundamental transformation of the agricultural sector towards market-oriented, internationally competitive and environmentally sound production of agricultural products;
 
@@ -1638,13 +1802,17 @@ The Community Agricultural Policy
 
 (f) the efficient management and sustainable exploitation of the Region’s natural resources, including its forests and the living resources of the exclusive economic zone,
 
-bearing in mind the differences in resource endowment and economic development of the Member States.
+*bearing in economic*
+
+mind the differences in resource endowment and development of the Member States.
 
 ### ARTICLE 57
 
 Implementation of the Community Agricultural Policy
 
-**1.** For the achievement of the goal set out in Article 56, the Community shall, through competent Community Organs and Bodies, promote and support,
+*For the the Community and Bodies,*
+
+**1.** achievement of the goal set out in Article 56, shall, through competent Community Organs promote and support,
 
 (a) the production, diversification, processing and marketing of agricultural products;
 
@@ -1672,7 +1840,9 @@ Implementation of the Community Agricultural Policy
 
 (m) technical co-operation and the dissemination of knowledge in agriculture.
 
-**2.** For the purpose of assisting the Member States to implement the agricultural policy set out in paragraph 1, COTED shall establish effective support measures including,
+*For the implement the COTED shall*
+
+**2.** purpose of assisting the Member States to agricultural policy set out in paragraph 1, establish effective support measures including,
 
 (a) strengthening the relevant administrative and institutional framework to modernise and enhance the competitiveness of agriculture by,
 
@@ -1688,15 +1858,17 @@ investigating analysing developments in the agri-food sector
 
 (d) promotion of a mechanism for the collaboration of farmers, fishers, foresters and the social partners in agricultural development.
 
-**3.** The Community shall,
+*The*
+
+**3.** Community shall,
 
 (a) promote collaboration among the Member States and competent regional organisations in the areas of policy formulation and implementation of regional agricultural policies; and
 
 (b) establish an effective regime to protect regional agricultural production from dumping, subsidisation and other unfair trading practices.
 
-**4.** The Community shall, as a matter of priority, and in collaboration with national, regional and international agencies and organisations, promote and adopt measures relating, inter
+*The collaboration and alia, to,*
 
-*alia, to,*
+**4.** Community shall, as a matter of priority, and in with national, regional and international agencies organisations, promote and adopt measures relating, inter
 
 the provision of appropriate inputs; and
 
@@ -1706,7 +1878,9 @@ the development of infrastructure, such as port facilities, drainage, irrigation
 
 Natural Resource Management
 
-**1.** The Community shall adopt effective measures to assist the Member States in the management of their natural resources in support of the transformation and sustainable development of the agricultural sector.
+*The the Member resources in*
+
+**1.** Community shall adopt effective measures to assist States in the management of their natural support of the transformation and sustainable development of the agricultural sector.
 
 **2.** Without prejudice to the generality of paragraph 1 and to obligations of Member States under existing international agreements, the Community shall adopt measures for,
 
@@ -1718,11 +1892,17 @@ Natural Resource Management
 
 Marketing of Agricultural Products
 
-**1.** The Community shall, in collaboration with competent national, regional and international organisations, promote the development of effective agricultural marketing systems in
+*The national,*
 
-order to respond to, influence and generate market demand for agricultural products of the Member States.
+**1.** Community shall, in collaboration with competent regional and international organisations, promote the development of effective agricultural marketing systems in
 
-**2.** In effecting the promotion referred to in paragraph 1, the Community shall pay particular attention to,
+*order to respond agricultural*
+
+to, influence and generate market demand for products of the Member States.
+
+*In the Community*
+
+**2.** effecting the promotion referred to in paragraph 1, shall pay particular attention to,
 
 (a) market information, intelligence and planning;
 
@@ -1732,7 +1912,9 @@ order to respond to, influence and generate market demand for agricultural produ
 
 (d) efficient distribution services.
 
-**3.** In order to accomplish the objectives referred to in paragraph 1, the Community shall adopt measures to promote,
+*In order paragraph 1, the*
+
+**3.** to accomplish the objectives referred to in Community shall adopt measures to promote,
 
 (a) the establishment of regional market information system;
 
@@ -1754,15 +1936,21 @@ the establishment and adoption of regional standards and specifications compatib
 
 (j) the development of efficient distribution services to facilitate intra-regional and extra-regional marketing.
 
-**4.** In pursuance of the need to generate market demand for agricultural products of the Member States and to promote the agricultural development of the Less Developed Countries, the Member States shall agree to the arrangements for marketing oils and fats set out in Schedule III.
+*In agricultural agricultural*
+
+**4.** pursuance of the need to generate market demand for products of the Member States and to promote the development of the Less Developed Countries, the Member States shall agree to the arrangements for marketing oils and fats set out in Schedule III.
 
 ### ARTICLE 60
 
 Fisheries Management and Development
 
-**1.** The Community, in collaboration with competent national, regional and international agencies and organisations, shall promote the development, the management and conservation of the fisheries resources in and among the Member States on a sustainable basis.
+*The national,*
 
-**2.** The Community shall effect the promotion and facilitation referred to in paragraph 1 by,
+**1.** Community, in collaboration with competent regional and international agencies and organisations, shall promote the development, the management and conservation of the fisheries resources in and among the Member States on a sustainable basis.
+
+*The facilitation*
+
+**2.** Community shall effect the promotion and referred to in paragraph 1 by,
 
 (a) enhancing the institutional capabilities of the Member States in areas such as policy formulation, registration and management systems, resource monitoring and assessment,
 
@@ -1782,9 +1970,9 @@ harvesting post-harvesting technologies;
 
 (f) establishing, facilitating and strengthening research and human resources development at the professional, technical and vocational levels.
 
-**3.** The Community shall collaborate with the Member
+*The States in,*
 
-*States in,*
+**3.** Community shall collaborate with the Member
 
 (a) the management of straddling and highly migratory fish stocks;
 
@@ -1828,17 +2016,23 @@ enhancing the institutional capabilities of the Member States to design and impl
 
 (i) undertaking national forest inventories.
 
-For the purposes of this Article, “forest resources” are
+*For the those natural*
+
+purposes of this Article, “forest resources” are
 
 3.
 
-those natural assets of forest lands, including timber and other forest products, biological diversity, recreation, fish and wildlife habitat, wilderness, flora and fauna, air, water and soil.
+*wildlife habitat,*
+
+assets of forest lands, including timber and other forest products, biological diversity, recreation, fish and wilderness, flora and fauna, air, water and soil.
 
 ### ARTICLE 62
 
 Saving
 
-The provisions of this Chapter are without prejudice to obligations of the Member States under existing international agreements.
+*The obligations of agreements.*
+
+provisions of this Chapter are without prejudice to the Member States under existing international
 
 ### PART THREE
 
@@ -1848,9 +2042,15 @@ The provisions of this Chapter are without prejudice to obligations of the Membe
 
 Human Resources Development
 
-**1.** Without prejudice to any other provision of this Treaty relating to human resources development, the COTED shall, in collaboration with the COHSOD, adopt measures to develop the Community’s human resources which shall, inter alia, support its thrust toward international competitiveness in the development, production and delivery of goods and services.
+*relating to*
 
-**2.** The measures referred to in paragraph 1 of this Article shall be designed to address the economic, social and cultural aspects of human resources development, and shall include the following,
+*the support its*
+
+**1.** Without prejudice to any other provision of this Treaty human resources development, the COTED shall, in collaboration with the COHSOD, adopt measures to develop Community’s human resources which shall, inter alia, thrust toward international competitiveness in the development, production and delivery of goods and services.
+
+*The shall be aspects of following,*
+
+**2.** measures referred to in paragraph 1 of this Article designed to address the economic, social and cultural human resources development, and shall include the
 
 (a) development of programmes that will assist Community nationals in engendering the attitudes and acquiring the competence to function effectively;
 
@@ -1862,9 +2062,15 @@ Human Resources Development
 
 promotion of multi-lingual skills at all levels for general education, with particular emphasis on the needs of the services sector.
 
-**3.** The Community shall, in particular and on a continuing basis, adopt effective measures for the development of human resources to satisfy the requirements for cadres of skilled agricultural personnel at all levels in the Member States.
+*The basis, adopt*
 
-**4.** For the purposes of paragraph 3, provision shall be made to,
+*agricultural*
+
+**3.** Community shall, in particular and on a continuing effective measures for the development of human resources to satisfy the requirements for cadres of skilled personnel at all levels in the Member States.
+
+**4.** For the purposes of paragraph 3, provision shall be
+
+*made to,*
 
 (a) monitor and evaluate, on an on-going basis, the demand for, and appropriateness of agricultural education and training;
 
@@ -1874,7 +2080,13 @@ promotion of multi-lingual skills at all levels for general education, with part
 
 (d) improve the facilities and strengthen the capabilities of regional training institutions and national administrations in support of agricultural development.
 
-**5.** In performing the functions referred to in paragraph 4 of this Article, the Community shall collaborate with education and training institutions and relevant regional and international organisations in developing harmonised agricultural syllabuses, training materials and case studies in key areas of farming, fisheries and forestry utilising distance education technology where appropriate.
+*In*
+
+*and training*
+
+*syllabuses, farming, technology*
+
+**5.** performing the functions referred to in paragraph 4 of this Article, the Community shall collaborate with education institutions and relevant regional and international organisations in developing harmonised agricultural training materials and case studies in key areas of fisheries and forestry utilising distance education where appropriate.
 
 Research and Development
 
@@ -1902,9 +2114,13 @@ Research and Development
 
 (f) promote the development of technology extension services.
 
-**3.** In particular, COTED shall promote and encourage research and development, and the adaptation, diffusion and transfer of appropriate technologies in order to achieve increased agricultural production and productivity, bearing in mind the need to protect the independence and human rights of the farming community.
+*In research and transfer of increased mind the need the farming*
 
-**4.** COTED shall, in collaboration with competent public and private sector research and development institutions, encourage and assist Member States,
+**3.** particular, COTED shall promote and encourage development, and the adaptation, diffusion and appropriate technologies in order to achieve agricultural production and productivity, bearing in to protect the independence and human rights of community.
+
+*and private encourage and*
+
+**4.** COTED shall, in collaboration with competent public sector research and development institutions, assist Member States,
 
 (a) to facilitate access to and use of new and appropriate technologies in the agricultural sector;
 
@@ -1936,7 +2152,9 @@ the prevention, protection and improvement of the quality of the environment;
 
 (c) the adoption of initiatives at the Community level to address regional environmental problems.
 
-**2.** In formulating measures in relation to the environment, the Community shall take account of,
+*In the Community*
+
+**2.** formulating measures in relation to the environment, shall take account of,
 
 (a) available and accessible scientific and technical data;
 
@@ -1950,17 +2168,25 @@ the prevention, protection and improvement of the quality of the environment;
 
 (f) the need to protect the Region from the harmful effects of hazardous materials transported, generated, disposed of or shipped through or within the Community.
 
-**3.** In performing its functions under this Treaty, COTED shall ensure a balance between the requirements of industrial
+*In shall ensure a*
 
-development and the protection and preservation of the environment.
+**3.** performing its functions under this Treaty, COTED balance between the requirements of industrial
 
-**4.** In giving effect to this Article, the Community and the Member States shall, within their respective spheres of competence, co-operate with third States and competent environmental organisations.
+*development environment.*
+
+and the protection and preservation of the
+
+*competence, environmental*
+
+**4.** In giving effect to this Article, the Community and the Member States shall, within their respective spheres of co-operate with third States and competent organisations.
 
 ### ARTICLE 66
 
 Protection of Intellectual Property Rights
 
-COTED shall promote the protection of intellectual property rights within the Community by, inter alia,
+*COTED shall*
+
+promote the protection of intellectual property rights within the Community by, inter alia,
 
 (a) the strengthening of regimes for the protection of intellectual property rights and the simplification of registration procedures in the Member States;
 
@@ -1988,11 +2214,19 @@ particularly of indigenous populations in the Community;
 
 Standards and Technical Regulations
 
-**1.** COTED shall, in collaboration with competent agencies, develop a standardization programme in furtherance of the objectives of this Chapter and consistent with the international obligations of the Member States.
+*agencies, of the*
 
-**2.** In implementing the programme, the Member States shall not use standards, technical regulations and conformity assessment procedures as barriers to trade.
+**1.** COTED shall, in collaboration with competent develop a standardization programme in furtherance objectives of this Chapter and consistent with the international obligations of the Member States.
 
-**3.** The programme shall have the following objectives,
+*In*
+
+*assessment*
+
+**2.** implementing the programme, the Member States shall not use standards, technical regulations and conformity procedures as barriers to trade.
+
+*The*
+
+**3.** programme shall have the following objectives,
 
 (a) trade facilitation;
 
@@ -2002,7 +2236,9 @@ improved quality of goods and services traded within the Community and with thir
 
 (d) consumer and environmental protection.
 
-**4.** The programme shall include the following elements,
+*The*
+
+**4.** programme shall include the following elements,
 
 (a) harmonisation of standards and technical regulations, and transparency in the development and promulgation of standards and technical regulations;
 
@@ -2014,7 +2250,9 @@ improved quality of goods and services traded within the Community and with thir
 
 (e) arrangements for the exchange of information with respect to development and implementation of standards and technical regulations among the parties to this Treaty.
 
-**5.** The Community shall promote the establishment of a regional standards body which shall, inter alia,
+*The regional*
+
+**5.** Community shall promote the establishment of a standards body which shall, inter alia,
 
 (a) facilitate implementation of the standardisation programme;
 
@@ -2024,9 +2262,9 @@ promote the development of national standards bodies in the Member States; and
 
 (d) facilitate access to technical assistance available in the Member States and in third States.
 
-**6.** For the purposes of this Article, the following
+*For the definitions apply,*
 
-*definitions apply,*
+**6.** purposes of this Article, the following
 
 “technical regulations” means regulations (a)
 
@@ -2108,9 +2346,15 @@ workers’ and employers’ organisations; and cross-border mobility of labour;
 
 Legal Infrastructure
 
-**1.** The Legal Affairs Committee shall co-operate with competent Organs of the Community to advise the Member States on the legal infrastructure required to promote investments in the Member States, including cross-border investments, bearing in mind the provisions of Article 68.
+*The competent*
 
-**2.** The Member States shall harmonise their laws and administrative practices in respect of, inter alia,
+*investments,*
+
+**1.** Legal Affairs Committee shall co-operate with Organs of the Community to advise the Member States on the legal infrastructure required to promote investments in the Member States, including cross-border bearing in mind the provisions of Article 68.
+
+*The*
+
+**2.** Member States shall harmonise their laws and administrative practices in respect of, inter alia,
 
 (a) companies or other legal entities;
 
@@ -2128,13 +2372,19 @@ labelling of food and drugs;
 
 ARTICLE 75 Development of Social Infrastructure
 
-**1.** In establishing its industrial policy, the Community shall promote appropriate measures for the establishment of adequate social infrastructure, the alleviation of poverty, and securing social stability in the Member States.
+*In shall promote adequate social securing social*
 
-**2.** Without prejudice to the generality of the foregoing, the Community shall promote in the Member States, (a) the establishment and improvement of health, education, sports and social security institutions and facilities;
+**1.** establishing its industrial policy, the Community appropriate measures for the establishment of infrastructure, the alleviation of poverty, and stability in the Member States.
+
+*Without Community*
+
+**2.** prejudice to the generality of the foregoing, the shall promote in the Member States, (a) the establishment and improvement of health, education, sports and social security institutions and facilities;
 
 (b) conclusion of reciprocal social security agreements among Member States in order to facilitate the movement of skills; and (c) training and retraining of workers, mobility of instructors and trainees, co-operation among educational and training institutions, and the development of distance education.
 
-The Member States shall engender an understanding and appreciation of the Community through effective public relations, educational, cultural and youth exchange programmes.
+*relations, programmes.*
+
+Member States shall engender an understanding appreciation of the Community through effective public educational, cultural and youth exchange
 
 ### ARTICLE 76
 
@@ -2154,7 +2404,9 @@ COTED shall promote the modernisation of government bureaucracies by, inter alia
 
 Special Provisions for Less Developed Countries
 
-Where in this Chapter Member States or competent Organs are required to adopt measures for the achievement of the Community Industrial Policy, the special needs and
+*required to Community*
+
+Where in this Chapter Member States or competent Organs are adopt measures for the achievement of the Industrial Policy, the special needs and
 
 circumstances of the Less Developed Countries shall be taken into account.
 
@@ -2170,19 +2422,23 @@ circumstances of the Less Developed Countries shall be taken into account.
 
 Objectives of the Community Trade Policy
 
-**1.** The goal of the Community Trade Policy shall be the sustained growth of intra-Community and international trade and mutually beneficial exchange of goods and services among the Member States and between the Community and third States.
+*sustained*
 
-**2.** In fulfilment of the goal set out in paragraph 1 of this Article the Community shall pursue the following objectives,
+**1.** The goal of the Community Trade Policy shall be the growth of intra-Community and international trade and mutually beneficial exchange of goods and services among the Member States and between the Community and third
 
-(a) full integration of the national markets of all Member States of the Community into a single unified and open market area;
+*States.*
+
+*In Article the*
+
+**2.** fulfilment of the goal set out in paragraph 1 of this Community shall pursue the following objectives, (a) full integration of the national markets of all Member States of the Community into a single unified and open market area;
 
 (b) the widening of the market area of the Community;
 
-(c) the active promotion of export of internationally competitive goods and services originating within the Community;
+(c) the active promotion of export of internationally competitive goods and services originating within the Community; (d) the securing of the most favourable terms of trade for Community goods and services exported to third States and groups of States.
 
-(d) the securing of the most favourable terms of trade for Community goods and services exported to third States and groups of States.
+*In order the Community*
 
-In order to achieve the objectives of its Trade Policy, the Community shall,
+to achieve the objectives of its Trade Policy, shall,
 
 (a) undertake,
 
@@ -2194,7 +2450,9 @@ In order to achieve the objectives of its Trade Policy, the Community shall,
 
 (b) prohibit the imposition by the Member States of new restrictions on imports and exports of products of Community origin.
 
-**4.** Member States shall eliminate existing restrictions on imports and exports of goods of Community origin, other than those authorized by this Treaty.
+*Member imports and those authorized*
+
+**4.** States shall eliminate existing restrictions on exports of goods of Community origin, other than by this Treaty.
 
 General Provisions on Trade Liberalisation
 
@@ -2242,11 +2500,17 @@ The Member States shall establish and maintain a common external tariff in respe
 
 Operation of the Common External Tariff
 
-*Protocol of 12th March, 2010, Dominica.*
+*Protocol of 12th Any March, 2010,*
 
-**1.** Any alteration or suspension of the Common External Tariff on any item shall be decided by COTED
+*Tariff on any*
 
-**2.** Pursuant to paragraph 1, a suspension of the Common External Tariff shall be subject to such terms and conditions as COTED may decide provided that the decision to suspend takes into account any of the following,
+*Dominica.*
+
+**1.** alteration or suspension of the Common External item shall be decided by COTED
+
+*takes into*
+
+**2.** Pursuant to paragraph 1, a suspension of the Common External Tariff shall be subject to such terms and conditions as COTED may decide provided that the decision to suspend account any of the following,
 
 (a) the product is not being produced in the Community;
 
@@ -2262,7 +2526,9 @@ Operation of the Common External Tariff
 
 (g) cost of living issues.
 
-**3.** In no case shall the product imported from third States, for which a suspension of the Common External Tariff has been authorized, be accorded more favourable treatment than similar products produced in Member States.
+*In no for which a been*
+
+**3.** case shall the product imported from third States, suspension of the Common External Tariff has authorized, be accorded more favourable treatment than similar products produced in Member States.
 
 Notwithstanding paragraph 1, during any period between the meetings of COTED, the Secretary-General may suspend the Common External Tariff on behalf of COTED. When exercising the authority to suspend, the Secretary-General shall consider only the factors set out in sub-paragraphs (a), (b) or (c) of paragraph 2. Any exercise of such authority by the Secretary-General shall be reported to the next meeting of COTED.
 
@@ -2294,21 +2560,29 @@ by the goods being classified in a tariff heading different from that in which a
 
 “wholly produced” or “produced from regional materials”, is
 
-unable by reason of circumstances beyond his control to obtain supplies of the regional materials, he shall so inform the competent authority.
+*unable by supplies of the competent*
 
-**4.** The competent authority shall,
+reason of circumstances beyond his control to obtain regional materials, he shall so inform the authority.
+
+*The*
+
+**4.** competent authority shall,
 
 (a) after receipt of information from the manufacturer, cause investigations to be made into the matter, and if he is satisfied that the representation from the manufacturer is justified, submit to the Secretary- General in the prescribed instrument an application for a certificate provided for in this Article;
 
 (b) at the time of making the application, inform the other Member States of the inability of the manufacturer to obtain the supplies of the required materials from within the Community with respect to quantities and specifications of the materials sought and the period during which the materials are required.
 
-**5.** The Secretary-General shall, on receipt of the application from the competent authority,
+*The*
+
+**5.** Secretary-General shall, on receipt of the application from the competent authority,
 
 (a) forthwith make the relevant enquiries by the quickest possible means from the competent authorities in the other Member States as to their ability to supply the materials required by the manufacturer; and
 
 (b) request a reply to the enquiry from each competent authority within seven calendar days of the despatch of his enquiry.
 
-**6.** A competent authority shall reply to the enquiry referred to in paragraph 5 within the time specified.
+*A referred to in*
+
+**6.** competent authority shall reply to the enquiry paragraph 5 within the time specified.
 
 Where the Secretary-General, on the basis of his investigations, is satisfied that the application received from the competent authority justifies favourable consideration, he shall, notwithstanding that he may not have received a reply to his enquiry from one or more Member States, within fourteen calendar days after the receipt of the application from the competent authority, issue on behalf of COTED, a certificate to the competent authority authorizing the use of like materials from outside the Community, subject to such conditions as he may think fit to impose.
 
@@ -2322,9 +2596,13 @@ Where the Secretary-General, on the basis of his investigations, is satisfied th
 
 Export Promotion
 
-**1.** COTED shall adopt appropriate measures for the promotion and export of goods and services.
+*promotion and*
 
-**2.** In the implementation of measures to promote exports, COTED shall give consideration to,
+**1.** COTED shall adopt appropriate measures for the export of goods and services.
+
+*In the COTED shall*
+
+**2.** implementation of measures to promote exports, give consideration to,
 
 (a) the establishment and maintenance of effective trade information systems and services;
 
@@ -2336,17 +2614,27 @@ Export Promotion
 
 Freedom of Transit
 
-**1.** The Member States shall grant freedom of transit within the Community with respect to goods and vessels and other vehicles transporting those goods.
+*The*
 
-**2.** For the purpose of paragraph 1 of this Article, transit means the passage of goods and of vessels and aircraft and vehicles transporting those goods,
+*vehicles*
+
+**1.** Member States shall grant freedom of transit within the Community with respect to goods and vessels and other transporting those goods.
+
+*For the means the vehicles*
+
+**2.** purpose of paragraph 1 of this Article, transit passage of goods and of vessels and aircraft and transporting those goods,
 
 (a) through or across the frontier of a Member State;
 
 with or without transshipment, warehousing, breaking bulk or change of mode of transport,
 
-where the passage is only a portion of a journey beginning and terminating beyond its frontier.
+*where the terminating*
 
-**3.** In granting freedom of transit within the meaning of paragraph 2, the Member States,
+passage is only a portion of a journey beginning and beyond its frontier.
+
+*In paragraph 2, the*
+
+**3.** granting freedom of transit within the meaning of Member States,
 
 (a) shall ensure that there are no unnecessary delays or restrictions and that goods, vessels, aircraft and vehicles transporting those goods are subject only to charges for transport, handling, and other services rendered;
 
@@ -2358,11 +2646,13 @@ where the passage is only a portion of a journey beginning and terminating beyon
 
 Import Duties
 
-**1.** Save as otherwise provided in this Treaty, Member States shall not impose import duties on goods of Community
+*Save as States shall not origin.*
 
-*origin.*
+**1.** otherwise provided in this Treaty, Member impose import duties on goods of Community
 
-**2.** Nothing in paragraph 1 of this Article shall be construed to extend to the imposition of non-discriminatory
+*Nothing construed to*
+
+**2.** in paragraph 1 of this Article shall be extend to the imposition of non-discriminatory
 
 internal charges on any products or a substitute not produced in the importing Member State.
 
@@ -2428,7 +2718,11 @@ Internal Taxes and Other Fiscal Charges
 
 (b) apply fiscal charges to imported goods of Community origin of a kind which they do not produce, or which they do not produce in substantial quantities, in such a way as to protect the domestic production of substitutes which enter into direct competition with them and which do not bear, directly or indirectly, in the country of importation, fiscal charges of equivalent incidence.
 
-**2.** A Member State shall notify COTED of all fiscal charges applied by it where, although the rates of charge, or the conditions governing the imposition or collection of the charge, are not identical in relation to the imported goods and to the like domestic goods, the Member State applying the charge considers that the charge is, or has been made, consistently with sub-paragraph (a) of paragraph 1 of this Article. A Member State shall, at the request of any other
+*A*
+
+*to the like charge consistently Article. A*
+
+**2.** Member State shall notify COTED of all fiscal charges applied by it where, although the rates of charge, or the conditions governing the imposition or collection of the charge, are not identical in relation to the imported goods and domestic goods, the Member State applying the considers that the charge is, or has been made, with sub-paragraph (a) of paragraph 1 of this Member State shall, at the request of any other
 
 Member State, supply information about the application of paragraph 1 of this Article.
 
@@ -2454,7 +2748,13 @@ Quantitative Restrictions
 
 Difficulties Occasioned by Particular Imports
 
-**1.** Subject to Article 150, wherever imports of any product, including any primary agricultural product, into a Member State cause serious injury or the threat of serious injury to domestic producers of like or directly competitive products in any industry or specific sector of any industry, the importing Member State shall be free to impose restrictions in respect of such product if,
+*product,*
+
+*injury to*
+
+*importing*
+
+**1.** Subject to Article 150, wherever imports of any including any primary agricultural product, into a Member State cause serious injury or the threat of serious domestic producers of like or directly competitive products in any industry or specific sector of any industry, the Member State shall be free to impose restrictions in respect of such product if,
 
 (a) the import of the product in question results in a substantial decrease in demand for the like or directly competitive product produced within its jurisdiction; and
 
@@ -2466,15 +2766,21 @@ Difficulties Occasioned by Particular Imports
 
 (b) take such other measures either instead of or in addition to quantitative restrictions in accordance with sub- paragraph (a) as COTED may authorise.
 
-In applying the restrictions in accordance with paragraph 2, a Member State shall not discriminate among the sources of supply or the nationality of suppliers, and shall give consideration to the proportionate share of the market previously enjoyed by each Member State.
+*In paragraph 2, a sources of consideration previously*
 
-**4.** Where a Member State,
+applying the restrictions in accordance with Member State shall not discriminate among the supply or the nationality of suppliers, and shall give to the proportionate share of the market enjoyed by each Member State.
+
+*Where a*
+
+**4.** Member State,
 
 (a) intends to act in accordance with paragraph 2, it shall, prior to taking such action, enter into consultation with affected Member States and notify COTED of that intention and the nature of the action;
 
 (b) is unable to comply with sub-paragraph (a) of this paragraph, it shall, in taking the action, immediately notify COTED of the application and the nature of the action.
 
-**5.** The Member State at the time of taking such action in accordance with paragraph 2 shall submit to COTED,
+*The*
+
+**5.** Member State at the time of taking such action in accordance with paragraph 2 shall submit to COTED,
 
 (a) such information as is reasonably available, including:
 
@@ -2490,15 +2796,21 @@ In applying the restrictions in accordance with paragraph 2, a Member State shal
 
 (b) a programme setting out the measures to be taken to assist the domestic producers to alleviate the difficulties they face and to restore their position in the domestic market.
 
-**6.** COTED shall give its earliest consideration to the submission made under paragraph 5, and,
+*COTED submission*
+
+**6.** shall give its earliest consideration to the made under paragraph 5, and,
 
 (a) make a determination of the appropriateness of the restrictions and whether they shall be continued;
 
 (b) where it decides that the restrictions shall be continued, determine the adequacy of the programme and the period for which the restrictions shall continue.
 
-**7.** Restrictions applied by a Member State pursuant to paragraph 2 shall be confined to those necessary to forestall a threat of serious injury or otherwise eliminate injury.
+*paragraph 2 threat of serious*
 
-**8.** The Member States in applying restrictions pursuant to paragraph 2 shall not discriminate and,
+**7.** Restrictions applied by a Member State pursuant to shall be confined to those necessary to forestall a injury or otherwise eliminate injury.
+
+*The paragraph 2*
+
+**8.** Member States in applying restrictions pursuant to shall not discriminate and,
 
 (a) shall progressively relax them as the relevant conditions improve;
 
@@ -2522,7 +2834,11 @@ Government Assistance to Economic Development
 
 **2.** If the application of any type of assistance by a Member State, although not contrary to paragraph 1 (b) of this Article, nevertheless frustrates the benefits expected from such removal or absence of duties and quantitative restrictions as is
 
-required by this Treaty, COTED may authorize any Member State to suspend, in relation to the Member State which is applying the assistance, the application of such obligations under this Treaty as the COTED considers appropriate.
+*State to*
+
+*under this*
+
+required by this Treaty, COTED may authorize any Member suspend, in relation to the Member State which is applying the assistance, the application of such obligations Treaty as the COTED considers appropriate.
 
 **3.** COTED may amend the provisions of Schedule V.
 
@@ -2530,15 +2846,21 @@ required by this Treaty, COTED may authorize any Member State to suspend, in rel
 
 Public Undertakings
 
-**1.** Except as otherwise provided in this Treaty, Member States shall ensure the elimination in the practices of public undertakings of,
+*States shall*
+
+**1.** Except as otherwise provided in this Treaty, Member ensure the elimination in the practices of public undertakings of,
 
 (a) measures the effect of which is to afford protection to domestic production and which would be inconsistent with this Treaty if achieved by means of a duty or charge with equivalent effect or quantitative restrictions or Government assistance; or
 
 (b) trade discrimination on grounds of territorial origin in so far as it frustrates the benefits expected from the removal or absence of such charges, duties and quantitative restrictions as is required by this Treaty.
 
-**2.** In so far as Article 92 is relevant to the activities of public undertakings, that Article shall apply to them in the same way as it applies to other enterprises.
+*public*
 
-**3.** Where a public undertaking has introduced a measure or practice which,
+**2.** In so far as Article 92 is relevant to the activities of undertakings, that Article shall apply to them in the same way as it applies to other enterprises.
+
+*or practice*
+
+**3.** Where a public undertaking has introduced a measure which,
 
 (a) is inconsistent with paragraph 1; or
 
@@ -2578,7 +2900,9 @@ Co-operation in Customs Administration
 
 **2.** The Member States undertake to establish harmonised customs legislation and customs procedures in accordance with the provisions of this Chapter.
 
-COTED shall establish procedures for co-operation in customs administration as described in paragraph 1 of this Article.
+*customs Article.*
+
+COTED shall establish procedures for co-operation in administration as described in paragraph 1 of this
 
 ### PART THREE
 
@@ -2588,7 +2912,11 @@ COTED shall establish procedures for co-operation in customs administration as d
 
 Determination of A Subsidy
 
-For the purpose of this Part, a subsidy shall be deemed to exist if there is a financial contribution by a Government or any public body within the territory of a Member State (hereinafter referred to as “government”) where,
+*if there is a public body referred to as*
+
+For the purpose of this Part, a subsidy shall be deemed to exist financial contribution by a Government or any within the territory of a Member State (hereinafter
+
+“government”) where,
 
 (a) a government practice involves direct transfer (e.g., grants, loans and equity infusion) or potential direct transfer of funds or liabilities (e.g., loan guarantees);
 
@@ -2602,7 +2930,9 @@ For the purpose of this Part, a subsidy shall be deemed to exist if there is a f
 
 Types of Subsidies
 
-**1.** A subsidy within the meaning of Article 96 shall be categorised as follows,
+*A categorised as*
+
+**1.** subsidy within the meaning of Article 96 shall be follows,
 
 (a) a prohibited subsidy;
 
@@ -2616,7 +2946,9 @@ Types of Subsidies
 
 (c) a subsidy which causes serious adverse effects to a domestic industry or group of enterprises or industries within the jurisdiction of the granting Member State.
 
-**2.** For the purpose of this Chapter a determination of whether a subsidy as defined in Article 96 is specific shall be governed by the following,
+*For the whether a governed by the*
+
+**2.** purpose of this Chapter a determination of subsidy as defined in Article 96 is specific shall be following,
 
 (a) in order to determine whether a subsidy referred to in paragraph 1 of this Article is specific to an enterprise or industry or group or enterprises or industries (referred to in this Part as “certain enterprises”) within the jurisdiction of the granting authority, the following criteria shall apply,
 
@@ -2636,11 +2968,13 @@ shall be taken of the extent of diversification of economic activities within th
 
 ### ARTICLE 98
 
-Entitlement to Take Action Against Subsidised Product
+*Entitlement*
 
-**1.** A Member State may take action against subsidised
+to Take Action Against Subsidised Product
 
-*products where,*
+*A products where,*
+
+**1.** Member State may take action against subsidised
 
 (a) the products have benefited from a prohibited subsidy;
 
@@ -2648,7 +2982,9 @@ Entitlement to Take Action Against Subsidised Product
 
 the subsidy is specific and does not conform to the provisions of Article 108.
 
-**2.** Notwithstanding the provisions of paragraph 1, a Member State shall not take definitive action against products which are believed to be benefitting from subsidies referred to in Article 97 if the Member State aggrieved thereby has not,
+*which are*
+
+**2.** Notwithstanding the provisions of paragraph 1, a Member State shall not take definitive action against products believed to be benefitting from subsidies referred to in Article 97 if the Member State aggrieved thereby has not,
 
 (a) promulgated legislation to permit the introduction of counter measures or countervailing duties against subsidised imports;
 
@@ -2664,7 +3000,9 @@ the subsidy is specific and does not conform to the provisions of Article 108.
 
 Prohibited Subsidies
 
-**1.** Subject to this Treaty, a Member State shall neither grant nor maintain subsidies referred to in paragraph 2.
+*grant nor*
+
+**1.** Subject to this Treaty, a Member State shall neither maintain subsidies referred to in paragraph 2.
 
 The following subsidies within the meaning of Article 96 shall be prohibited,
 
@@ -2746,9 +3084,9 @@ nullification or impairment of benefits which it expects under this Treaty; or
 
 (c) serious prejudice to its interests.
 
-**2.** Serious prejudice shall be deemed to exist in the case
+*Serious where,*
 
-*where,*
+**2.** prejudice shall be deemed to exist in the case
 
 (a) the total ad volarem subsidisation of a product exceeds 5 per cent;
 
@@ -2758,7 +3096,9 @@ nullification or impairment of benefits which it expects under this Treaty; or
 
 (d) subsidies are granted in the form of forgiveness of government-held debt and government grants to cover debt repayment.
 
-**3.** Notwithstanding the provisions of this Article, serious prejudice shall not be found if the Member State granting the subsidy in question demonstrates that the effect of the subsidy has not been,
+*prejudice shall subsidy in has not been,*
+
+**3.** Notwithstanding the provisions of this Article, serious not be found if the Member State granting the question demonstrates that the effect of the subsidy
 
 (a) to displace or impede the imports of like products from the Member State exporting to the Member State which has introduced or maintains the subsidy;
 
@@ -2770,15 +3110,27 @@ to displace or impede the exports of a like product from the affected exporting 
 
 (e) an increase in its market share within the CSME.
 
-**4.** The provisions of this Article shall not apply to Part Three.
+*The Three.*
+
+**4.** provisions of this Article shall not apply to Part
 
 ### ARTICLE 106
 
 Preliminary Investigation of Subsidies Causing Injury, Nullification, Impairment or Serious Prejudice
 
-**1.** An application for an investigation may be made in writing by or on behalf of a domestic industry to the national authority where the industry has reason to believe that a subsidy referred to in Article 105 has been granted or is maintained by another Member State and has caused injury, or resulted in nullification, impairment or serious prejudice to its interests.
+*An*
 
-**2.** An application under paragraph 1 shall include sufficient information about the existence of a subsidy and, if possible, its amount, injury and a causal link between the subsidised products and the alleged injury.
+*subsidy*
+
+*resulted in interests.*
+
+**1.** application for an investigation may be made in writing by or on behalf of a domestic industry to the national authority where the industry has reason to believe that a referred to in Article 105 has been granted or is maintained by another Member State and has caused injury, or nullification, impairment or serious prejudice to its
+
+*An sufficient*
+
+*subsidised*
+
+**2.** application under paragraph 1 shall include information about the existence of a subsidy and, if possible, its amount, injury and a causal link between the products and the alleged injury.
 
 An application to initiate an investigation shall be considered to have been made by or on behalf of a domestic industry if it is supported by those domestic producers whose collective output constitutes more than 50 per cent of the total production of the like product by that proportion of the domestic industry expressing support for or opposition to the application. the investigation shall not be initiated where the domestic producers expressly supporting the application account for less than 25 per cent of the total production of the like product produced by the domestic industry.
 
@@ -2828,7 +3180,11 @@ upon receipt of the report arising from the investigation, promptly make availab
 
 Consequences of Failure to Remove Subsidies Causing Injury, Nullification, Impairment or Serious Prejudice
 
-**1.** If no mutually acceptable solution is reached within 30 days of the date of issue of the report by COTED, and COTED is satisfied,
+*If no*
+
+**1.** mutually acceptable solution is reached within 30 days of the date of issue of the report by COTED, and COTED
+
+*is satisfied,*
 
 (a) of the existence of a subsidy within the meaning of Article 105; and
 
@@ -2838,9 +3194,13 @@ Consequences of Failure to Remove Subsidies Causing Injury, Nullification, Impai
 
 (d) that the effect of the subsidy was to seriously prejudice the interest of the Member State,
 
-then in such a case, COTED shall request the Member State which has granted or maintained the subsidy to take appropriate steps to remedy the effects of the subsidy within six months of the date of the issue of the report by COTED.
+*which has appropriate six months of*
 
-**2.** If, at the end of the period of six months allowed by COTED to the Member State granting or maintaining the subsidy to remedy the effects of the subsidy, the Member State
+then in such a case, COTED shall request the Member State granted or maintained the subsidy to take steps to remedy the effects of the subsidy within the date of the issue of the report by COTED.
+
+*subsidy to*
+
+**2.** If, at the end of the period of six months allowed by COTED to the Member State granting or maintaining the remedy the effects of the subsidy, the Member State
 
 fails to comply and in the absence of agreement on compensation COTED shall authorise the aggrieved Member State to impose countervailing duties at a rate equivalent to the amount of subsidisation for such time and under such conditions as COTED may prescribe.
 
@@ -2952,7 +3312,9 @@ Imposition of Provisional Measures and Countervailing Duties
 
 subsidy causing injury, nullification, impairment, serious prejudice, or a subsidy causing serious adverse effects, as the case may be;
 
-(iii) consultations were requested and undertaken, COTED was notified and requested to investigate and the authorities concerned judge such measures necessary to prevent injury being caused during the investigation;
+*was notified concerned being caused*
+
+consultations were requested and undertaken, COTED and requested to investigate and the authorities judge such measures necessary to prevent injury during the investigation;
 
 (b) Provisional measures may take the form of provisional countervailing duties guaranteed by cash deposits or bonds equal to the amount of the subsidisation calculated on a provisional basis;
 
@@ -2960,9 +3322,15 @@ subsidy causing injury, nullification, impairment, serious prejudice, or a subsi
 
 (d) The application of provisional measures shall be limited to as short a period as possible, not exceeding 120 days.
 
-**2.** Where investigations by COTED continue beyond the period allowed for the maintenance of provisional measures under sub-paragraph 1(d), the Member State imposing the measures may continue with such measures until a definitive determination is made by COTED.
+*under*
 
-**3.** The Member States which are parties to an investigation to verify the existence and the effect of alleged subsidisation may seek or accept, as the case may be, undertakings from the Member State alleged to have granted or to be maintaining a subsidy. Undertakings may take the form of,
+**2.** Where investigations by COTED continue beyond the period allowed for the maintenance of provisional measures sub-paragraph 1(d), the Member State imposing the measures may continue with such measures until a definitive determination is made by COTED.
+
+*The*
+
+*subsidisation undertakings to be of,*
+
+**3.** Member States which are parties to an investigation to verify the existence and the effect of alleged may seek or accept, as the case may be, from the Member State alleged to have granted or maintaining a subsidy. Undertakings may take the form
 
 (a) withdrawal, or limiting the amount of, the subsidy to such an extent that injury, nullification, impairment, serious prejudice or serious adverse effects, as the case may be, are eliminated; or
 
@@ -2980,9 +3348,13 @@ a guarantee from the exporter benefiting from the subsidy to raise his price to 
 
 **7.** COTED shall keep under review all counter-measures imposed by the Member States and shall ensure that the Member States observe the conditions and timetable for review
 
-and withdrawal of counter-measures that it may have authorised.
+withdrawal of counter-measures that it may have
 
-**8.** The Member States undertake to co-operate in establishing harmonised legislation and procedures in accordance with the provisions of this Chapter.
+*authorised.*
+
+*The establishing*
+
+**8.** Member States undertake to co-operate in harmonised legislation and procedures in accordance with the provisions of this Chapter.
 
 ### PART FOUR
 
@@ -2992,11 +3364,15 @@ and withdrawal of counter-measures that it may have authorised.
 
 Definition
 
-For the purpose of this Part, an “agricultural subsidy”
+purpose of this Part, an “agricultural subsidy”
 
-1.
+**1.** For the
 
-means any form of domestic support, financial or otherwise, including revenue foregone, provided by government or any public agency in favour of the producers of a specific agricultural product or to the agricultural sector as a whole. This includes,
+*means any including*
+
+*agricultural*
+
+form of domestic support, financial or otherwise, revenue foregone, provided by government or any public agency in favour of the producers of a specific product or to the agricultural sector as a whole. This includes,
 
 (a) assistance provided by government or any public agency to foster agricultural and rural development or to assist low income producers or producers with deficient resources;
 
@@ -3132,13 +3508,17 @@ Determination of Injury
 
 **1.** For the purpose of this part, injury shall, unless otherwise specified, be taken to mean material injury to a domestic industry, threat of material injury to a domestic industry or material retardation of the establishment of such an industry.
 
-A determination of injury within the meaning of paragraph 1 shall be based on positive evidence and involve an objective examination of,
+*A paragraph 1 objective*
+
+determination of injury within the meaning of shall be based on positive evidence and involve an examination of,
 
 (a) the volume of the dumped imports and the effect of such imports on prices in the domestic market for like products; and
 
 (b) the consequent impact of the dumped imports on domestic producers of such products.
 
-**3.** In making a determination regarding the existence of a threat of material injury, the competent authorities shall consider, inter alia,
+*In threat of consider, inter*
+
+**3.** making a determination regarding the existence of a material injury, the competent authorities shall alia,
 
 (a) a significant rate of increase of dumped imports into the domestic market indicating the likelihood of substantially increased importation;
 
@@ -3184,7 +3564,17 @@ include,
 
 a producer of the like product in the importing Member State or a trade and business association, a majority of the members of which produce the like product in the territory of the importing Member State.
 
-**9.** A request for investigations to be undertaken by the competent authority of a Member State or by COTED shall include but shall not necessarily be limited to the information indicated in the Illustrative List set out in Annex III (b). If, however, an aggrieved Member State is satisfied that the offending party had not made satisfactory efforts to afford consultations, to provide requested information or otherwise unreasonably impede an investigation which has been initiated, the competent authority of the Member State aggrieved may impose on a provisional basis anti-dumping measures and may refer the request for investigations to COTED. A public notice of the imposition of provisional anti-dumping measures shall be issued by the Member State which has imposed such measures.
+*A competent include but*
+
+*however, an*
+
+*impose on a*
+
+*of the*
+
+**9.** request for investigations to be undertaken by the authority of a Member State or by COTED shall shall not necessarily be limited to the information indicated in the Illustrative List set out in Annex III (b). If, aggrieved Member State is satisfied that the offending party had not made satisfactory efforts to afford consultations, to provide requested information or otherwise unreasonably impede an investigation which has been initiated, the competent authority of the Member State aggrieved may provisional basis anti-dumping measures and may refer the request for investigations to COTED. A public notice imposition of provisional anti-dumping measures shall be issued by the Member State which has imposed such
+
+*measures.*
 
 ### ARTICLE 130
 
@@ -3238,7 +3628,9 @@ Co-operation by Competent Authorities and Interested Parties
 
 **2.** The results of any investigations carried out by a competent authority of a Member State aggrieved or by COTED shall be disclosed promptly to the competent authority and the parties alleged to be responsible for dumped imports in the offending Member State. A public notice of the conclusions of the investigations shall be issued by the Member State or by COTED, as the case may be.
 
-The purpose of the disclosure referred to in paragraph 2 shall be to present the facts of the case and to allow the parties alleged to be responsible for the dumped imports to defend their interests.
+*shall be to*
+
+purpose of the disclosure referred to in paragraph 2 present the facts of the case and to allow the parties alleged to be responsible for the dumped imports to defend their interests.
 
 ### ARTICLE 133
 
@@ -3250,7 +3642,9 @@ Imposition of Anti-Dumping Measures
 
 (b) if there is a serious threat of injury or if injury has resulted.
 
-**2.** In authorising the imposition of anti-dumping measures, COTED shall set the date, duration and conditions for the imposition of the measures as the case may require.
+*In measures, for the*
+
+**2.** authorising the imposition of anti-dumping COTED shall set the date, duration and conditions imposition of the measures as the case may require.
 
 **3.** Anti-dumping action taken pursuant to this Article, shall be based on the calculated margin of dumping and may be applied as follows,
 
@@ -3306,7 +3700,9 @@ the development of efficient internationally competitive ancillary transport ser
 
 Implementation of Community Transport Policy
 
-**1.** In order to achieve the objectives of the Community Transport Policy, COTED shall, in collaboration with other Organs of the Community as appropriate, promote, inter alia,
+*In order Transport Organs of the*
+
+**1.** to achieve the objectives of the Community Policy, COTED shall, in collaboration with other Community as appropriate, promote, inter alia,
 
 (a) co-ordination of the national transport policies of the Member States;
 
@@ -3340,23 +3736,37 @@ Search and Rescue
 
 **2.** The Member States shall notify COTED of air and maritime equipment and facilitates available for use in search and rescue operations.
 
-The Member States shall collaborate with third States and competent international organisations in search and rescue operations.
+Member States shall collaborate with third States and competent international organisations in search and rescue
+
+*operations.*
 
 ### ARTICLE 137
 
 Intra-Community Transport Services
 
-**1.** The Member States shall adopt uniform standards and recommended practices for the provision of transport services.
+*The*
 
-**2.** The Member States shall notify COTED of legislative, regulatory or administrative measures affecting the provision of transport services within their domestic jurisdictions where such measures deviate from uniform standards and recommended practices.
+**1.** Member States shall adopt uniform standards and recommended practices for the provision of transport services.
 
-**3.** The Member States adversely affected by such regulatory or administrative measures may notify COTED of such adverse effects, and shall have recourse to the disputes settlement procedures provided in the Treaty.
+*The*
+
+*of transport*
+
+**2.** Member States shall notify COTED of legislative, regulatory or administrative measures affecting the provision services within their domestic jurisdictions where such measures deviate from uniform standards and recommended practices.
+
+*The*
+
+*such adverse settlement*
+
+**3.** Member States adversely affected by such regulatory or administrative measures may notify COTED of effects, and shall have recourse to the disputes procedures provided in the Treaty.
 
 ### ARTICLE 138
 
 Intra-Community Transport Services
 
-**1.** The Member States shall co-operate in,
+*The*
+
+**1.** Member States shall co-operate in,
 
 (a) the development of air transport services in the Community and towards this end may conclude among themselves air transport agreements designed to facilitate the provision of such services;
 
@@ -3382,7 +3792,9 @@ Aircraft Accident and Incident Investigation
 
 Development of Maritime Transport Services
 
-**1.** The Member States shall co-operate in the development of maritime transport services in the Community. In particular, the Member States shall co-operate in,
+*The of maritime the Member*
+
+**1.** Member States shall co-operate in the development transport services in the Community. In particular, States shall co-operate in,
 
 (a) enhancing flag and port State control activities in the Region;
 
@@ -3392,13 +3804,17 @@ Development of Maritime Transport Services
 
 (d) taking any other action necessary for the sustainable development of the shipping sector.
 
-**2.** The community shall co-operate with competent national, regional and international organisations in establishing conditions for the provision of efficient and affordable maritime transport services among the Member States.
+*The national, establishing affordable States.*
 
-**3.** COTED shall promote co-operation among the Member States in the implementation of relevant international maritime instruments relating to maritime safety, marine environmental protection, maritime accident investigation and the facilitation of maritime traffic.
+**2.** community shall co-operate with competent regional and international organisations in conditions for the provision of efficient and maritime transport services among the Member
 
-COTED shall promote and co-ordinate the development of maritime transport services in the Community through, inter
+*States in the instruments protection, of maritime*
 
-*alia;*
+**3.** COTED shall promote co-operation among the Member implementation of relevant international maritime relating to maritime safety, marine environmental maritime accident investigation and the facilitation traffic.
+
+*COTED of maritime alia;*
+
+shall promote and co-ordinate the development transport services in the Community through, inter
 
 (a) the development of proposals for the establishment and upgrade of small vessel enterprises in the Community;
 
@@ -3414,7 +3830,9 @@ COTED shall promote and co-ordinate the development of maritime transport servic
 
 measures for the development of ancillary services in the shipping industry, including non-vessel operating common carriers, marine insurance, freight forwarding, transshipment and other services.
 
-**5.** The Member States shall promote the development of maritime transport services in the Community through, inter alia,
+*The maritime alia,*
+
+**5.** Member States shall promote the development of transport services in the Community through, inter
 
 (a) the establishment and improvement of port facilities;
 
@@ -3428,7 +3846,13 @@ measures for the development of ancillary services in the shipping industry, inc
 
 Special Status of the Caribbean Sea
 
-The Member States shall co-operate in achieving international recognition for the Caribbean Sea as a Special Area requiring protection from the potentially harmful effects of the transit of nuclear and other hazardous wastes, dumping, pollution by oil or by any other substance carried by sea or wastes generated through the conduct of ship operations.
+*The Member*
+
+*nuclear and*
+
+*through the*
+
+States shall co-operate in achieving international recognition for the Caribbean Sea as a Special Area requiring protection from the potentially harmful effects of the transit of other hazardous wastes, dumping, pollution by oil or by any other substance carried by sea or wastes generated conduct of ship operations.
 
 ### CHAPTER SEVEN
 
@@ -3450,9 +3874,15 @@ Scope of Application
 
 Objective of the Regimes
 
-**1.** The objective of the regimes mentioned in Article 142 is to assist the disadvantaged countries, regions and sectors towards becoming economically viable and competitive by appropriate interventions of a transitional or temporary nature.
+*The*
 
-**2.** The interventions referred to in paragraph 1 of this Article may include,
+*towards appropriate*
+
+**1.** objective of the regimes mentioned in Article 142 is to assist the disadvantaged countries, regions and sectors becoming economically viable and competitive by interventions of a transitional or temporary nature.
+
+*The Article may*
+
+**2.** interventions referred to in paragraph 1 of this include,
 
 (a) technical and financial assistance to address economic dislocation arising from the operation of the CSME;
 
@@ -3502,7 +3932,9 @@ Measures to Redress Disadvantage Arising from Economic Dislocation
 
 Promotion of Investment
 
-COFAP shall promote investment in disadvantaged countries by, inter alia, facilitating,
+*COFAP shall by, inter alia,*
+
+promote investment in disadvantaged countries facilitating,
 
 (a) the establishment of joint ventures among nationals of disadvantaged countries as well as between nationals of disadvantaged countries and nationals of other Member States;
 
@@ -3518,7 +3950,9 @@ COFAP shall promote investment in disadvantaged countries by, inter alia, facili
 
 Measures Relating to the Services Sector
 
-**1.** COTED, in establishing the programme for removal of restrictions by Member States on the provision of services in the Community mentioned in paragraph 2 of Article 37 shall
+*COTED, restrictions by the Community*
+
+**1.** in establishing the programme for removal of Member States on the provision of services in mentioned in paragraph 2 of Article 37 shall
 
 give due consideration to the peculiar economic vulnerability of disadvantaged countries, bearing in mind Article 49.
 
@@ -3656,9 +4090,13 @@ assistance to countries to advance their diversification programmes;
 
 (h) professional assistance in preparing legislation.
 
-**4.** The evaluation mentioned in paragraph 2 of this Article may be undertaken by COTED on its own initiative, or in response to an application for assistance issuing from a Member State.
+*The may be*
 
-**5.** COTED shall, from time to time, examine the impact of the measures mentioned in paragraph 2 with a view to determining their adequacy and establishing a time-frame for their discontinuance.
+**4.** evaluation mentioned in paragraph 2 of this Article undertaken by COTED on its own initiative, or in response to an application for assistance issuing from a Member State.
+
+*determining their*
+
+**5.** COTED shall, from time to time, examine the impact of the measures mentioned in paragraph 2 with a view to their adequacy and establishing a time-frame for discontinuance.
 
 The Development Fund
 
@@ -3736,9 +4174,15 @@ combinations or activities of employees for their own reasonable protection as e
 
 Objectives of Community Competition Policy
 
-**1.** The goal of the Community Competition Policy shall be to ensure that the benefits expected from the establishment of the CSME are not frustrated by anti-competitive business conduct.
+*to ensure that*
 
-**2.** In fulfilment of the goal set out in paragraph 1 of this Article, the Community shall pursue the following objectives,
+**1.** The goal of the Community Competition Policy shall be the benefits expected from the establishment of the CSME are not frustrated by anti-competitive business
+
+*conduct.*
+
+*In Article, the*
+
+**2.** fulfilment of the goal set out in paragraph 1 of this Community shall pursue the following objectives,
 
 (a) the promotion and maintenance of competition and enhancement of economic
 
@@ -3752,7 +4196,9 @@ efficiency in production, trade commerce;
 
 Implementation of Community Competition Policy
 
-**1.** In order to achieve the objectives of the Community Competition Policy,
+*In order Competition*
+
+**1.** to achieve the objectives of the Community Policy,
 
 (a) the Community shall,
 
@@ -3772,11 +4218,17 @@ compliance with the rules of competition and provide penalties for anti- competi
 
 (iv) take effective measures to ensure access by nationals of other Member States to competent
 
-enforcement authorities including the courts on an equitable, transparent and non-discriminatory basis.
+*enforcement transparent and*
 
-**2.** Every Member State shall establish and maintain a national competition authority for the purpose of facilitating the implementation of the rules of competition.
+authorities including the courts on an equitable, non-discriminatory basis.
 
-**3.** Every Member State shall require its national competition authority to,
+*Every national the*
+
+**2.** Member State shall establish and maintain a competition authority for the purpose of facilitating implementation of the rules of competition.
+
+*Every competition*
+
+**3.** Member State shall require its national authority to,
 
 (a) co-operate with the Commission in achieving compliance with the rules of competition;
 
@@ -3818,7 +4270,9 @@ The Commission shall comprise persons, collectively having expertise or experien
 
 Functions of the Commission
 
-**1.** The Commission shall,
+*The*
+
+**1.** Commission shall,
 
 (a) apply the rules of competition in respect of anti- competitive cross-border business conduct;
 
@@ -3826,7 +4280,9 @@ Functions of the Commission
 
 (c) perform any other function conferred on it by any competent body of the Community.
 
-**2.** In discharging the functions set out in paragraph 1, the Commission shall,
+*In Commission*
+
+**2.** discharging the functions set out in paragraph 1, the shall,
 
 (a) monitor anti-competitive practices of enterprises operating in the CSME, and investigate and arbitrate cross-border disputes;
 
@@ -3844,15 +4300,23 @@ review the progress made by the Member States in the implementation of the legal
 
 (h) develop and disseminate information about competition policy, and consumer protection policy.
 
-**3.** The Commission may, by directions in writing and subject to such conditions as it thinks fit, delegate any of its functions to one or more of its members.
+*The subject to such*
+
+**3.** Commission may, by directions in writing and conditions as it thinks fit, delegate any of its functions to one or more of its members.
 
 ### ARTICLE 174
 
 Powers of the Commission
 
-**1.** Subject to Articles 175 and 176, the Commission may, in respect of cross-border transactions or transactions with cross-border effects, monitor, investigate, detect, make determinations or take action to inhibit and penalise enterprises whose business conduct prejudices trade or prevents, restricts or distorts competition within the CSME.
+*Subject in respect of cross-border determinations*
 
-**2.** The Commission may, in accordance with applicable national laws, in the conduct of its investigations,
+*or distorts*
+
+**1.** to Articles 175 and 176, the Commission may, cross-border transactions or transactions with effects, monitor, investigate, detect, make or take action to inhibit and penalise enterprises whose business conduct prejudices trade or prevents, restricts competition within the CSME.
+
+*The*
+
+**2.** Commission may, in accordance with applicable national laws, in the conduct of its investigations,
 
 (a) secure the attendance of any person before it to give evidence;
 
@@ -3860,9 +4324,13 @@ require the discovery or production of any document or part thereof; and
 
 (c) take such other action as may be necessary in furtherance of the investigation.
 
-**3.** The Commission may, on the basis of its investigations, make determinations regarding the compatibility of business conduct with the rules of competition and other related provisions of the Treaty.
+*The make*
 
-**4.** The Commission shall, to the extent required to remedy or penalise anti-competitive business conduct referred to in Article 177,
+**3.** Commission may, on the basis of its investigations, determinations regarding the compatibility of business conduct with the rules of competition and other related provisions of the Treaty.
+
+*The or penalise Article 177,*
+
+**4.** Commission shall, to the extent required to remedy anti-competitive business conduct referred to in
 
 (a) order the termination or nullification as the case may require, of agreements, conduct, activities or decisions prohibited by Article 170;
 
@@ -3872,7 +4340,9 @@ require the discovery or production of any document or part thereof; and
 
 (d) impose fines for breaches of the rules of competition.
 
-**5.** The Commission may enter into such arrangements for the provision of services as may be necessary for the efficient performance of its functions.
+*The*
+
+**5.** Commission may enter into such arrangements for the provision of services as may be necessary for the efficient performance of its functions.
 
 The Member States shall enact legislation to ensure that determinations of the Commission are enforceable in their jurisdictions.
 
@@ -3930,15 +4400,25 @@ Determination of Anti-Competitive Business Conduct: Procedure of Commission Prop
 
 **4.** Where the findings of the preliminary examination under paragraphs 2 and 3 require investigation, the Commission and the Member State concerned shall hold consultations to determine and agree on who should have jurisdiction to investigate.
 
-If there is a difference of opinion between the Commission and the Member State regarding the nature and effects of the business conduct or the jurisdiction of the investigating authority, the Commission shall,
+*Commission*
+
+*investigating*
+
+If there is a difference of opinion between the and the Member State regarding the nature and effects of the business conduct or the jurisdiction of the authority, the Commission shall,
 
 (a) cease any further examination of the matter; and
 
 (b) refer the matter to COTED for its decision.
 
-**6.** Nothing in this Article shall prejudice the right of the Member State to initiate proceedings before the Court at any time.
+*Member State time.*
 
-**7.** Where there is a finding that the Commission has jurisdiction to investigate the matter, the Commission shall follow the procedures set out in paragraph 5, 7 and 8 of Article
+**6.** Nothing in this Article shall prejudice the right of the to initiate proceedings before the Court at any
+
+*Where*
+
+*follow the*
+
+**7.** there is a finding that the Commission has jurisdiction to investigate the matter, the Commission shall procedures set out in paragraph 5, 7 and 8 of Article
 
 175.
 
@@ -3946,7 +4426,9 @@ If there is a difference of opinion between the Commission and the Member State 
 
 Prohibition of Anti-Competitive Business Conduct
 
-**1.** A Member State shall, within its jurisdiction, prohibit as being anti- competitive business conduct, the following,
+*A as being anti-*
+
+**1.** Member State shall, within its jurisdiction, prohibit competitive business conduct, the following,
 
 (a) agreements between enterprises, decisions by associations of enterprises, and concerted practices by enterprises which have as their object or effect the prevention, restriction or distortion of competition within the Community;
 
@@ -3956,7 +4438,9 @@ Prohibition of Anti-Competitive Business Conduct
 
 expected from the establishment of the CSME.
 
-**2.** Anti-competitive business conduct within the meaning of paragraph 1 includes the following,
+*of paragraph 1*
+
+**2.** Anti-competitive business conduct within the meaning includes the following,
 
 (a) the direct or indirect fixing of purchase or selling prices,
 
@@ -3980,9 +4464,13 @@ expected from the establishment of the CSME.
 
 (k) bid-rigging.
 
-Subject to Article 168, a Member State shall ensure that all agreements and decisions within the meaning of paragraph 1 of this Article shall be null and void within its jurisdiction.
+*Subject all agreements 1 of this Article*
 
-**4.** An enterprise shall not be treated as engaging in anti-competitive business conduct if it establishes that the activity complained of,
+to Article 168, a Member State shall ensure that and decisions within the meaning of paragraph shall be null and void within its jurisdiction.
+
+*An competitive complained of,*
+
+**4.** enterprise shall not be treated as engaging in anti-business conduct if it establishes that the activity
 
 (a) contributes to,
 
@@ -3998,7 +4486,9 @@ Subject to Article 168, a Member State shall ensure that all agreements and deci
 
 Determination of Dominant Position
 
-For the purpose of this Chapter,
+*For the purpose*
+
+of this Chapter,
 
 (a) an enterprise holds a dominant position in a market if by itself or together with an interconnected enterprise, it occupies such a position of economic strength as will enable
 
@@ -4010,7 +4500,9 @@ it to operate in the market without effective constraints from its competitors o
 
 Abuse of a Dominant Position
 
-**1.** Subject to paragraph 2 of this Article, an enterprise abuses its dominant position in a market if it prevents, restricts or distorts competition in the market and, in particular but without prejudice to the generality of the foregoing, it,
+*Subject abuses its or distorts without*
+
+**1.** to paragraph 2 of this Article, an enterprise dominant position in a market if it prevents, restricts competition in the market and, in particular but prejudice to the generality of the foregoing, it,
 
 (a) restricts the entry of any enterprise into a market;
 
@@ -4028,9 +4520,13 @@ have no connection with the subject of the agreement;
 
 (g) engages in any business conduct that results in the exploitation of its customers or suppliers,
 
-so as to frustrate the benefits expected from the establishment of the CSME.
+*so as to*
 
-**2.** In determining whether an enterprise has abused its dominant position, consideration shall be given to,
+frustrate the benefits expected from the establishment of the CSME.
+
+*In dominant*
+
+**2.** determining whether an enterprise has abused its position, consideration shall be given to,
 
 (a) the relevant market defined in terms of the product and the geographic context;
 
@@ -4042,7 +4538,9 @@ so as to frustrate the benefits expected from the establishment of the CSME.
 
 (e) the history of competition and rivalry between participants in the sector of activity.
 
-**3.** An enterprise shall not be treated as abusing its dominant position if it establishes that,
+*An dominant*
+
+**3.** enterprise shall not be treated as abusing its position if it establishes that,
 
 (a) its behaviour was directed exclusively to increasing efficiency in the production, provision or distribution of goods or services or to promoting technical or economic
 
@@ -4102,9 +4600,13 @@ who are nationals of other Member States of the Community;
 
 (j) provide adequate and effective redress for consumers.
 
-**2.** For the purpose of this Part,
+*For the*
 
-“consumer” means any person,
+**2.** purpose of this Part,
+
+*“consumer”*
+
+means any person,
 
 (a) to whom goods or services are supplied or intended to be supplied in the course of business carried on by a supplier or potential supplier; and
 
@@ -4112,9 +4614,13 @@ who are nationals of other Member States of the Community;
 
 ### ARTICLE 185
 
-Protection of Consumer Interests in the Community
+*Protection*
 
-The Member States shall enact harmonised legislation to provide, inter alia,
+of Consumer Interests in the Community
+
+*The Member provide, inter*
+
+States shall enact harmonised legislation to alia,
 
 (a) for the fundamental terms of a contract and the implied obligations of parties to a contract for the supply of goods or services;
 
@@ -4140,9 +4646,13 @@ sanctioned and relevant civil or criminal defences to such violations are availa
 
 ### ARTICLE 186
 
-Action by the Commission to Provide Support in the Promotion of Consumer Welfare and Protection of Consumer Interests
+*Action by the of Consumer*
 
-**1.** The Commission shall, for the purpose of providing support to the Member States in the enhancement of consumer education and consumer welfare,
+Commission to Provide Support in the Promotion Welfare and Protection of Consumer Interests
+
+*The support to the education and*
+
+**1.** Commission shall, for the purpose of providing Member States in the enhancement of consumer consumer welfare,
 
 (a) promotion in the Community, the elaboration, publication and adoption of fair contract terms between suppliers and consumers of goods and services produced or traded in the CSME;
 
@@ -4170,7 +4680,9 @@ to identify practices which may adversely affect the interests of consumers;
 
 (l) make recommendations to COTED for the enactment of legislation by the Member States for the effective enforcement of the rights of consumers.
 
-**2.** The Commission shall,
+*The*
+
+**2.** Commission shall,
 
 (a) draw to the attention of COTED business conduct by enterprise which impacts adversely on consumer welfare;
 
@@ -4184,9 +4696,9 @@ to identify practices which may adversely affect the interests of consumers;
 
 Scope of the Chapter
 
-The provisions of this Chapter shall apply to the settlement of disputes concerning the interpretation and application of the
+*The provisions disputes Treaty, including,*
 
-*Treaty, including,*
+of this Chapter shall apply to the settlement of concerning the interpretation and application of the
 
 (a) allegations that an actual or proposed measure of another Member State is, or
 
@@ -4304,9 +4816,13 @@ Establishment of a List of Conciliators
 
 **1.** A list of Conciliators shall be established and maintained by the Secretary-General. Every Member State shall be entitled to nominate two conciliators, each of whom shall be a person enjoying the highest reputation for fairness, competence and integrity. the names of the persons so nominated shall constitute the List. If at any time the number of conciliators nominated by a Member State is less than two, the Member State concerned shall be entitled to make such nominations as are necessary. the name of a conciliator shall remain on the List until withdrawn by the Member State which made the nomination and where a conciliator has been appointed to serve on any mediation or conciliation
 
-commission, the conciliator shall continue to serve on such commission until the completion of the relevant proceedings.
+*commission, commission*
 
-**2.** The terms of a conciliator, including that of a conciliator appointed to fill a vacancy, shall be five (5) years and may be renewed.
+the conciliator shall continue to serve on such until the completion of the relevant proceedings.
+
+*The conciliator and may be*
+
+**2.** terms of a conciliator, including that of a appointed to fill a vacancy, shall be five (5) years renewed.
 
 ### ARTICLE 197
 
@@ -4534,7 +5050,9 @@ Judgment of the Court shall constitute legally binding precedents for parties in
 
 Locus Standi of Private Entities
 
-Persons, natural or juridical, of a Contracting Party may, with the special leave of the Court, be allowed to appear as parties in proceedings before the Court where,
+*Persons, natural the special in proceedings*
+
+or juridical, of a Contracting Party may, with leave of the Court, be allowed to appear as parties before the Court where,
 
 (a) the Court has determined in any particular case that this Treaty intended that a right or benefit conferred by or under this Treaty on a Contracting Party shall ensure to the benefit of such persons directly; and
 
@@ -4574,7 +5092,9 @@ Each Member State undertakes to employ its best endeavours to complete the const
 
 Security Exceptions
 
-Nothing in this Treaty shall be construed,
+*Nothing in this*
+
+Treaty shall be construed,
 
 (a) as requiring any Member State to furnish information, the disclosure of which it considers contrary to its essential security interests,
 
@@ -4588,9 +5108,9 @@ Nothing in this Treaty shall be construed,
 
 General Exceptions
 
-**1.** Nothing in this Chapter shall be construed as preventing the adoption or enforcement by any Member State of
+*Nothing the adoption measures,*
 
-*measures,*
+**1.** in this Chapter shall be construed as preventing or enforcement by any Member State of
 
 (a) to protect public morals or to maintain public order and safety;
 
@@ -4620,11 +5140,19 @@ General Exceptions
 
 (l) to give effect to international obligations including treaties on the avoidance of double taxation,
 
-but only if such measures do not constitute arbitrary or unjustifiable discrimination between Member States where like conditions prevail, or a disguised restriction on trade within the Community.
+*but only if unjustifiable conditions Community.*
 
-**2.** Measures taken by the Member States pursuant to paragraph 1 shall be notified to COTED.
+such measures do not constitute arbitrary or discrimination between Member States where like prevail, or a disguised restriction on trade within the
 
-**3.** The Community Council shall take appropriate measures to co- ordinate applicable legislation, regulations and administrative practices established in accordance with Article
+*paragraph 1*
+
+**2.** Measures taken by the Member States pursuant to shall be notified to COTED.
+
+*The*
+
+*administrative*
+
+**3.** Community Council shall take appropriate measures to co-ordinate applicable legislation, regulations and practices established in accordance with Article
 
 44.
 
@@ -7222,7 +7750,9 @@ removal of damaged parts, like operations);
 
 6.
 
-Schedule shall mean the Chapters and headings of the Harmonised Commodity Description and Coding System.
+*Schedule shall Harmonised*
+
+mean the Chapters and headings of the Commodity Description and Coding System.
 
 For the purpose of sub-paragraph (f) of paragraph 5, the expression “finished parts or components” refers to those articles which are imported into the Community in a form or condition which does not require any further fabrication, change in shape or form, resulting in a change in identity or use or the application of permanent protective/decorative coating for the purposes of incorporation in the finished product.
 
@@ -7266,7 +7796,9 @@ RULE 3 – Application of the Criterion of Substantial Transformation
 
 **1.** Where materials containing any element imported from outside the Community meet the conditions specified in Article 84, those materials shall be regarded as containing no such element.
 
-For the purpose of Article 84,
+*For the*
+
+purpose of Article 84,
 
 the value of any materials imported from outside the Community shall be the customs value determined for them by the Customs Authority in the Member State where they were in a process of production, less the amount of any transport costs incurred in transit through other Member States;
 
@@ -7274,11 +7806,13 @@ the value of any materials imported from outside the Community shall be the cust
 
 (c) the export price of the goods shall be the value accepted for this purpose by the Customs Authority in the Member State in which they were produced. It shall be based, mutatis mutandis, on the provision set out in sub-paragraph (a), but shall not include the amounts of transport and insurance costs incurred after the exportation of the goods.
 
-**3.** In the application of the List the conditions to be complied with other than a percentage value-added condition application to any goods shall be fulfilled in respect of the whole of the goods, excluding any packing.
+*In the complied with application to whole of the*
 
-**4.** The expression appearing in the columns headed
+**3.** application of the List the conditions to be other than a percentage value-added condition any goods shall be fulfilled in respect of the goods, excluding any packing.
 
-“conditions to be complied with” in the List and set out below shall be applied in the following manner,
+*The “conditions to shall be applied*
+
+**4.** expression appearing in the columns headed be complied with” in the List and set out below in the following manner,
 
 “produced from regional materials of”– the (a)
 
@@ -7308,23 +7842,31 @@ forming of the molecule of the finished product by,
 
 RULE 4 – Unit of Qualification
 
-**1.** Each article in a consignment shall be considered
+*Each separately.*
 
-*separately.*
+**1.** article in a consignment shall be considered
 
 For the purposes of paragraph 1 of this Rule ,
 
-where the Harmonised Commodity Description and Coding System specifies that a group, set or assembly of articles is to be classified within a single heading, such a group, set or assembly shall be treated as one article;
+where Harmonised Commodity Description and Coding System specifies that a group, set or assembly of articles is to be classified within a single heading, such a group, set or assembly shall be treated as one article;
 
 (b) tools, parts and accessories which are imported with an article, and the price of which is in that of the article or for which no separate charge is made, shall be considered as forming a whole with the article, provided that they constitute the standard equipment customarily included on the sale of articles of that kind;
 
 (c) in cases not within sub-paragraphs (a) and (b), goods shall be treated as a single article if they are so treated for purposes of assessing Customs duties by the importing Member State.
 
-**3.** An unassembled or disassembled article which is imported in more than one consignment because it is not feasible for transport or production reasons to import it in a single consignment shall, if the importer so requests, be treated as one article.
+*An imported in feasible for single*
+
+**3.** unassembled or disassembled article which is more than one consignment because it is not transport or production reasons to import it in a consignment shall, if the importer so requests, be treated as one article.
 
 RULE 5 – Segregation of Materials
 
-**1.** For those products or industries where it would be impracticable for the producer physically to segregate materials of similar character but different origin used in the production of goods, such segregation may be replaced by an appropriate accounting system, which ensures that no more goods received Community tariff treatment, than would have
+*For*
+
+*materials of*
+
+*appropriate*
+
+**1.** those products or industries where it would be impracticable for the producer physically to segregate similar character but different origin used in the production of goods, such segregation may be replaced by an accounting system, which ensures that no more goods received Community tariff treatment, than would have
 
 been the case, if the producer had been able physically to segregate the materials.
 
@@ -7532,7 +8074,9 @@ COTED may, by unanimous decision, recommend the amendment of the provisions of t
 
 Regulation of Input In the Community
 
-**18.** The Member States shall apply the rate of duty set by COTED on all imported oils, fats and their substitutes.
+*The*
+
+**18.** Member States shall apply the rate of duty set by COTED on all imported oils, fats and their substitutes.
 
 *\19. (1)*
 
@@ -7544,7 +8088,9 @@ Regulation of Input In the Community
 
 (b) In determining the adequacy of supply, the Secretary- General shall take into consideration the guidelines established by the Conference of Oils and Fats and COTED.
 
-**20.** The Member State may use automatic licences to monitor imports of oils and fats especially where other methods prove inadequate.
+*The monitor*
+
+**20.** Member State may use automatic licences to imports of oils and fats especially where other methods prove inadequate.
 
 No Member State shall use non-automatic licences to regulate or restrict the imports of oils and fats except under paragraph 22.
 
@@ -7596,7 +8142,11 @@ Pure Lard.
 
 (b) the difference between such amount of that petroleum product as is reasonably considered by the Government of Guyana to be marketable in Guyana during such year and any lesser amount of that petroleum product which is reasonably considered by the said Government to be productible in Guyana during such year, whichever is more.
 
-During any period first hereinbefore in this Article referred to in connection with a petroleum product produced in Guyana, customs duties shall, at rates not lower than those in force when the CARICOM Single Market and Economy enters into force, be applicable to any permitted imports into Guyana of that petroleum product from outside the Community.
+*During referred to in Guyana,*
+
+*into force, be of that*
+
+any period first hereinbefore in this Article connection with a petroleum product produced in customs duties shall, at rates not lower than those in force when the CARICOM Single Market and Economy enters applicable to any permitted imports into Guyana petroleum product from outside the Community.
 
 **4.** Not later than,
 
@@ -7604,13 +8154,17 @@ During any period first hereinbefore in this Article referred to in connection w
 
 (b) the commencement, during any such period, of any year, Guyana shall notify to COTED the amounts mentioned in paragraph (b) of the proviso to paragraph 2 of this Schedule in relation to that year and shall at the request of any Member State, inform COTED in strictest confidence of the reasons for arriving at any such amounts.
 
-In this Schedule “that petroleum product” includes any
+*In this like or*
+
+Schedule “that petroleum product” includes any
 
 5.
 
-like or substitutable petroleum product.
+substitutable petroleum product.
 
-**6.** These provisions shall not have effect for longer than 15 years from the commencement of a period mentioned in paragraph 3 of this Schedule.
+*These 15 years from paragraph 3 of*
+
+**6.** provisions shall not have effect for longer than the commencement of a period mentioned in this Schedule.
 
 ## SCHEDULE V
 
@@ -7642,7 +8196,11 @@ exported products or of exchange risk programmes, at premium rates which are ina
 
 (k) The grant by governments (or special institutions controlled by and/or acting under the authority of governments) of export credits at rates below those which they actually have to pay for the funds so employed (or would have to pay if they borrowed on international capital markets in order to obtain funds of the same maturity and other credit terms and denominated in the same currency as the export credit), or the payment by them of all or part of the costs incurred by exporters or financial institutions in obtaining credits, in so far as they are used to secure a material advantage in the field of export credit terms,
 
-Provided however, that if a Member is a party to an international undertaking of official export credits to which at least twelve original members to this Agreement are parties as of 1 January 1979 (or a successor undertaking which has been adopted by those original members), or if in practice a member applies the interest rates provisions of the relevant undertaking an export credit practice which is in conformity with those provisions shall not be considered an export subsidy prohibited by this Agreement.
+*Provided international least twelve of 1 January adopted by applies the an export*
+
+*by this*
+
+however, that if a Member is a party to an undertaking of official export credits to which at original members to this Agreement are parties as 1979 (or a successor undertaking which has been those original members), or if in practice a member interest rates provisions of the relevant undertaking credit practice which is in conformity with those provisions shall not be considered an export subsidy prohibited Agreement.
 
 (l) Any other charge on the public account constituting an export subsidy in the sense of Article XVI of GATT 1994.
 
@@ -7944,17 +8502,25 @@ RECALLING the decisions of the Twenty-Fifth Meeting of the Community Council and
 
 The amendment provided by this Schedule has been consolidated into the Principal Treaty accordingly.
 
-HAVE AGREED as follows,
+*HAVE*
+
+AGREED as follows,
 
 Amendment of Article 83
 
-The Revised Treaty is hereby amended by deleting Article 83 and inserting the following,
+*The Revised and inserting*
+
+Treaty is hereby amended by deleting Article 83 the following,
 
 ### ARTICLE 83
 
-**1.** Any alteration or suspension of the Common External Tariff on any item shall be decided by COTED.
+*Any Tariff on any*
 
-**2.** Pursuant to paragraph 1, a suspension of the Common External Tariff shall be subject to such terms and conditions as COTED may decide provided that the decision to suspend takes into account any of the following,
+**1.** alteration or suspension of the Common External item shall be decided by COTED.
+
+*External Tariff COTED may takes into*
+
+**2.** Pursuant to paragraph 1, a suspension of the Common shall be subject to such terms and conditions as decide provided that the decision to suspend account any of the following,
 
 (a) the product is not being produced in the Community;
 

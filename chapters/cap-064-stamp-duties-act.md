@@ -154,6 +154,10 @@ Duties on Particular Instruments
 
 Charter- parties.
 
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
+
 Certificates, etc.
 
 Produce licences.
@@ -296,27 +300,25 @@ Interpretation. 2. In this Act, unless the context otherwise requires–
 
 *8 of 1978.*
 
-“impressed stamp”, with reference to instruments and material,
-
 *1 of 1984.*
 
-means a stamp impressed by means of a die, or an adhesive stamp cancelled by the Commissioners after it has been affixed to the instrument or material by or under the authority of the Commissioners, or, in the case of bills of exchange and foreign exchange permits, any printed device approved by the Commissioners under section 16;
+“impressed stamp”, with reference to instruments and material, means a stamp impressed by means of a die, or an adhesive stamp cancelled by the Commissioners after it has been affixed to the instrument or material by or under the authority of the Commissioners, or, in the case of bills of exchange and foreign exchange permits, any printed device approved by the Commissioners under section 16;
 
 “instrument” includes every written document, except a will, however the words are represented or reproduced;
 
 *42 of 2017.*
 
-“land” includes hereditaments, and, for greater certainty, strata lots comprised in a duly registered strata plan within the
-
 *CAP. 196.*
 
-meaning of the Strata Titles Registration Act and tenements, whether corporeal or incorporeal, houses, buildings, or any interests therein;
+“land” includes hereditaments, and, for greater certainty, strata lots comprised in a duly registered strata plan within the meaning of the Strata Titles Registration Act and tenements, whether corporeal or incorporeal, houses, buildings, or any interests therein;
 
 “marketable security” means a security of such a description as to be capable of being sold in a stock market;
 
 “material” includes every sort of material upon which words or figures can be expressed;
 
 “prescribed” means prescribed by regulations made under this Act;
+
+*[CAP.*
 
 “stamp” includes a stamp impressed by means of a die or a printed device approved by the Commissioners under section 16;
 
@@ -338,23 +340,37 @@ Management of Stamp Duties
 
 (4) Subject to this Act, the Minister may from time to time give general or special directions to the Commissioners with respect to any matter or thing which the Commissioners are required or empowered to do, whether discretionary or otherwise, and such directions shall be observed by the Commissioners accordingly.
 
-The Commissioners may grant a licence to any person to
-
 *Licence to deal in stamps.*
 
-deal in stamps, subject to such conditions as the Commissioners think fit.
+Commissioners may grant a licence to any person to deal in stamps, subject to such conditions as the Commissioners
 
-*Discount on sale of stamps to licensees. 40 of 1963.*
+*think fit.*
 
-**5.** The Commissioners shall allow such discount on the sale of stamps to a licensed dealer in stamps as the Minister directs.
+*Discount on sale of stamps to*
 
-*Recovery of money received for duty.*
+*The*
 
-**6.** Every person who, having received money as or for any stamp duty, does not apply the money to the due payment of that duty or improperly withholds or detains it, shall be accountable for the amount thereof, and it shall be a debt from him to the State, and recoverable as such by the Commissioners.
+*licensees. 40 of 1963.*
+
+**5.** Commissioners shall allow such discount on the sale of stamps to a licensed dealer in stamps as the Minister directs.
+
+*Recovery of money received*
+
+*stamp duty,*
+
+*for duty.*
+
+*duty or*
+
+*State, and*
+
+**6.** Every person who, having received money as or for any does not apply the money to the due payment of that improperly withholds or detains it, shall be accountable for the amount thereof, and it shall be a debt from him to the recoverable as such by the Commissioners.
 
 *Allowance for spoiled stamps.*
 
-**7.** Subject to the prescribed regulations and to the payment of the prescribed fee if any, and to the production of such evidence by statutory declaration which shall be exempt from stamp duty or otherwise as the Commissioners may require, allowance shall be made by the Commissioners for stamps spoiled in the following circumstances–
+*of the evidence by*
+
+**7.** Subject to the prescribed regulations and to the payment prescribed fee if any, and to the production of such statutory declaration which shall be exempt from stamp duty or otherwise as the Commissioners may require, allowance shall be made by the Commissioners for stamps spoiled in the following circumstances–
 
 (a) where the stamp on material which is inadvertently and undesignedly spoiled, obliterated, or by any means rendered unfit for the purpose intended before it is signed by any person or an instrument written thereon is executed by any person;
 
@@ -392,11 +408,9 @@ Where any person has inadvertently used for an instrument liable to a stamp duty
 
 *Allowance in stamps or money.*
 
-**9.** The Commissioners may give as allowance for spoiled or misused stamps other stamps of the same denomination and value or, if required, and they think fit, stamps of another
-
 *40 of 1963.*
 
-denomination to the same amount in value, or, if they think fit, the same value in money, deducting therefrom such discount, if any, as the Minister may from time to time direct.
+**9.** The Commissioners may give as allowance for spoiled or misused stamps other stamps of the same denomination and value or, if required, and they think fit, stamps of another denomination to the same amount in value, or, if they think fit, the same value in money, deducting therefrom such discount, if any, as the Minister may from time to time direct.
 
 *Re-purchase of stamps by Commissioners.*
 
@@ -432,11 +446,9 @@ General Regulations as to Stamps on Instruments
 
 (4) The stock of a company incorporated outside Belize which has a place of business in Belize or owns land in Belize shall, for the purposes of stamp duty, be deemed to be situated in Belize.
 
-(4A) For the purposes of sub-section (3), if a company
-
 *CAP. 270.*
 
-incorporated under the International Business Companies Act–
+(4A) For the purposes of sub-section (3), if a company incorporated under the International Business Companies Act–
 
 *CAP. 273:01.*
 
@@ -456,23 +468,23 @@ the shares of that company shall not be deemed to be situated in Belize for purp
 
 *Use of printed device as a stamp.*
 
-**16.** The Commissioners may approve, under such terms and conditions as the Commissioner may from time to time in writing prescribe the use by a bank licensed under the Banks and
-
 *CAP. 263.*
-
-Financial Institutions Act, or a bank, as defined in section 74, or
 
 *CAP. 251.*
 
-an insurance company licensed under the Insurance Act, on policies issued by it, of a printed device for the purpose of denoting the payment of stamp duty chargeable under this Act.
+**16.** The Commissioners may approve, under such terms and conditions as the Commissioner may from time to time in writing prescribe the use by a bank licensed under the Banks and Financial Institutions Act, or a bank, as defined in section 74, or an insurance company licensed under the Insurance Act, on policies issued by it, of a printed device for the purpose of denoting the payment of stamp duty chargeable under this Act.
 
-**17.** (1) An instrument written upon stamped material shall be so
+*17.-(1) An*
 
 *Manner of writing and stamping instruments.*
 
-written, and an instrument partly or wholly written before being stamped shall be so stamped, that the stamp appears on the face of the instrument, and cannot be used for or applied to another instrument written upon the same piece of material.
+*of the instrument*
 
-(2) If more than one instrument is written upon the same piece of material, each instrument shall be separately and distinctly stamped with the duty with which it is chargeable.
+instrument written upon stamped material shall be so written, and an instrument partly or wholly written before being stamped shall be so stamped, that the stamp appears on the face instrument, and cannot be used for or applied to another written upon the same piece of material.
+
+*piece of distinctly*
+
+(2) If more than one instrument is written upon the same material, each instrument shall be separately and stamped with the duty with which it is chargeable.
 
 *Separate duty charge for each matter in instrument.*
 
@@ -508,11 +520,9 @@ Provided that the instrument chargeable shall be submitted to the Commissioners 
 
 Provided that such submission shall be made within thirty days after such instrument was first received in Belize.
 
-**21.** (1) The Commissioners shall stamp with an impressed
-
 *Penalty for stamping after due time.*
 
-stamp any instrument after the time when it ought to have been stamped on payment of the unpaid duty and of the proper penalty.
+**21.** (1) The Commissioners shall stamp with an impressed stamp any instrument after the time when it ought to have been stamped on payment of the unpaid duty and of the proper penalty.
 
 (2) The proper penalty shall be the sum of five dollars for the first week or part of a week, and the sum of ten dollars for each week or part of a week after the first week, which has elapsed since the time when the instrument could have been stamped without the payment of a penalty, with the maximum of fifty-five dollars.
 
@@ -542,11 +552,9 @@ permitted to be stamped with an adhesive stamp, he shall incur a fine of two hun
 
 commits a misdemeanour punishable summarily or on indictment, but so that the punishment on summary conviction shall not exceed six months’ imprisonment.
 
-(2) The expression “instrument” in this section includes any
-
 *CAP. 228.*
 
-postal packet as defined by the Post Office Act, and the cover of any such letter.
+(2) The expression “instrument” in this section includes any postal packet as defined by the Post Office Act, and the cover of any such letter.
 
 *Appropriated stamps.*
 
@@ -558,7 +566,9 @@ postal packet as defined by the Post Office Act, and the cover of any such lette
 
 **25.** Where an instrument is chargeable with an ad valorem duty on money or money’s worth which is expressed in any
 
-manner other than in the currency of Belize, the duty shall be calculated as follows–
+*manner other calculated as*
+
+than in the currency of Belize, the duty shall be follows–
 
 (a) a duty on money in any currency not being local currency shall be calculated on its value in local currency, at the date of the instrument, according to the current rate of exchange;
 
@@ -568,17 +578,23 @@ manner other than in the currency of Belize, the duty shall be calculated as fol
 
 (d) an instrument which contains a statement of the value of any money or stock, or other property or right, or as to the amount due on a debt or security, and is stamped in accordance with that statement shall, so far as regards the subject matter of the statement, be deemed duly stamped unless it is shown that the statement is untrue, and that the instrument is in fact insufficiently stamped.
 
-*Use of several instruments for one transaction.*
+*Use of several*
 
-**26.** (1) Unless otherwise provided, where several instruments are executed for effecting a transaction chargeable with one ad valorem duty, the principal instrument only shall be charged with the advalorem duty, and every other instrument shall be charged with such other duty as it may be liable to, but the last-mentioned duty shall not exceed the ad valorem duty charged on the principal instrument.
+*26.-(1) Unless*
 
-(2) In such a case the parties may determine for themselves which instrument is to be stamped as the principal instrument.
+*instruments for one transaction.*
 
-Where the duty with which an instrument is chargeable
+*valorem duty, with the charged with mentioned duty on the principal*
+
+otherwise provided, where several instruments are executed for effecting a transaction chargeable with one ad the principal instrument only shall be charged advalorem duty, and every other instrument shall be such other duty as it may be liable to, but the last-shall not exceed the ad valorem duty charged instrument.
+
+*which*
+
+(2) In such a case the parties may determine for themselves instrument is to be stamped as the principal instrument.
 
 *Denoting stamps.*
 
-or any exemption from duty depends in any manner upon the duty paid on another instrument, the payment of the last-mentioned duty shall, upon application to the Commissioners and production of both instruments, be denoted on the first-mentioned instrument in such manner as the Commissioners think fit.
+Where the duty with which an instrument is chargeable or any exemption from duty depends in any manner upon the duty paid on another instrument, the payment of the last-mentioned duty shall, upon application to the Commissioners and production of both instruments, be denoted on the first-mentioned instrument in such manner as the Commissioners think fit.
 
 *Assessment of duty by Commissioners.*
 
@@ -664,11 +680,9 @@ opinion of the court chargeable with any duty, assess the duty with which it is 
 
 (2) The Commissioners, with the approval of the Minister, may mitigate or remit any penalty for non-payment of a stamp duty imposed by this Act, either before or after judgment, and may compromise any proceedings.
 
-(3) All fines imposed by this Act may be recoverable under
-
 *CAP. 98. CAP. 99.*
 
-the Summary Jurisdiction (Offences) Act, and Summary Jurisdiction (Procedure) Act.
+(3) All fines imposed by this Act may be recoverable under the Summary Jurisdiction (Offences) Act, and Summary Jurisdiction (Procedure) Act.
 
 (4) The court may, if satisfied that there was no intention of evading the payment of duty, reduce, mitigate or remit the fine.
 
@@ -708,19 +722,19 @@ Duties on Particular Instruments
 
 (e) a declaration required to be made by any law or Act with a view to marriage;
 
-(f) a declaration required to accompany an
-
 *CAP. 253.*
 
-application for a patent under the Patents Act; or
+(f) a declaration required to accompany an application for a patent under the Patents Act; or
 
 (g) an affidavit or statutory declaration required to be made by any Act.
 
-(3) Every person who takes, swears, or makes any affidavit or declaration which is chargeable with duty under this section and is not duly stamped shall incur a fine of fifty dollars.
+*(3) Every*
 
-*Agreements.*
+person who takes, swears, or makes any affidavit or declaration which is chargeable with duty under this section and is not duly stamped shall incur a fine of fifty dollars.
 
-**38.** (1) There shall be paid on every agreement of a kind not otherwise charged with duty,
+*Agreements. otherwise*
+
+**38.** (1) There shall be paid on every agreement of a kind not charged with duty,
 
 *8 of 1978.*
 
@@ -728,13 +742,19 @@ application for a patent under the Patents Act; or
 
 (b) if under seal, a duty of ........................ $12.00
 
-(2) An agreement not under seal the matter whereof is not of the value of twenty-five dollars shall be exempt from all duties charged by this Act.
+*(2) An the value of*
 
-(3) An agreement not under seal for the hire of any labourer, artificer, artisan, or domestic servant is exempt from all duties charged by this Act.
+agreement not under seal the matter whereof is not of twenty-five dollars shall be exempt from all duties charged by this Act.
+
+*(3) An*
+
+agreement not under seal for the hire of any labourer, artificer, artisan, or domestic servant is exempt from all duties charged by this Act.
 
 *Agency documents.*
 
-**39.** (1) There shall be paid on every instrument appointing an agent or an attorney–
+*agent or an*
+
+**39.** (1) There shall be paid on every instrument appointing an attorney–
 
 if not under seal, and for the sole purpose of appointing one or more proxies to vote at one meeting, a duty of ………..................... $0.15
 
@@ -744,23 +764,29 @@ if not under seal, and for the sole purpose of appointing one or more proxies to
 
 (c) in every other case, if under seal, a duty …………………………..….... $15.00
 
-(2) An instrument not under seal appointing a proxy to vote at a meeting shall name the date of the meeting, and shall be available only at the meeting and any adjournment thereof.
+*(2) An at a meeting*
 
-(3) A vote at a meeting given under the authority of an instrument which is not duly stamped shall be void.
+instrument not under seal appointing a proxy to vote shall name the date of the meeting, and shall be available only at the meeting and any adjournment thereof.
+
+*instrument*
+
+(3) A vote at a meeting given under the authority of an which is not duly stamped shall be void.
 
 *Airline Ticket. 5 of 1993.*
 
-**40.** A duty shall be paid on every ticket issued in Belize for transportation by air to and from Belize or any place outside Belize, where the fare–
+*transportation Belize, where*
+
+**40.** A duty shall be paid on every ticket issued in Belize for by air to and from Belize or any place outside the fare–
 
 (a) does not exceed $250.00...................... $25.00 or
 
 (b) exceeds $250.00.................................. $30.00
 
-Provided that no duty shall be payable on tickets issued to
+*Provided any person*
 
 *CAP. 50.*
 
-any person exempt from the payment of departure tax under the Departure Tax Act.
+that no duty shall be payable on tickets issued to exempt from the payment of departure tax under the Departure Tax Act.
 
 *Apprenticeship.*
 
@@ -774,13 +800,19 @@ any person exempt from the payment of departure tax under the Departure Tax Act.
 
 (b) if under seal, a duty of .......................... $4.00
 
-(2) An instrument of apprenticeship to the sea service is exempt from all stamp duties charged by this Act.
+*(2) An*
 
-(3) Every person who executes an instrument which is chargeable with duty under this section and is not duly stamped shall incur a fine of fifty dollars.
+instrument of apprenticeship to the sea service is exempt from all stamp duties charged by this Act.
 
-*Articles of clerkship.*
+*(3) Every*
 
-**42.** (1) On any article of clerkship whereby any person becomes bound to serve as a clerk with a view to his admission as a Solicitor of the Supreme Court, there shall be paid–
+person who executes an instrument which is chargeable with duty under this section and is not duly stamped shall incur a fine of fifty dollars.
+
+*Articles of 42.-(1) On any clerkship.*
+
+*Solicitor of the*
+
+article of clerkship whereby any person becomes bound to serve as a clerk with a view to his admission as a Supreme Court, there shall be paid–
 
 (a) on the first occasion........................... $100.00 or
 
@@ -788,29 +820,29 @@ any person exempt from the payment of departure tax under the Departure Tax Act.
 
 (b) on every subsequent occasion ............. $10.00
 
-(2) Any person who executes any such articles which are not duly stamped shall incur a fine of fifty dollars.
+*(2) Any duly stamped*
+
+person who executes any such articles which are not shall incur a fine of fifty dollars.
 
 *Bankruptcy.*
 
-**43.** The following instruments are exempt from the stamp duties imposed by this Act–
+*The duties imposed*
 
-(a) every instrument required for or relating solely to proceedings under the Bankruptcy Act,
+**43.** following instruments are exempt from the stamp by this Act–
 
 *CAP. 244.*
 
-whether before or after adjudication, and whether an adjudication is made or not; or
+(a) every instrument required for or relating solely to proceedings under the Bankruptcy Act, whether before or after adjudication, and whether an adjudication is made or not; or
 
 (b) every instrument relating solely to the property of a bankrupt where the property, after the execution of the instrument, remains the estate of the bankrupt or of his trustee in bankruptcy.
 
-*Bills of lading.*
+*Bills of lading. 44.-(1) There be exported, a 8 of 1978.*
 
-**44.** (1) There shall be paid on every bill of lading for goods to
+shall be paid on every bill of lading for goods to duty of .................................................... $0.75
 
-*8 of 1978.*
+*(2) For the*
 
-be exported, a duty of .................................................... $0.75
-
-(2) For the purposes of stamp duty, “bill of lading” includes every document signed by the ship-owner, or master, or by an
+purposes of stamp duty, “bill of lading” includes every document signed by the ship-owner, or master, or by an
 
 agent of the ship-owner or master acknowledging the receipt of goods, whether already shipped or for shipment.
 
@@ -824,11 +856,9 @@ agent of the ship-owner or master acknowledging the receipt of goods, whether al
 
 Provided that the maximum duty chargeable shall not exceed twelve dollars.
 
-(2) A bail bond and a bond for obtaining probate or letters of administration and a security given with a view to an appeal from an Inferior Court to the Supreme Court under Part IX of
-
 *CAP. 91.*
 
-the Supreme Court of Judicature Act, are exempt from all stamp duties charged by this Act.
+(2) A bail bond and a bond for obtaining probate or letters of administration and a security given with a view to an appeal from an Inferior Court to the Supreme Court under Part IX of the Supreme Court of Judicature Act, are exempt from all stamp duties charged by this Act.
 
 *Building Societies. CAP. 310.*
 
@@ -882,19 +912,35 @@ every instrument required for or relating solely to proceedings for winding-up a
 
 (b) required in connection with the transfer of property to a Foreign Government or State for the use of its agencies (other than diplomatic or consular establishments),
 
-shall be exempt from all stamp duties if the Foreign Government or State accords a similar exemption to the Belizean Government.
+*or State Government.*
 
-*Customs documents CAP. 49.*
+shall be exempt from all stamp duties if the Foreign Government accords a similar exemption to the Belizean
 
-**52.** A bond with a view to the export of warehoused goods under section 39 of the Customs Regulation Act, or by inland carriage or navigation under section 51 of that Act, or with a view to the transfer of warehoused goods to another part of Belize under section 71 of that Act is exempt from all stamp duties charged by this Act.
+*Customs documents*
 
-*Deeds. 8 of 1978.*
+*under section*
 
-**53.** On every deed not chargeable with ad valorem duty, there shall be paid a duty of ............................................ $12.00
+*CAP. 49.*
+
+*carriage or view to the Belize under*
+
+**52.** A bond with a view to the export of warehoused goods 39 of the Customs Regulation Act, or by inland navigation under section 51 of that Act, or with a transfer of warehoused goods to another part of section 71 of that Act is exempt from all stamp duties charged by this Act.
+
+*Deeds.*
+
+*On*
+
+*8 of 1978.*
+
+*there shall be*
+
+**53.** every deed not chargeable with ad valorem duty, paid a duty of ............................................ $12.00
 
 *Duplicates.*
 
-**54.** (1) There shall be paid on every duplicate or counterpart of an instrument chargeable with duty–
+*54.-(1) There an instrument*
+
+shall be paid on every duplicate or counterpart of chargeable with duty–
 
 (a) where such duty is less than $1.00, the same duty as on the original instrument; or
 
@@ -902,11 +948,17 @@ shall be exempt from all stamp duties if the Foreign Government or State accords
 
 (b) in every other case, a duty of ................ $3.00
 
-(2) A duplicate or counterpart of an instrument chargeable with stamp duty shall not be deemed duly stamped unless it is stamped as an original instrument, or it is shown that the original instrument is duly and sufficiently stamped.
+*(2) A*
 
-*Friendly Societies. CAP 317.*
+*stamped as an instrument is*
 
-**55.** The following instruments relating to Friendly Societies duly established under the Friendly Societies Act, are exempt from all stamp duties imposed by this Act–
+duplicate or counterpart of an instrument chargeable with stamp duty shall not be deemed duly stamped unless it is original instrument, or it is shown that the original duly and sufficiently stamped.
+
+*Friendly The Societies. CAP 317.*
+
+*from all stamp*
+
+**55.** following instruments relating to Friendly Societies duly established under the Friendly Societies Act, are exempt duties imposed by this Act–
 
 (a) a receipt by the Society for a subscription due from a member;
 
@@ -918,39 +970,47 @@ shall be exempt from all stamp duties if the Foreign Government or State accords
 
 (e) any statutory declaration required to be made by the said Act or by the rules of the Society.
 
-**55A.** (1) The following instruments relating to international
+*55A.–(1) The*
 
-*International business companies. CAP. 270. 18 of 2019.*
+*International*
 
-business companies duly established under the International Business Companies Act may not be required to pay stamp duties imposed by this Act–
+*business*
 
-(a) in respect of shares pursuant to section 14(4A), international business companies that
+*business*
+
+*Business*
+
+*companies. CAP. 270.*
+
+*duties imposed*
+
+*18 of 2019.*
+
+following instruments relating to international companies duly established under the International Companies Act may not be required to pay stamp by this Act–
 
 *CAP. 273:01.*
 
-are considered non-included entities under the Economic Substance Act;
-
-(b) in respect of an international business company that is a non-included entity under
+(a) in respect of shares pursuant to section 14(4A), international business companies that are considered non-included entities under the Economic Substance Act;
 
 *CAP. 273:01.*
 
-the Economic Substance Act, if the jurisdiction of its business operations accords an exemption to instrument executed by a company in that jurisdiction;
+(b) in respect of an international business company that is a non-included entity under the Economic Substance Act, if the jurisdiction of its business operations accords an exemption to instrument executed by a company in that jurisdiction;
 
 (c) if the international business company is required to pay a stamp duty or an equivalent duty in a jurisdiction of operations in regards to a particular instrument;
 
-(d) if the international business company is a regulated entity under the Economic
-
 *CAP. 273:01.*
 
-Substance Act, any statutory declaration required to be made by the relevant Act or by the rules of the international business company; or
+(d) if the international business company is a regulated entity under the Economic Substance Act, any statutory declaration required to be made by the relevant Act or by the rules of the international business company; or
 
 (e) if a matter or thing which may be omitted by an international business company is omitted in Belize by a non-included entity.
 
-(2) For the purpose of determining whether an international business company that is either an included entity or a non-
+*(2) For the business included entity*
 
 *CAP. 273:01.*
 
-included entity under the Economic Substance Act is liable for stamp duty, an instrument that is executed is deemed to be situated in Belize if–
+*situated in*
+
+purpose of determining whether an international company that is either an included entity or a non-under the Economic Substance Act is liable for stamp duty, an instrument that is executed is deemed to be Belize if–
 
 the instrument relates to land in Belize;
 
@@ -962,15 +1022,13 @@ the instrument relates to land in Belize;
 
 (e) any party involved or associated with the execution of an instrument is a citizen of Belize, a CARICOM national, or a Belizean company as defined in section 72(4) and (5) respectively; or
 
-(f) the instrument is executed by an included entity pursuant to the Economic Substance
-
 *CAP. 273:01.*
 
-Act.
+(f) the instrument is executed by an included entity pursuant to the Economic Substance Act.
 
-*Insurance policies. 11 of 1980.*
+*Insurance 56.-(1) There policies. 11 of 1980.*
 
-**56.** (1) There shall be paid–
+shall be paid–
 
 (a) on every policy of insurance against accident, or for any payment agreed to be made during the sickness of any person or his incapacity from personal injury, or by way of indemnity against loss or damage of or to any property, a duty of................................................. $0.10
 
@@ -1024,13 +1082,13 @@ Provided that where the proposal form or the receipt for the first or only premi
 
 *Act No. 8 of 1978.*
 
-If the term If the term If the term If the term exceeds 1 exceeds 7 exceeds 30 exceeds 99 year but years but years but years or is does not does not does not indefinite exceed 7 exceed 30 exceed 99 years years years Not exceeding $25----------$0.75 $2.25 $4.50 $3.00 Exceeding $25 but not
+*Not exceeding Exceeding $25 but exceeding Exceeding $50 for each sum of $50 or part*
 
-exceeding $50---------------$1.50 $4.50 $3.00 $6.00 Exceeding $50 for
+If the term If the term If the term If the term exceeds 1 exceeds 7 exceeds 30 exceeds 99 year but years but years but years or is does not does not does not indefinite exceed 7 exceed 30 exceed 99 years years years $25----------$0.75 $2.25 $4.50 $3.00 not
 
-each sum of $50
+$50---------------$1.50 $4.50 $3.00 $6.00
 
-or part thereof---------------$1.50 $4.50 $3.00 $6.00
+thereof---------------$1.50 $4.50 $3.00 $6.00
 
 (c) in the case of a tenancy of or permission to occupy land solely for planting or agricultural purposes for a definite and limited term not longer than one year, for which the total amount or value of the consideration given or at any time to be given does not exceed twenty-five dollars, a duty of ................ $0.15; or
 
@@ -1042,13 +1100,19 @@ or part thereof---------------$1.50 $4.50 $3.00 $6.00
 
 (ii) if under seal, a duty of ............ $12.00
 
-(2) A lease by the Crown or the Government is exempt from any stamp duty imposed by this Act.
+*(2) A lease any stamp duty*
 
-(3) In this section “lease” includes an agreement for a lease and a permission to occupy land.
+by the Crown or the Government is exempt from imposed by this Act.
+
+*(3) In this and a*
+
+section “lease” includes an agreement for a lease permission to occupy land.
 
 *Mahogany and logwood licences. 8 of 1978*
 
-There shall be paid on every instrument operating as a licence to fell, cut, get, or take away mahogany, cedar or logwood–
+*There licence to fell, logwood–*
+
+shall be paid on every instrument operating as a cut, get, or take away mahogany, cedar or
 
 (a) if not under seal, a duty of .................... $0.75 or
 
@@ -1056,7 +1120,9 @@ There shall be paid on every instrument operating as a licence to fell, cut, get
 
 *Mortgages.*
 
-**59.** (1) There shall be paid–
+*59.-(1) There*
+
+shall be paid–
 
 (a) on every fifty dollars or part of fifty dollars of the amount or value secured, or which may at any time be secured, by any mortgage for the payment or transfer of money or money’s worth, a duty of ..................................... $0.75
 
@@ -1068,11 +1134,13 @@ There shall be paid on every instrument operating as a licence to fell, cut, get
 
 (c) on every fifty dollars or part of fifty dollars of the highest amount or value at any time secured (excluding interest in arrear which has not been capitalised) by the reconveyance, release, discharge or surrender of any mortgage, a duty of…………… $0.30
 
-(2) The duties payable in respect of a mortgage transferable by delivery or by any means other than an instrument of transfer shall be three times the amount of the above duties.
+*(2) The by delivery or shall be three*
 
-(3) For the purposes of stamp duties, the expression
+duties payable in respect of a mortgage transferable by any means other than an instrument of transfer times the amount of the above duties.
 
-“mortgage” means–
+*(3) For the “mortgage”*
+
+purposes of stamp duties, the expression means–
 
 a mortgage on any instrument creating a charge or lien on land;
 
@@ -1134,19 +1202,17 @@ Miscellaneous
 
 *Settlement. 8 of 1959.*
 
-**63.** (1) Any deed or any order, or decree, of the Court of Chancery of England, or of Belize or other jurisdiction or authority, or instrument what-ever, whether voluntary or gratuitous, or upon any good or valuable consideration other than a bona fide pecuniary consideration, whereby any certain and definite sum or sums of money (whether charged or chargeable on lands or other hereditaments or not or to be laid out in the purchase of lands or other hereditaments or not and if charged or chargeable on lands or other hereditaments, whether to be raised at all events or not) or whereby any lands, tenements, rents, annuities, or other property, real or personal, or any right, title, interest, or claim into, out of, or upon, any lands, tenements, rents, annuities, or other property, shall be settled, or agreed to be settled upon, or for the benefit of any person or persons, either in possession or reversion, either absolutely or conditionally or contingently, or for life, or other partial interest, or in any other manner whatever, there shall be paid for every fifty dollars or part of fifty dollars of the amount
-
 *8 of 1978.*
 
-or value of the property settled or agreed to be settled a duty of seventy-five cents.
+**63.** (1) Any deed or any order, or decree, of the Court of Chancery of England, or of Belize or other jurisdiction or authority, or instrument what-ever, whether voluntary or gratuitous, or upon any good or valuable consideration other than a bona fide pecuniary consideration, whereby any certain and definite sum or sums of money (whether charged or chargeable on lands or other hereditaments or not or to be laid out in the purchase of lands or other hereditaments or not and if charged or chargeable on lands or other hereditaments, whether to be raised at all events or not) or whereby any lands, tenements, rents, annuities, or other property, real or personal, or any right, title, interest, or claim into, out of, or upon, any lands, tenements, rents, annuities, or other property, shall be settled, or agreed to be settled upon, or for the benefit of any person or persons, either in possession or reversion, either absolutely or conditionally or contingently, or for life, or other partial interest, or in any other manner whatever, there shall be paid for every fifty dollars or part of fifty dollars of the amount or value of the property settled or agreed to be settled a duty of seventy-five cents.
 
 *6 of 2006.*
 
 (2) There shall be paid on every fifty dollars or part of fifty dollars of the value of the property or the amount of the consideration given or at any time to be given, whichever is the greater, on every conveyance or other transfer of property, whether by sale, exchange or gift, other than a sale or transfer of land, a duty of two dollars and fifty cents.
 
-(3) The following are exempt from the provisions of this
+*(3) The section–*
 
-*section–*
+following are exempt from the provisions of this
 
 (a) bonds, mortgages, and other securities operating as settlements, if chargeable with the ad valorem duties on bonds and mortgages hereinbefore granted;
 
@@ -1180,11 +1246,9 @@ settlement is not to be charged with ad valorem duty in respect of the same duty
 
 *6 of 2006.*
 
-(2) There shall be paid on every fifty dollars or part of fifty dollars of the amount or value of the property or the amount of the consideration given or at any time to be given, whichever is the greater on every conveyance or other transfer of property,
-
 *42 of 2017.*
 
-other than a sale or transfer of land, a duty of two dollars and fifty cents.
+(2) There shall be paid on every fifty dollars or part of fifty dollars of the amount or value of the property or the amount of the consideration given or at any time to be given, whichever is the greater on every conveyance or other transfer of property, other than a sale or transfer of land, a duty of two dollars and fifty cents.
 
 (3) Where the consideration or any part of the consideration for a sale is payable or transferable periodically for a definite period not exceeding twenty years, so that the total amount or value to be paid or transferred can be previously ascertained, the conveyance shall be charged in respect of that consideration with ad valorem duty on such total amount or value.
 
@@ -1324,9 +1388,13 @@ specified in
 
 paragraph (a), (b)
 
-8% or (c)
+*or (c)*
 
-(2) Stamp duty at the applicable rate specified in sub-section
+8%
+
+*(2) Stamp*
+
+duty at the applicable rate specified in sub-section
 
 (1) is payable in respect of–
 
@@ -1342,13 +1410,21 @@ an instrument transferring land as part of a company’s assets to a successor c
 
 an instrument that involves the transfer of an equitable or beneficial interest in land or an agreement to transfer an equitable or beneficial interest in land, to a transferee that is neither a citizen of Belize nor a Belizean company, as the case may be.
 
-(3) A transfer of land to a citizen of Belize or to a Belizean company, by way of testamentary disposition or devolution on intestacy, or settlement or other arrangement specified in subsection (2) (a), is exempt from the payment of duty under this section.
+*(3) A company, by intestacy, or*
+
+transfer of land to a citizen of Belize or to a Belizean way of testamentary disposition or devolution on settlement or other arrangement specified in subsection (2) (a), is exempt from the payment of duty under this
+
+*section.*
+
+*(4) In this*
 
 *18 of 2019.*
 
-(4) In this section and section 55A(2)(d)–
+section and section 55A(2)(d)–
 
-“CARICOM national” means a person who–
+*“CARICOM*
+
+national” means a person who–
 
 is a citizen of a Member State;
 
@@ -1356,13 +1432,17 @@ is a citizen of a Member State;
 
 (c) is a company or other legal entity constituted in a Member State in accordance with the laws thereof and which that Member State regards as belonging to it, provided that such company or other legal entity has been formed for gainful purposes and has its registered office and central administration, and carries on substantial activity within the Caribbean Community and is substantially owned and effectively controlled by persons mentioned in paragraphs (a) and (b);
 
-“right of establishment” includes the right to–
+*“right of*
+
+establishment” includes the right to–
 
 (a) engage in any non-wageearning activity of a commercial, industrial, agricultural, professional or artisan nature; or
 
 (b) create and manage an economic enterprise;
 
-“service” means a service provided against remuneration other than wages in any sector duly approved for the purposes of the supply of services between Member States, and “provide a service” means to supply a service—
+*“service” means than wages in supply of service” means*
+
+a service provided against remuneration other any sector duly approved for the purposes of the services between Member States, and “provide a to supply a service—
 
 (a) from the territory of a Member State into the territory of another Member State;
 
@@ -1372,15 +1452,13 @@ is a citizen of a Member State;
 
 (d) as carried out by a service supplier of one Member State through the presence of a natural person of a Member State in the territory of another Member State.
 
-*18 of 2019.*
+*18 of 2019. (5) For the*
 
-(5) For the purposes of this section and section 55A(2)(d)–
-
-(a) a company is a Belizean company if it has been formed and registered under the Companies Act or formed under another
+purposes of this section and section 55A(2)(d)–
 
 *42 of 2017.*
 
-enactment of Belize, and is neither a foreign controlled company nor a company to which section 14(4A) refers; or
+(a) a company is a Belizean company if it has been formed and registered under the Companies Act or formed under another enactment of Belize, and is neither a foreign controlled company nor a company to which section 14(4A) refers; or
 
 (b) a company is a foreign-controlled company, if (regardless of where it has been formed) –
 
@@ -1390,15 +1468,15 @@ enactment of Belize, and is neither a foreign controlled company nor a company t
 
 (iii) one half or more of the votes exercisable at any meeting of the company is held by or for and on behalf of persons who are not citizens of Belize.
 
-*All instruments to be submitted for the Commissioners’ opinion.*
+*All instruments Any to be submitted transfer under for the Commissioners’ Commissioners opinion.*
 
-**73.** Any instrument purporting to be a conveyance or a transfer under section 71 or 72 shall be submitted to the Commissioners by the person liable to pay the duty for their opinion in terms of section 28, and the Commissioners shall express their opinion accordingly.
+*opinion in express their*
 
-**73A.** (1) There shall be paid by a purchaser or occupier of land
+**73.** instrument purporting to be a conveyance or a section 71 or 72 shall be submitted to the by the person liable to pay the duty for their terms of section 28, and the Commissioners shall opinion accordingly.
 
 *Stamp duty on other dealings in or affecting land. 42 of 2017.*
 
-under an agreement for the sale, exchange or gift of land whether or not the agreement includes a clause giving the purchaser or occupier a right of possession or occupation to the land, stamp duty at the applicable rate specified in section 72, of the value of the land or the amount of consideration, for the land, whichever is greater.
+**73A.** (1) There shall be paid by a purchaser or occupier of land under an agreement for the sale, exchange or gift of land whether or not the agreement includes a clause giving the purchaser or occupier a right of possession or occupation to the land, stamp duty at the applicable rate specified in section 72, of the value of the land or the amount of consideration, for the land, whichever is greater.
 
 (2) Sub-section (1) shall apply only where the land has not been transferred as provided in section 72(1).
 
@@ -1418,11 +1496,9 @@ under an agreement for the sale, exchange or gift of land whether or not the agr
 
 *6 of 2006.*
 
-there shall be paid by the company, on the issuance of such
-
 *42 of 2017.*
 
-shares or interest which create the special rights referred to in paragraph(b), stamp duty at the applicable rates specified in section 72, of the value of the land or the development, as the case may be.
+there shall be paid by the company, on the issuance of such shares or interest which create the special rights referred to in paragraph(b), stamp duty at the applicable rates specified in section 72, of the value of the land or the development, as the case may be.
 
 (4) Sub-section (3), shall apply to a person, a group of persons, an entity or an unincorporated group of persons, so that–
 
@@ -1479,3 +1555,7 @@ to foreign currency for the purposes of the Act and includes the General Post Of
 ## SCHEDULE STAMP DUTIES ACT Certificates Fees
 
 [Section 48] Column I Column II (a) on every certificate of registration as a dentist a duty of--------------------------------------------------$100.00 (b) on every certificate to practice as a solicitor a duty of--------------------------------------------------$100.00 (c) on every certificate of registration as a medical practitioner a duty of------------------------------- $1000.00 (d) on every certificate of registration as a land surveyor a duty of--------------------------------------------------$100.00 (e) on every licence to act as a licensed measurer of wood a duty of--------------------------------------------------$100.00 (f) on every commission or licence to practice as a notary public a duty of---------------------------------------$100.00 (g) on every certificate of registration as an optician a duty of--------------------------------------------------------$100.00 ---------------------------------------------
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE

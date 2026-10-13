@@ -94,21 +94,33 @@ R.E. 1980-1990.
 
 (b) the departure tax collected under this Act shall be paid into the revenues of the Belize Airports Authority.
 
-(2) Subject to the provisions of this section, where an airline or its agent fails or neglects to collect or to pay the departure tax leviable under this Act to the Chief Civil Aviation Officer, such airline and its agent shall,
+*Aviation*
+
+(2) Subject to the provisions of this section, where an airline or its agent fails or neglects to collect or to pay the departure tax leviable under this Act to the Chief Civil Officer, such airline and its agent shall,
 
 (a) be liable to pay such tax which may be recovered as a civil debt; and
 
 (b) be guilty of an offence and be liable on summary conviction to a fine not exceeding two thousand dollars or to imprisonment for a period not exceeding two years, or to both such fine and period of imprisonment.
 
-(3) The Minister may allow the Belize Airports Authority to make its own arrangements for the collection of the departure tax payable under this Act.
+*(3) The*
 
-*Power to very departure tax and Schedule. 25 of 1989.*
+Minister may allow the Belize Airports Authority to make its own arrangements for the collection of the departure tax payable under this Act.
 
-**6.** (1) The Minister may, from time to time, review the rate of departure tax payable under this Act and vary the same by Order published in the Gazette.
+*Power to very*
 
-(2) The Minister may, by like Order, add to, alter or vary the Schedule.
+*6.-(1) The*
 
-(3) Every Order made by the Minister under subsection (1) or (2) of this section, shall as soon as may be after the making thereof be laid before the House of Representatives and shall be subject to negative resolution.
+*departure tax and Schedule. 25 of 1989.*
+
+Minister may, from time to time, review the rate of departure tax payable under this Act and vary the same by Order published in the Gazette.
+
+*(2) The*
+
+Minister may, by like Order, add to, alter or vary the Schedule.
+
+*be subject to*
+
+(3) Every Order made by the Minister under subsection (1) or (2) of this section, shall as soon as may be after the making thereof be laid before the House of Representatives and shall negative resolution.
 
 *Repeal. S.I. 57 of 1982. S.I. 20 of 1984. S.I. 37 of 1985. S.I. 5 of 1986.*
 

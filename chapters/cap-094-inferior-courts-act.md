@@ -344,25 +344,35 @@ Preliminary
 
 (3) The Minister may, by Order published in the Gazette, from time to time vary or alter the boundaries of the judicial districts, or any of them, and may subdivide, enlarge or re-
 
-arrange them and establish a new judicial district or districts in Belize.
+arrange them and establish a new judicial district or districts in
 
-(4) The Minister may, by Order published in the Gazette–
+*Belize.*
+
+*(4) The*
+
+Minister may, by Order published in the Gazette–
 
 (a) declare that all judicial districts or any of them shall be abolished and substitute other defined areas or an area as judicial districts or a judicial district in lieu thereof; and
 
 (b) distinguish the judicial districts by the names, letters or numbers he thinks proper.
 
-(5) All Orders under this section shall take effect on their publication or on the day appointed therein.
+*(5) All*
+
+Orders under this section shall take effect on their publication or on the day appointed therein.
 
 *Jurisdiction at ports of entry.*
 
 **4.** For all purposes of the jurisdiction of a court, the waters of any port of entry, as for the time being defined by Act or otherwise, shall be deemed to be within the judicial district in which the port of entry is situate.
 
-*Summary jurisdiction courts.*
+*Summary jurisdiction*
 
-**5.** (1) There shall be established in each judicial district a
+*“Summary*
 
-“Summary Jurisdiction Court” which shall have and exercise criminal jurisdiction in accordance with, and subject to–
+*courts.*
+
+*criminal*
+
+**5.** (1) There shall be established in each judicial district a Jurisdiction Court” which shall have and exercise jurisdiction in accordance with, and subject to–
 
 *CAP. 99.*
 
@@ -382,11 +392,9 @@ arrange them and establish a new judicial district or districts in Belize.
 
 (a) to hear and determine all complaints or informations for summary conviction offences, including complaints or informations for the recovery of fines, penalties or forfeitures not specifically assigned by statute to the Supreme Court;
 
-(b) to receive and inquire into all charges of indictable offences and to make any orders in
-
 *CAP. 96.*
 
-respect thereof under the Indictable Procedure Act; and
+(b) to receive and inquire into all charges of indictable offences and to make any orders in respect thereof under the Indictable Procedure Act; and
 
 (c) generally, to do all acts and things, required by any statute, law or usage now or hereafter in force, appertaining to a summary jurisdiction court in England.
 
@@ -612,11 +620,9 @@ other person appointed in writing by the head of the department concerned to be 
 
 **38.** (1) If any bailiff employed to levy any execution against personal property under any process of the courts, by neglect, connivance or omission loses the opportunity of levying the execution, the magistrate may, upon complaint of the party aggrieved by reason of the neglect, connivance or omission and proof of the same by evidence on oath, order the bailiff to pay the damages appearing to have been sustained by the complainant, not exceeding in any case the sum of money for which the execution issued, and the bailiff is liable therefor.
 
-(2) Upon demand made on the bailiff and his refusal or neglect to pay and satisfy any damages so ordered, payment thereof may be enforced as if the magistrate’s order was a
-
 *CAP. 97.*
 
-judgment under the District Courts (Procedure) Act.
+(2) Upon demand made on the bailiff and his refusal or neglect to pay and satisfy any damages so ordered, payment thereof may be enforced as if the magistrate’s order was a judgment under the District Courts (Procedure) Act.
 
 *Fining bailiff for misconduct or neglect of duty.*
 
@@ -712,11 +718,9 @@ Practice and Procedure of the Courts.
 
 **52.** Where a magistrate has issued any summons or warrant, or otherwise taken or commenced any proceeding or matter, under any authority however conferred, and subsequently ceases to act as magistrate, the person in whose hands the summons or warrant is may execute or serve it in the same manner as if the magistrate who issued it had not ceased so to act, and any successor of the magistrate, or any person acting for the magistrate, may hear, determine, execute, enforce and carry to completion, any proceeding or matter so commenced.
 
-**53.** (1) All summons, warrants, orders, judgments, writs of
-
 *Process of magistrate valid throughout Belize.*
 
-execution or process or proceedings, issued out of any court, shall have full force and effect in, and may be executed or served at, any place within Belize by a bailiff of any court, by any police officer or other constable, or by any other person specifically authorised to execute or serve them.
+**53.** (1) All summons, warrants, orders, judgments, writs of execution or process or proceedings, issued out of any court, shall have full force and effect in, and may be executed or served at, any place within Belize by a bailiff of any court, by any police officer or other constable, or by any other person specifically authorised to execute or serve them.
 
 (2) All summons, warrants, orders, convictions and recognisance and all other process of any court, shall be issued or made under the hand of the magistrate.
 
@@ -752,11 +756,9 @@ Miscellaneous
 
 *Judge may order case to be stated.*
 
-**56.** Every return under section 55 shall, unless a formal appeal against conviction is entered by the defendant, operate as an appeal on behalf of every convicted person whose name is included therein, and a judge may order a magistrate to state a case for the consideration of the Supreme Court, and thereupon the Supreme Court shall have the power to decide the case in all respects as if an appeal had been entered by the
-
 *CAP. 91.*
 
-person convicted under the provisions of Part VIII of the Supreme Court of Judicature Act.
+**56.** Every return under section 55 shall, unless a formal appeal against conviction is entered by the defendant, operate as an appeal on behalf of every convicted person whose name is included therein, and a judge may order a magistrate to state a case for the consideration of the Supreme Court, and thereupon the Supreme Court shall have the power to decide the case in all respects as if an appeal had been entered by the person convicted under the provisions of Part VIII of the Supreme Court of Judicature Act.
 
 *Bail pending decision of Supreme Court.*
 
@@ -840,35 +842,43 @@ Appointment, Powers, Jurisdiction etc., of Alcalde Court
 
 (2) As many such districts may be declared as the Minister thinks fit.
 
-(3) Until the Minister declares districts under this section, the alcalde districts in existence immediately before the commencement of this Act shall be deemed districts declared pursuant to this section.
+*the alcalde*
 
-*Establishment of Alcalde Courts.*
+(3) Until the Minister declares districts under this section, districts in existence immediately before the commencement of this Act shall be deemed districts declared pursuant to this section.
 
-There shall be established in each district an “Alcalde
+*There Establishment of*
+
+*Alcalde Courts. Jurisdiction and criminal*
+
+shall be established in each district an “Alcalde
 
 69.
 
-Jurisdiction Court” which shall have and exercise both civil and criminal jurisdiction in accordance with, and subject to, this Part of this Act.
+Court” which shall have and exercise both civil jurisdiction in accordance with, and subject to, this Part of this Act.
 
-*Nature of the civil jurisdiction.*
+*Nature of the civil jurisdiction. the court has, determine–*
 
-**70.** (1) Subject to sub-section (2), the civil jurisdiction which the court has, and is capable of exercising, is to hear and determine–
+**70.** (1) Subject to sub-section (2), the civil jurisdiction which and is capable of exercising, is to hear and
 
 (a) all disputes in which the debts or damages claimed, whether on balance of account or otherwise, or the value of the chattel claimed or involved, do not exceed twenty-five dollars;
 
 (b) with the consent in writing of both plaintiff and defendant, all disputes in which the debt or damages claimed, whether on balance of account or otherwise, or the value of the chattel claimed or involved, exceeds twenty-five dollars but does not exceed one hundred dollars.
 
-(2) The court shall have no power to hear and determine–
+*(2) The*
+
+court shall have no power to hear and determine–
 
 (a) any action relating to possession of land or in which the title to any corporeal or incorporeal hereditaments is in question; or
 
 (b) any action for libel, slander, malicious prosecution, seduction or breach of promise of marriage.
 
-The civil jurisdiction of the court shall be exercised in
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 *Common law principles.*
 
-accordance with the common law of Belize, but all causes and matters in the court shall be heard and determined in a summary manner without pleading.
+The civil jurisdiction of the court shall be exercised in accordance with the common law of Belize, but all causes and matters in the court shall be heard and determined in a summary manner without pleading.
 
 *Appeals.*
 
@@ -958,11 +968,9 @@ defendant be imprisoned for any term not exceeding twenty-one days for his defau
 
 **82.** All witnesses shall be sworn before the alcalde, and examined orally in open court, and any person giving false evidence in the court is guilty of perjury, and is liable on conviction on indictment, to imprisonment for two years.
 
-**83.** (1) A book shall be kept by the alcalde, wherein shall be
-
 *Alcalde’s minute book.*
 
-entered the particulars of the cases which have come before him, and the amount of any penalties which may have been inflicted on any defendant.
+**83.** (1) A book shall be kept by the alcalde, wherein shall be entered the particulars of the cases which have come before him, and the amount of any penalties which may have been inflicted on any defendant.
 
 (2) A copy of the said book shall be transmitted to the Chief Justice every six months, or oftener, if required by him or her.
 
@@ -988,7 +996,9 @@ entered the particulars of the cases which have come before him, and the amount 
 
 ## SCHEDULE Fees and Costs
 
-[Section 60] Tables of Fees and Costs TABLE A 1 Fees and Costs payable in respect of Proceedings in a Summary Jurisdiction Court $ ¢
+*Fees*
+
+[Section 60] Tables of Fees and Costs TABLE A 1 and Costs payable in respect of Proceedings in a Summary Jurisdiction Court $ ¢
 
 **1.** Upon filing every complaint (and for issuing the summons or warrant therein, taking declaration of service and making an order or conviction therein) .................................................... 1.00
 
@@ -1002,17 +1012,25 @@ entered the particulars of the cases which have come before him, and the amount 
 
 **6.** For services of the Interpreter, per diem................... 0.50 -----------------------------------------------------
 
-1 Item 6 of this Table amended by S.I. 2 of 1980 and item 8 was amended by S.I. 16 of 1959
+*Item*
 
-Witnesses’ Expenses From 75 cents to $3.00 per diem as may be allowed by the magistrate.
+1 6 of this Table amended by S.I. 2 of 1980 and item 8 was amended by S.I. 16 of 1959
 
-**8.** Travelling expenses, the sum reasonably paid, but not more than 25 cents a mile both ways.
+*THE SUBSTANTIVE*
 
-TABLE B 2 Fees and Costs payable in respect of Proceedings in a District
+### LAWS OF BELIZE
 
-*Court*
+*the*
 
-$ ¢
+Witnesses’ Expenses From 75 cents to $3.00 per diem as may be allowed by magistrate.
+
+*more*
+
+**8.** Travelling expenses, the sum reasonably paid, but not than 25 cents a mile both ways.
+
+*Fees Court*
+
+TABLE B 2 and Costs payable in respect of Proceedings in a District $ ¢
 
 **1.** Upon filing a plaint (and for issuing the summons therein, declaration of service, hearing, entry of judgment and taxation of costs),
 
@@ -1024,11 +1042,17 @@ $ ¢
 
 **4.** For certified copies of, or extracts from, any proceeding or record, for each folio ........................ .0.10
 
-**5.** Poundage, 3 per centum on the amount realised on any sale and paid into court.
+*sale*
 
-2 Item 1 (b) of this Table was amended by S.I. 16 of 1959 and Item 8 was amended by S.I. 2 of 1980
+**5.** Poundage, 3 per centum on the amount realised on any and paid into court.
 
-Mileage to be paid as a personal fee to the person serving or executing any process, in respect of every mile actually and properly travelled in order to effect such service or execution, one way only as follows,
+*Item was*
+
+2 1 (b) of this Table was amended by S.I. 16 of 1959 and Item 8 amended by S.I. 2 of 1980
+
+*or*
+
+Mileage to be paid as a personal fee to the person serving or executing any process, in respect of every mile actually and properly travelled in order to effect such service execution, one way only as follows,
 
 (a) to a bailiff, for every mile beyond the first mile from the Court House of the judicial district in which process is served or executed. ............................... 0.25
 
@@ -1047,6 +1071,10 @@ When the claim exceeds $10- $ ¢
 **9.** On commencing an action ........................................ 3.00
 
 **10.** On attending court and taking judgment when action is not contested, at the discretion of the magistrate ................................................................ .5.00
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 On attending court and conducting the plaintiff’s or defendant’s case when action is contested, at the discretion of the magistrate ............................................................ .5.00 to 15.00
 
@@ -1070,4 +1098,6 @@ Payment of Money into Court
 
 (ii) where the money so paid exceeds $50.00 ............................... 0.25
 
-**15.** Where money is paid by installments, a separate fee shall be payable in respect of each installment.
+*shall*
+
+**15.** Where money is paid by installments, a separate fee be payable in respect of each installment.

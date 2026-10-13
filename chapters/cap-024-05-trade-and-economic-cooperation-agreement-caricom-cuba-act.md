@@ -168,6 +168,10 @@ Article 2 OBJECTIVE The objective of this Agreement is the strengthening of the 
 
 (i) the promotion and expansion of trade in goods and services originating in the territories of the Parties by means of, inter alia, free access to the markets of the Parties, elimination of
 
+*[CAP. 24:05*
+
+Agreement (CARICOM/CUBA)
+
 non-tariff barriers to trade, the establishment of a system of rules of origin, and harmonisation of technical, sanitary and phytosanitary measures;
 
 (ii) the establishment of financial arrangements to facilitate the progressive development of two-way trade between the Parties;
@@ -183,6 +187,10 @@ non-tariff barriers to trade, the establishment of a system of rules of origin, 
 (vii) the promotion and development of co-operative activities;
 
 (viii) the promotion of an ongoing system of consultation and coordination for the exchange of information and views on economic and social matters of mutual interest and, where feasible, for the adoption of common
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 positions at international forums and vis-a-vis third countries and groups of countries;
 
@@ -298,13 +306,15 @@ Nothing in this Agreement shall prevent the adoption or enforcement by Cuba or a
 
 (xii) in connection with the preservation of non-renewable natural resources.
 
-Article 10
+Article 10 ECONOMIC COOPERATION
 
-### ECONOMIC COOPERATION
+*Each social the Parties and Party.*
 
-**1.** Each Party agrees to promote mutual economic and social co-operation in support of the economic integration of the Parties and the economic and social development of each Party.
+**1.** Party agrees to promote mutual economic and co-operation in support of the economic integration of the economic and social development of each
 
-**2.** Without prejudice to the generality of paragraph 1, the Parties agree to develop co-operation in the following areas, (i) Development of Human Resources; (ii) Science and Technology
+*Without Parties agree to*
+
+**2.** prejudice to the generality of paragraph 1, the develop co-operation in the following areas, (i) Development of Human Resources; (ii) Science and Technology
 
 (iii) Meteorology and Natural Disaster Preparedness;
 
@@ -408,11 +418,9 @@ Article 16
 
 (viii) To encourage the participation of the business sector in their respective territories in special programmes and forums dealing with the supply of goods and services for the tourism, travel-related and entertainment sectors.
 
-**2.** The Joint Commission shall establish Experts Groups
+*The on tourism,*
 
-*on*
-
-tourism, travel-related services and entertainment,
+**2.** Joint Commission shall establish Experts Groups travel-related services and entertainment,
 
 comprised of specialists from both Parties to assist the Commission in the implementation of this Article.
 
@@ -450,6 +458,10 @@ Article 19
 
 (iv) Applying flexible and attractive tariffs for the Domestic Port Services
 
+*[CAP. 24:05*
+
+Agreement (CARICOM/CUBA)
+
 by Member States of CARICOM and of Cuba to make transportation in the region more competitive;
 
 (v) Establishing specific agreements to facilitate maritime and air transport between Member States of CARICOM and Cuba: in the air transportation field, this will be in accordance with the requirements of the International Civil Aviation Organisation (ICAO);
@@ -460,7 +472,13 @@ by Member States of CARICOM and of Cuba to make transportation in the region mor
 
 (viii) Establishing co-operatives ventures among air and maritime transport authorities on matters relating to the safe, efficient and reliable provision of international transportation services within the territories of the Parties.
 
-**3.** With the view of developing and implementing the concrete lines of action referred to in paragraph 2, the Parties undertake that within a 60 day period after signing this Agreement each Party will appoint the corresponding experts
+*With the concrete lines undertake that Agreement each*
+
+**3.** view of developing and implementing the of action referred to in paragraph 2, the Parties within a 60 day period after signing this Party will appoint the corresponding experts
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 on international transportation, so as to draft the proper working schedules. The experts will coordinate the time and place to carry out these tasks.
 

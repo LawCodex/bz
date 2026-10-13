@@ -142,7 +142,9 @@ Preliminary
 
 “other public service” means public service not under the Government of Belize;
 
-“pensionable emoluments,”
+*“pensionable*
+
+emoluments,”
 
 in respect of service under the Government of Belize include,
 
@@ -154,11 +156,15 @@ in respect of service under the Government of Belize include,
 
 (iv) house allowance;
 
-but do not include duty allowance, entertainment allowance or any other emoluments whatever;
+*but do not any other*
+
+include duty allowance, entertainment allowance or emoluments whatever;
 
 (b) in respect of other public service, means emoluments which count for pension in accordance with the law or regulations in force in such service;
 
-“pensionable office” means,
+*“pensionable*
+
+office” means,
 
 (a) in respect of public service under the Government of Belize, an office which by virtue of provisions for the time being in force in a notice made by the Governor-General and published in the Gazette is declared to be a pensionable office; and any such notification may from time to time be amended, added to or revoked by a notification so made and published; but where by virtue of any such amendment or revocation so long as any person holding that office at the time of the amendment or revocation continues therein, the office shall as respects that person continue to be a pensionable office;
 
@@ -234,9 +240,9 @@ Pensions, Rights and Qualification etc.
 
 **6.** (1) Subject to section 7 of this Act, no pension, gratuity or other allowance shall be granted under this Act to any officer
 
-except on his retirement from the public service in one of the
+*except on his following cases,*
 
-*following cases,*
+retirement from the public service in one of the
 
 *21 of 1988.*
 
@@ -322,11 +328,15 @@ gratuity has been exercised or deemed to have been exercised, the amount as if t
 
 (b) in all other cases four-thirds of its actual amount.
 
-*21 of 1988.*
+*21 of 1988. (5) Where this section the public*
 
-(5) Where the limitation prescribed by subsection (4) of this section operates, the amount of pension to be drawn from the public funds of Belize shall be such amount as the Governor-General shall determine in order that it may be determined with due regard to the amount of any pension or pensions to be drawn in respect of other public service.
+*determined with pensions to be*
 
-(6) For the purpose of this section,
+the limitation prescribed by subsection (4) of operates, the amount of pension to be drawn from funds of Belize shall be such amount as the Governor-General shall determine in order that it may be due regard to the amount of any pension or drawn in respect of other public service.
+
+*(6) For the*
+
+purpose of this section,
 
 (a) an additional pension granted in respect of injury shall not be taken into account; but where the officer is granted such additional pension under this Act, the amount thereof together with the remainder of his pension or pensions shall not exceed five-sixths of the highest pensionable emoluments enjoyed by him at any time during his pensionable service; and
 
@@ -336,15 +346,35 @@ gratuity has been exercised or deemed to have been exercised, the amount as if t
 
 amount of the pension payable to an officer under this Act.
 
-*Payment of pension to retired public officers on re employment. 20 of 2005. 2 of 2008.*
+*Payment of*
 
-**11.** If a person to whom a pension has been granted under this Act is appointed to an office in the public service, he will continue to receive his pension during such employment,
+*If a*
 
-Provided that the payment of his pension may, with his written consent, if the Governor-General thinks fit, be suspended during the period of such employment.
+*pension to retired*
 
-*Pensions, etc., not assignable.*
+*this Act is*
 
-**12.** A pension, gratuity or other allowance granted under this Act shall not be assignable or transferable except for the purposes of satisfying,
+*public officers on re*
+
+*continue to*
+
+*employment. 20 of 2005. 2 of 2008.*
+
+**11.** person to whom a pension has been granted under appointed to an office in the public service, he will receive his pension during such employment,
+
+*during the*
+
+Provided that the payment of his pension may, with his written consent, if the Governor-General thinks fit, be suspended period of such employment.
+
+*Pensions, etc.,*
+
+*A*
+
+*not assignable.*
+
+*purposes of*
+
+**12.** pension, gratuity or other allowance granted under this Act shall not be assignable or transferable except for the satisfying,
 
 (a) a debt due to the Government of Belize; or
 
@@ -352,7 +382,9 @@ Provided that the payment of his pension may, with his written consent, if the G
 
 *Pensions, etc. ceases on bankruptcy.*
 
-**13.** (1) Where any person to whom a pension or other allowance has been granted under this Act is adjudicated bankrupt or is declared insolvent by the judgment of any competent court, then such pension or allowance shall forthwith cease.
+*competent*
+
+**13.** (1) Where any person to whom a pension or other allowance has been granted under this Act is adjudicated bankrupt or is declared insolvent by the judgment of any court, then such pension or allowance shall forthwith cease.
 
 (2) Where an officer is adjudicated bankrupt or declared insolvent by the judgment of any competent court either,
 
@@ -410,11 +442,13 @@ Provided that for the purposes of this section an officer who has not been confi
 
 (3) This section shall not apply in the case of the death of any officer where benefits corresponding to the benefits which may be granted under this section are payable under the
 
-Overseas Superannuation Scheme in respect of such death or in the case of the death of an officer to whom section 17 of this
+*Overseas in the case of Act, applies.*
 
-*Act, applies.*
+Superannuation Scheme in respect of such death or the death of an officer to whom section 17 of this
 
-(4) In this section,
+*(4) In this*
+
+section,
 
 “annual pensionable emoluments” means the (a)
 
@@ -426,7 +460,9 @@ gratuity, if any, which might have been granted to the officer under regulation 
 
 (1) of this section, on the date of his death he had retired from the public service in circumstances which enabled the grant of a pension to be made and had elected to receive a gratuity and reduced pension,
 
-Provided that in determining the amount of the gratuity which might have been granted to the officer under regulation
+*Provided which might*
+
+that in determining the amount of the gratuity have been granted to the officer under regulation
 
 26 of the Pensions Regulations, no regard shall be had to regulation 4 (2) of such Regulations.
 
@@ -456,7 +492,9 @@ provided that the total amount of the gratuity shall not exceed the amount of on
 
 (other than a pension under regulation 24 of the Pension Regulations) or for the grant, under his terms of service, of a gratuity or benefit under any other scheme of superannuation.
 
-(4) For the purposes of this section,
+*(4) For the*
+
+purposes of this section,
 
 “pay” means pay at the date of the officer’s (a)
 
@@ -476,15 +514,25 @@ under regulation 24 (4) of the Pension Regulations) or, as provided under his te
 
 Miscellaneous
 
-*Pensionable officer dying after injury or contracting disease.*
+*Pensionable*
 
-**18.** (1) Where an officer while in public service under the Government of Belize,
+*18.-(1) Where*
+
+*officer dying*
+
+*Government of*
+
+*after injury or contracting disease.*
+
+an officer while in public service under the Belize,
 
 (a) is injured in the actual discharge of his duty by some injury specifically attributable to the nature of his duty which is not wholly or mainly due to, or seriously aggravated by, his own serious and culpable negligence or misconduct; or
 
 (b) contracts a disease to which he is exposed by the nature of his duty, not being a disease wholly or mainly due to or seriously aggravated by his own serious and culpable negligence or misconduct,
 
-and dies as a direct result thereof and such death occurs within seven years of the date when he was injured or contracted the disease, the Governor- General may grant, in addition to the grant, if any, made to his legal personal representative under section 16 of this Act,
+*and dies as a seven years of disease, the grant, if any, section 16 of*
+
+direct result thereof and such death occurs within the date when he was injured or contracted the Governor- General may grant, in addition to the made to his legal personal representative under this Act,
 
 (i) if the deceased officer leaves a widow, a pension to her at the rate not exceeding ten-sixtieths of his annual pensionable emoluments at the date of the injury or seventy-five
 
@@ -516,17 +564,25 @@ where a deceased officer leaves a child who was incapacitated at the time of the
 
 (e) in the case of a pension granted under paragraphs (v), (vi), or (vii), if it appears to the Governor-General at any time that the mother or father or any brother or sister is adequately provided with other means of support, such pension shall cease as from such date as the Governor-General may determine.
 
-(2) No pension shall be granted to the widow of the deceased officer if she was not married to him at the date of injury.
+*(2) No deceased officer injury.*
 
-(3) No pension shall be payable to the widow of the deceased officer or to any other female if,
+pension shall be granted to the widow of the if she was not married to him at the date of
+
+*(3) No deceased officer*
+
+pension shall be payable to the widow of the or to any other female if,
 
 (a) in the case of the widow, she was at the time of the death cohabiting with a person other than the deceased officer or after the death she marries or cohabits with any person;
 
 (b) in the case of a female who is not the widow of the deceased officer, she was at the time of the death married to or cohabiting with any person or after the death she marries or cohabits with any person;
 
-and if after the grant of pension to the widow or other female she marries or cohabits with any person, the pension shall cease from the date of the marriage or the commencement of the cohabitation,
+*and if after the she marries or cease from the the cohabitation,*
 
-Provided that where,
+grant of pension to the widow or other female cohabits with any person, the pension shall date of the marriage or the commencement of
+
+*Provided that*
+
+where,
 
 (i) a pension is withheld or ceases under this subsection; and
 
@@ -550,7 +606,9 @@ Provided that in such a case the rates of pension prescribed in sub- section (1)
 
 (b) For the purposes of this subsection an officer shall be deemed to recover damages whether they are paid in pursuance of a judgment or order of a court or by way of settlement or compromise of his claim and whether or not proceedings are instituted to enforce that claim.
 
-(8) For the purposes of this section the following words have, in relation to an officer, the meanings hereby respectively assigned to them,
+*(8) For the have, in respectively*
+
+purposes of this section the following words relation to an officer, the meanings hereby assigned to them,
 
 “brother” includes, in relation to a person, (a)
 
@@ -580,15 +638,21 @@ person by whom an officer has been adopted in a manner recognised by law;
 
 stepmother and a female person by whom he has been adopted in a manner recognised by law;
 
-“sister” includes every female child of his father or his mother.
+*“sister” includes*
 
-*War service to count for pension purposes.*
+every female child of his father or his mother.
 
-Where an officer has served with Her Majesty’s Forces
+*Where War service to*
+
+*count for pension in time of war, purposes.*
+
+an officer has served with Her Majesty’s Forces
 
 19.
 
-in time of war, with the approval of the Governor of the territory in the service of which he was last employed before so serving or of the Secretary of State, the following provisions shall have effect,
+*territory in the so serving or of shall have effect,*
+
+with the approval of the Governor of the service of which he was last employed before the Secretary of State, the following provisions
 
 (i) during the period of such service in Her Majesty’s Forces including any period after the termination of the war (in this section referred to as “military service”) he shall be deemed for the purposes of this Act to have been on leave on full salary from the public
 
@@ -614,9 +678,9 @@ prior to military service to retire on pension or gratuity, such circumstances a
 
 (e) save where in any particular case the Governor- General otherwise directs, this section shall not apply where the office in the public service last held by the officer prior to military service was not a pensionable office.
 
-*Officers entitled.*
+*Officers entitled. 20.-(1) This Act*
 
-**20.** (1) This Act shall apply,
+shall apply,
 
 to every officer first appointed to the public service of Belize,
 
@@ -686,6 +750,8 @@ Provided that except where such an officer eventually becomes eligible for a pen
 
 These Regulations were made by S.I. 95 of 1990 and amended by S.I. 26 of
 
+*[CAP.*
+
 Pension for service wholly within the group.
 
 Pension where other service is not within the group.
@@ -734,6 +800,10 @@ Miscellaneous
 
 **27.** Gratuities for officers who have served in non-pensionable offices.
 
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
+
 ## PART I
 
 Preliminary
@@ -768,15 +838,23 @@ if his pensionable service exceeds ten years, at the annual rate of one-hundred-
 
 (b) if his pensionable service does not exceed ten years, at the annual rate of one four-hundred-and-eightieth (1/480th) of his pensionable emoluments in respect of each completed month of pensionable service.
 
-*S. I. 26 of 1992.*
+*S. I. 26 of 1992. under the*
 
-(2) When an officer retired or resigned from public service under the Government of Belize in the circumstances described in section 6 (1) (a) (iv) of this Act, and at the time of his retirement or resignation his pensionable service was not less than ten years but not more than fifteen years he may be granted in addition to the pension granted under paragraph (1) an additional pension at the annual rate of one seven-hundred-and- twentieth (1/720th) of his pensionable emoluments in respect of each month,
+*retirement or*
+
+*granted in an additional*
+
+*respect of each*
+
+(2) When an officer retired or resigned from public service Government of Belize in the circumstances described in section 6 (1) (a) (iv) of this Act, and at the time of his resignation his pensionable service was not less than ten years but not more than fifteen years he may be addition to the pension granted under paragraph (1) pension at the annual rate of one seven-hundred-and- twentieth (1/720th) of his pensionable emoluments in month,
 
 (a) by which his pensionable service falls short of fifteen years, or
 
 (b) if his pensionable service would have been for a shorter period than fifteen years had he continued to hold the same office which he held at the date of his retirement or resignation and retired or resigned on attaining the age of fifty-five years, of such shorter period.
 
-(3) An officer who resigns from the public service shall be paid a gratuity or both a pension and a gratuity in accordance with section 7 of the Pensions Act, Cap. 30.
+*(3) An paid a gratuity*
+
+officer who resigns from the public service shall be or both a pension and a gratuity in accordance with section 7 of the Pensions Act, Cap. 30.
 
 *Gratuities where length of service does not qualify for pension.*
 
@@ -798,17 +876,21 @@ whichever amount shall be the less. Provided that a gratuity under this regulati
 
 Transferred Officers
 
-*Application of Part III.*
+*This Application of*
 
-**7.** This Part shall apply only in the case of an officer transferred to or from public service under the Government of Belize from or to other public service.
+*Part III.*
 
-*Retirement on grounds of*
+*transferred to or Belize from or*
 
-**8.** (1) In this Part and Part IV “scheduled administration”
+**7.** Part shall apply only in the case of an officer from public service under the Government of to other public service.
 
-*means,*
+*8.-(1) In this Retirement on*
 
-*public interest.*
+*grounds of*
+
+Part and Part IV “scheduled administration”
+
+*means, public interest.*
 
 (a) the Government of any territory, or any authority, mentioned in the Schedule;
 
@@ -826,11 +908,19 @@ Africa by or under the Eastern Africa Court of Appeal Order in Council 1961 made
 
 (g) the Interim Commissioner for the West Indies in respect of any person deemed to have been appointed or appointed to service as a judge, registrar, officer or servant of the British Caribbean Court of Appeal by or under the British Caribbean Court of Appeal Order in Council 1962.
 
-“Service in the group” means service in the public service under the Government of Belize and under a scheduled administration or scheduled administrations.
+*under the administration*
 
-(2) Where an officer to whom this Part applies is, on his retirement from the service, not granted a pension or gratuity, in respect of his employment in the service in which he was last employed, solely by reason of the fact that he has not held office or pensionable office therein for a specified period, he shall nevertheless be deemed for the purposes of this Part of these regulations to have retired in circumstances in which he is permitted by the law in force in respect of the service in which he is last employed to retire on pension or gratuity.
+“Service in the group” means service in the public service Government of Belize and under a scheduled or scheduled administrations.
 
-(3) For the purpose of these regulations,
+*(2) Where*
+
+*in respect of last employed, office or shall these*
+
+an officer to whom this Part applies is, on his retirement from the service, not granted a pension or gratuity, his employment in the service in which he was solely by reason of the fact that he has not held pensionable office therein for a specified period, he nevertheless be deemed for the purposes of this Part of regulations to have retired in circumstances in which he is permitted by the law in force in respect of the service in which he is last employed to retire on pension or gratuity.
+
+*(3) For the*
+
+purpose of these regulations,
 
 (a) any officer in public service under the Government of the Federation of Rhodesia and Nyasaland immediately before 1st January 1964, who was immediately before that date employed on secondment to service under the Government of Southern Rhodesia, or Northern Rhodesia or Nyasaland, or was as from the date so employed, shall be deemed to continue to serve in public service under the Government of the Federation of
 
@@ -854,9 +944,11 @@ years or lesser period preceding that date, as the case may be, except that wher
 
 (d) no period of public service under a scheduled administration or under the Government of Belize in respect of which no pension or gratuity is granted to him by that administration or Government, as the case may be, shall be taken into account.
 
-(3) For the purposes of this regulation the aggregate amount of an officer’s pensionable emoluments shall be taken as the total amount of pensionable emoluments which he would have received or enjoyed had he been on duty on full pay in his substantive office or offices throughout his period of service in the group subsequent to the attainment of the age of twenty years,
+*amount of an as the total would have pay in his service in the twenty years,*
 
-Provided that,
+(3) For the purposes of this regulation the aggregate officer’s pensionable emoluments shall be taken amount of pensionable emoluments which he received or enjoyed had he been on duty on full substantive office or offices throughout his period of group subsequent to the attainment of the age of
+
+*Provided that,*
 
 (a) in calculating the aggregate amount of his pensionable emoluments, no account shall be taken of any service under a scheduled
 
@@ -864,11 +956,15 @@ administration or under the Government of Belize in respect of which no pension 
 
 (b) where service in a civil capacity otherwise than in a pensionable office is taken into account as pensionable service, the officer’s aggregate pensionable emoluments during that service shall be taken into account to the same extent as that service shall be taken into account as pensionable service.
 
-*Pension where other service is not within the group.*
+*Pension where 10.-(1) Subject other service is regulations, not within the group. whom this Part service under aggregate*
 
-**10.** (1) Subject to the provisions of the Act and of these regulations, where the other public service of an officer to whom this Part of these regulations applies has not included service under any of the scheduled administrations, and his aggregate service would have qualified him, had it been wholly service in public service, under the Government of Belize for a pension under these regulations, he may on his retirement from public service, be granted in respect of his service in public service, under the Government of Belize a pension of an amount equal to the pension for which he would have been eligible under regulation 4, if there had been no qualifying period and if he had no other public service.
+*pension under public service, service, under amount equal eligible under period and if he*
 
-(2) Where the officer is not in public service under the Government of Belize at the time of such retirement,
+to the provisions of the Act and of these where the other public service of an officer to of these regulations applies has not included any of the scheduled administrations, and his service would have qualified him, had it been wholly service in public service, under the Government of Belize for a these regulations, he may on his retirement from be granted in respect of his service in public the Government of Belize a pension of an to the pension for which he would have been regulation 4, if there had been no qualifying had no other public service.
+
+*(2) Where Government of*
+
+the officer is not in public service under the Belize at the time of such retirement,
 
 (a) his pensionable emoluments for the purposes of paragraph (1) shall be those which would have been taken for the purposes of computing his pension if he had retired from the public service and had been granted a pension at the date of his last transfer from public service under the Government of Belize; and
 
@@ -916,13 +1012,23 @@ General
 
 *Continuity of service.*
 
-**15.** (1) Except as otherwise provided in these regulations, only continuous public service shall be taken into account as qualifying service or as pensionable service.
+*continuous qualifying*
 
-(2) Any break in service caused by temporary suspension of employment in the public service not arising from misconduct or voluntary resignation shall be disregarded for the purposes of subparagraph (1).
+**15.** (1) Except as otherwise provided in these regulations, only public service shall be taken into account as service or as pensionable service.
 
-(3) Any person holding office in public service under the Government of Palestine immediately before 15th May 1948, shall be deemed to have continued in his office until either he was appointed to the service of the Crown elsewhere, or, if he was not so appointed, he retired or was removed from an office.
+*(2) Any*
 
-(4) An officer,
+break in service caused by temporary suspension of employment in the public service not arising from misconduct or voluntary resignation shall be disregarded for the purposes of subparagraph (1).
+
+*(3) Any*
+
+*was not so office.*
+
+person holding office in public service under the Government of Palestine immediately before 15th May 1948, shall be deemed to have continued in his office until either he was appointed to the service of the Crown elsewhere, or, if he appointed, he retired or was removed from an
+
+*(4) An*
+
+officer,
 
 (a) whose pension has been suspended under section 11 of the Act or under a corresponding provision in any law relating to the grant of pensions in respect of public service; or
 
@@ -940,19 +1046,41 @@ General
 
 (b) any gratuity so granted which is required to be refunded as a condition of the application to the officer of this regulation, but additional to any gratuity so granted which is not required to be refunded as aforesaid.
 
-*Leave without salary.*
+*Leave without No salary.*
 
-**16.** No period during which an officer has been absent from duty on leave without salary shall be taken into account as pensionable service unless such leave has been granted on grounds of public policy with the approval of the Governor-General.
+*duty on leave pensionable grounds of General.*
 
-*Service in Her Majesty’s Forces.*
+**16.** period during which an officer has been absent from without salary shall be taken into account as service unless such leave has been granted on public policy with the approval of the Governor-
 
-**17.** Where an officer, during some period of his service, has been on the active list of the Royal Navy, the Army or the Royal Air Force, and pension contributions have been paid in respect of that period from the funds of Belize or of any
+*Service in Her Where Majesty’s*
 
-scheduled administration and have not been refunded, such period shall not be taken into account as pensionable service.
+*been on the*
 
-*Emoluments to be taken for computation of pension.*
+*Forces.*
 
-**18.** (1) For the purpose of computing the amount of the pension or gratuity of an officer who has had a period of not less than three years’ pensionable service before his retirement,
+*Royal Air*
+
+**17.** an officer, during some period of his service, has active list of the Royal Navy, the Army or the Force, and pension contributions have been paid in respect of that period from the funds of Belize or of any
+
+*scheduled period shall not*
+
+administration and have not been refunded, such be taken into account as pensionable service.
+
+*Emoluments to*
+
+*18.-(1) For the*
+
+*be taken for*
+
+*pension or*
+
+*computation of*
+
+*less than three*
+
+*pension.*
+
+purpose of computing the amount of the gratuity of an officer who has had a period of not years’ pensionable service before his retirement,
 
 (a) in the case of an officer who has held the same office for a period of three years immediately preceding the date of his retirement, the full annual pensionable emoluments enjoyed by him at that date in respect of that office shall be taken;
 
@@ -960,7 +1088,7 @@ scheduled administration and have not been refunded, such period shall not be ta
 
 (c) in other cases one-third of the aggregate pensionable emolument enjoyed by the officer in respect of his service during the three years of his service immediately preceding the date of his retirement shall be taken,
 
-Provided that,
+*Provided that,*
 
 (i) if such one-third is less than the highest annual pensionable emoluments enjoyed by him at the date of any transfer within such period of three years those annual
 
@@ -968,9 +1096,13 @@ pensionable emoluments shall be taken; and
 
 (ii) if such one-third is less than the annual pensionable emoluments which would have been enjoyed by him at the date of his retirement, if he had continued to hold any office from which he has been transferred at any time during such period of three years, and had received all scale increments which, in the opinion of the Governor-General, would have been granted to him, the annual pensionable emoluments which would have been so enjoyed shall be taken.
 
-(2) For the purpose of computing the amount of the pension or gratuity of an officer who has had a period of less than three years pensionable service before his retirement the average annual pensionable emoluments enjoyed by him during such period shall be taken.
+*(2) For the pension or than three years average annual during such*
 
-(3) For the purpose of determining under this regulation the pensionable emoluments that an officer has enjoyed or would have enjoyed, as the case may be he shall be deemed,
+purpose of computing the amount of the gratuity of an officer who has had a period of less pensionable service before his retirement the pensionable emoluments enjoyed by him period shall be taken.
+
+*(3) For the pensionable have enjoyed, as*
+
+purpose of determining under this regulation the emoluments that an officer has enjoyed or would the case may be he shall be deemed,
 
 (a) to have been on duty on full pensionable emoluments throughout the period of three years or such lesser period immediately preceding the date of his retirement; and
 
@@ -996,11 +1128,13 @@ being required to remain at such places when on duty and not in pursuance of any
 
 (d) no account shall be taken of the allowance paid to non-commissioned officers and members of the Police Department, prison officers and attendants at the Mental Hospital (being married men or widowers with dependent children) hitherto described in the annual estimates as “rent, contribution to aid” or in similar terms, which allowance shall be deemed not to be a house allowance.
 
-(5) In no circumstances shall pensionable emoluments be taken for the purposes of computing the pension or gratuity of any officer exceed the full annual pensionable emoluments enjoyed by the officer at the date of his retirement in respect of the office then held by him.
+*(5) In no taken for the any officer enjoyed by the the office then*
 
-*Teaching service may be counted as pensionable service.*
+circumstances shall pensionable emoluments be purposes of computing the pension or gratuity of exceed the full annual pensionable emoluments officer at the date of his retirement in respect of held by him.
 
-**19.** Where an officer holding a pensionable office retires from the public service in circumstances in which he is eligible,
+*Teaching service Where may be counted from the as pensionable service. eligible,*
+
+**19.** an officer holding a pensionable office retires public service in circumstances in which he is
 
 (a) for a pension or gratuity under these regulations; and
 
@@ -1008,19 +1142,27 @@ being required to remain at such places when on duty and not in pursuance of any
 
 Cap. 42, may be taken into account as though it were pensionable service under these regulations,
 
-Provided that,
+*Provided that,*
 
 (i) where any such direction has been given, any pension or gratuity granted under these regulations shall be in lieu of any pension or gratuity for which the officer is eligible under the School Teachers Pensions Act, Cap. 42; and
 
 (ii) any break in service which may be disregarded under regulation 15 may likewise be disregarded in determining for the purposes of this regulation whether the period of service which is pensionable under the School Teachers Pensions Act, Cap. 42, was immediately followed by pensionable service under these regulations.
 
-*Service in nonpensionable office.*
+*Service in non-*
 
-**20.** Only service in a pensionable office (not being service in respect of pensionable which the officer is entitled to a gratuity in lieu of pension or to benefit under office any other scheme of superannuation) shall be taken into account as
+*Only*
 
-*pension,*
+*pensionable*
 
-Provided that,
+*in respect of*
+
+*office.*
+
+*gratuity in lieu scheme of pension,*
+
+**20.** service in a pensionable office (not being service pensionable which the officer is entitled to a of pension or to benefit under office any other superannuation) shall be taken into account as
+
+*Provided that,*
 
 (a) where a period of service in a civil capacity otherwise than in a pensionable office (not being service in respect of which the officer is entitled to a gratuity in lieu of pension or to benefit under any other scheme of superannuation) is immediately followed by
 
@@ -1032,33 +1174,53 @@ service in a pensionable office and the officer is confirmed therein, such perio
 
 (ii) where a period of service in an office which is not pensionable is taken into account under this regulation, the officer shall, during that period, be deemed for the purpose of regulations 6, 23 and 24 to be holding a pensionable office, and where that period is taken into account under the preceding proviso to have been confirmed therein.
 
+*Any*
+
 *Acting Service.*
 
-Any period during which an officer has performed only acting service in an office may be taken into account as pensionable service (subject if the office is not pensionable, to the provisions of regulation 20) if the period of such acting service,
+*pensionable*
+
+period during which an officer has performed only acting service in an office may be taken into account as service (subject if the office is not pensionable, to the provisions of regulation 20) if the period of such acting
+
+*service,*
 
 (a) is not taken into account as part of his pensionable service in other public service; and
 
 (b) is immediately preceding or followed by service in a substantive capacity in a pensionable office in the public service under the same government or authority, and not otherwise.
 
-*Service under age of 20 or on probation or agreement.*
+*Service under age of 20 or on*
 
-**22.** Except as otherwise provided in these regulations, there shall not be taken into account as pensionable service,
+*shall not be*
+
+*probation or agreement.*
+
+**22.** Except as otherwise provided in these regulations, there taken into account as pensionable service,
 
 (a) any period of service while the officer was under the age of eighteen years; or
 
 (b) any period of service while he was on probation or agreement, unless without break of service he is confirmed in a pensionable office in the public service,
 
-Provided that any break of service which may be disregarded under regulation 15 may likewise be disregarded in determining whether the officer is confirmed in a pensionable office without break of service.
+*under determining*
+
+Provided that any break of service which may be disregarded regulation 15 may likewise be disregarded in whether the officer is confirmed in a pensionable office without break of service.
 
 ## PART V
 
 Miscellaneous
 
-*Abolishing of office and re-organisation.*
+*If an*
 
-**23.** If an officer holding a pensionable office retires from the public service office and in consequence of the abolition of
+*Abolishing of office and re-*
 
-his office or for the purpose of facilitating improvements in the organisation of the department to which he belongs, by which greater efficiency or economy may be effected, he may,
+*the public*
+
+*organisation.*
+
+**23.** officer holding a pensionable office retires from service office and in consequence of the abolition of
+
+*his office or for organisation of greater*
+
+the purpose of facilitating improvements in the the department to which he belongs, by which efficiency or economy may be effected, he may,
 
 (a) if he has been in the public service for less than ten years, be granted in lieu of any gratuity under regulation 5 or regulation 12, a pension under regulation 4 (1) or under regulations 9, 1 0 or 11 as the case may be, as if the words “for ten years or more” were omitted from regulation 4 (1);
 
@@ -1070,17 +1232,25 @@ his office or for the purpose of facilitating improvements in the organisation o
 
 (ii) the addition together with the remainder of the officer’s pension shall not exceed the pension for which he would have been eligible if the words “for ten years or more” were omitted from regulation 4 and if he had continued to hold the office held by him at the date of his retirement, and retired on reaching the age at which he may be required to retire without the approval of the Secretary of State, having received all increments for which he would have been eligible by that date.
 
+*24.-(1) This*
+
 *Officers injured or contracting diseases in discharge of their duties.*
 
-**24.** (1) This regulation shall apply to an officer who,
+regulation shall apply to an officer who,
 
 is injured in the actual discharge of his duty by some diseases in the injury specifically attributable to the nature of his duty which is not wholly or mainly due to, or seriously aggravated by, his own serious and culpable negligence or misconduct; or
 
 (b) contracts a disease to which he is exposed by the nature of his duty, not being a disease wholly or mainly due to, or seriously aggravated by, his own serious and culpable negligence or misconduct.
 
-(2) In this regulation unless the contrary intention appears, references to an officer being injured and to the date on which an injury is sustained shall respectively be construed as including references to him contracting such a disease as is mentioned in paragraph (1) and to the date on which such disease is contracted.
+*(2) In this*
 
-(3) Where an officer to whom this regulation applies is holding a pensionable office in which he has been confirmed, he may,
+*an injury is including mentioned in disease is*
+
+regulation unless the contrary intention appears, references to an officer being injured and to the date on which sustained shall respectively be construed as references to him contracting such a disease as is paragraph (1) and to the date on which such contracted.
+
+*(3) Where holding a he may,*
+
+an officer to whom this regulation applies is pensionable office in which he has been confirmed,
 
 (a) if his retirement is necessitated or materially accelerated by his injury and he has been in the public service for less than ten years, be granted in lieu of any gratuity under regulation 5 or regulation 12, a pension under regulation 4 (1) or under regulation 9, 10 or 11 as the case may be, as if the words “for ten years or more” were omitted from regulation 4 (1);
 
@@ -1088,11 +1258,19 @@ is injured in the actual discharge of his duty by some diseases in the injury sp
 
 annual rate of the proportion of his actual pensionable emoluments at the date of his injury appropriate to his case as shown in the following table.
 
-When his capacity to contribute to his own support is,
+*When his*
 
-Slightly impaired five sixtieths Impaired ten sixtieths Materially impaired fifteen sixtieths Totally destroyed twenty sixtieths;
+capacity to contribute to his own support is,
 
-Provided that the amount of the additional pension may be reduced to such an extent as the Governor-General shall think reasonable where the injury is not the cause or the sole cause of retirement.
+*Slightly Impaired*
+
+*Totally*
+
+impaired five sixtieths ten sixtieths Materially impaired fifteen sixtieths destroyed twenty sixtieths;
+
+*Provided that reduced to such reasonable of retirement.*
+
+the amount of the additional pension may be an extent as the Governor-General shall think where the injury is not the cause or the sole cause
 
 (4) (a) An officer to whom this regulation applies who is injured while in public service under the Government of Belize and who holds a non-pensionable office, or who holds a pensionable office in which he has not been confirmed, may be granted on retirement, a pension of the same amount as the additional pension which may be granted to him under paragraph (3) if his office were a pensionable office and he had been confirmed therein.
 
@@ -1112,19 +1290,27 @@ Provided that in such a case the rates of pension prescribed in paragraph (3) (b
 
 (8) Where compensation in consequence of the injury is payable under any law in force in Belize which provides for the payment of workmen’s compensation, or where benefits corresponding to an additional pension or pension under paragraph (3) or paragraph (4) are payable, under the Overseas Superannuation Scheme or under the law in force in respect of any other public service, in consequence of the injury, the Governor- General may reduce or withhold any additional
 
-pension or pension payable under either paragraph (3) or paragraph (4) aforesaid in such manner as he may consider reasonable.
+*pension or paragraph (4) reasonable.*
+
+pension payable under either paragraph (3) or aforesaid in such manner as he may consider
 
 (9) (a) Where the Governor-General is satisfied that damages have been or will be recovered by an officer in respect of an injury for which an additional pension or pension may be granted under paragraph (3) (b) or under paragraph (4), the Governor-General may take those damages into account against such additional pension or pension in such manner and to such extent as he may think fit and may withhold or reduce the additional pension or pension accordingly.
 
 (b) For the purpose of this paragraph an officer shall be deemed to recover damages whether they are paid in pursuance of a judgment or order of the court or by way of settlement or compromise of his claim and whether or not proceedings are instituted to enforce that claim.
 
-*Additional pension for officers with ten and fifteen years retiring on ill health.*
+*Additional Where pension for*
 
-**25.** Where an officer who has been transferred from other public service and whose aggregate service would have rendered him eligible, had it been wholly under the Government of Belize, for a pension under these regulations is compulsorily retired from the public service in the circumstances mentioned in regulation 4 (2), he may, if at the time he is in public service under the Government of Belize, be granted from the funds of Belize the additional pension allowed by that regulation as well as the pension granted under regulation 9, 10 or 11 as the case may be.
+*public service officers with ten and fifteen years rendered him retiring on ill Government of*
 
-*Gratuity and reduced pension.*
+*health.*
 
-**26.** (1) Any officer to whom a pension is granted under the Act may at his option exercisable as in this regulation provided, be paid in lieu of such pension a pension at the rate of three-
+*compulsorily circumstances time he is in granted from allowed by that regulation 9, 10*
+
+**25.** an officer who has been transferred from other and whose aggregate service would have eligible, had it been wholly under the Belize, for a pension under these regulations is retired from the public service in the mentioned in regulation 4 (2), he may, if at the public service under the Government of Belize, be the funds of Belize the additional pension regulation as well as the pension granted under or 11 as the case may be.
+
+*Gratuity and 26.-(1) Any reduced pension. may at his paid in lieu of*
+
+officer to whom a pension is granted under the Act option exercisable as in this regulation provided, be such pension a pension at the rate of three-
 
 fourths of such pension together with a gratuity equal to twelve and half times the amount by which such pension is reduced,
 
@@ -1140,9 +1326,15 @@ Provided that in the application of this regulation to cases where the limitatio
 
 (3) If an officer who has not exercised an option in accordance with this regulation dies after he has retired but before a pension has been granted to him under the Act, the Governor-General may, if he thinks fit, grant to his legal personal representative a gratuity and reduced pension as provided in paragraph (1), as if the officer has exercised the option before his death.
 
-*Gratuities for officers who have served in non-pensionable officers.*
+*Gratuities for 27.-(1) Where officers who*
 
-**27.** (1) Where an officer to whom this regulation applies retires or resigns from public service under the Government of Belize after serving in that public service for not less than five years, he may be granted by the Governor-General a gratuity at the rate herein specified for each complete year of service, that is to say,
+*or resigns from have served in non-pensionable after serving in*
+
+*officers.*
+
+*he may be rate herein to say,*
+
+an officer to whom this regulation applies retires public service under the Government of Belize that public service for not less than five years, granted by the Governor-General a gratuity at the specified for each complete year of service, that is
 
 for each of the first five years, one week’s (a)
 
@@ -1154,13 +1346,17 @@ pay;
 
 for each additional year, four weeks’ pay. (c)
 
-(2) This regulation applies to an officer who holds,
+*(2) This*
+
+regulation applies to an officer who holds,
 
 (a) a non-pensionable office,
 
 (b) a pensionable office in which he is not serving on probation and (if his appointment to that office is subject to confirmation) in which he has not been confirmed and who is not eligible for the grant of a pension, gratuity or other allowance under the Act (other than a pension under regulation 24 (4) or for the grant, under the terms of service, of a gratuity or a benefit under any other scheme of superannuation.
 
-(3) For the purpose of this regulation,
+*(3) For the*
+
+purpose of this regulation,
 
 “pay” means pay at the date of the officer’s (a)
 

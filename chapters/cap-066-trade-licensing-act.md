@@ -188,11 +188,9 @@ Preliminary
 
 “licensed premises” means any premises in respect of which any person has been granted a licence under this Act;
 
-“licensing district” means the limits of each town or city as
-
 *CAP. 87. CAP. 85. CAP. 86. CAP. 85. CAP. 87. CAP. 86.*
 
-defined under the Town Councils Act, the Belize City Council Act, or the Belmopan City Council Act;
+“licensing district” means the limits of each town or city as defined under the Town Councils Act, the Belize City Council Act, or the Belmopan City Council Act;
 
 “local Authority” means the Belize City Council established under the Belize City Council Act, or a town council established under the Town Councils Act, or the City of Belmopan established under the Belmopan City Council Act;
 
@@ -246,11 +244,13 @@ resigned his membership of that Board or has been removed from office, shall hol
 
 (b) any person appointed to act as a member of a Board during the absence of a member shall hold office during the period of such absence.
 
-(3) Any person ceasing to be a member of any Board shall be eligible for re-appointment thereto.
+*(3) Any be eligible for*
 
-*Power of Board.*
+person ceasing to be a member of any Board shall re-appointment thereto.
 
-**5.** (1) Every Board shall have the powers–
+*Power of Board. 5.–(1) Every*
+
+Board shall have the powers–
 
 (a) to hear and determine all applications for the issue of licences and for the renewal or transfer thereof;
 
@@ -262,25 +262,27 @@ resigned his membership of that Board or has been removed from office, shall hol
 
 (d) to do such other things necessary to give effect to the provisions of this Act.
 
-(2) A Board may forfeit a licence for such period as it thinks fit if the licence holder–
+*(2) A Board fit if the licence*
 
-(a) is convicted of any offence involving
+may forfeit a licence for such period as it thinks holder–
 
 *CAP. 101.*
 
-dishonesty under Title XI of the Criminal Code;
+(a) is convicted of any offence involving dishonesty under Title XI of the Criminal Code;
 
 (b) is convicted of arson;
 
 *CAP. 49.*
 
-(c) is convicted of any offence under this Act, the
-
 *CAP. 55. CAP. 63.*
 
-Customs Regulation Act, the Income and Business Tax Act, the General Sales Tax Act
+(c) is convicted of any offence under this Act, the Customs Regulation Act, the Income and Business Tax Act, the General Sales Tax Act
 
 *2 of 2012.*
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 or any other offence involving fraud of the revenue; or
 
@@ -322,19 +324,15 @@ or any other offence involving fraud of the revenue; or
 
 *19 of 1999.*
 
-(3) The local authority with the approval of the Minister may make rules prescribing the procedure to be followed by the Board in hearing and determining any application for a licence
-
 *22 of 2008.*
 
-or renewal of, or transfer of, a licence, or for the forfeiture or suspension of a licence.
+(3) The local authority with the approval of the Minister may make rules prescribing the procedure to be followed by the Board in hearing and determining any application for a licence or renewal of, or transfer of, a licence, or for the forfeiture or suspension of a licence.
 
 *Applications for licence.*
 
-**6.** (1) Every person who desires to obtain a licence under this Act in respect of a business already existing at the date hereof
-
 *Schedule II.*
 
-shall, upon delivery to the clerk of the Board of the town wherein he is carrying on such trade, of an application in writing in the form set out in Schedule II signed by him and setting out
+**6.** (1) Every person who desires to obtain a licence under this Act in respect of a business already existing at the date hereof shall, upon delivery to the clerk of the Board of the town wherein he is carrying on such trade, of an application in writing in the form set out in Schedule II signed by him and setting out
 
 the nature of the trade for which he desires a licence, his name and address and such other particulars as may be relevant to this application, be granted a licence.
 
@@ -358,11 +356,9 @@ the nature of the trade for which he desires a licence, his name and address and
 
 **7.** The clerk shall enter the particulars specified in a register of applications to be maintained by him and shall, as early as is practicable, place the application on the agenda of the Board.
 
-**8.** In deciding upon the application made to it, a Board may
-
 *Criteria for licences.*
 
-take into account the need for such a trade in that town, the need for control of trade within the town and such other matters as to the Board may seem fit or which may be set out in any regulations made by the Minister.
+**8.** In deciding upon the application made to it, a Board may take into account the need for such a trade in that town, the need for control of trade within the town and such other matters as to the Board may seem fit or which may be set out in any regulations made by the Minister.
 
 *No person to carry on business without licence.*
 
@@ -554,11 +550,9 @@ licence shall be in force for one calendar month from the day whereon it was gra
 
 **30.** The amounts of the prescribed fees payable under this Act in relation to the carrying on in any town of the several trades mentioned in sections 26, 27 and 28, are those set out in Schedule VI.
 
-**31.** (1) Every person who, in any town, carries or intends to
-
 *Professional licence. Schedule VII.*
 
-carry on any of the vocations set out in Schedule VII shall obtain a licence from the Board of that town.
+**31.** (1) Every person who, in any town, carries or intends to carry on any of the vocations set out in Schedule VII shall obtain a licence from the Board of that town.
 
 *Schedule VII.*
 
@@ -604,11 +598,15 @@ Application for Licensing for Existing Trade
 
 [Section 6 (1)]
 
-Name of Applicant ................................................................... Address .................................................................................... Date of Birth ............................................................................ Nature of Trade ........................................................................ Address at which Trade is carried on ....................................... Annual Value of Premises ....................................................... I, ............................................................................................... declare that the above facts are in all respects just and true and I apply for a Licence in terms thereof.
+*I*
+
+Name of Applicant ................................................................... Address .................................................................................... Date of Birth ............................................................................ Nature of Trade ........................................................................ Address at which Trade is carried on ....................................... Annual Value of Premises ....................................................... I, ............................................................................................... declare that the above facts are in all respects just and true and apply for a Licence in terms thereof.
 
 DATED this ……………. day of …………20………. Signed
 
 To: The……………………Licensing Board or City Council).
+
+[CAP.
 
 ## SCHEDULE III
 

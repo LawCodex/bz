@@ -92,23 +92,51 @@ Provided that the Minister may amend any item or add any new item to the Schedul
 
 (b) in Belize under the provisions of the Local Public Loans Act, Cap. 80.
 
-*Raising of loan in this country.*
+*Raising of loan*
 
-**6.** If the loan hereby authorised or any part thereof is issued under Part I of the Public Loans Act, Cap. 81, or of the Local Public Loans Act, Cap. 80 then the contribution to a sinking fund, as contemplated by the provisions of section 28 of the former Act or of section 12 of the latter Act, as the case may be, shall commence in respect of such issue not later than three years after the date from which the interest on such issue shall commence to run.
+*If the*
 
-*Raising of loan in United Kingdom independently of Cap. 81.*
+*in this country.*
 
-**7.** If the loan hereby authorised or any part thereof be issued in the United Kingdom independently of Part I of the Public Loans Act, then the following provisions shall apply,
+**6.** loan hereby authorised or any part thereof is
+
+*issued under Local Public*
+
+*of the former may be, shall*
+
+Part I of the Public Loans Act, Cap. 81, or of the Loans Act, Cap. 80 then the contribution to a sinking fund, as contemplated by the provisions of section 28 Act or of section 12 of the latter Act, as the case commence in respect of such issue not later than three years after the date from which the interest on such issue shall commence to run.
+
+*Raising of loan*
+
+*If the*
+
+*in United*
+
+*issued in the*
+
+*Kingdom independently of*
+
+*Public Loans*
+
+*Cap. 81.*
+
+**7.** loan hereby authorised or any part thereof be United Kingdom independently of Part I of the Act, then the following provisions shall apply,
 
 (a) so long as any portion of such loan remains outstanding the Minister shall in each half-year ending with the day on which the interest on such loans falls due appropriate out of the Consolidated Revenue Fund and assets of Belize a sum equal to one half-year’s interest on the whole of such loan outstanding and shall remit that sum to the Crown Agents at such time as will enable them to pay there out the then current half-year’s interest on the day on which it falls due;
 
 (b) the Minister shall also in each half-year ending with the day on which the interest on such loans falls due appropriate out of the Consolidated Revenue Fund and assets of Belize for the formation of a sinking fund for the repayment of the loan at par an additional sum in respect of the total nominal amount of such loan outstanding equal to one half of the annual contribution to be decided upon by the Minister on the issue of the loan and shall remit that sum to the Crown Agents with the remittance mentioned in paragraph (a),
 
-Provided that the said appropriation shall commence not later than three years after the date from which the interest on such loan shall commence to run;
+*Provided that than three years loan shall*
+
+the said appropriation shall commence not later after the date from which the interest on such commence to run;
 
 (c) the annual contribution shall be not less than such amount as may be determined by the Minister to be sufficient to redeem such loan at its due date;
 
 (d) the Crown Agents shall, for the purpose of forming a sinking fund for the final extinction of the debt, from time to time place at interest or invest in the purchase of such securities as may from time to time be approved by the Minister so much of the money so remitted to them as shall not be required for the payment of interest for the current half-year and shall also place at interest or invest in the purchase of like securities the accumulations of interest or the dividends, interest or produce of such investment, and may from time to time with the approval of the Minister change any such investments and shall hold such fund in the
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 trust for the repayment of the principal moneys for the time being represented by such loan;
 

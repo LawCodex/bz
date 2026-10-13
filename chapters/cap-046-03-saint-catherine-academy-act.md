@@ -92,13 +92,23 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 **5.** Any deed or other instrument relating to real property or any interest therein shall be deemed to be fully executed if there is affixed to that deed or other instrument the seal of the corporation and the signatures of any three officers of the Board of Governors or Management duly authorised by the Board to act for that purpose.
 
-*General powers of the corporation.*
+*General powers of the*
 
-The corporation shall exercise all of the powers and perform all the functions and duties directed and empowered or intended to be performed by its Board of Governors or Management.
+*perform all the*
 
-*Capacity of the corporation.*
+*corporation.*
 
-**7.** The corporation shall have full power to,
+*or intended to Management.*
+
+corporation shall exercise all of the powers and functions and duties directed and empowered be performed by its Board of Governors or
+
+*Capacity of the*
+
+*The*
+
+*corporation.*
+
+**7.** corporation shall have full power to,
 
 (a) acquire and hold within Belize by purchase, devise or otherwise all property of whatever nature, including without limitation, lands, tenements and hereditaments, and all personal estate, and to assign, convey, demise or otherwise dispose of such property;
 
@@ -109,6 +119,10 @@ The corporation shall exercise all of the powers and perform all the functions a
 (d) organize, maintain, carry on, foster, promote and contribute to the support of education, training, schools and colleges; and
 
 (e) do all other things deemed necessary, convenient or expedient to the accomplishment of any and all of the powers aforesaid.
+
+*EDITION 2020*
+
+### REVISED
 
 *Vesting of property and rights.*
 

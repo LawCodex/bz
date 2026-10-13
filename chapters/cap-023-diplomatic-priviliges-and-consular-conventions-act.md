@@ -140,11 +140,15 @@ and Part IV of the Schedule shall have effect for the purpose of extending to th
 
 of the said Part IV is excluded by the order conferring the immunities and privileges,
 
-*S.I. 17 of 1964.*
+*S.I. 17 of 1964. Provided that there are not privileges*
 
-Provided that the order shall be so framed as to secure that there are not conferred on any person any immunities or privileges greater in extent than those which, at the time of the making of the order, are required to be conferred on that person in order to give effect to any international agreement in that behalf.
+the order shall be so framed as to secure that conferred on any person any immunities or greater in extent than those which, at the time of the making of the order, are required to be conferred on that person in order to give effect to any international agreement in
 
-(3) Where immunities and privileges are conferred on any persons by an order made under subsection (2) the Minister,
+*that behalf.*
+
+*(3) Where persons by an*
+
+immunities and privileges are conferred on any order made under subsection (2) the Minister,
 
 (a) shall compile a list of the persons entitled to immunities and privileges conferred under paragraph (b) of that subsection, and may compile a list of the persons entitled to immunities and privileges conferred under paragraph (c) of that subsection;
 
@@ -152,9 +156,17 @@ Provided that the order shall be so framed as to secure that there are not confe
 
 (c) whenever any person ceases or begins to be entitled to the immunities and privileges to which any such list relates, shall amend the list and cause a notice of the amendment, or, if he thinks fit, an amended list, to be published as mentioned in paragraph (b).
 
-(4) Every list or notice published under subsection (3) shall state the date from which the list or amendment takes or took effect.
+*(4) Every state the date effect.*
 
-(5) The fact that any person is or was included or not included at any time among the persons entitled to the immunities and privileges in question may, if a list of those
+list or notice published under subsection (3) shall from which the list or amendment takes or took
+
+*included at*
+
+(5) The fact that any person is or was included or not any time among the persons entitled to the immunities and privileges in question may, if a list of those
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 persons has been so published, be conclusively proved by producing the Gazette containing the list, or, as the case may be, the last list taking effect before that time, together with the Gazettes (if any) containing notices of the amendments taking effect before that time, and by showing that the name of that person is or was at that time included or not included in the said list.
 
@@ -186,19 +198,21 @@ and every representative of a foreign power who is for the time being included i
 
 **7.** Nothing in this Act shall be construed as precluding the Minister from declining to accord immunities or privileges to,
 
-or from withdrawing immunities or privileges from, nationals or representatives of any power on the ground that that power is failing to accord corresponding immunities or privileges to Belizean citizens or representatives.
+*or from or is failing to Belizean*
+
+withdrawing immunities or privileges from, nationals representatives of any power on the ground that that power accord corresponding immunities or privileges to citizens or representatives.
 
 *Application to United Nations.*
 
-**8.** This Act shall in its application to the United Nations have effect subject to the following modifications,
+*have effect*
+
+**8.** This Act shall in its application to the United Nations subject to the following modifications,
 
 (a) any reference to the governing body or any committee of the organisation shall be construed as referring to the General Assembly or any council or other organ of the United Nations;
 
-(b) the powers conferred by section 2 (2) of this Act shall include power by order to confer on
-
 *Application to United Nations.*
 
-the judges and registrars of the International Court, and on suitors to that Court and their agents, counsel and advocates, such immunities, privileges and facilities as may be required to give effect to any resolution of or convention approved by the General Assembly of the United Nations.
+(b) the powers conferred by section 2 (2) of this Act shall include power by order to confer on the judges and registrars of the International Court, and on suitors to that Court and their agents, counsel and advocates, such immunities, privileges and facilities as may be required to give effect to any resolution of or convention approved by the General Assembly of the United Nations.
 
 ## PART II
 
@@ -208,7 +222,9 @@ Consular Conventions
 
 **9.** In this Part,
 
-“sending State” means the Government of any foreign state with which a Consular Convention has been concluded by the Government of Belize providing for matters for which provision is made in section 9 of this Act;
+*provision is*
+
+“sending State” means the Government of any foreign state with which a Consular Convention has been concluded by the Government of Belize providing for matters for which made in section 9 of this Act;
 
 “consular office” means any building or part of a building which is exclusively occupied for the purpose of the official business of a consular officer.
 

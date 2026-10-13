@@ -84,15 +84,29 @@ S. I. 16 of 1971
 
 (2) For the purposes of the Extradition Act, Cap. 112, no offence which, if committed in Belize, would be punishable as an offence of genocide or as an attempt, conspiracy or incitement to commit such an offence shall be regarded as an
 
+*THE*
+
+### SUBSTANTIVE LAWS OF BELIZE
+
 offence of a political character and no proceedings in respect of such an offence shall be regarded as a criminal matter of a political character.
 
 *No objection to proceedings.*
 
 **4.** It shall not be an objection to any proceedings taken against a person by virtue of sections 2 and 3 of this Act that under any law in force at the time when and in the place where he is alleged to have committed the act of which he is accused or of which he is convicted he could not have been punished therefor.
 
-## SCHEDULE GENOCIDE ACT Article II of Genocide Convention
+*EDITION 2020*
 
-[Section 2] In the present Convention, genocide means any of the following acts committed with intent to destroy in whole or in part, a national, ethnical, racial or religious group, as such, (a) killing members of the group;
+### REVISED
+
+## SCHEDULE
+
+GENOCIDE ACT Article II of Genocide Convention
+
+[Section 2]
+
+*In the present following acts part, a national,*
+
+Convention, genocide means any of the committed with intent to destroy in whole or in ethnical, racial or religious group, as such, (a) killing members of the group;
 
 (b) causing serious bodily or mental harm to members of the group;
 
@@ -101,3 +115,7 @@ offence of a political character and no proceedings in respect of such an offenc
 (d) imposing measures intended to prevent births within the group;
 
 (e) forcibly transferring children of the group to another group.
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE

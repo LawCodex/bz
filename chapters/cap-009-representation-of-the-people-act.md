@@ -400,9 +400,15 @@ making copies thereof available for inspection at the office of the Chief Electi
 
 (f) such other manner approved by the Commission as the person publishing thinks is best calculated to afford information to the persons who should receive such information.
 
-(4) Where any act or thing is directed to be done within a specified time after “the date of the publication” of any register, notice or other document, that time shall be computed from the date on which the register, notice or other document is first published in any one of the methods set out in sub-section (3).
+*(4) Where specified time notice or other date on which*
 
-(5) Residence in Belize means physical residence within the territorial limits of Belize as defined in section 1(2) of the Belize Constitution; and where the person is a registered voter his place of residence shall be taken to be the registered address against his name on the voters’ list or at such altered address as he may, by notice in writing, give to the Chief Elections Officer.
+any act or thing is directed to be done within a after “the date of the publication” of any register, document, that time shall be computed from the the register, notice or other document is first published in any one of the methods set out in sub-section (3).
+
+*Constitution; of residence*
+
+*by notice in*
+
+(5) Residence in Belize means physical residence within the territorial limits of Belize as defined in section 1(2) of the Belize and where the person is a registered voter his place shall be taken to be the registered address against his name on the voters’ list or at such altered address as he may, writing, give to the Chief Elections Officer.
 
 Provided that a person shall not be regarded as residing outside the territorial limits of Belize if he is temporarily absent from the country–
 
@@ -424,9 +430,13 @@ Provided that a person shall not be regarded as residing outside the territorial
 
 Franchise and Registration.
 
+*5.-(1) Every*
+
 *Right to vote. 9 of 1989.*
 
-**5.** (1) Every person who on the date of his application to be registered–
+person who on the date of his application to be
+
+*registered–*
 
 (a) is eighteen years of age or over; and
 
@@ -438,7 +448,9 @@ Franchise and Registration.
 
 (c) is resident for a period of not less than two months immediately preceding that date in the electoral division in which he seeks registration,
 
-shall, unless otherwise disqualified, have the right to vote at an election of a divisional representative for that electoral division if such person–
+*shall, unless election of a*
+
+otherwise disqualified, have the right to vote at an divisional representative for that electoral division if such person–
 
 (i) is registered as an elector in the proper register; and
 
@@ -466,11 +478,23 @@ is certified to be insane or otherwise adjudged to be of unsound mind or is a pa
 
 (d) is disqualified for registration as an elector by virtue of any law in Belize, whether or not by reason of his having been convicted of an offence relating to elections.
 
-*Plurality of registration or voting. 11 of 1997.*
+*Plurality of*
 
-**8.** (1) No person shall seek registration or be entitled to have his name entered or retained in more than one register or more than once in the same register.
+*8.-(1) No person*
 
-(2) No person may–
+*registration or*
+
+*name entered or*
+
+*voting. 11 of 1997.*
+
+*once in the*
+
+shall seek registration or be entitled to have his retained in more than one register or more than same register.
+
+*(2) No*
+
+person may–
 
 (a) at a general election, vote as an elector in more than one electoral division;
 
@@ -478,7 +502,9 @@ is certified to be insane or otherwise adjudged to be of unsound mind or is a pa
 
 (c) at any election, vote without first producing the original identification card that had been issued to him or proving to the satisfaction of the presiding officer that although he has been registered he has not been issued with an identification card or that the identification card issued to him has been lost or destroyed and that his identity can be established from the duplicate identification card if kept by the presiding officer,
 
-Provided that the presiding officer shall–
+*Provided that*
+
+the presiding officer shall–
 
 state to the candidates or their agents then present in the polling station his reasons for permitting an elector to vote without first providing his original identification card;
 
@@ -522,29 +548,39 @@ Elections, Boundaries Commission and Administration, etc.
 
 (3) The Commission shall within three months of the close of a calendar year submit to the Governor-General an annual report of its activities along with any recommendation it may wish to make.
 
-**11.** (1) There shall be a Chief Elections Officer who shall be a
+*11.-(1) There Chief Elections public officer*
 
-*Chief Elections Officer.*
+*Officer.*
 
-public officer appointed by the Governor-General, acting in accordance with the advice of the Prime Minister as provided in
+*CAP. 4. section 107 of*
 
-*CAP. 4.*
+shall be a Chief Elections Officer who shall be a appointed by the Governor-General, acting in accordance with the advice of the Prime Minister as provided in the Belize Constitution.
 
-section 107 of the Belize Constitution.
+*(2) For the Commission duties on the*
 
-(2) For the purpose of the discharge of its functions, the Commission may confer any of its powers and impose any of its duties on the Chief Elections Officer and without limiting the generality of the foregoing may subject to such directions as it may issue from time to time impose upon the Chief Elections Officer the following duties and functions–
+*Officer the*
+
+purpose of the discharge of its functions, the may confer any of its powers and impose any of its Chief Elections Officer and without limiting the generality of the foregoing may subject to such directions as it may issue from time to time impose upon the Chief Elections following duties and functions–
 
 (a) the duty to make such arrangements and do such other things as are necessary for the compilation and maintenance of the divisional registers, and the Central Register and for the issue of identification cards to electors, in accordance with the provisions of this Act and for that purpose to make such arrangements for the preparation and the issue of the necessary forms and documents and the collection and preservation of such records as may be necessary;
 
 (b) the duty to issue to registering officers, revising officers, returning officers, presiding officers and other election officers such directions as he may deem necessary to ensure the effective execution of the provisions of this Act.
 
+*(3) There*
+
 *9 of 1989.*
 
-(3) There may be appointed by the Public Services Commission one or more Assistant Chief Elections Officer to assist the Chief Elections Officer in the exercise of his powers, the performance of his functions and the discharge of his duties under this Act or any rules or regulations made thereunder.
+*Commission*
 
-*Registering and revising officers. 9 of 1989.*
+*under this Act Registering and revising officers. 12.-(1) For the*
 
-**12.** (1) For the purpose of the registration of electors and the issue of identification cards to them, the Public Services
+may be appointed by the Public Services one or more Assistant Chief Elections Officer to assist the Chief Elections Officer in the exercise of his powers, the performance of his functions and the discharge of his duties or any rules or regulations made thereunder.
+
+*9 of 1989.*
+
+*issue of*
+
+purpose of the registration of electors and the identification cards to them, the Public Services
 
 Commission shall by notice in the Gazette appoint a registering officer in respect of each electoral division and may from time to time appoint one or more persons to be assistant registering officers. A person so appointed to be an assistant registering officer shall have all the powers and may perform all the duties of the registering officer he is appointed to assist and any reference in this Act to a registering officer shall unless the context otherwise requires be deemed to include a reference to every person so appointed as an assistant registering officer.
 
@@ -706,11 +742,17 @@ is liable on summary conviction to a penalty not exceeding five hundred dollars 
 
 (2) Any employer who, directly or indirectly refuses to grant, or by intimidation, undue influence or in any other way,
 
-interferes with the granting of reasonable time to any voter in his employ during the prescribed period of voting as in this section provided, shall on summary conviction be liable to a fine not exceeding two thousand dollars or to imprisonment for a period not exceeding one year.
+*interferes with his employ section not exceeding period not*
 
-*Offences by election officers.*
+the granting of reasonable time to any voter in during the prescribed period of voting as in this provided, shall on summary conviction be liable to a fine two thousand dollars or to imprisonment for a exceeding one year.
 
-**30.** Every election officer who–
+*Offences by*
+
+*Every*
+
+*election officers.*
+
+**30.** election officer who–
 
 (a) makes, in any record, return or other document which he is required to keep or make under this Act, any entry which he knows or has reasonable cause to believe to be false, or does not believe to be true;
 
@@ -744,11 +786,15 @@ commits an offence against this section and on conviction on indictment, liable 
 
 accost, or solicit or canvass his vote from any elector who has already joined the line of voters waiting to vote at any polling station.
 
-(5) Any person who contravenes any of the provisions of this section is liable on summary conviction to a fine not exceeding two hundred and fifty dollars or to imprisonment for any term not exceeding six months.
+*(5) Any this section is exceeding two any term not*
+
+person who contravenes any of the provisions of liable on summary conviction to a fine not hundred and fifty dollars or to imprisonment for exceeding six months.
 
 *Bribery.*
 
-**32.** (1) The following persons shall be deemed to have committed bribery within the meaning of this Act–
+*32.-(1) The committed*
+
+following persons shall be deemed to have bribery within the meaning of this Act–
 
 (a) every person who, directly or indirectly by himself or by any other person on his behalf, gives, lends or agrees to give or lend, or offers, promises, or promises to procure or to endeavour to procure, any money or valuable consideration to or for any voter, or to or for any person on behalf of any voter, or to or for any other person, in order to induce any voter to vote or refrain from voting, or corruptly does any such act as aforesaid on account of that voter having voted or refrained from voting at any election;
 
@@ -768,11 +814,15 @@ makes any such gift, loan, offer, promise, procurement or agreement as aforesaid
 
 voted or refrained from voting or having induced any other person to vote or refrain from voting at any election.
 
-(2) No person shall commit bribery under sub-section (1), who gives to any other person any article not exceeding twenty dollars in value.
+*(2) No who gives to*
+
+person shall commit bribery under sub-section (1), any other person any article not exceeding twenty dollars in value.
 
 *Treating.*
 
-**33.** The following persons shall be deemed to have committed of treating within the meaning of this Ac–
+*The committed of*
+
+**33.** following persons shall be deemed to have treating within the meaning of this Ac–
 
 (a) every person who corruptly, by himself or by any other person, either before, during, or after any election, directly or indirectly gives or provides, pays, wholly or in part, the expenses of giving or providing any food, drink, entertainment, or provision to or for any person for the purpose of corruptly influencing that person, or any other person, to vote or refrain from voting at that election, or on account of that person or any other person having voted or refrained from voting at the election;
 
@@ -780,7 +830,9 @@ voted or refrained from voting or having induced any other person to vote or ref
 
 *Undue influence.*
 
-**34.** Every person who, directly or indirectly, by himself or any other person on his behalf–
+*Every any other*
+
+**34.** person who, directly or indirectly, by himself or person on his behalf–
 
 (a) makes use, or threatens to make use, of any force, violence or restraint, or inflicts or threatens to inflict, any temporal or spiritual injury, damage, harm, or loss upon or against any person, in order to induce or compel that person to vote or refrain from voting or on account of that person having voted or refrained from voting, at any election, or
 
@@ -812,11 +864,15 @@ the purpose of promoting or procuring the election of another candidate;
 
 (d) between the date of notification by the Chief Elections Officer of the issue by the Governor-General of a writ for the purposes of an election and the day after polling at such election, whether in a general election or in a by-election, acts in a disorderly manner with intent to prevent the transaction of the business of a public meeting called for the purpose of promoting the election of a candidate as a member to serve in the House of Representatives,
 
-commits an illegal practice, and is liable on summary conviction to a fine not exceeding one thousand dollars, and, in default, to imprisonment for any term not exceeding twelve months.
+*commits an to a fine not imprisonment*
+
+illegal practice, and is liable on summary conviction exceeding one thousand dollars, and, in default, to for any term not exceeding twelve months.
 
 *Offences by election officers.*
 
-**38.** (1) Every person who–
+*38.-(1) Every*
+
+person who–
 
 (a) forges or counterfeits, or fraudulently defaces, or fraudulently destroys, any nomination paper, or delivers to the presiding officer any nomination paper, knowing the same to be forged;
 
@@ -878,27 +934,49 @@ Provided that in the event of any appeal the incapacity shall continue until the
 
 Provided that in the event of any appeal the incapacity shall continue until the appeal is determined and thereafter, unless the
 
-conviction is quashed, remain in force for a period of six years from the date of conviction.
+*conviction is*
 
-*Attempts how punishable.*
+quashed, remain in force for a period of six years from the date of conviction.
 
-**43.** Any attempt to commit any offence created by this Act is punishable in the same manner as the offence itself.
+*Attempts how*
 
-*Aiding and abetting.*
+*Any*
 
-**44.** Any person who aids or abets the commission of any offence created by this Act, where there is no provision for the punishment of such aiding or abetting, commits that offence and shall be punishable in the same manner as the offence itself.
+*punishable.*
+
+**43.** attempt to commit any offence created by this Act is punishable in the same manner as the offence itself.
+
+*Aiding and*
+
+*Any*
+
+*abetting.*
+
+*shall be*
+
+**44.** person who aids or abets the commission of any offence created by this Act, where there is no provision for the punishment of such aiding or abetting, commits that offence and punishable in the same manner as the offence itself.
 
 ## PART VI
 
 Disputed Elections
 
-*Avoidance by conviction.*
+*Avoidance by*
 
-**45.** The election of a candidate as a member is avoided by his conviction for any corrupt or illegal practice.
+*The*
 
-*Avoidance of election on election petition.*
+*conviction.*
 
-**46.** (1) The election of a candidate as a member shall be declared to be void on an election petition on any of the following grounds which may be proved to the satisfaction of the Election Judge–
+**45.** election of a candidate as a member is avoided by his conviction for any corrupt or illegal practice.
+
+*Avoidance of*
+
+*46.-(1) The*
+
+*election on election petition.*
+
+*following the Election*
+
+election of a candidate as a member shall be declared to be void on an election petition on any of the grounds which may be proved to the satisfaction of Judge–
 
 (a) that by reason of bribery, treating, intimidation or misconduct, or other circumstances, whether similar to those before enumerated or not, the electors were prevented from electing the candidate whom they preferred;
 
@@ -922,21 +1000,35 @@ or with his knowledge or consent or by any agent of the candidate;
 
 (3) For the purposes of summoning or compelling the attendance of witnesses at the trial of an election petition, the Election Judge shall have the same power, jurisdiction, and authority as are possessed and exercised by the judge of the Supreme Court in the trial of a civil action and witnesses shall be sworn in the same manner, as near as circumstances will admit, as in the trial of such an action, and shall be subject to the same penalties for the giving of false evidence.
 
-(4) The Election Judge shall be attended on the trial of an election petition in the same manner as if he were a judge of the Supreme Court.
+*(4) The*
 
-(5) Unless otherwise ordered by the Chief Justice, all interlocutory matters in connection with an election petition may be dealt with and decided by any judge of the Supreme Court.
+Election Judge shall be attended on the trial of an election petition in the same manner as if he were a judge of the Supreme Court.
 
-*Who may present petition.*
+*interlocutory may be dealt Court.*
 
-**48.** An election petition may be presented to the Supreme Court by any one or more of the following persons–
+(5) Unless otherwise ordered by the Chief Justice, all matters in connection with an election petition with and decided by any judge of the Supreme
+
+*Who may*
+
+*An*
+
+*present petition.*
+
+*Court by any*
+
+**48.** election petition may be presented to the Supreme one or more of the following persons–
 
 (a) some person who voted or had a right to vote at the election to which the petition relates; or
 
 (b) some person claiming to have been a candidate at such election.
 
-*Relief which may be claimed.*
+*Relief which*
 
-**49.** All or any of the following relief to which the petitioner may be claimed in an election petition–
+*All or*
+
+*may be claimed.*
+
+**49.** any of the following relief to which the petitioner may be claimed in an election petition–
 
 (a) a declaration that the election is void;
 
@@ -946,9 +1038,15 @@ or with his knowledge or consent or by any agent of the candidate;
 
 (d) where the seat is claimed for an unsuccessful candidate, on the ground that he had a majority of lawful votes, a scrutiny.
 
-*Parties to a petition.*
+*Parties to a*
 
-**50.** (1) A petitioner shall join as respondents to his election petition–
+*50.-(1) A*
+
+*petition.*
+
+petitioner shall join as respondents to his election
+
+*petition–*
 
 (a) where the petition, in addition to claiming that the election of any returned candidate is void or was undue, claims a further declaration that
 
@@ -956,13 +1054,17 @@ he himself or any other candidate has been duly elected, all the contesting cand
 
 (b) any other candidate or person against whom allegations of any corrupt or illegal practice are made in the petition.
 
-(2) Any candidate not already a respondent to an election petition shall, upon application in that behalf made by him to the Election Judge, be entitled to be joined as a respondent to such petition.
+*(2) Any petition shall, Election Judge, petition.*
 
-Provided that no candidate shall be entitled to be joined of his own motion as a respondent to such petition under the preceding provisions of this section unless he has given such security for costs as the Election Judge may determine.
+candidate not already a respondent to an election upon application in that behalf made by him to the be entitled to be joined as a respondent to such
 
-*Contents of the petition.*
+*preceding security for*
 
-**51.** An election petition–
+Provided that no candidate shall be entitled to be joined of his own motion as a respondent to such petition under the provisions of this section unless he has given such costs as the Election Judge may determine.
+
+*Contents of the An petition.*
+
+**51.** election petition–
 
 (a) shall state the right of the petitioner to petition within section 48;
 
@@ -988,11 +1090,9 @@ Provided, however, that nothing in the preceding provisions of this section shal
 
 **53.** At the conclusion of the trial of an election petition the Election Judge shall determine whether the member whose return or election is complained of, or any other, and what other person, was duly returned or elected, or whether the election was void, and shall certify such determination in writing under his hand. Such certificate shall be kept in the custody of the Registrar of the Supreme Court to be dealt with as provided in section 58.
 
-At the conclusion of the trial of an election petition the
-
 *Report of Election Judge as to corrupt or illegal practice.*
 
-Election Judge shall also make a report under his hand setting out–
+At the conclusion of the trial of an election petition the Election Judge shall also make a report under his hand setting out–
 
 (a) whether any corrupt or illegal practice has or has not been proved to have been committed by or with the knowledge and consent of any candidate at the election, or by his agent, and the nature of such corrupt or illegal practice, if any; and
 
@@ -1076,27 +1176,37 @@ matter specified by that Court and give such directions in relation thereto as t
 
 (c) Where the report referred to in paragraph (a) is to the effect that such corrupt or illegal practice was committed with the knowledge and consent of a person who was a candidate at an election or by his agent, that person shall be subject to the same incapacities as mentioned in paragraph (b).
 
-(3) It shall be the duty of every registering officer forthwith to peruse every such report which is published in the Gazette as provided in sub-section (2), and forthwith to delete from the register of electors assigned to him the name of every person appearing from the report to be incapable of voting at an election.
+*(3) It shall to peruse every provided in register of appearing from election.*
 
-**60.** (1) Every election petition shall be presented within twenty
+be the duty of every registering officer forthwith such report which is published in the Gazette as sub-section (2), and forthwith to delete from the electors assigned to him the name of every person the report to be incapable of voting at an
 
-*Time for presentation.*
+*60.-(1) Every*
 
-days of the date of publication of the result of the election in the Gazette.
+*Time for*
 
-Provided that–
+*days of the date*
+
+*presentation.*
+
+election petition shall be presented within twenty of publication of the result of the election in the
+
+*Gazette.*
+
+*Provided*
+
+that–
 
 (a) an election petition questioning the return or the election upon the ground of a corrupt practice and specifically alleging a payment of money or other act to have been made or done since that date by the member whose election is questioned or by an agent of the member or with the privity of the member or his election agent in pursuance or in furtherance of such corrupt practice may, so far as respects such corrupt practice, be presented at any time within twenty-eight days after the date of such payment or act;
 
 (b) an election petition questioning the return or the election upon an allegation of an illegal practice may be presented at any time within twenty-eight days after the date of such payment or other act if the election petition specifically alleges a payment of money or other act to have been made or done since the said day by the member whose election is questioned or by an agent of the member or with the privity of the member or of his election agent in pursuance or in furtherance of the illegal practice alleged in the petition.
 
-(2) An election petition presented in due time may, for the purpose of questioning the return or the election upon an allegation of a corrupt or illegal practice, be amended with the leave of a judge of the Supreme Court within the time within which an election petition questioning the return or the election upon that ground may be presented.
+*(2) An purpose of allegation of a leave of a judge which an upon that*
 
-No elector who has voted at any election shall, in any
+election petition presented in due time may, for the questioning the return or the election upon an corrupt or illegal practice, be amended with the of the Supreme Court within the time within election petition questioning the return or the election ground may be presented.
 
 *Prohibition of disclosure.*
 
-proceeding to question the election, be required to state for whom he has voted.
+No elector who has voted at any election shall, in any proceeding to question the election, be required to state for whom he has voted.
 
 *Procedure and practice on election petitions.*
 
@@ -1130,13 +1240,17 @@ fixing the maximum amount of expenses that may be incurred or paid, whether befo
 
 (g) for any matter that may be incidental to or connected with the provisions of this Act.
 
-(2) Contraventions of any regulations made under subsection (1) (a) to (e), shall be deemed illegal practices, and provision may be made in the said regulations for the punishment, on summary conviction, of persons committing or taking part in the commission of such illegal practices by–
+*taking part in*
+
+(2) Contraventions of any regulations made under subsection (1) (a) to (e), shall be deemed illegal practices, and provision may be made in the said regulations for the punishment, on summary conviction, of persons committing or the commission of such illegal practices by–
 
 (a) a fine, not exceeding two hundred and fifty dollars; and
 
 (b) disqualification from voting at any election under this Act and from being elected or appointed as a Member of the House of Representatives for six years from the date of his conviction.
 
-(3) All regulations made under the provisions shall be laid before the House of Representatives for approval and the House may, by resolution, rescind or approve (whether after
+*(3) All before the may, by*
+
+regulations made under the provisions shall be laid House of Representatives for approval and the House resolution, rescind or approve (whether after
 
 amendment by the House or not) the regulations and upon approval, the regulations as approved shall be published in the Gazette and shall on the date of publication have the force of law.
 
@@ -1958,11 +2072,9 @@ names are being objected to together with a copy of the new register signed by h
 
 (5) Notwithstanding anything contained in paragraph (4) of this rule the registering officer may, if he is satisfied that any objection is valid and before forwarding such list to the revising officer, remove the name of the objector from the list of deceased and disqualified persons and forthwith inform such person in writing of such fact.
 
-**25.** (1) An open court shall be held in each division by and
-
 *Manner of revision of new registers. 11 of 1997.*
 
-before a revising officer for the purpose of revising the register.
+**25.** (1) An open court shall be held in each division by and before a revising officer for the purpose of revising the register.
 
 (2) The said court shall be held on such day as may be fixed by the revising officer being within four weeks after the receipt by him of the lists referred to in rules 23 and 24 or of the notification mentioned therein, as the case may be.
 
@@ -2106,11 +2218,9 @@ therein and shall deliver to the registering officer notice of his objection in 
 
 **38.** On or before the last day of each month every revising officer shall hold an open court for the purpose of determining whether the persons who have delivered to him a statement of appeal in terms of Rule 10, and the persons whose registration or continued registration is objected to under Rule 36, are persons entitled to be registered or retained as electors within his division.
 
-The court shall have power to adjourn to such time and
-
 *Hearing by revising court.*
 
-as often as may be necessary,
+The court shall have power to adjourn to such time and as often as may be necessary,
 
 Provided that the court shall complete its determination of the matters before it in any month before the 5th day of the month immediately following.
 
@@ -2176,23 +2286,33 @@ Annual Revision
 
 (3) Any person whose name appears on a list published under paragraph (2) hereof and who is not dead or disqualified
 
-as stated therein may on or before the 1st day of November of that year state in Form 15 of Schedule V his objection to the registering officer against the striking out of his name.
+*registering*
 
-(4) The registering officer shall–
+as stated therein may on or before the 1st day of November of that year state in Form 15 of Schedule V his objection to the officer against the striking out of his name.
+
+*(4) The*
+
+registering officer shall–
 
 (a) where he has received no objection within the time prescribed therefore to the striking out of a name from the list published under paragraph (2), strike out the said name and shall cancel the registration of that person in the manner set out in rule 44 and inform the Chief Elections Officer about it; and the Chief Elections Officer shall cause the duplicate of the appropriate registration record card to be cancelled in the manner set out in that rule; and
 
 (b) where he has received any objection within the time prescribed therefore and is not satisfied that the name should be retained in the register he shall prepare a list of all such objections and the names of the persons who have made the same and shall forward the said list to the revising officer.
 
-*Objection to retention of name, etc.*
+*Objection to 48.-(1) Any retention of name, etc.*
 
-**48.** (1) Any person whose name appears in a divisional register may object to any other person whose name also appears therein as not being entitled to have his name retained therein or as being a person who is deceased.
+person whose name appears in a divisional register may object to any other person whose name also appears therein as not being entitled to have his name retained therein or as being a person who is deceased.
 
 *S.I. 54 of 1979. 11 of 1997.*
 
-(2) Every person so objecting shall, on or before the 1st day of November next ensuing give or cause to be given to the registering officer notice in Form 14A of Schedule V.
+*registering*
 
-(3) Immediately after the 1st day of November every registering officer shall prepare a list of all such objections and the names of the persons who have made it and shall cause a copy to be published in the Gazette and in a local newspaper.
+(2) Every person so objecting shall, on or before the 1st day of November next ensuing give or cause to be given to the officer notice in Form 14A of Schedule V.
+
+*registering*
+
+*copy to be*
+
+(3) Immediately after the 1st day of November every officer shall prepare a list of all such objections and the names of the persons who have made it and shall cause a published in the Gazette and in a local newspaper.
 
 (4) The registering officer shall forward a copy of the list to the revising officer.
 
@@ -2252,15 +2372,19 @@ refusing or neglecting to state a case, he may within fourteen days after such r
 
 **53.** Upon receipt of an application under rule 52 the Supreme Court may make an order to show cause and may make the same absolute with or without costs, as may be just, and the revising officer on being served with any order absolute, shall state the case accordingly, and the case shall be stated and the appeal entertained and heard.
 
-*Decision of Supreme Court to be final.*
+*Decision of 54.-(1) Every Supreme Court to be final.*
 
-**54.** (1) Every judgment or decision made by the Supreme Court shall to be final and conclusive in the case upon the matter adjudicated upon.
+*adjudicated*
 
-(2) The Registrar shall send a copy of such order to the registering officer of the relevant division.
+judgment or decision made by the Supreme Court shall to be final and conclusive in the case upon the matter upon.
 
-*Decision of Supreme Court to be final. Order expunging name.*
+*(2) The registering*
 
-**55.** (1) The registering officer, on the receipt of the order from the Supreme Court shall, if the order is for expunging the name of a person from the register of electors–
+Registrar shall send a copy of such order to the officer of the relevant division.
+
+*Decision of 55.-(1) The Supreme Court the Supreme to be final. Order expunging name.*
+
+registering officer, on the receipt of the order from Court shall, if the order is for expunging the name of a person from the register of electors–
 
 (a) strike out the name from the register;
 
@@ -2272,7 +2396,11 @@ refusing or neglecting to state a case, he may within fourteen days after such r
 
 (e) make the necessary alterations in the divisional register and other records.
 
-(2) Where the Court orders the insertion of a name in any divisional register, the provisions of rules 11 to 21 shall mutatis mutandis apply in respect of that appellant and the registering officer shall–
+*divisional*
+
+(2) Where the Court orders the insertion of a name in any register, the provisions of rules 11 to 21 shall mutatis mutandis apply in respect of that appellant and the registering
+
+*officer shall–*
 
 (a) notify the Chief Elections Officer of the said order and the necessary particulars thereof;
 
@@ -2376,31 +2504,43 @@ he shall refuse to make any amendment in the registration of electors concerned 
 
 **63.** Where a person is popularly known or called by a name which other than that appearing on his certificate of birth and is registered under such popular name, or where a person at the time that he is seeking registration gives as the date of his birth a date which he subsequently discovers to be inaccurate, he shall
 
-notify the registering officer of the division in which he is registered and the registering officer shall, if he is satisfied that the facts stated are true, re-register or cause that person to be re-registered in the manner set out for the registration of persons qualified to be registered but so that his registration number shall not be changed.
+*notify the*
 
-*Replacement of lost, inaccurate etc., identification cards.*
+*shall not be*
 
-**64.** (1) Where an identification card which has been issued to any–
+registering officer of the division in which he is registered and the registering officer shall, if he is satisfied that the facts stated are true, re-register or cause that person to be re-registered in the manner set out for the registration of persons qualified to be registered but so that his registration number changed.
+
+*Replacement of lost, inaccurate any– etc., identification cards.*
+
+**64.** (1) Where an identification card which has been issued to
 
 (a) has been lost, stolen, destroyed, mutilated or defaced; or
 
 (b) is discovered to contain information given by such person which is inaccurate or incorrect, he may apply to the registering officer of the division in which he resides for the replacement of the identification card, and the registering officer, if he is satisfied that the application is a bona fide one, shall issue to that person a replacement identification card.
 
-(2) An application under paragraph (1) shall be in Form 19 of Schedule V and shall be accompanied by the fee specified in paragraph (9).
+*(2) An*
 
-(3) The registering officer shall not issue a replacement identification card until, in the case of a card–
+application under paragraph (1) shall be in Form 19 of Schedule V and shall be accompanied by the fee specified in paragraph (9).
+
+*(3) The*
+
+registering officer shall not issue a replacement identification card until, in the case of a card–
 
 (a) which is discovered to contain inaccurate or incorrect information; or
 
 (b) which has become mutilated or defaced; such card has been delivered to him for destruction.
 
-(4) The registering officer for the division in which the applicant resides at the time of his application for a replacement identification card shall–
+*(4) The*
+
+registering officer for the division in which the applicant resides at the time of his application for a replacement identification card shall–
 
 (a) endorse thereon a note to the effect that the card is a replacement identification card; and
 
 (b) if he is satisfied that the contents thereof are correct, either sign the card himself or cause it to be signed by the registering officer for the time being assigned to that division.
 
-(5) Subject to paragraph (6), a replacement identification card shall contain such particulars as were recorded on the identification card of the person to whom it relates.
+*card shall*
+
+(5) Subject to paragraph (6), a replacement identification contain such particulars as were recorded on the identification card of the person to whom it relates.
 
 (6) When a registering officer issues a replacement identification card he may–
 
@@ -2408,9 +2548,15 @@ notify the registering officer of the division in which he is registered and the
 
 (b) in a case where it is discovered that an identification card contains information which is inaccurate or incorrect, insert such alteration on the replacement identification card as, after an inquiry made for the purpose, he may consider necessary and proper:
 
-Provided that where the registering officer accepts a photograph different from that which was on the identification card that is being replaced he shall cause copies of that photograph to be attached to the registration record card and to the duplicate registration record card maintained by the Chief Elections Officer.
+*Provided photograph card that is*
 
-(7) Whenever a registering officer issues a replacement identification card, he shall make or cause to be made an entry in the space allocated for remarks on the appropriate registration record card showing the date of the issue of that card and shall–
+*Elections*
+
+that where the registering officer accepts a different from that which was on the identification being replaced he shall cause copies of that photograph to be attached to the registration record card and to the duplicate registration record card maintained by the Chief Officer.
+
+*in the space record card*
+
+(7) Whenever a registering officer issues a replacement identification card, he shall make or cause to be made an entry allocated for remarks on the appropriate registration showing the date of the issue of that card and shall–
 
 (a) notify the Chief Elections Officer of the issue of the card and the Chief Elections Officer shall cause the necessary entries to be made in the duplicate of the registration record card of that person; and
 
@@ -2444,21 +2590,31 @@ but the Chief Elections Officer may, except where a replacement identification c
 
 **67.** (1) Any person who, being registered as an elector, applies for registration as an elector in any division and does not disclose in the application the fact of his being already registered as an elector, commits an offence and shall on summary conviction be liable to a fine of one thousand dollars or to imprisonment for a term not exceeding six months, or to both such fine and period of imprisonment.
 
-(2) Where the Chief Elections Officer finds that an elector has been registered in more than one division and is qualified to be so registered he shall serve a notice upon the elector calling upon him to opt within fourteen days of the notice in which division he wishes to remain an elector and shall–
+*(2) Where has been*
+
+*upon him to division he*
+
+the Chief Elections Officer finds that an elector registered in more than one division and is qualified to be so registered he shall serve a notice upon the elector calling opt within fourteen days of the notice in which wishes to remain an elector and shall–
 
 (a) if the elector exercises his option within the stipulated time, strike out his name from the register relating to the division in which the person concerned does not wish to remain as an elector; or
 
 (b) if the elector does not exercise his option within the stipulated time, strike out the name of the elector from all but the register of the division in which he was last.
 
-(3) Where the Chief Elections Officer finds that an elector has been registered more than once in any division, he shall, if he is satisfied that it is the same elector, strike out his name as many times as may be necessary to reduce the registration of the said voter to a single entry in the said register.
+*(3) Where has been he is satisfied many times as said voter to a*
 
-(4) Where an elector has been registered more than once, the Chief Elections Officer and the relevant registration officers shall–
+the Chief Elections Officer finds that an elector registered more than once in any division, he shall, if that it is the same elector, strike out his name as may be necessary to reduce the registration of the single entry in the said register.
+
+(4) Where an elector has been registered more than once, the Chief Elections Officer and the relevant registration officers
+
+*shall–*
 
 (a) cancel the registration record cards relating to any entry in a register that may have been struck out by the Chief Elections Officer under sub-rule (2) or (3) ; and
 
 (b) call for and retain for destruction the identification cards relating to the entries struck out by the Chief Elections Officer under sub-rule (2) or (3).
 
-(5) Where any elector is called upon to return any identification card issued to him and does not do so within a
+*(5) Where identification*
+
+any elector is called upon to return any card issued to him and does not do so within a
 
 reasonable time to be specified by the Chief Elections Officer, he shall, if he does not satisfy the Chief Elections Officer that he has lost or destroyed the said card, be liable upon summary conviction to a fine of one thousand dollars or imprisonment for a term not exceeding six months, or to both such fine and period of imprisonment.
 
@@ -2784,11 +2940,9 @@ Provided that not more than two such agents shall be present within a polling st
 
 **16.** (1) No one other than the Chief Elections Officer or a person authorised by him shall print or publish any form prescribed by these rules or print or publish any form which in the opinion of the Chief Elections Officer resembles or sufficiently resembles any form prescribed by these rules so as to be capable of misleading an elector into believing that that form was a form or a sample of a form printed or published by the Chief Elections Officer,
 
-Provided that it shall be lawful to print or publish a form or
-
 *G.N. 683 of*
 
-a sample of a form which has printed on it in a conspicuous manner the words: “This is NOT an official form and is NOT printed or published by or under the authority of the Chief Elections Officer. It is for the guidance of electors only.”
+Provided that it shall be lawful to print or publish a form or a sample of a form which has printed on it in a conspicuous manner the words: “This is NOT an official form and is NOT printed or published by or under the authority of the Chief Elections Officer. It is for the guidance of electors only.”
 
 (2) Any person who contravenes the provisions of paragraph
 
@@ -2812,17 +2966,17 @@ a sample of a form which has printed on it in a conspicuous manner the words: �
 
 **19.** (1) Notwithstanding rule 18 above, a person falling in the categories specified in paragraphs (a) to (e) of sub-rule (2)
 
-below shall be eligible, subject to the provisions of this Rule, to
+*below shall be vote by proxy.*
 
-*vote by proxy.*
+eligible, subject to the provisions of this Rule, to
 
-(2) The categories referred to in sub-rule (1) above are– (a) persons employed outside Belize in any Belizean Embassy, High Commission, Diplomatic Mission or Consulate, including their spouses and dependents;
+*(2) The*
 
-(b) members of the Belize Defence Force;
+categories referred to in sub-rule (1) above are– (a) persons employed outside Belize in any Belizean Embassy, High Commission, Diplomatic Mission or Consulate, including their spouses and dependents;
 
 *42 of 1999.*
 
-(c) members of the Belize Police Department assigned for duty on polling day;
+(b) members of the Belize Defence Force; (c) members of the Belize Police Department assigned for duty on polling day;
 
 (d) persons acting as election officers;
 
@@ -2868,11 +3022,9 @@ elector, allow the appointment of another proxy or in the alternative, allow the
 
 (11) Subject to sub-rule (7) above, any person who, having appointed a proxy, votes or attempts to vote in person at an election for which the proxy has been appointed commits an offence and is liable on summary conviction to a fine not exceeding five hundred dollars, or to imprisonment for a term not exceeding six months, or to both such fine and term of imprisonment.
 
-**20.** (1) An elector duly qualified shall not vote for the election
-
 *Manner of voting.*
 
-of more than one person, and shall mark a cross within the space opposite the name of the candidate for whom he intends to vote.
+**20.** (1) An elector duly qualified shall not vote for the election of more than one person, and shall mark a cross within the space opposite the name of the candidate for whom he intends to vote.
 
 (2) The presiding officer shall on request give such instructions as may appear to be necessary to any elector as to the manner in which he should record his vote.
 
@@ -2900,11 +3052,9 @@ of more than one person, and shall mark a cross within the space opposite the na
 
 (10) The presiding officer, after having delivered to the voter a ballot paper and while the voter is recording his vote, shall make a mark against the name of the voter on his copy of the proper register of voters to indicate that the vote of that person has been received, but not so as to show the particular ballot paper given to him.
 
-**22.** (1) The presiding officer shall keep order at the polling
-
 *Who are to be admitted within the polling station.*
 
-station and shall regulate the number of voters to be admitted at a time, and shall exclude all other persons except his assistant, the Chief Elections Officer, the returning officers, the candidates, two agents for each candidate appointed by the candidate in accordance with the provisions of rule 14 of these rules and the police officers on duty.
+**22.** (1) The presiding officer shall keep order at the polling station and shall regulate the number of voters to be admitted at a time, and shall exclude all other persons except his assistant, the Chief Elections Officer, the returning officers, the candidates, two agents for each candidate appointed by the candidate in accordance with the provisions of rule 14 of these rules and the police officers on duty.
 
 (2) The agents shall be posted in such a place that they can see each person who presents himself as a voter and hear his name as given in by him, but so that they cannot see how any voter votes.
 
@@ -2964,15 +3114,21 @@ ballot paper in place of that so delivered (hereinafter called a
 
 (2) Every presiding officer shall, with all convenient speed and trustworthy means, forward the packets or parcels to the returning officer in his division.
 
-(3) The agents of the candidates (if any) shall have the right to accompany the ballot boxes to the place where such boxes are to be kept and shall also have a right to stay at such place pending the counting of votes.
+*(3) The to accompany*
 
-*Opening of ballot boxes.*
+*pending the*
 
-**28.** The returning officer shall open the sealed ballot boxes as soon as practicable after they have all been received from the polling stations throughout his division.
+agents of the candidates (if any) shall have the right the ballot boxes to the place where such boxes are to be kept and shall also have a right to stay at such place counting of votes.
 
-*Procedure thereafter.*
+*Opening of The ballot boxes. as soon as*
 
-**29.** (1) Each returning officer shall, in the presence of the candidates or their agents (if any), if they or any of them desires to be present, and of such other person or persons as he may deem proper, proceed respectively as follows–
+**28.** returning officer shall open the sealed ballot boxes practicable after they have all been received from the polling stations throughout his division.
+
+*Procedure 29.-(1) Each thereafter.*
+
+*candidates or to be present, deem proper,*
+
+returning officer shall, in the presence of the their agents (if any), if they or any of them desires and of such other person or persons as he may proceed respectively as follows–
 
 (a) he shall, before opening any ballot box, compare the several marked copies of the register of voters used at the polling station or stations, so as to ascertain whether a vote has been taken in the name of the same voter at more stations than one, and, if any vote has been so taken, shall record in writing the stations at which it has been taken and the number of the voter on the register of voters;
 
@@ -2990,19 +3146,21 @@ he shall count the ballot papers contained in the ballot boxes recording as he p
 
 (3) The Returning Officer may also at his discretion himself recount or direct the recount of votes either once or more often in any case in which he is not satisfied as to the accuracy of any previous count or may himself recheck or direct the re-checking of any figures recorded by the counting clerks or by himself in
 
-any case in which he is not satisfied as to the accuracy of such figures,
+*any case in figures,*
 
-Provided that nothing herein shall make it obligatory for the Returning Officer to count or to recheck or cause to be rechecked the same figures more than once.
+which he is not satisfied as to the accuracy of such
+
+*Returning*
+
+Provided that nothing herein shall make it obligatory for the Officer to count or to recheck or cause to be rechecked the same figures more than once.
 
 (4) If upon an election petition–
 
-(a) any ballot papers are declared valid; or
+(a) any ballot papers are declared valid; or (b) any ballot papers counted are rejected as invalid, the Court may direct the ballot papers to be recounted and the results of the election ascertained in accordance mutatis mutandis with these rules.
 
-(b) any ballot papers counted are rejected as invalid, the Court may direct the ballot papers to be recounted and the results of the election ascertained in accordance mutatis mutandis with these rules.
+*Ballot paper, 30.-(1) Any when void and not counted.*
 
-*Ballot paper, when void and not counted.*
-
-**30.** (1) Any ballot paper–
+ballot paper–
 
 which does not have the presiding officer’s (a)
 
@@ -3010,21 +3168,21 @@ initials on the back of it;
 
 (b) in which the elector has voted for more than one counted candidate;
 
-(c) which is not marked for any candidate;
+(c) which is not marked for any candidate; (d) which contains any writing or mark by which the elector could be identified; or
 
-(d) which contains any writing or mark by which the elector could be identified; or
+*shall be void*
 
-(e) which is unmarked or void for uncertainty;
+(e) which is unmarked or void for uncertainty; and shall not be counted.
 
-shall be void and shall not be counted.
+*(2) The ballot paper endorsement made to his*
 
-(2) The returning officer shall endorse “rejected” on any ballot paper which he may reject as void, and shall add to the endorsement “rejection objected to” if an objection be in fact made to his decision by any person entitled to be present.
+returning officer shall endorse “rejected” on any which he may reject as void, and shall add to the
 
-**31.** (1) The returning officer shall report to the Chief Elections
+“rejection objected to” if an objection be in fact decision by any person entitled to be present.
 
 *Reporting regarding rejected ballot papers.*
 
-Officer the number of ballot papers rejected and not counted by him under the several head set out in rule 30.
+**31.** (1) The returning officer shall report to the Chief Elections Officer the number of ballot papers rejected and not counted by him under the several head set out in rule 30.
 
 (2) The returning officer shall on request allow any candidate or candidates for whom the rejected vote was given, or his agent, to copy the report before it is submitted.
 
@@ -3054,11 +3212,9 @@ Officer the number of ballot papers rejected and not counted by him under the se
 
 (4) The Chief Elections Officer shall forthwith, on the receipt of the returns from the returning officers referred to in paragraph (3) above, publish the same in the Gazette.
 
-**34.** (1) Each returning officer shall, as soon as may be after the
-
 *Returning officer to report to Chief Elections Officer.*
 
-election, make a report to the Chief Elections Officer showing the number of persons who appear to have voted at each polling station, the number of spoilt ballot papers delivered to him from the station, and the number of persons to whom voting papers have been supplied.
+**34.** (1) Each returning officer shall, as soon as may be after the election, make a report to the Chief Elections Officer showing the number of persons who appear to have voted at each polling station, the number of spoilt ballot papers delivered to him from the station, and the number of persons to whom voting papers have been supplied.
 
 (2) Any returning officer who is unable to make the report required by paragraph (1) of this rule shall immediately after the ballot papers have been counted, compared and recorded make into one parcel the parcels of voting papers, marked copies of the register of electors and all other papers used at the polling station and in his possession and shall place such parcel in the ballot box and seal the said box which, if he is in Belize City, he shall deliver to the Chief Elections Officer, or if he is in any other district, to the magistrate of that district for safe custody until such time as he prepares a report under the provisions of paragraph (1).
 
@@ -3264,11 +3420,9 @@ be delivered at the office of the Registrar for service on the respondent, and t
 
 **14.** The time and place of the trial of each election petition shall be fixed by the Judge, and not less than fourteen days’ notice thereof shall be given to the petitioner and respondent by letter directed to the address left by such petitioner or respondent with the Registrar or, if no address has been left, by notice in the Gazette.
 
-The Judge may from time to time, by order made on the
-
 *Postponement of trial.*
 
-application of a party to the petition, postpone the beginning of the trial to such day as he may name; and such order, when made, shall forthwith be published by the Registrar in the Gazette.
+The Judge may from time to time, by order made on the application of a party to the petition, postpone the beginning of the trial to such day as he may name; and such order, when made, shall forthwith be published by the Registrar in the Gazette.
 
 *Adjournment and continuation of trial.*
 
@@ -3284,11 +3438,9 @@ application of a party to the petition, postpone the beginning of the trial to s
 
 (4) The affidavits of the applicant and his solicitor shall further state the ground on which the petition is sought to be withdrawn.
 
-**18.** (1) An application for leave to withdraw a petition shall be
-
 *Form of application to withdraw petition.*
 
-in writing signed by the petitioner or petitioners or his or their agent or agents. It shall state the ground on which the application is supported.
+**18.** (1) An application for leave to withdraw a petition shall be in writing signed by the petitioner or petitioners or his or their agent or agents. It shall state the ground on which the application is supported.
 
 (2) The following form shall be sufficient
 
@@ -3372,11 +3524,9 @@ petitioner shall be one calendar month, or such further time as upon considerati
 
 (4) The manner and time of the respondent’s giving notice to the court that he does not intend to oppose the petition, shall be by leaving notice thereof in writing at the office of the Registrar, signed by the respondent not less than six days before the day appointed for trial, exclusive of the day of leaving such notice.
 
-A respondent who has given notice of his intention not
-
 *Respondent not opposing petition not to appear as party. Countermanding of trial where petition abated, etc.*
 
-to oppose a petition shall not be allowed to appear or act as a party against such petition in any proceedings thereon.
+A respondent who has given notice of his intention not to oppose a petition shall not be allowed to appear or act as a party against such petition in any proceedings thereon.
 
 After receiving the petitioner’s application for leave to
 
@@ -3396,11 +3546,9 @@ withdraw or notice of the respondent’s intention not to oppose or of the abate
 
 (3) The office fees payable for inspection, office copies and other proceedings under these rules shall be such as may be prescribed by the Chief Justice.
 
-Any person who is on the roll of solicitors of the
-
 *Solicitor may act as agent under these rules.*
 
-Supreme Court may act as agent for any party to an election petition.
+Any person who is on the roll of solicitors of the Supreme Court may act as agent for any party to an election petition.
 
 *Notice of appointment of agent.*
 

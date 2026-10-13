@@ -144,25 +144,29 @@ Interpretation
 
 ARTICLE II Establishment of the Caribbean Court of Justice Trust Fund The Caribbean Court of Justice Trust Fund is hereby established.
 
-Purpose of Fund
+*necessary to*
 
-The purposes of the Fund shall be to provide the resources necessary to finance the biennial capital and operating budget of the Court and the Commission in perpetuity.
+Purpose of Fund The purposes of the Fund shall be to provide the resources finance the biennial capital and operating budget of the Court and the Commission in perpetuity.
 
 ### ARTICLE IV
 
 Resources of the Fund
 
-**1.** The resources of the Fund shall consist of,
+*The*
 
-(a) the contributions of Members;
+**1.** resources of the Fund shall consist of, (a) the contributions of Members;
 
-(b) income derived from operations of the Fund or otherwise accruing to the Fund; and
+(b) income derived from operations of the Fund or otherwise accruing to the Fund; and (c) contributions of third parties being contributions which are not likely to prejudice the independence or integrity of the Court.
 
-(c) contributions of third parties being contributions which are not likely to prejudice the independence or integrity of the Court.
+*The*
 
-**2.** The Fund shall not solicit nor accept any grant, gift or other material benefit from any source except with the consent of all the Members.
+*of all the*
 
-**3.** A State or Territory listed in the Annex to this Agreement,
+**2.** Fund shall not solicit nor accept any grant, gift or other material benefit from any source except with the consent Members.
+
+**3.** A State or Territory listed in the Annex to this
+
+*Agreement,*
 
 (a) which is a Member on the date this Agreement enters into force; or
 
@@ -190,7 +194,9 @@ The Fund shall have a Board of Trustees.
 
 Composition of the Board of Trustees
 
-**1.** Subject to the provisions of this Article, the Board of Trustees shall consist of the following or their nominees,
+*Trustees shall*
+
+**1.** Subject to the provisions of this Article, the Board of consist of the following or their nominees,
 
 (a) The Secretary-General;
 
@@ -210,7 +216,9 @@ Composition of the Board of Trustees
 
 (i) The President of the Caribbean Congress of Labour.
 
-**2.** There shall be a Chairperson and Vice-Chairperson of the Board elected by the Board from among its members. The Chairperson and Vice-Chairperson shall hold office for a period of three years.
+*There the Board Chairperson*
+
+**2.** shall be a Chairperson and Vice-Chairperson of elected by the Board from among its members. The and Vice-Chairperson shall hold office for a period of three years.
 
 **3.** Where a trustee,
 
@@ -232,7 +240,9 @@ Composition of the Board of Trustees
 
 Functions of the Board
 
-**1.** The Board shall be responsible for directing the operations of the Fund, and for this purpose shall, in particular, exercise the following functions,
+*The operations of exercise the*
+
+**1.** Board shall be responsible for directing the the Fund, and for this purpose shall, in particular, following functions,
 
 (a) evaluate the performance of the Fund;
 
@@ -300,6 +310,8 @@ The Executive Officer shall report to the Board and shall be invited to particip
 
 (d) prepare and submit to the Board for submission to the Members:
 
+Caribbean Court of Justice (Trust Fund)
+
 (i) a quarterly report on the performance of the Fund;
 
 (ii) an annual report on the operations of the Fund.
@@ -314,7 +326,9 @@ The Executive Officer shall report to the Board and shall be invited to particip
 
 Juridical Personality and Legal Capacity
 
-**1.** The Fund shall possess full juridical personality and in particular capacity to,
+*The particular*
+
+**1.** Fund shall possess full juridical personality and in capacity to,
 
 (a) contract;
 
@@ -322,9 +336,13 @@ Juridical Personality and Legal Capacity
 
 (c) institute legal proceedings.
 
-**2.** The principal office of the Fund shall be located in Trinidad and Tobago.
+*The Trinidad and*
 
-**3.** The Fund shall conclude an agreement with the Government of Trinidad and Tobago on the status, privileges and immunities of the Fund. The agreement shall be approved by the Board, and signed by the Chairperson,
+**2.** principal office of the Fund shall be located in Tobago.
+
+*The*
+
+**3.** Fund shall conclude an agreement with the Government of Trinidad and Tobago on the status, privileges and immunities of the Fund. The agreement shall be approved by the Board, and signed by the Chairperson,
 
 Privileges and Immunities
 
@@ -344,13 +362,27 @@ Privileges and Immunities
 
 **8.** Where the Fund has paid any duties, taxes or other imposts, the Members shall make appropriate administrative
 
-arrangements for the remission or return of the amount of duty, tax or imposts paid.
+Caribbean Court of Justice (Trust Fund)
 
-**9.** Articles imported under an exemption from customs duties as provided by paragraph 6 of this Article, or in respect of which a remission or return of duty or tax has been made under paragraph 8, shall not be sold in the territory of the Member which granted the exemption, remission or return except under conditions agreed with that Member.
+*arrangements*
 
-**10.** No tax shall be levied on or in respect of salaries and emoluments paid by the Fund to members of the Board of other officers, but Members reserve the right to tax their own citizens or nationals or persons permanently resident in the territories of such Members.
+for the remission or return of the amount of duty, tax or imposts paid.
 
-**11.** All officers of the Fund,
+*duties as of which a under*
+
+*except under*
+
+**9.** Articles imported under an exemption from customs provided by paragraph 6 of this Article, or in respect remission or return of duty or tax has been made paragraph 8, shall not be sold in the territory of the Member which granted the exemption, remission or return conditions agreed with that Member.
+
+*emoluments*
+
+*citizens or territories of*
+
+**10.** No tax shall be levied on or in respect of salaries and paid by the Fund to members of the Board of other officers, but Members reserve the right to tax their own nationals or persons permanently resident in the such Members.
+
+*All*
+
+**11.** officers of the Fund,
 
 (a) shall be exempt from the payment of income taxes except where that officer is a citizen, permanent resident or national of the State granting the exemption;
 

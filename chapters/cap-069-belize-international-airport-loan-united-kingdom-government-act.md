@@ -78,6 +78,10 @@ provided that where the terms and conditions of the loan allow it shall not be n
 
 **4.** The principal money of any loans raised under the provisions of this Act, and the interest payable thereon, shall be charged on and paid out of the Consolidated Revenue Fund and
 
+*THE*
+
+### SUBSTANTIVE LAWS OF BELIZE
+
 assets of Belize and on any other revenues or assets which may be made available for the purpose.
 
 *Application of loan.*

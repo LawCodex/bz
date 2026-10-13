@@ -40,6 +40,8 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 This edition contains a consolidation of amendments made to the law by Act No. 17 of 2012.
 
+Income Tax (Avoidance of Double Taxation) (CARICOM) [CAP. 56
+
 ### CHAPTER 56
 
 ### INCOME TAX (AVOIDANCE OF DOUBLE TAXATION) (CARICOM)
@@ -104,11 +106,9 @@ The functions under the Agreement of a Competent Authority shall be performed in
 
 *Competent Authority’s power to obtain and supply information. CAP. 55.*
 
-**5A.** For the purpose of complying with a request for information pursuant to the Agreement, the Competent Authority may exercise all the powers available to the Commissioner of Income Tax under section 33 or any other provision of the Income and Business Tax Act to obtain
-
 *17 of 2012.*
 
-information, and no restrictions on the disclosure of information shall apply to any such request for information notwithstanding any provision in any other law to the contrary.
+**5A.** For the purpose of complying with a request for information pursuant to the Agreement, the Competent Authority may exercise all the powers available to the Commissioner of Income Tax under section 33 or any other provision of the Income and Business Tax Act to obtain information, and no restrictions on the disclosure of information shall apply to any such request for information notwithstanding any provision in any other law to the contrary.
 
 *Regulations.*
 
@@ -188,13 +188,19 @@ the word “national” means, (f)
 
 (iii) a company or other legal person deriving its status as such from the laws in force in a Member State or constituted in the member State in
 
+*Income Tax*
+
+(Avoidance of Double Taxation) (CARICOM) [CAP.
+
 conformity with the law thereof that such State regards as belonging to it.
 
 the word “person” includes an individual, a (g)
 
 company and any other body of persons.
 
-**2.** In the application of this Agreement by a Member State, any word or term not defined in the Agreement shall, unless the contents otherwise requires, have the meaning which has under the laws of that Member State relating to the taxes which are the subject of this Agreement.
+*In the any word or contents*
+
+**2.** application of this Agreement by a Member State, term not defined in the Agreement shall, unless the otherwise requires, have the meaning which has under the laws of that Member State relating to the taxes which are the subject of this Agreement.
 
 ### ARTICLE 4
 
@@ -202,9 +208,19 @@ Residence
 
 1.
 
-For the purposes of this Agreement, the term “resident of a Member State” means any person who under the law of that State is liable to tax therein by reason of that person’s domicile, residence, place of management or any other criterion of similar nature.
+*a Member*
 
-**2.** Where by reason of any provisions of paragraph 1 of this Article, an individual is a resident of more than one Member State, then the status of that individual shall be determined as follows,
+For the purposes of this Agreement, the term “resident of State” means any person who under the law of that State is liable to
+
+tax therein by reason of that person’s domicile, residence, place of management or any other criterion of similar
+
+*nature.*
+
+*Article, an*
+
+**2.** Where by reason of any provisions of paragraph 1 of this individual is a resident of more than one Member State, then the status of that individual shall be determined as
+
+*follows,*
 
 (a) he shall be deemed to be a resident of the Member State in which he has a permanent home available to him; if he has a permanent home available to him in more than one Member State, he shall be deemed to be a resident of the Member State with which his personal and economic relations are closest (hereinafter referred to as his “centre of vital interests”);
 
@@ -216,7 +232,13 @@ has no permanent home available to him in any Member State, he shall be deemed t
 
 (d) if he is a national of more than one Member State or of none of them, the competent authorities of the Member State concerned shall determine the question by agreement.
 
-**3.** Where by reason of the provisions of paragraph 1 of this Article a person other than an individual would be a resident of more than one Member State, then such person shall, for the purposes of this Agreement, be deemed to be resident of the Member State in which its place of effective management is situated.
+*Where*
+
+*more than one*
+
+*Member State situated.*
+
+**3.** by reason of the provisions of paragraph 1 of this Article a person other than an individual would be a resident of Member State, then such person shall, for the purposes of this Agreement, be deemed to be resident of the in which its place of effective management is
 
 ### TAX ON INCOME
 
@@ -224,7 +246,9 @@ has no permanent home available to him in any Member State, he shall be deemed t
 
 Tax Jurisdiction
 
-Irrespective of the nationality or State of residence of a person, income of whatever nature accruing to or derived by such person, shall be taxable only by the Member State in which the income arises, except for the cases specified in this Agreement.
+*Irrespective of income of person, shall be income arises,*
+
+the nationality or State of residence of a person, whatever nature accruing to or derived by such taxable only by the Member State in which the except for the cases specified in this Agreement.
 
 ### ARTICLE 6
 
@@ -486,7 +510,9 @@ securing training required to qualify him to practice a profession or a professi
 
 (iii) studying or doing research as a recipient of a grant, allowance, or award from a governmental, religious, charitable, scientific, literary or educational organisation, or as a participant in other sponsored programmes,
 
-shall not be taxable in respect of,
+*shall not be*
+
+taxable in respect of,
 
 (a) gifts from abroad for the purpose of his maintenance, education, study, research or training;
 
@@ -494,7 +520,9 @@ shall not be taxable in respect of,
 
 (c) remuneration for employment in that other Member State provided that the remuneration constitutes earnings reasonably necessary for the maintenance and education of such person.
 
-**2.** The benefits under paragraph 1 shall only extend for such period of time as may be reasonable or customarily required to effectuate the purpose of the visit.
+*The*
+
+**2.** benefits under paragraph 1 shall only extend for such period of time as may be reasonable or customarily required to effectuate the purpose of the visit.
 
 ### GENERAL PROVISIONS
 
@@ -502,7 +530,9 @@ shall not be taxable in respect of,
 
 Non-discrimination
 
-**1.** The nationals of a Member State shall not be subjected in any other Member State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which the nationals
+*The in any other connected*
+
+**1.** nationals of a Member State shall not be subjected Member State to any taxation or any requirement therewith which is other or more burdensome than the taxation and connected requirements to which the nationals
 
 of that other Member State in the same circumstances are or may be subjected.
 
@@ -564,17 +594,25 @@ Entry Into Force
 
 (b) in respect of other taxes, for the taxable years beginning on or after the first day of January next following the deposit of the second instrument of ratification.
 
-**2.** Where a State ratifies this Agreement after it has entered into force, the Agreement shall take effect in relation to that State in respect of the taxes mentioned in paragraph 1 (a), on the first day of the calendar month next following the deposit of its instrument of ratification.
+*Where a into force, the State in respect first day of the instrument of*
 
-**3.** In such event this Agreement shall cease to have effect in relation to that Member State,
+**2.** State ratifies this Agreement after it has entered Agreement shall take effect in relation to that of the taxes mentioned in paragraph 1 (a), on the calendar month next following the deposit of its ratification.
+
+*In such in relation to*
+
+**3.** event this Agreement shall cease to have effect that Member State,
 
 (a) in respect of taxes withheld at source on amounts paid or credited to a person, from the first day of January next following the year in which the notice of termination is given;
 
 (b) in respect of other taxes, for the taxable years commencing on or after the first day of January next following the year in which the notice of termination is given.
 
-IN WITNESS WHEREOF the undersigned, duly authorized thereto, have signed the present Agreement.
+*IN WITNESS thereto, have*
 
-SIGNED by this 6th day of July, 1994 at Sherbourne Conference Centre, St. Michael, Barbados for the Government of Antigua and Barbuda.
+WHEREOF the undersigned, duly authorized signed the present Agreement.
+
+*SIGNED by 1994 at for the*
+
+this 6th day of July, Sherbourne Conference Centre, St. Michael, Barbados Government of Antigua and Barbuda.
 
 SIGNED by Hon. Manuel Esquivel this 6th day of July, 1994 at Sherbourne Conference Centre, St. Michael, Barbados for the Government of Belize.
 
@@ -610,13 +648,11 @@ SCHEDULE II INCOME TAX (AVOIDANCE OF DOUBLE TAXATION)(CARICOM) ACT Taxes Covered
 
 Income Tax
 
-Transfer Tax in relation to Capital Gains (g) in Montserrat
+Income Tax (Avoidance of Double Taxation) (CARICOM) [CAP. 56 Transfer Tax in relation to Capital Gains (g) in Montserrat
 
 \-Income Tax
 
-(h) in St. Kitts and Nevis
-
-\-Income Tax
+(h) in St. Kitts and Nevis - Income Tax
 
 (i) in Saint Lucia
 

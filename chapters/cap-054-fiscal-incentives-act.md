@@ -154,11 +154,9 @@ Preliminary
 
 “approved small or medium enterprises” means an enterprise approved by the Minister pursuant to section 19;
 
-“company” means a company formed and registered under the
-
 *CAP. 250.*
 
-Companies Act;
+“company” means a company formed and registered under the Companies Act;
 
 “Comptroller” means the Comptroller of Customs;
 
@@ -168,11 +166,9 @@ Companies Act;
 
 *3 of 2000.*
 
-“Executive Chairperson of BELTRAIDE” means the Executive Chairperson of the Belize Trade and Development Investment Service appointed pursuant to section 7 of the Belize Trade and
-
 *CAP. 282.*
 
-Development Investment Service Act;
+“Executive Chairperson of BELTRAIDE” means the Executive Chairperson of the Belize Trade and Development Investment Service appointed pursuant to section 7 of the Belize Trade and Development Investment Service Act;
 
 “income tax” means any tax on income or profits;
 
@@ -192,15 +188,29 @@ Development Investment Service Act;
 
 “small or medium enterprise” means an enterprise, whether a natural or a legal person or an unincorporated entity or association, which satisfies the requirements set out in section 18;
 
-“tax holiday period” means the period during which an enterprise enjoys the relief granted under section 6 of this Act.
+*“tax holiday enterprise*
+
+period” means the period during which an enjoys the relief granted under section 6 of this Act.
 
 ## PART II
 
 Application, Grant, Conditions etc., of Fiscal Incentives
 
-*Application for an order. 3 of 2000.*
+*Application for*
 
-**3.** (1) Any person desirous of establishing or conducting an enterprise in Belize may apply to the Minister through the Executive Chairperson of BELTRAIDE for an approved enterprise order in relation to the proposed enterprise and shall furnish to the Executive Chairperson of BELTRAIDE in support of his application–
+*3.–(1) Any*
+
+*an order.*
+
+*enterprise in*
+
+*3 of 2000.*
+
+*Executive*
+
+*furnish to the of his*
+
+person desirous of establishing or conducting an Belize may apply to the Minister through the Chairperson of BELTRAIDE for an approved enterprise order in relation to the proposed enterprise and shall Executive Chairperson of BELTRAIDE in support application–
 
 (a) particulars as to the nature of the enterprise and the contribution which it is expected to make to the economy;
 
@@ -214,7 +224,7 @@ Application, Grant, Conditions etc., of Fiscal Incentives
 
 (f) the date on or before which–
 
-(i) work on the enterprise will commence;
+(i) work on enterprise will commence;
 
 (ii) the enterprise will produce a marketable product;
 
@@ -238,11 +248,17 @@ Provided that a “Belizean Company” as defined in sub-section (3), with inves
 
 (4) The Minister may from time to time, by order published in the Gazette, amend the scale of fees payable under this section.
 
-(5) Every order made by the Minister under the proviso of sub-section (2), shall as soon as may be after the making thereof be laid before the National Assembly and shall be subject to negative resolution.
+*(5) Every sub-section (2), be laid before negative*
 
-*Conditions of making an order.*
+order made by the Minister under the proviso of shall as soon as may be after the making thereof the National Assembly and shall be subject to resolution.
 
-**4.** (1) If the Minister is satisfied that–
+*Conditions of*
+
+*4.–(1) If the*
+
+*making an order.*
+
+Minister is satisfied that–
 
 (a) a company has been incorporated in Belize which will establish or conduct the enterprise in respect of which an application has been made under section 3;
 
@@ -250,9 +266,13 @@ Provided that a “Belizean Company” as defined in sub-section (3), with inves
 
 (c) it is expedient in the public interest to do so,
 
-he may by order declare the enterprise to be an approved enterprise.
+*he may by enterprise.*
 
-(2) Before making an order, the Minister shall–
+order declare the enterprise to be an approved
+
+*(2) Before*
+
+making an order, the Minister shall–
 
 *3 of 2000.*
 
@@ -260,21 +280,27 @@ he may by order declare the enterprise to be an approved enterprise.
 
 (b) consider any objections received pursuant to the notice.
 
-(3) Such order shall set out the conditions subject to which it has been made.
+*(3) Such it has been*
+
+order shall set out the conditions subject to which made.
 
 *26 of 2019.*
 
 (4) Repealed.
 
-*Date of production.*
+*Date of Every production.*
 
-**5.** Every order made by the Minister under section 4 shall specify the date of production of the approved enterprise, which shall be the date not more than five years after the date of the approved enterprise order by which date the Minister has reasonable cause to believe the enterprise should be established and be in commercial production or operation,
+*approved reasonable and be in*
 
-Provided that, in the case of any such order in respect of any enterprise that is at the date of the order already established and in commercial production or operation, the date of production shall be the date of the approved enterprise order.
+**5.** order made by the Minister under section 4 shall specify the date of production of the approved enterprise, which shall be the date not more than five years after the date of the enterprise order by which date the Minister has cause to believe the enterprise should be established commercial production or operation,
 
-*Tax holiday. 20 of 1996.*
+*Provided that,*
 
-**6.** (1) Subject to sub-section 9 and to paragraph (c), every order made by the Minister under section 4 shall specify–
+in the case of any such order in respect of any enterprise that is at the date of the order already established and in commercial production or operation, the date of production shall be the date of the approved enterprise order.
+
+*Tax holiday. 6.–(1) 20 of 1996.*
+
+Subject to sub-section 9 and to paragraph (c), every order made by the Minister under section 4 shall specify–
 
 (a) the duration of the tax holiday period, which shall normally be of not more than five years duration commencing from the date of production; and
 
@@ -284,15 +310,17 @@ Provided that the Minister may, in a fit and proper case, on application made by
 
 (c) in the case of a company which is engaged in agriculture, agro-industry, food-processing,
 
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
+
 mariculture or manufacturing and whose operation is highly labour intensive and whose production is strictly for export, the tax holiday period may be for a maximum of twenty-five years.
 
 *20 of 1996.*
 
-(2) During the tax holiday period, all profits and gains accruing to the approved enterprise and arising from the production of the approved product or service shall be partially
-
 *CAP. 55.*
 
-exempt from income tax under the Income and Business Tax Act, at the annual percentage rates specified by the Minister as provided in sub-section (1)(b) above.
+(2) During the tax holiday period, all profits and gains accruing to the approved enterprise and arising from the production of the approved product or service shall be partially exempt from income tax under the Income and Business Tax Act, at the annual percentage rates specified by the Minister as provided in sub-section (1)(b) above.
 
 *20 of 1996.*
 
@@ -316,11 +344,9 @@ shall not be taken into account in ascertaining the chargeable income of such sh
 
 *20 of 1996. 19 of 1998.*
 
-(8) To the extent that an approved enterprise is partially exempt from income tax during a tax holiday period at the rates specified by the Minister as provided in sub-section (1)(b) of this section, the approved enterprise shall be deemed to be a
-
 *CAP. 55.*
 
-specified development industry or project for the purpose of the Income and Business Tax Act.
+(8) To the extent that an approved enterprise is partially exempt from income tax during a tax holiday period at the rates specified by the Minister as provided in sub-section (1)(b) of this section, the approved enterprise shall be deemed to be a specified development industry or project for the purpose of the Income and Business Tax Act.
 
 (9) Notwithstanding the provisions of this section it shall be open to the Minister to order that no tax holiday shall be granted to an enterprise under this Act.
 
@@ -412,11 +438,9 @@ explanation, if any, given by the approved enterprise he may in his discretion r
 
 *19 of 1998.*
 
-(4) If the date on which the approved enterprise order ceases to be an approved enterprise does not coincide with the end of the financial year of the enterprise, then the chargeable income in respect of the financial year in which the order is revoked shall be subject to tax under the Income and Business Tax Act
-
 *CAP. 55.*
 
-as if no approved enterprise order had been made in respect of that year and such tax shall be recoverable accordingly.
+(4) If the date on which the approved enterprise order ceases to be an approved enterprise does not coincide with the end of the financial year of the enterprise, then the chargeable income in respect of the financial year in which the order is revoked shall be subject to tax under the Income and Business Tax Act as if no approved enterprise order had been made in respect of that year and such tax shall be recoverable accordingly.
 
 *Transfer of status.*
 
@@ -520,6 +544,8 @@ Antigua and Barbuda Barbados Belize Dominica Grenada Guyana Jamaica Montserrat S
 
 The Schedule was amended by Act No. 45 of 2002
 
+*[CAP.*
+
 ## SCHEDULE II 2 FISCAL INCENTIVES ACT Approved Activities for a Small Business
 
 [sections 18 and 19]
@@ -544,4 +570,6 @@ The Schedule was amended by Act No. 45 of 2002
 
 **10.** Handicraft, Woodcarving and Jewellery making.
 
-This Schedule was amended by Act No. 45 of 2002
+*THE SUBSTANTIVE*
+
+This Schedule was amended by Act No. 45 of 2002 LAWS OF BELIZE

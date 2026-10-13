@@ -162,13 +162,23 @@ S. I. 91 of 2000.
 
 “President” means the President of the University appointed under section 26;
 
-“Student Association” means the Student Association elected by the student body of the University; and
+*“Student the student body*
 
-“University” means the University of Belize established under section 4.
+Association” means the Student Association elected by of the University; and
 
-*Objects and principles. CAP. 4.*
+*“University” section 4.*
 
-**3.** In performing its functions and discharging its duties as provided under this Act, the University shall have among its guiding principles the following–
+means the University of Belize established under
+
+*Objects and In principles.*
+
+*provided under*
+
+*CAP. 4.*
+
+*guiding*
+
+**3.** performing its functions and discharging its duties as this Act, the University shall have among its principles the following–
 
 (a) striving to attain academic, research and service, teaching and professional excellence at the national, regional and international levels;
 
@@ -204,11 +214,15 @@ Establishment, Powers and Functions, etc., of the University
 
 **8.** The objects of the Board shall be the management, maintenance and development of the University.
 
-*Membership of the Board.*
+*Membership of 9.–(1) The the Board.*
 
-**9.** (1) The Board shall be composed of persons nominated by the various organizations referred to in sub-section (2) and shall be duly constituted once all the members thereof have been appointed by the Minister.
+*the various be duly*
 
-(2) The Board shall consist of not more than fifteen members and shall include the following persons–
+Board shall be composed of persons nominated by organizations referred to in sub-section (2) and shall constituted once all the members thereof have been appointed by the Minister.
+
+*(2) The*
+
+Board shall consist of not more than fifteen members and shall include the following persons–
 
 (a) one alumni representative nominated by the Alumni Association;
 
@@ -236,13 +250,23 @@ Establishment, Powers and Functions, etc., of the University
 
 (m) one senior official of the Ministry of Agriculture.
 
-(3) The Chairperson of the Board shall be elected by the Board from amongst members of the Board.
+*(3) The Board from*
 
-(4) The President of the University shall be the Secretary to the Board, and his office shall be the Board’s Secretariat. He shall have a right to speak at Board meetings but shall not have a right to vote.
+Chairperson of the Board shall be elected by the amongst members of the Board.
 
-*Disqualification from membership and removal.*
+*(4) The*
 
-**10.** (1) A person shall be disqualified from being or from continuing to be a member of the Board if–
+*shall have a*
+
+President of the University shall be the Secretary to the Board, and his office shall be the Board’s Secretariat. He right to speak at Board meetings but shall not have a right to vote.
+
+*Disqualification*
+
+*10.–(1) A*
+
+*from membership and removal.*
+
+person shall be disqualified from being or from continuing to be a member of the Board if–
 
 (a) such person, directly or indirectly, holds or enjoys any right or benefit under any contract made by or on behalf of the Board, except for members representing the internal university community; or
 
@@ -452,23 +476,17 @@ Provided that the first report shall be for the period beginning from the incept
 
 **28.** (1) The posts of the administrative, professional, faculty, clerical and secretarial staff shall be pensionable under the Pensions Act, notwithstanding anything to the contrary in that Act or any other enactment. Persons holding ancillary posts of the semi-skilled or unskilled category shall be entitled to retirement benefits under the Government (Open Vote) Workers Regulations.
 
-(2) Where an officer in the public service is seconded or temporarily transferred for duty in the University from a
+*CAP. 30.*
+
+(2) Where an officer in the public service is seconded or temporarily transferred for duty in the University from a pensionable office within the meaning of the Pensions Act that Act shall apply to him as if his service in the University were pensionable service in a civil capacity under the Government.
 
 *CAP. 30.*
 
-pensionable office within the meaning of the Pensions Act that Act shall apply to him as if his service in the University were pensionable service in a civil capacity under the Government.
-
-(3) Where an officer in the public service is transferred to an office in the University and retires or resigns on pension from, or dies while in service of the University, his service in the public service shall rank as qualifying service or pensionable service, as the case may be, for purposes of determining
+(3) Where an officer in the public service is transferred to an office in the University and retires or resigns on pension from, or dies while in service of the University, his service in the public service shall rank as qualifying service or pensionable service, as the case may be, for purposes of determining eligibility for pension under the Pensions Act.
 
 *CAP. 30.*
 
-eligibility for pension under the Pensions Act.
-
-(4) Where any institution or school joins and becomes a part of the University, and the members of staff of that institution or school are transferred for duty in the University, the service provided by such staff to the institution prior to joining and becoming part of the University shall rank as qualifying or pensionable service for the purposes of determining eligibility
-
-*CAP. 30.*
-
-for pension under the Pensions Act.
+(4) Where any institution or school joins and becomes a part of the University, and the members of staff of that institution or school are transferred for duty in the University, the service provided by such staff to the institution prior to joining and becoming part of the University shall rank as qualifying or pensionable service for the purposes of determining eligibility for pension under the Pensions Act.
 
 Provided that if the members of staff of the institution or school referred to in sub-section (1) are employed by the institution or school pursuant to a written contract of employment for a specified number of years, and such contract is still subsisting and valid on the date on which the institution joins and becomes part of the University, then such members shall join and become members of the staff of the University under the terms and conditions of the written contract of employment entered into by the institution or school.
 
@@ -492,7 +510,11 @@ Provided that if the members of staff of the institution or school referred to i
 
 (2) The Chairperson, other members, the committee, the President, or the officer or servant to whom any of the powers or functions of the Board have been delegated under sub-section (1), shall exercise or perform the powers or functions so delegated, subject to the directions of the Board.
 
-(3) A delegation under this section may at any time be revoked by the Board and while in force shall not prevent the exercise or discharge by the Board of any of its powers or functions.
+*(3) A*
+
+*exercise or functions.*
+
+delegation under this section may at any time be revoked by the Board and while in force shall not prevent the discharge by the Board of any of its powers or
 
 ## PART IV
 
@@ -500,9 +522,13 @@ Miscellaneous
 
 *Rules.*
 
-**31.** (1) Subject to section 3, the Board may with the approval of the Minister make rules for the better carrying out of the provisions of this Act.
+*the Minister provisions of*
 
-(2) Without prejudice to the generality of sub-section (1), such rules may provide for all or any of the following matters–
+**31.** (1) Subject to section 3, the Board may with the approval of make rules for the better carrying out of the this Act.
+
+*such rules may*
+
+(2) Without prejudice to the generality of sub-section (1), provide for all or any of the following matters–
 
 (a) the wages, salaries and other remuneration of its employees;
 

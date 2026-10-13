@@ -88,11 +88,23 @@ means European Investment Bank;
 
 “Relevant Documents” means all loan agreements in respect of EIB loans, all guarantees in favour of EIB, and all undertakings, bonds, promissory notes, instruments or documents of any kind whatsoever entered into or issued or to be entered into or issued (whether by the Government as borrower or guarantor or by any other borrower from EIB) in relation to any EIB loans; and any reference to “Relevant Documents” includes any endorsement on any of the foregoing documents;
 
-“statutory authority” means any statutory authority, statutory corporation, or other body corporate established directly by statute and exercising powers vested in such body by law for public purposes.
+*“statutory*
 
-*Powers relating to borrowing from EIB.*
+*statute and*
 
-**3.** (1) The Government shall have full powers under this Act to do all such things which the Government may consider necessary or expedient in relation to the obtaining of, and the guaranteeing of, loans by EIB in any currency or currencies whatsoever and in such manner and on such terms and conditions as may be agreed with EIB, and those powers shall (without prejudice to the generality of the foregoing) include power to,
+authority” means any statutory authority, statutory corporation, or other body corporate established directly by exercising powers vested in such body by law for public purposes.
+
+*Powers relating*
+
+*3.-(1) The*
+
+*to borrowing from EIB.*
+
+*necessary or*
+
+*(without power to,*
+
+Government shall have full powers under this Act to do all such things which the Government may consider expedient in relation to the obtaining of, and the guaranteeing of, loans by EIB in any currency or currencies whatsoever and in such manner and on such terms and conditions as may be agreed with EIB, and those powers shall prejudice to the generality of the foregoing) include
 
 (a) borrow from EIB from time to time such sums as may be agreed with EIB;
 

@@ -76,11 +76,9 @@ Schedule — Treaty between Government of Belize and Government of the U.S.A for
 
 “Minister” means the Minister for the time being responsible for foreign affairs;
 
-“Treaty” means the Treaty between the Government of Belize and the Government of the United States of America, signed at Belmopan on the 3rd of October 1996, and as set out in the
-
 *Schedule.*
 
-Schedule to this Act;
+“Treaty” means the Treaty between the Government of Belize and the Government of the United States of America, signed at Belmopan on the 3rd of October 1996, and as set out in the Schedule to this Act;
 
 *The Treaty to have the force of law in Belize.*
 
@@ -174,11 +172,17 @@ Authorities of a Party who have impounded or seized a vehicle that may be subjec
 
 ### ARTICLE 5
 
-**1.** After a Party receives a notification made pursuant to Article 3, that Party may submit a request for the return of the vehicle.
+*After a Article 3, that vehicle.*
 
-**2.** The request for return shall be transmitted under seal of a consular officer of the Requesting Party and shall follow the form appended in Annex.
+**1.** Party receives a notification made pursuant to Party may submit a request for the return of the
 
-**3.** The request shall be transmitted under cover of a note to the foreign ministry of the Requested Party. A request shall be made only after receipt by the consular officer of certified copies of the following documents,
+*The a consular form appended*
+
+**2.** request for return shall be transmitted under seal of officer of the Requesting Party and shall follow the in Annex.
+
+*The to the foreign be made only copies of the*
+
+**3.** request shall be transmitted under cover of a note ministry of the Requested Party. A request shall after receipt by the consular officer of certified following documents,
 
 (a) The title of ownership to the vehicle, if the vehicle is subject to titling, but, if the title is not available, a certified statement from the titling authority that the vehicle is titled and specifying the person or entity to whom it is titled;
 
@@ -194,13 +198,25 @@ the theft has transferred ownership to a third party;
 
 (f) In cases in which the person requesting the return of a vehicle is not the owner, a power of attorney granted in the presence of a notary public by the owner or his legal representative, authorizing that person to recover the vehicle.
 
-**4.** No further legalization or authentication of documents shall be required by the Requested Party.
+*No*
+
+**4.** further legalization or authentication of documents shall be required by the Requested Party.
 
 ### ARTICLE 6
 
-If a Party learns, through means other than a notification made pursuant to Article 3, that the authorities of the other Party may have impounded, seized, or otherwise taken possession of a vehicle that may be registered, titled, or otherwise documented in the territory of the first Party, that Party:
+*pursuant to have*
 
-(1) may, through a note to the foreign ministry of the other Party, seek official confirmation of this and may request the other Party to provide the notification described in Article 3, in which case the other Party shall either provide the notification or explain, in writing, why notification is not required; and
+If a Party learns, through means other than a notification made Article 3, that the authorities of the other Party may impounded, seized, or otherwise taken possession of a vehicle that may be registered, titled, or otherwise documented in the territory of the first Party, that Party:
+
+*(1) may, Party, seek*
+
+*or explain, in*
+
+through a note to the foreign ministry of the other official confirmation of this and may request the other Party to provide the notification described in Article 3, in which case the other Party shall either provide the notification writing, why notification is not required; and
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 (2) may also, in appropriate cases, submit a request for the return of the vehicle as described in Article 5.
 

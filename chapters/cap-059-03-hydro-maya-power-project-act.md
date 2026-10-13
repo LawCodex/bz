@@ -72,12 +72,18 @@ Agreement” means the Concession Agreement dated 29th July, 1998 between the Go
 
 “Project” means the electrical energy generating power plant, owned, operated and maintained by the Producer, located approximately 3 kilometers north of San Miguel Village on the Rio Grande River, Toledo District together with approximately 11.5 kilometers of transmission line and 5 kilometers of access road including but not limited to all associated land, structures, facilities, and all infrastructure for or connected with the operation of the project.
 
-*Exemption from taxes and duties. CAP. 55. CAP. 48. CAP. 49. CAP. 63. CAP.64.*
+*Exemption from taxes and duties. CAP. 55. CAP. 48. CAP. 49. CAP. 63. CAP.64. THE*
 
 **3.** Notwithstanding anything to the contrary contained in the Income and Business Tax Act, Customs and Excise Duties Act, the Customs Regulation Act, the General Sales Tax Act, and the
+
+### SUBSTANTIVE LAWS OF BELIZE
 
 Stamp Duties Act, or any regulations made thereunder, the Producer shall, for a period of 12 1⁄2 years from 8 th September, 2019, be exempt from the taxes and duties specified in the Schedule.
 
 *Extent of exemption.*
 
 **4.** The exemption from taxes and duties granted by section 3 shall apply only to such activities of the Producer as relate directly to the Project.
+
+*EDITION 2020*
+
+### REVISED

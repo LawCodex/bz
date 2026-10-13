@@ -92,6 +92,8 @@ Pensions and other Benefits, etc.
 
 **18.** Application to prescribed diseases and injuries of provisions as to benefits and claims.
 
+*[CAP.*
+
 Accidents or prescribed diseases or injuries in course of illegal employment.
 
 Appointment of medical practitioners, medical boards, etc.
@@ -149,6 +151,10 @@ Establishment, Powers and Function, etc., of the Social Security Board.
 **44.** Payment to persons and tribunals appointed or constituted under section 42.
 
 **45.** Actuarial review of operation of Act.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 Establishment and Administration, etc., of the Social Security Fund.
 
@@ -330,17 +336,27 @@ any body of persons, whether such body be a legal person or not;
 
 (e) in relation to a person employed for the purpose of any game or recreation and engaged or paid through a club, the Chief Executive Officer, or where the club is managed by a committee, the members of the managing committee of the club;
 
-“employment” includes any trade, business, profession, office or vocation and “employed” shall be construed accordingly, except in the expression “employed person”;
+*“employment”*
 
-“employment injury” means an injury arising out of and in the course of employment;
+*except in the*
 
-“Fund” means the Social Security Fund established under section 46;
+includes any trade, business, profession, office or vocation and “employed” shall be construed accordingly, expression “employed person”;
 
-“incapable of work” means incapable of engaging in gainful occupation by reason of some specific disease or bodily or mental disablement or deemed, in accordance with regulations, to be so incapable;
+*“employment course of*
 
-“insurable employment” means any employment specified in
+injury” means an injury arising out of and in the employment;
 
-## Part I of Schedule I;
+*“Fund” means section 46;*
+
+the Social Security Fund established under
+
+*“incapable of occupation by mental to be so*
+
+work” means incapable of engaging in gainful reason of some specific disease or bodily or disablement or deemed, in accordance with regulations, incapable;
+
+*“insurable Part I of*
+
+employment” means any employment specified in Schedule I;
 
 “insurance stamp” means any label, stamp or device issued pursuant to this Act for denoting the payment of contributions;
 
@@ -406,13 +422,19 @@ the inclusion or exception of specified classes of persons for all or any specif
 
 (ii) ceasing in such circumstances as may be prescribed.
 
-(4) The Minister may by Order repeal, vary or amend all or any of the provisions of Schedule I.
+*(4) The any of the*
+
+Minister may by Order repeal, vary or amend all or provisions of Schedule I.
 
 *Voluntary insurance.*
 
-**4.** (1) Subject to the regulations, any insured person who is not liable to pay contribution shall be entitled to apply to and receive from the Chief Executive Officer a certificate of voluntary insurance if he satisfies the prescribed conditions.
+*liable to pay*
 
-(2) A certificate of voluntary insurance may be cancelled by the Chief Executive Officer if the person concerned fails to pay contribution within the prescribed conditions for voluntary insurance.
+**4.** (1) Subject to the regulations, any insured person who is not contribution shall be entitled to apply to and receive from the Chief Executive Officer a certificate of voluntary insurance if he satisfies the prescribed conditions.
+
+*(2) A the Chief contribution insurance.*
+
+certificate of voluntary insurance may be cancelled by Executive Officer if the person concerned fails to pay within the prescribed conditions for voluntary
 
 (3) Regulations may provide for–
 
@@ -504,9 +526,11 @@ the payment and collection of contributions by means of insurance stamps, in cas
 
 Pensions and other Benefits, etc.
 
+*Benefits*
+
 *Description of benefits.*
 
-**11.** Benefits shall be of the following descriptions–
+**11.** shall be of the following descriptions–
 
 (a) sickness benefit, that is to say, periodical payments to an insured person who is rendered temporarily incapable of work otherwise than as a result of employment injury;
 
@@ -526,9 +550,9 @@ survivors’ benefit, that is to say, periodical (f)
 
 payments or a lump sum payment made in respect of an insured person who dies, otherwise than in consequence of an employment injury.
 
-*Employment injury benefit.*
+*Employment 12.-(1) injury benefit. benefit injury benefit*
 
-**12.** (1) Regulations may provide that in addition to the kinds of benefit specified in section 11, there shall be an employment injury benefit which shall consist of–
+Regulations may provide that in addition to the kinds of specified in section 11, there shall be an employment which shall consist of–
 
 (a) injury benefit, that is to say, in addition to such free medical care and attention as may be prescribed, periodical payments to an insured person who suffers personal injury by an accident arising out of and in the course of insurable employment or develops any prescribed disease being a disease due to the nature of such employment resulting in incapacity for work;
 
@@ -536,15 +560,25 @@ disablement benefit, that is to say, in addition to such free medical care and a
 
 (c) death benefit, that is to say, periodical payments in respect of an insured person who dies as a result of such injury or disease as referred to in paragraph (a); and (d) funeral grant, that is to say, a payment in respect of an insured person who dies as a result of such injury or disease as referred to in paragraph (a).
 
-(2) Subject to sections 59 and 60, employment injury benefits described in this section shall not be payable in respect of an accident which happens outside Belize or a prescribed disease or injury which is due to the nature of an employment in which the insured person has been engaged only outside Belize.
+*benefits*
+
+*which the*
+
+(2) Subject to sections 59 and 60, employment injury described in this section shall not be payable in respect of an accident which happens outside Belize or a prescribed disease or injury which is due to the nature of an employment in insured person has been engaged only outside Belize.
 
 *CAP. 303.*
 
-(3) From and after the day when regulations under this section come into operation, the Workmen’s Compensation Act, shall not apply to any insured person or his dependents where the insured person suffers any personal injury or develops any disease as would entitle him or his dependents to any benefit under those regulations.
+*(3) From*
 
-*Presumption and general provisions relating to accidents.*
+*the insured disease as under those*
 
-For the purpose of this Act an accident,
+and after the day when regulations under this section come into operation, the Workmen’s Compensation Act, shall not apply to any insured person or his dependents where person suffers any personal injury or develops any would entitle him or his dependents to any benefit regulations.
+
+*For the Presumption and*
+
+*general provisions relating to accidents.*
+
+purpose of this Act an accident,
 
 arising out of the employment of an insured person shall be presumed, unless the contrary is shown, to have occurred in the course of his employment and where the accident occurred in the course of the employment of such a person it shall be presumed, unless the contrary is shown, to have arisen out of his employment;
 
@@ -560,9 +594,13 @@ operated by or on behalf of his employer or some other person by whom it is prov
 
 (d) happening to an insured person in or about any premises at which he is for the time being employed for the purposes of the trade or business of his employer shall be deemed to arise out of and in the course of his employment if it happens while he is taking steps, on an actual or supposed emergency at those premises, to rescue, succour or protect persons who are, or are thought to be or possibly to be, injured or imperiled, or to avert or minimise serious damage to property.
 
-*Rates and conditions for benefit.*
+*Rates and*
 
-**14.** (1) Regulations shall provide for–
+*14.-(1)*
+
+*conditions for benefit.*
+
+Regulations shall provide for–
 
 (a) the rates or amounts of benefits the variation of benefit such rates or amounts in different or special circumstances;
 
@@ -586,7 +624,9 @@ where it is a condition of entitlement to a benefit that a person is the spouse 
 
 (iv) notwithstanding the fact that a valid marriage subsists between an insured person and another woman or man, as the case may be, registration under this section of a person as a beneficiary shall automatically exclude all other persons from being beneficiaries; and the reference to “husband” or “wife” shall be construed as referring to such registered beneficiary only,
 
-Provided that in the case where a legal marriage subsists on the date of an application under this paragraph, the insured person making the application shall show to the satisfaction of the Chief Executive Officer that he is not legally obliged to maintain the spouse of such marriage–
+*Provided that in date of an making the Executive spouse of such*
+
+the case where a legal marriage subsists on the application under this paragraph, the insured person application shall show to the satisfaction of the Chief Officer that he is not legally obliged to maintain the marriage–
 
 (v) registration of a person as a beneficiary under this section may be cancelled at the request in writing of
 
@@ -600,15 +640,19 @@ the insured person subject to such conditions and in such circumstances as may b
 
 “widower”, and “spouse” shall be construed accordingly.
 
-*Claims.*
+*15.-(1) It shall Claims.*
 
-**15.** (1) It shall be a condition precedent to a person’s right to a benefit–
+be a condition precedent to a person’s right to a
+
+*benefit–*
 
 (a) that he makes a claim therefor, within the prescribed time, to the Chief Executive Officer, on the form provided by the Chief Executive Officer for the purpose or in such other manner as the Chief Executive Officer may accept in the circumstances of the case; and
 
 (b) that he produces such certificates, documents, information and evidence and attends at such office or place as the Chief Executive Officer may require for the purpose of determining the right to a benefit.
 
-(2) Regulations may require employers to maintain such records, to make such reports and to furnish such information as may be prescribed for the purpose of establishing any person’s title to any benefit.
+*records, to make may be title to any*
+
+(2) Regulations may require employers to maintain such such reports and to furnish such information as prescribed for the purpose of establishing any person’s benefit.
 
 *Regulations for benefits.*
 
@@ -646,11 +690,9 @@ as to the time and manner of payment of benefit and the information to be furnis
 
 (k) for such other matters as may be necessary for the proper administration of benefits, including the obligations of persons claiming any benefit in their own behalf or on behalf of others, and the obligations of beneficiaries and employers.
 
-**17.** (1) Subject to this section, a person who is under this Act
-
 *Occupational diseases and injuries not caused by accidents.*
 
-insured against personal injury caused by accident arising out of and in the course of his employment shall be deemed to be insured also against any prescribed caused by disease and against any prescribed personal injury not so caused, being a disease or injury due to the nature of the employment.
+**17.** (1) Subject to this section, a person who is under this Act insured against personal injury caused by accident arising out of and in the course of his employment shall be deemed to be insured also against any prescribed caused by disease and against any prescribed personal injury not so caused, being a disease or injury due to the nature of the employment.
 
 (2) A disease or injury may be prescribed for the purpose of this Act, in relation to any insured persons if the Minister is satisfied that–
 
@@ -680,11 +722,9 @@ injury caused by accident arising out of and in the course of any employment if 
 
 (b) such matters as appear to the Minister to be incidental to or consequential on provisions included in the regulations by virtue of the foregoing provisions of this section.
 
-**19.** (1) Where a claim for a benefit is made under this Act in
-
 *Accidents or prescribed diseases or injuries in course of illegal employment.*
 
-respect of any accidental injury or of any prescribed disease or injury the Chief Executive Officer may determine for the purpose of this Act that the relevant employment shall in relation to that accident or disease be treated as having been insurable employment notwithstanding that by reason of a contravention of or non-compliance with some provisions contained in or having effect under any enactment passed for the protection of persons in employment or any class of such persons, the contract purporting to govern the employment was void or the person employed was not lawfully employed therein at the time when or in the place where the accident happened or the disease developed.
+**19.** (1) Where a claim for a benefit is made under this Act in respect of any accidental injury or of any prescribed disease or injury the Chief Executive Officer may determine for the purpose of this Act that the relevant employment shall in relation to that accident or disease be treated as having been insurable employment notwithstanding that by reason of a contravention of or non-compliance with some provisions contained in or having effect under any enactment passed for the protection of persons in employment or any class of such persons, the contract purporting to govern the employment was void or the person employed was not lawfully employed therein at the time when or in the place where the accident happened or the disease developed.
 
 (2) In this section the expression “relevant employment” means, in relation to an accident, the employment out of and in the course of which the accident arises, and in relation to a prescribed disease or injury, the employment to the nature of which the disease or injury is due.
 
@@ -720,31 +760,59 @@ as to require constantly the personal attendance of another person.
 
 (3) Without prejudice to any other provision of this Act, if the Board by reason of an error made in good faith has paid to an insured person by way of benefit any amount exceeding the
 
-amount due at a particular time, the excess payment may be set off against any benefit which falls due to that person within six years after the date of the overpayment.
+*years after the*
 
-*Unrecovered benefits.*
+amount due at a particular time, the excess payment may be set off against any benefit which falls due to that person within six date of the overpayment.
 
-**24.** Any sums paid on account of a benefit to or on behalf of persons not lawfully entitled thereto, so far as they are not recovered, shall be treated as expenditure on benefit and charged on the Fund.
+*Unrecovered*
 
-*Benefits to be inalienable.*
+*Any*
 
-**25.** Every assignment of or charge on a benefit and every agreement to assign or charge a benefit shall be void and on the bankruptcy of a beneficiary the benefit shall not pass to any trustee or other person acting on behalf of the creditors.
+*benefits.*
 
-*Recovery of benefit in respect of injury caused by wilful act or negligence.*
+*persons not*
 
-**26.** The Board shall have the right to claim by civil action the amount of any benefit paid or payable under this Act–
+**24.** sums paid on account of a benefit to or on behalf of lawfully entitled thereto, so far as they are not recovered, shall be treated as expenditure on benefit and charged
+
+*on the Fund.*
+
+*Benefits to be*
+
+*Every*
+
+*inalienable.*
+
+*agreement to*
+
+**25.** assignment of or charge on a benefit and every assign or charge a benefit shall be void and on the bankruptcy of a beneficiary the benefit shall not pass to any trustee or other person acting on behalf of the creditors.
+
+*Recovery of*
+
+*The*
+
+*benefit in respect*
+
+*the amount of*
+
+*of injury caused by wilful act or negligence.*
+
+**26.** Board shall have the right to claim by civil action any benefit paid or payable under this Act–
 
 (a) from any person, other than the beneficiary, where an injury in respect of which a benefit is paid or payable was caused by the willful act or the negligence of such person or of any other person for whom under the civil law the first mentioned person is responsible;
 
-(b) without prejudice to the generality of paragraph (a), from any employer, where the injury was caused on account of or through his non-compliance or by the non-compliance of any other person from whom under the civil law he is responsible with any obligations
-
 *CAP. 296.*
 
-imposed by the Factories Act, or by any regulations made thereunder.
+(b) without prejudice to the generality of paragraph (a), from any employer, where the injury was caused on account of or through his non-compliance or by the non-compliance of any other person from whom under the civil law he is responsible with any obligations imposed by the Factories Act, or by any regulations made thereunder.
 
-*Matters affecting entitlement to benefit to be reported.*
+*Matters affecting entitlement to*
 
-**27.** (1) A person in receipt of any benefit shall report to the Chief Executive Officer as soon as possible every event or fact which affects or is likely to affect the continuance of the right to benefit or the rate thereof.
+*27.-(1) A*
+
+*benefit to be reported.*
+
+*benefit or the*
+
+person in receipt of any benefit shall report to the Chief Executive Officer as soon as possible every event or fact which affects or is likely to affect the continuance of the right to rate thereof.
 
 (2) Sub-section (1), shall also apply to a person authorised to receive payment of a benefit on behalf of some other person.
 
@@ -868,13 +936,23 @@ if the post of Chief Executive Officer is vacant the Minister may appoint any ot
 
 Provided that the maximum amount allowed as administrative expenses shall not exceed such percentage of the annual contributions collected by the Board during the preceding year as the Minister may from time to time determine on the recommendations of the Actuary and after consultation with the Board.
 
-**40.** (1) The Board may designate such officers in its service as
+*40.-(1) The*
 
-*Designation of inspectors and powers of the senior inspector and inspectors.*
+*Designation of*
 
-it thinks fit to be inspectors for the purpose of giving effect to the provisions of this Act.
+*it thinks fit to*
 
-(2) The senior inspector or an inspector shall for the purposes of the execution of this Act have power to do all or any of the following things–
+*inspectors and*
+
+*the provisions*
+
+*powers of the senior inspector and inspectors.*
+
+Board may designate such officers in its service as be inspectors for the purpose of giving effect to of this Act.
+
+*(2) The purposes of the*
+
+senior inspector or an inspector shall for the execution of this Act have power to do all or any of the following things–
 
 (a) to enter at all reasonable times any premises or place liable to inspection under this section;
 
@@ -888,7 +966,9 @@ it thinks fit to be inspectors for the purpose of giving effect to the provision
 
 (e) to be employed in the several districts as marshals who shall have all the powers, rights, privileges and duties as those of marshals of the Supreme Court.
 
-(3) Subject to sub-section (4), the occupier of any premises or place liable to inspection under this section and any person who is or has been employing any person and the servants and agents of any such occupier or other person and any insured person, shall furnish to an inspector all such information and
+*(3) Subject or place liable who is or has agents of any person, shall*
+
+to sub-section (4), the occupier of any premises to inspection under this section and any person been employing any person and the servants and such occupier or other person and any insured furnish to an inspector all such information and
 
 produce for inspection all such documents as the inspector may reasonably require for the purpose of ascertaining whether contributions are or have been payable, or have been duly paid by or in respect of any person or whether any benefit is or was payable to or in respect of any person.
 
@@ -910,7 +990,9 @@ produce for inspection all such documents as the inspector may reasonably requir
 
 **42.** (1) Regulations may provide for the determination by the Board, by the Chief Executive Officer, or by a person or tribunal appointed or constituted in accordance with the regulations, of any question arising under or in connection with this Act including any claim to benefit, and they may also provide that any decision made thereunder or any such question shall be final.
 
-(2) Without prejudice to the generality of sub-section (1), regulations made thereunder may in relation to the determination of questions in accordance with the regulations include provision–
+*(2) Without regulations determination include*
+
+prejudice to the generality of sub-section (1), made thereunder may in relation to the of questions in accordance with the regulations provision–
 
 (a) as to the procedure to be followed, the form of any document, the evidence to be required, and the circumstances in which any official record or certificate is to be sufficient or conclusive evidence;
 
@@ -928,19 +1010,25 @@ produce for inspection all such documents as the inspector may reasonably requir
 
 (b) appeals to the Supreme Court from the decision of the Board or of a person or tribunal on any such question of law.
 
-(4) Provision shall be made by rules of court for regulating reference and appeals to the Supreme Court under this section and for limiting the time within which appeals may be brought thereunder.
+*reference and and for limiting thereunder.*
 
-(5) Notwithstanding anything in any enactment, the decision of the Supreme Court in a reference or appeal under this section shall be final and the court may make such order as to costs as it thinks just.
+(4) Provision shall be made by rules of court for regulating appeals to the Supreme Court under this section the time within which appeals may be brought
 
-*Interim payments, arrears and repayments.*
+*of the Supreme shall be final it thinks just.*
 
-**43.** (1) Regulations shall provide for matters arising–
+(5) Notwithstanding anything in any enactment, the decision Court in a reference or appeal under this section and the court may make such order as to costs as
+
+*Interim 43.-(1) payments, arrears and repayments.*
+
+Regulations shall provide for matters arising–
 
 (a) pending the determination under this Act, whether in the first instance or on appeal or on review, of any claim for a benefit or of any question affecting the right of any person to a benefit or to the receipt thereof; or
 
 (b) out of the revision or appeal or review of any decision of any such claim or question.
 
-(2) Without prejudice to the generality of sub-section (1), regulations thereunder shall include provision–
+*(2) Without regulations*
+
+prejudice to the generality of sub-section (1), thereunder shall include provision–
 
 (a) for the suspension of a benefit where it appears to the Chief Executive Officer that there is or may be a question whether the conditions for the receipt thereof are or were fulfilled or whether the award ought to be revised;
 
@@ -962,13 +1050,17 @@ produce for inspection all such documents as the inspector may reasonably requir
 
 (3) The Minister shall, within thirty days of the receipt of the report referred to in sub-section (1), lay a copy thereof before the National Assembly and cause a summary of the report to be published in the Gazette and in at least one newspaper of general circulation in Belize.
 
-Establishment and Administration, etc., of the Social Security Fund.
+*Establishment*
 
-*Establishment of Social Security.*
+and Administration, etc., of the Social Security Fund.
 
-**46.** (1) For the purpose of this Act there shall be established under the control and overall management of the Board a Fund called the Social Security Fund.
+*Establishment of 46.-(1) For the Social Security. under the called the Social*
 
-(2) There shall be paid into the Fund–
+purpose of this Act there shall be established control and overall management of the Board a Fund Security Fund.
+
+*(2) There*
+
+shall be paid into the Fund–
 
 (a) all contributions;
 
@@ -980,7 +1072,9 @@ Establishment and Administration, etc., of the Social Security Fund.
 
 (e) any sums approved by the National Assembly for the purposes of this Act.
 
-(3) There shall be paid or met out of the Fund–
+*(3) There*
+
+shall be paid or met out of the Fund–
 
 (a) all claims for benefits;
 
@@ -1084,13 +1178,23 @@ if his appointment is terminated by the Minister under this Act;
 
 (f) if the organisation that had nominated him requests in writing addressed to the Minister the termination of his appointment.
 
-(7) At any meeting of the Committee, at least three members, including the Chairperson or the person acting as the Chairperson, shall constitute the quorum.
+*members,*
 
-(8) All decisions of the Committee shall require a majority of the members present and the Chairperson shall have a casting vote.
+(7) At any meeting of the Committee, at least three including the Chairperson or the person acting as the Chairperson, shall constitute the quorum.
 
-(9) The Committee shall make recommendations to the Board on the investment of moneys in the Fund.
+*(8) All*
 
-(10) In discharging its functions, the Committee shall follow the Investment Framework set out in Schedule III subject to the provisions of this section.
+decisions of the Committee shall require a majority of the members present and the Chairperson shall have a casting
+
+*vote.*
+
+*(9) The*
+
+Committee shall make recommendations to the Board on the investment of moneys in the Fund.
+
+*(10) In*
+
+discharging its functions, the Committee shall follow the Investment Framework set out in Schedule III subject to the provisions of this section.
 
 (11) If any member of the Committee or other person present at a meeting of the Committee has a financial or other interest, directly or indirectly, in any contract or proposed contract or other matter to be considered by the Committee, he shall forthwith disclose the fact of his interest to the Committee and he shall not participate in the discussion, consideration or voting on such a contract or other matter, and the fact of such disclosure shall be recorded in the minutes of the said meeting.
 
@@ -1106,11 +1210,9 @@ if his appointment is terminated by the Minister under this Act;
 
 (17) Subject to the provisions of this Act, in the exercise of its functions the Committee shall not be under the direction or control of any other person or authority.
 
-**50.** (1) Any temporary insufficiency of funds to meet the
-
 *Temporary insufficiency of funds and defrayment of initial expenditure.*
 
-liabilities of the Fund under this Act shall be met from money provided by the National Assembly.
+**50.** (1) Any temporary insufficiency of funds to meet the liabilities of the Fund under this Act shall be met from money provided by the National Assembly.
 
 (2) Any moneys provided by the National Assembly under sub-section (1) shall be repaid out of the Fund as soon as may be practicable.
 
@@ -1158,11 +1260,21 @@ buys, sells or offers for sale, takes or gives in exchange, or takes in pawn any
 
 *5 of 2020.*
 
-(3) If any person commits an offence under this Act and no penalty is provided therefor, that person is liable on summary conviction to a fine not exceeding five hundred dollars for such offence, or where the offence consists of continuing any such contravention or failure after conviction thereof, to a fine of five hundred dollars for each day on which it is continued.
+*(3) If any penalty is*
 
-*Penalties to be imposed by Board.*
+*offence, or*
 
-**54.** (1) Where an employer has failed or neglected to pay any contribution which under this Act he is liable to pay, no proceedings shall be taken against him if, after an intimation in writing of the charges against him, he agrees to pay and in fact pays to the Board within such time as may be fixed by the latter,
+person commits an offence under this Act and no provided therefor, that person is liable on summary conviction to a fine not exceeding five hundred dollars for such where the offence consists of continuing any such contravention or failure after conviction thereof, to a fine of five hundred dollars for each day on which it is continued.
+
+*Penalties to be imposed by*
+
+*contribution*
+
+*Board.*
+
+*proceedings writing of the pays to the*
+
+**54.** (1) Where an employer has failed or neglected to pay any which under this Act he is liable to pay, no shall be taken against him if, after an intimation in charges against him, he agrees to pay and in fact Board within such time as may be fixed by the latter,
 
 a sum not exceeding twenty dollars for every such failure or neglect as may be fixed by the Board, together with any amount due in respect of unpaid contributions.
 
@@ -1228,19 +1340,31 @@ for excepting from insurance under this Act or from liability to pay contributio
 
 *Insured persons outside Belize.*
 
-**60.** (1) Without prejudice to the generality of any other power to make regulations, the Minister may, subject to sub-section (2), make regulations modifying in such manner as he thinks proper the provisions of this Act in their application in relation to persons who are or have been outside Belize while insured under this Act.
+*to make (2), make proper the*
 
-(2) Regulations under this section may provide that where an insured person is throughout any prescribed period outside Belize and is not in that period an employed person he shall not be liable to pay any contribution as an insured person for such period.
+**60.** (1) Without prejudice to the generality of any other power regulations, the Minister may, subject to sub-section regulations modifying in such manner as he thinks provisions of this Act in their application in relation to persons who are or have been outside Belize while insured under this Act.
 
-(3) Different provisions may be prescribed for different classes of insured persons.
+*an insured*
+
+(2) Regulations under this section may provide that where person is throughout any prescribed period outside Belize and is not in that period an employed person he shall not be liable to pay any contribution as an insured person for such
+
+*period.*
+
+*classes of*
+
+(3) Different provisions may be prescribed for different insured persons.
 
 Miscellaneous
 
 *Reciprocal agreements.*
 
-**61.** (1) For the purpose of giving effect to any agreement with CARICOM countries or with other countries, being an agreement which provides for reciprocity in matters of social security, the Minister may, by order, modify or adapt the provisions of this Act in their application to cases affected by the agreement.
+*CARICOM agreement security, the provisions of the agreement.*
 
-(2) The modification of this Act which may be made by virtue of sub-section (1) may include provisions–
+**61.** (1) For the purpose of giving effect to any agreement with countries or with other countries, being an which provides for reciprocity in matters of social Minister may, by order, modify or adapt the this Act in their application to cases affected by
+
+*(2) The virtue of*
+
+modification of this Act which may be made by sub-section (1) may include provisions–
 
 (a) for securing that acts, omissions and events having any effect for the purposes of the law of the country in respect of which the agreement is made shall have a corresponding effect for the purposes of this Act (but not so far as to confer a right to double benefit);
 
@@ -1250,9 +1374,9 @@ Miscellaneous
 
 (d) for making any necessary financial adjustments by payments into or out of the Fund.
 
-*Exemption from stamp duty, income tax and property tax.*
+*Exemption from 62.-(1) Stamp stamp duty, income tax and property tax.*
 
-**62.** (1) Stamp duty shall not be chargeable upon any draft or order or receipt given in respect of a benefit or upon any receipt given in respect of any other payment out of the Fund pursuant
+duty shall not be chargeable upon any draft or order or receipt given in respect of a benefit or upon any receipt given in respect of any other payment out of the Fund pursuant
 
 to section 46, or upon any receipt given by an officer or employee of the Board for or in respect of any sum payable into the Fund.
 
@@ -1280,15 +1404,23 @@ examination at places specified by the Chief Executive Officer;
 
 (e) financial control and procedures.
 
-(3) Without prejudice to any specific provision of this Act, any regulation may contain such incidental or supplementary provisions as appear to the Minister to be expedient for the purposes of the regulations.
+*(3) Without any regulation provisions as purposes of the*
 
-*Regulations subject to negative resolution. Operation of private schemes.*
+prejudice to any specific provision of this Act, may contain such incidental or supplementary appear to the Minister to be expedient for the regulations.
 
-**65.** All regulations made under this Act shall be subject to negative resolution.
+*Regulations All subject to*
 
-**66.** (1) Nothing in this Act shall be deemed to prevent an employer from operating any private scheme providing, for any person who is or has been employed by him, benefits of any kind whether similar to benefits under this Act or otherwise.
+*negative*
 
-(2) Regulations may provide for the circumstances in which–
+*negative resolution. Operation of 66.-(1) Nothing private schemes. employer from person who is or whether similar*
+
+**65.** regulations made under this Act shall be subject to resolution.
+
+in this Act shall be deemed to prevent an operating any private scheme providing, for any has been employed by him, benefits of any kind to benefits under this Act or otherwise.
+
+(2) Regulations may provide for the circumstances in
+
+*which–*
 
 (a) the amount of benefits provided under this Act together with the amount of identical benefits provided by an employer under any contract of service and particularly those benefits provided under a collective agreement shall not be less favourable than benefits provided by the employer before the enactment of this Act;
 
@@ -1432,13 +1564,17 @@ all interests, and other income derived from the assets of the NHI Fund;
 
 (f) any other moneys to be legitimately applied for the implementation of the NHI Scheme.
 
-(3) There shall be paid or met out of the NHI Fund–
+*(3) There*
+
+shall be paid or met out of the NHI Fund–
 
 (a) moneys solely for the purchasing and financing of NHI health care services for NHI beneficiaries; and
 
 (b) all costs and expenses properly incurred in the management of the NHI Scheme plus half of the remaining expenses incurred by the Board in carrying out its functions with respect to the implementation of the NHI Scheme including the purchase of real property, remuneration, allowances and other operating costs.
 
-(4) The Board may with the approval of the Minister make regulations to provide for the financial organisation of the moneys of the NHI Fund by–
+*(4) The regulations to moneys of the*
+
+Board may with the approval of the Minister make provide for the financial organisation of the NHI Fund by–
 
 (a) the establishment and maintenance of different autonomous branches for different purposes; or
 
@@ -1460,13 +1596,19 @@ the establishment and maintenance within such branches of different reserve fund
 
 (10) Section 45 relating to actuarial review, shall apply to the NHI Fund in like manner as it applies to the Social Security Fund.
 
-(11) The Board shall regularly submit to the Ministry of Health annual reviews on the performance of the NHI Scheme.
+*(11) The Health annual*
 
-*NHI Committee. 31 of 2001.*
+Board shall regularly submit to the Ministry of reviews on the performance of the NHI Scheme.
 
-**75.** (1) There shall be established a committee to be known as the National Health Insurance Committee hereinafter referred to as the “NHI Committee”.
+*NHI Committee. 75.-(1) There 31 of 2001.*
 
-(2) The members of the NHI Committee shall be appointed by the Minister and shall be as follows–
+*the National as the “NHI*
+
+shall be established a committee to be known as Health Insurance Committee hereinafter referred to Committee”.
+
+*(2) The*
+
+members of the NHI Committee shall be appointed by the Minister and shall be as follows–
 
 *20 of 2007.*
 
@@ -1504,7 +1646,9 @@ one representative to be nominated by the Leader of Opposition; or
 
 (j) one representative to be nominated by the Minister of Finance.
 
-(3) The functions of the NHI Committee shall be to decide on–
+*(3) The on–*
+
+functions of the NHI Committee shall be to decide
 
 (a) matters relating to the health care needs of the population;
 
@@ -1520,21 +1664,33 @@ one representative to be nominated by the Leader of Opposition; or
 
 (f) any other similar matters relating to the NHI Scheme.
 
-(4) The NHI Committee shall meet at regular intervals which shall be no less than four times a year to formulate policy matters.
+*(4) The*
+
+NHI Committee shall meet at regular intervals which shall be no less than four times a year to formulate policy
+
+*matters.*
 
 *20 of 2007.*
 
-(5) The Minister shall appoint a Chairperson of the NHI Committee from amongst the membership thereof and the NHI Committee shall appoint a Deputy Chairperson from amongst the membership thereof who will be entitled to act as Chairperson in the absence of the Chairperson.
+*(5) The Committee Committee the*
+
+Minister shall appoint a Chairperson of the NHI from amongst the membership thereof and the NHI shall appoint a Deputy Chairperson from amongst membership thereof who will be entitled to act as Chairperson in the absence of the Chairperson.
 
 *20 of 2007.*
 
-(6) The period of appointment of the members shall be five years for the Chairperson and three years for the members.
+*(6) The years for the*
 
-(7) The Minister may terminate the appointment of a member of the NHI Committee for misbehaviour or for physical or mental incapacity.
+period of appointment of the members shall be five Chairperson and three years for the members.
 
-*20 of 2007.*
+*(7) The*
 
-(8) A member shall be deemed to have vacated his office–
+*or mental*
+
+Minister may terminate the appointment of a member of the NHI Committee for misbehaviour or for physical incapacity.
+
+*20 of 2007. (8) A*
+
+member shall be deemed to have vacated his office–
 
 (a) if his appointment is terminated by the Minister under this Act;
 
@@ -1550,35 +1706,53 @@ one representative to be nominated by the Leader of Opposition; or
 
 (f) if the organisation which had nominated him requests termination of his appointment in writing addressed to the Minister.
 
+*20 of 2007. (9) Any*
+
+*of votes, the shall have a*
+
+decision of the NHI Committee shall be taken by a majority of the members present and, in the event of an equality Chairperson or the person acting as the Chairperson casting vote.
+
 *20 of 2007.*
 
-(9) Any decision of the NHI Committee shall be taken by a majority of the members present and, in the event of an equality of votes, the Chairperson or the person acting as the Chairperson shall have a casting vote.
+*members two shall be*
 
-*20 of 2007.*
+(10) At any meeting of the NHI Committee, seven of the thereof, including the Chairperson, of whom at least governmental members shall constitute the quorum.
 
-(10) At any meeting of the NHI Committee, seven of the members thereof, including the Chairperson, of whom at least two shall be governmental members shall constitute the quorum.
-
-(11) The members of the NHI Committee shall be entitled to the same protection under the Public Authorities Protection Act
+*(11) The the same*
 
 *CAP. 31.*
 
-as if they were included in the definition of “public authority” given in section 2 of that Act.
+members of the NHI Committee shall be entitled to protection under the Public Authorities Protection Act as if they were included in the definition of “public authority” given in section 2 of that Act.
 
 *3 of 2008.*
 
-(12) The Chairperson of the NHI Committee shall act as the Executive Chairperson and shall be paid such remuneration for his services that the Board may, with the prior approval of the Minister, consider appropriate.
+*(12) The Executive*
 
-*Registration of NHI health care providers.*
+*Minister,*
 
-**76.** (1) All NHI health care providers shall at all times be accredited and licensed by the Ministry of Health and other accrediting medical institutions and shall be registered by the Board as NHI providers.
+Chairperson of the NHI Committee shall act as the Chairperson and shall be paid such remuneration for his services that the Board may, with the prior approval of the consider appropriate.
 
-(2) NHI health care providers shall be eligible to–
+*Registration of*
+
+*76.-(1) All*
+
+*NHI health care providers.*
+
+*accrediting*
+
+NHI health care providers shall at all times be accredited and licensed by the Ministry of Health and other medical institutions and shall be registered by the Board as NHI providers.
+
+*(2) NHI*
+
+health care providers shall be eligible to–
 
 (a) negotiate with the Board to provide specific type or types of health care services in specified quantity and quality to NHI beneficiaries for an agreed fee; and
 
 (b) negotiate with the Board for the provision of specific health care services to NHI beneficiaries for an agreed rate of payment from the Board for every service provided.
 
-(3) The Board shall by statutory instrument make rules to establish minimum registration requirements in keeping with nationally established standards and norms for health care providers which may require them to–
+*(3) The establish nationally*
+
+Board shall by statutory instrument make rules to minimum registration requirements in keeping with established standards and norms for health care providers which may require them to–
 
 (a) possess relevant acceptable professional qualifications and experience as may be required by the Ministry of Health;
 
@@ -1608,11 +1782,9 @@ accept appropriate payment from the Board for services provided to NHI beneficia
 
 (2) Until such time as a separate appeals tribunal is established for the hearing of complaints in regard to the NHI Scheme, the procedure for determining claims and questions under the Social Security (Determination of Claims and Questions) Regulations shall apply mutatis mutandis to the hearing of grievances under this section, and for the purposes of the said Regulations, the above-mentioned grounds in subsection (1) (a) to (e), shall be treated as “reserved questions” under such Regulations.
 
-**78.** (1) The Board may with the approval of the Minister make
-
 *Regulations.*
 
-regulations for the better carrying out of the provisions of this Part and for prescribing anything that requires to be prescribed.
+**78.** (1) The Board may with the approval of the Minister make regulations for the better carrying out of the provisions of this Part and for prescribing anything that requires to be prescribed.
 
 (2) All regulations made by the Board pursuant to subsection (1), shall be laid before the National Assembly as soon as may be after the making thereof and shall be subject to negative resolution.
 
@@ -1632,7 +1804,9 @@ Insurable Employment as an Employed Person
 
 **2.** Employment in a civilian capacity under the Crown where the contract of service is entered into in Belize.
 
-**3.** Employment whether within or outside Belize of a person domiciled or having a place of residence in Belize,
+*person*
+
+**3.** Employment whether within or outside Belize of a domiciled or having a place of residence in Belize,
 
 (a) as master or member of the crew of any ship or vessel, or as a pilot, commander, navigator or member of the crew of any aircraft, being a ship, vessel or aircraft of which the owner (or the managing owner, if there is more than one owner) or the Chief Executive Officer resides or has his principal place of business in Belize; or
 
@@ -1684,9 +1858,13 @@ Composition and Proceedings of the Social Security Board
 
 (Section 28)
 
+*The*
+
 *Composition.*
 
-**1.** The Board shall be appointed by the Minister from among persons of integrity and high standing and shall consist of,
+**1.** Board shall be appointed by the Minister from among persons of integrity and high standing and shall consist
+
+*of,*
 
 (a) five persons appointed by the Minister in his or her discretion;
 
@@ -1700,13 +1878,23 @@ organisations; of whom one shall be nominated by the Belize Chamber of Commerce 
 
 *Chairperson.*
 
-**2.** The Minister shall appoint one of the private sector members of the Board to be the Chairperson of the Board.
+*The*
 
-*Deputy Chairperson.*
+**2.** Minister shall appoint one of the private sector members of the Board to be the Chairperson of the Board.
 
-**3.** The Board shall appoint one of the other members to be Deputy Chairperson for a period of one year in the first instance.
+*Deputy*
 
-This Schedule was substituted by Act No. 20 of 2007.
+*The*
+
+*Chairperson.*
+
+*Deputy*
+
+**3.** Board shall appoint one of the other members to be Chairperson for a period of one year in the first instance.
+
+*This Schedule*
+
+was substituted by Act No. 20 of 2007.
 
 *Recording Secretary*
 

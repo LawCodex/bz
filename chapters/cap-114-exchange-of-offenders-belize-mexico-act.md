@@ -62,17 +62,17 @@ Schedule — Agreement between Belize and The United Mexican States on the Execu
 
 ### EXCHANGE OF OFFENDERS (BELIZE/MEXICO)
 
-CAP. 101A. [14th July, 1987] R.E. 1980-1990.
+*CAP. 101A. R.E. 1980-1990. 14 of 1987.*
 
-14 of 1987.
+[14th July, 1987]
 
-*Short title.*
+*Short title. This Act (Belize/Mexico)*
 
-**1.** This Act may be cited as the Exchange of Offenders (Belize/Mexico) Act.
+**1.** may be cited as the Exchange of Offenders Act.
 
-*Interpretation.*
+*Interpretation. In this*
 
-**2.** In this Act, unless the context otherwise requires,
+**2.** Act, unless the context otherwise requires,
 
 “Agreement” means the Agreement between (a)
 
@@ -110,17 +110,33 @@ territory the offender is to be transferred;
 
 territory the offender is to be transferred.
 
-*Agreement to have the force of law.*
+*Agreement to have the force of*
 
-**3.** Notwithstanding anything to the contrary contained in any other enactment, rule, regulation, order or instrument whatsoever, the Agreement shall have the force of law in Belize.
+*any other*
 
-*Offender deemed to be in lawful custody in Belize.*
+*law.*
 
-**4.** An offender transferred to Belize under the Agreement shall, unless otherwise dealt with in accordance with the Agreement, be deemed to be in lawful custody for the crime for the duration of the period for which he is required to serve his sentence in Belize.
+**3.** Notwithstanding anything to the contrary contained in enactment, rule, regulation, order or instrument whatsoever, the Agreement shall have the force of law in
 
-*Offender deemed to be lawfully released from Belize.*
+*Belize.*
 
-**5.** Notwithstanding anything to the contrary contained in any other enactment, rule, regulation, or judgment or order of any court, an offender transferred to the United Mexican States in accordance with the Agreement shall be deemed to have been lawfully released from Belize from any sentence imposed upon him.
+*Offender deemed*
+
+*An*
+
+*to be in lawful custody in Belize.*
+
+**4.** offender transferred to Belize under the Agreement shall, unless otherwise dealt with in accordance with the Agreement, be deemed to be in lawful custody for the crime for the duration of the period for which he is required to serve his sentence in Belize.
+
+*Offender deemed to be lawfully*
+
+*any other*
+
+*released from Belize.*
+
+**5.** Notwithstanding anything to the contrary contained in enactment, rule, regulation, or judgment or order of any court, an offender transferred to the United Mexican States in accordance with the Agreement shall be deemed to have been lawfully released from Belize from any sentence imposed
+
+*upon him.*
 
 *Bar of jurisdiction.*
 
@@ -164,15 +180,25 @@ sentence remain to be served at the time of the application referred to in parag
 
 ### ARTICLE III
 
-Each Party shall designate an Authority to perform the functions provided in this Agreement.
+*Each Party functions*
+
+shall designate an Authority to perform the provided in this Agreement.
 
 ### ARTICLE IV
 
-**1.** Each Party shall explain the substance of the present Agreement to any offender who is within its scope.
+*Each Agreement to*
 
-**2.** Every transfer under the Agreement shall be commenced by the Authority of the Sending State. Nothing in this Agreement shall prevent an offender from submitting a petition to the Sending State to be considered for transfer.
+**1.** Party shall explain the substance of the present any offender who is within its scope.
 
-**3.** If the Authority of the Sending State finds the transfer of an offender appropriate, and if the offender gives his express consent for his transfer, it will transmit an application,
+*Every*
+
+*petition to the*
+
+**2.** transfer under the Agreement shall be commenced by the Authority of the Sending State. Nothing in this Agreement shall prevent an offender from submitting a Sending State to be considered for transfer.
+
+*If the*
+
+**3.** Authority of the Sending State finds the transfer of an offender appropriate, and if the offender gives his express consent for his transfer, it will transmit an application,
 
 through diplomatic channels, to the Authority of the Receiving State.
 
@@ -254,15 +280,29 @@ present in the territory of one of the Parties for at least five years with an i
 
 ### ARTICLE X
 
-**1.** This Agreement is subject to ratification. The exchange of instruments of ratification shall take place at Mexico, D.F.
+*This*
 
-**2.** This Agreement shall enter into force thirty days after the exchange of ratifications and shall remain in force for three years.
+**1.** Agreement is subject to ratification. The exchange of instruments of ratification shall take place at Mexico, D.F.
 
-**3.** Should neither contracting Party have notified the other ninety days before the three-year period mentioned in the preceding paragraph has expired of its intention to allow the Agreement to terminate, the Agreement shall remain in force for another three years, and so on every three years.
+*This*
 
-In witness whereof the undersigned being duly authorised thereto by their respective Governments have signed the present Agreement.
+**2.** Agreement shall enter into force thirty days after the exchange of ratifications and shall remain in force for three
 
-Done in duplicate, in the English and Spanish languages, each language version being equally authentic, at Mexico City, this 18th day of November, 1986.
+*years.*
+
+*ninety days preceding*
+
+*for another*
+
+**3.** Should neither contracting Party have notified the other before the three-year period mentioned in the paragraph has expired of its intention to allow the Agreement to terminate, the Agreement shall remain in force three years, and so on every three years.
+
+*In authorised signed the*
+
+witness whereof the undersigned being duly thereto by their respective Governments have present Agreement.
+
+*Done*
+
+in duplicate, in the English and Spanish languages, each language version being equally authentic, at Mexico City, this 18th day of November, 1986.
 
 For the Government of Belize, For the Government of the United Mexican States,
 

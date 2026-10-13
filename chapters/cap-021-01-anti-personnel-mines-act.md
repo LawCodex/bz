@@ -158,19 +158,25 @@ he does so with the intention that it will be used only for purposes permitted b
 
 (b) the transfer in question is authorized by the Commander, Belize Defence Force for the purposes of this sub-section.
 
-(3) It is not a contravention of section 4, for a person to–
+*(3) It is not a*
+
+contravention of section 4, for a person to–
 
 (a) participate in the transfer of a prohibited object for the purpose only of enabling it to be destroyed; or
 
 (b) have such an object in his possession for the purpose only (with or without such a transfer) of securing its destruction.
 
-(4) It is not a contravention of section 4 for a person to have a prohibited object in his possession if–
+*(4) It is not a a prohibited*
+
+contravention of section 4 for a person to have object in his possession if–
 
 (a) he has it in his possession with the intention that it will be used only for purposes permitted by sub-section (7); and
 
 (b) it is an object which the Commander, Belize Defence Force has authorized him for the purposes of this subsection to have in his possession.
 
-(5) It is not a contravention of section 4, for a person to participate in the acquisition of a prohibited object if–
+*(5) It is not participate in*
+
+a contravention of section 4, for a person to the acquisition of a prohibited object if–
 
 (a) the acquisition that has been made, agreed or arranged is an acquisition by means of a transfer which is permitted by virtue of subsection (2) or (3); and
 
@@ -180,13 +186,17 @@ he does so with the intention that it will be used only for purposes permitted b
 
 (ii ) for the purpose (with or without a further transfer) of enabling the object to be destroyed.
 
-(6) It is not a contravention of section 4 for a person at any time to assist, encourage or induce any on conduct if, at that time, he has reasonable cause to believe–
+*(6) It is not a time to assist, time, he has*
+
+contravention of section 4 for a person at any encourage or induce any on conduct if, at that reasonable cause to believe–
 
 (a) that the conduct in question is conduct which is or wil1 be prevented by the provisions of this section from being a contravention of section 4; or
 
 (b) that it would be so prevented if it were not otherwise prevented from being such a contravention.
 
-(7) The purposes permitted by this sub-section are–
+*(7) The*
+
+purposes permitted by this sub-section are–
 
 (a) the development of techniques of mine detection, mine clearance or mine destruction;
 
@@ -194,7 +204,9 @@ he does so with the intention that it will be used only for purposes permitted b
 
 (c) the purposes of any proceedings under this Act or of any criminal investigation or other criminal proceedings in which the antipersonnel mine in question is or may be evidence.
 
-(8) No person shall be authorized by the Commander, Belize Defence Force for the purposes of sub-section (2) or into
+*(8) No Defence Force*
+
+person shall be authorized by the Commander, Belize for the purposes of sub-section (2) or into
 
 transfer, or to have in his possession, any anti-personnel description in numbers in excess of what is necessary for the purposes permitted by sub-section (7).
 
@@ -218,15 +230,25 @@ transfer, or to have in his possession, any anti-personnel description in number
 
 Commander, Belize Defence Force believes will be materially affected by the service of the notice, to have the object destroyed or show cause why the object should not be destroyed within seven days of such notice.
 
-(2) If any person who is served with the notice fails to destroy the object or fails to show cause, he commits an offence and on summary conviction is liable to a fine of fifty thousand dollars and to imprisonment for seven years.
+*destroy the and on*
 
-(3) If the Commander, Belize Defence Force has cause to believe–
+(2) If any person who is served with the notice fails to object or fails to show cause, he commits an offence summary conviction is liable to a fine of fifty thousand dollars and to imprisonment for seven years.
+
+(3) If the Commander, Belize Defence Force has cause to
+
+*believe–*
 
 (a) that a prohibited object is on premises to which the public has access or which are occupied by a person who consents to action being taken under this section;
 
 (b) that a case is not one where the only persons whose possession of the object are persons whose possession of the object is prevented from being a contravention of section 4 by virtue of section 6, the Commander, Belize Defence Force may authorize a fit and proper person to enter the premises and to search them.
 
-(4) If (whatever the nature of the premises concerned) the magistrate is satisfied, on information on oath, that there is reasonable cause to believe that there are grounds for issuing a warrant under this section in relation to any premises, he may issue a warrant in writing authorizing a fit and proper person acting under the authority of the Commander, Belize Defence Force to enter the premises, if necessary by force, at any time within one month from the time of the issue of the warrant and to search them.
+*(4) If*
+
+*reasonable*
+
+*within one*
+
+(whatever the nature of the premises concerned) the magistrate is satisfied, on information on oath, that there is cause to believe that there are grounds for issuing a warrant under this section in relation to any premises, he may issue a warrant in writing authorizing a fit and proper person acting under the authority of the Commander, Belize Defence Force to enter the premises, if necessary by force, at any time month from the time of the issue of the warrant and to search them.
 
 (5) A person who acts under the authorization or warrant under sub-section (3) or (4), may take with him such other persons and such equipment as appear to him necessary.
 
@@ -250,7 +272,9 @@ Fact-Finding Missions under the Ottawa Convention
 
 property within the area that the fact-finding mission is likely to inspect or search.
 
-(2) An authorization under this section shall–
+*(2) An*
+
+authorization under this section shall–
 
 (a) contain a description of the area of Belize (the
 
@@ -264,11 +288,19 @@ property within the area that the fact-finding mission is likely to inspect or s
 
 (b) to do such other things within that area in connection with the carrying out of the functions as they are entitled to do by virtue of that Convention.
 
-(4) Such an authorization shall, in addition, have the effect of authorizing any police officer to give such assistance as any member of the fact-finding mission may request for the purpose of facilitating the carrying out of the functions of the mission in accordance with the Ottawa Convention.
+*of authorizing member of the of facilitating*
 
-(5) Any police officer giving assistance in accordance with sub-section (4), may use such reasonable force as he considers necessary for the purpose mentioned in that subsection.
+(4) Such an authorization shall, in addition, have the effect any police officer to give such assistance as any fact-finding mission may request for the purpose the carrying out of the functions of the mission in accordance with the Ottawa Convention.
 
-(6) The occupier of–
+*(5) Any*
+
+*necessary for*
+
+police officer giving assistance in accordance with sub-section (4), may use such reasonable force as he considers the purpose mentioned in that subsection.
+
+*(6) The*
+
+occupier of–
 
 any premises in relation to which it is proposed to exercise a right of entry in reliance on an authorization under this section; or
 
@@ -290,27 +322,37 @@ apply as if the specified area were the area as varied;
 
 (c) the Minister of Foreign Affairs may issue further amendments varying the specified area and in such a case paragraphs (a) and (b) shall apply.
 
-*Fact-finding missions offences.*
+*Fact-finding 11.-(1) A person missions offences.*
 
-**11.** (1) A person commits an offence if–
+commits an offence if–
 
 (a) he refuses without reasonable excuse to comply with any request made by a member of an authorized fact- finding mission or by a police officer assisting such a mission; and
 
 (b) that request is one made for the purpose of facilitating the carrying out by that mission of its functions under the Ottawa Convention.
 
-(2) A person commits an offence if he wilfully obstructs any member of an authorized fact-finding mission in the carrying out of the mission’s functions under the Ottawa Convention.
+*(2) A person member of an out of the*
 
-(3) A person who commits an offence under this section is liable–
+commits an offence if he wilfully obstructs any authorized fact-finding mission in the carrying mission’s functions under the Ottawa Convention.
+
+*(3) A person liable–*
+
+who commits an offence under this section is
 
 (a) on summary conviction, to a fine of ten thousand dollars; or
 
 (b) on conviction on indictment, to a fine of fifty thousand dollars.
 
-(4) In this section, “authorized fact-finding mission” means a fact-finding mission in respect of which an authorization has been issued under section 10.
+*(4) In this a fact-finding been issued*
 
-*Privileges and immunities for fact-finding missions.*
+section, “authorized fact-finding mission” means mission in respect of which an authorization has under section 10.
 
-**12.** (1) Members of a fact-finding mission shall enjoy–
+*Privileges and*
+
+*12.-(1)*
+
+*immunities for fact-finding missions.*
+
+Members of a fact-finding mission shall enjoy–
 
 (a) immunity from suit and legal process in respect of things done or omitted to be done by them in the carrying out of their functions under the Ottawa Convention;
 
@@ -318,15 +360,23 @@ apply as if the specified area were the area as varied;
 
 (c) the like exemptions and privileges in respect of their personal baggage as, in accordance with article 36 of the 1961 Articles, are accorded to a diplomatic agent.
 
-(2) The immunities, privileges and exemptions accorded to members of fact-finding missions by virtue of sub-section (1)
+*(2) The members of*
 
-(b) and (c), shall be enjoyed by them at any time when they are in Belize–
+immunities, privileges and exemptions accorded to fact-finding missions by virtue of sub-section (1)
+
+(b) and (c), shall be enjoyed by them at any time when they are
+
+*in Belize–*
 
 (a) for the purpose of carrying out in Belize any of the functions of the mission; or
 
 (b) while in transit to or from a country or territory in connection with the carrying out, in that country or territory, of any of the functions of the mission.
 
-(3) If any of the immunities, privileges or exemptions accorded to a member of a fact-finding mission under this section is waived in any particular case by the Secretary-General of the United Nations, this section shall have effect in that case
+*(3) If any*
+
+*section is of the United*
+
+of the immunities, privileges or exemptions accorded to a member of a fact-finding mission under this waived in any particular case by the Secretary-General Nations, this section shall have effect in that case
 
 as if it did not confer that immunity, privilege or exemption on that member of the mission,
 
@@ -562,13 +612,19 @@ areas under the jurisdiction or control of the concerned State Party;
 
 (f) the relationship between the Government of the concerned State party and the relevant governmental, inter-governmental or nongovernmental entities that will work in the implementation of the program.
 
-**8.** Each State Party giving and receiving assistance under the provision of article shall cooperate with a view to ensuring the full and prompt implementation of agreed assistance programs.
+*Each*
+
+*the full and programs.*
+
+**8.** State Party giving and receiving assistance under the provision of article shall cooperate with a view to ensuring prompt implementation of agreed assistance
 
 ### ARTICLE 7
 
 Transparency measures
 
-**1.** Each State Party shall report to the Secretary-General of the United Nations as soon as practicable, and in any event not later than 180 days after the entry into force of this Convention for that State Party on:
+*Each the United later than 180 for that State*
+
+**1.** State Party shall report to the Secretary-General of Nations as soon as practicable, and in any event not days after the entry into force of this Convention Party on:
 
 (a) the national implementation measures referred to in Article 9;
 
@@ -590,15 +646,23 @@ anti-personnel mine in the case of destruction in accordance with Article 4;
 
 (i) the measures taken to provide an immediate and effective warning to the population in relation to all areas identified under paragraph 2 of Article 5.
 
-**2.** The information provided in accordance with this Article shall be updated by the States Parties annually, covering the last calendar year, and reported to the Secretary-General of the United Nations not later than 30 April of each year.
+*The*
 
-**3.** The Secretary-General of the United Nations shall transmit all such reports received to the State Parties.
+**2.** information provided in accordance with this Article shall be updated by the States Parties annually, covering the last calendar year, and reported to the Secretary-General of the United Nations not later than 30 April of each year.
+
+*The*
+
+**3.** Secretary-General of the United Nations shall transmit all such reports received to the State Parties.
 
 ### ARTICLE 8
 
 Facilitation and clarification of compliance
 
-**1.** The States Parties agree to consult and cooperate with each other regarding the implementation of the provisions of this Convention, and to work together in a spirit of cooperation to facilitate compliance by State Parties with their obligations under this Convention.
+*The each other*
+
+*to facilitate under this*
+
+**1.** States Parties agree to consult and cooperate with regarding the implementation of the provisions of this Convention, and to work together in a spirit of cooperation compliance by State Parties with their obligations Convention.
 
 **2.** If one or more States Parties wish to clarify and seek to resolve questions relating to compliance with the provisions of this Convention by another State Party, it may submit, through the Secretary-General of the United Nations, a Request for Clarification of that matter to that State Party. Such a request shall be accompanied by all appropriate information. Each State Party shall refrain from unfounded Requests for Clarification, care being taken to avoid abuse. A State Party that receives a Request for Clarification shall provide, through the Secretary-General of the United Nations, within 28 days to the requesting State Party all information which would assist in clarifying this matter.
 

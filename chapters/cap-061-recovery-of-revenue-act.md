@@ -222,9 +222,9 @@ Establishment, Composition and Functions of the Revenue Advisory Board
 
 (d) providing advice on the negotiation of international taxation agreements and treaties.
 
-(2) For the purpose of discharging its functions under this Act the Board may, without prejudice to the generality of the
+*(2) For the Act the Board foregoing,*
 
-*foregoing,*
+purpose of discharging its functions under this may, without prejudice to the generality of the
 
 (a) either in response to a request from the Ministry of Finance or on submission from one of the revenue departments, or of its own motion,
 
@@ -249,6 +249,10 @@ Establishment, Composition and Functions of the Revenue Advisory Board
 (h) provide a forum for dealing with common tax administration activities including taxpayer information, education and public relations services;
 
 (i) provide an annual report and review of its own activities.
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 (3) Where any head of a revenue department objects to or disagrees with any direction of the Board he shall so inform the Board in writing and report the matter to the Financial Secretary within fourteen days setting out the reasons for such objection or disagreement. Upon receiving such report, the Financial Secretary shall consult with the Chairperson of the Board and shall either withdraw the direction or instruct the head of the department concerned to comply with the same.
 

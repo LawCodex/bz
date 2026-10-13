@@ -36,6 +36,8 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 This is a revised edition of the Substantive Laws, prepared by the Law Revision Commissioner under the authority of the Law Revision Act, Chapter 3 of the Substantive Laws of Belize, Revised Edition 2020.
 
+Belize City Council (Municipal Paper)[CAP. 85:02
+
 ### BELIZE CITY COUNCIL (MUNICIPAL PAPER)
 
 ## ARRANGEMENT OF SECTIONS
@@ -124,6 +126,10 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 (b) to fund the Interest Reserve Fund;
 
+*[CAP. 85:02*
+
+Belize City Council (Municipal Paper)
+
 (c) to pay fees and expenses for any professional or other services, including but not limited to services of any financial advisor, attorney, auditor, accountant, bank, underwriter, fiscal agent or trustee engaged in connection with the structuring, issue, sale and delivery of the Municipal Paper;
 
 (d) to smooth out short term cash flow variability and reduce short term financing costs;
@@ -132,19 +138,25 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 (f) to fund such other projects or activity within Belize City that benefits residents of Belize City; and
 
-(g) generally to enable the Council to meet its obligations and discharge its functions under
-
 *CAP. 85.*
 
-the Belize City Council Act.
+(g) generally to enable the Council to meet its obligations and discharge its functions under the Belize City Council Act.
 
-*Establishment of Belize City Interest Reserve Fund. CAP. 85.*
+*Establishment of There is Belize City*
 
-**7.** There is hereby established, in accordance with section 21A of the Belize City Council Act, a fund to be known as the Belize City Interest Reserve Fund–
+*21A of the Interest Reserve*
+
+*Fund. Belize City CAP. 85.*
+
+**7.** hereby established, in accordance with section Belize City Council Act, a fund to be known as the Interest Reserve Fund–
 
 (a) into which shall be deposited from the Municipal Paper Proceeds one-year interest service reserve on the Municipal Paper; and
 
 (b) which shall be used for the purpose of repaying interest payable to Holders of Municipal Paper in the event that the Council is unable to meet interest payments or any portion thereof from the Belize City Fund as they become due and payable from time to time.
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 *Protection of Funds.*
 
@@ -160,11 +172,9 @@ the Belize City Council Act.
 
 (2) The Holder shall, seven days before the date on which a payment to the Council is due, give to the Council written notice of its intention to exercise a set-off under sub-section (l).
 
-(3) For the purpose of sub-section (1), ”trade licence fee” or” property tax” means any fee or tax imposed by the Council in accordance with its powers under section 59(b) and (e) of the
-
 *CAP. 85.*
 
-Belize City Council Act, respectively.
+(3) For the purpose of sub-section (1), ”trade licence fee” or” property tax” means any fee or tax imposed by the Council in accordance with its powers under section 59(b) and (e) of the Belize City Council Act, respectively.
 
 *Maintenance of Accounting Records and Disclosure.*
 

@@ -110,6 +110,10 @@ Immunities and Privileges
 
 (f) Exemption from taxation on the salaries and emoluments paid to them by the United Nations;
 
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
+
 (g) Exemption from customs duties and entry tax on their furniture and effects at the time of first taking up their post in the Country;
 
 (h) Subject to the approval of the Minister, exemption from customs duties and entry tax on articles imported for their personal use or consumption.

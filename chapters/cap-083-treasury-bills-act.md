@@ -126,11 +126,9 @@ R.E. 1980-1990.
 
 *8 of 2010. 10 of 2020.*
 
-**3.** (1) Subject to this Act, the Minister is hereby authorised to
-
 *Authority to issue Treasury Bills and Treasury Notes. 15 of 1993.*
 
-borrow by the issue in Belize of Treasury Bills and Treasury Notes, and the Financial Secretary, when authorised in writing in that behalf by the Minister, may for that purpose issue in Belize, within the terms of the authority and subject to any direction given by the Minister, such Treasury Bills and Treasury Notes together with such further Treasury Bills and Treasury Notes as shall be required to pay off at maturity Treasury Bills and Treasury Notes already lawfully issued.
+**3.** (1) Subject to this Act, the Minister is hereby authorised to borrow by the issue in Belize of Treasury Bills and Treasury Notes, and the Financial Secretary, when authorised in writing in that behalf by the Minister, may for that purpose issue in Belize, within the terms of the authority and subject to any direction given by the Minister, such Treasury Bills and Treasury Notes together with such further Treasury Bills and Treasury Notes as shall be required to pay off at maturity Treasury Bills and Treasury Notes already lawfully issued.
 
 *15 of 1993. 18 of 2016.*
 
@@ -158,13 +156,15 @@ or such other sums as the Minister shall with the approval of the House of Repre
 
 **6.** The expenses necessarily incurred in connection with the issue of Treasury Bills and Treasury Notes under this Act shall constitute a charge on, and shall be paid from, the Consolidated Revenue Fund.
 
-*Amounts and currency of*
+*EDITION 2020*
 
-**7.** (1) Every Treasury Bill shall be expressed to be issued in respect of a sum of two hundred dollars or a multiple thereof and
+### REVISED
+
+*Amounts and currency of*
 
 *and Treasury Notes.*
 
-shall be payable at par at a date not more than twelve months from the date of issue.
+**7.** (1) Every Treasury Bill shall be expressed to be issued in respect of a sum of two hundred dollars or a multiple thereof and shall be payable at par at a date not more than twelve months from the date of issue.
 
 *15 of 1993. 2 of 2006. 8 of 2010.*
 

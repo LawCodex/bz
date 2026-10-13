@@ -82,6 +82,8 @@ Valuation of Property, Valuation Appeal Board and Appeals to Supreme Court
 
 **16.** Right of appeal to the Supreme Court.
 
+*[CAP.*
+
 ## PART III
 
 Valuation Ratings
@@ -139,6 +141,10 @@ Schedules:
 Schedule 1 — Town Property Valuation Roll.
 
 Schedule 2 — Town Property Evaluation Indenture Note. Schedule 3 — Town Property Evaluation Belize District Demarcations.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 ### CHAPTER 65
 
@@ -262,9 +268,15 @@ all property vested in or held by Her Majesty;
 
 (g) every building or part of a building vested in or owned by a recognised religious denomination and occupied by a minister of that denomination.
 
-*Certain Crown property liable to fees. 13 of 2001.*
+*Certain Crown All property liable to respect of fees. 13 of 2001. held under or conveyed, occupied or payment of a*
 
-**4.** All property the fee of which is in the State and in respect of which no State grant has been issued, but which is held under pre-emption or lease, or agreed to be sold, granted or conveyed, or occupied shall be liable (while so held or occupied or during the existence of such agreement) to the payment of a fee from the date of pre-emption, record or lease or agreement to sell, grant or convey (as the case may be), but such fee shall not in any way affect the rights of the State in such lands.
+*such fee shall such lands.*
+
+**4.** property the fee of which is in the State and in which no State grant has been issued, but which is pre-emption or lease, or agreed to be sold, granted or occupied shall be liable (while so held or during the existence of such agreement) to the fee from the date of pre-emption, record or lease or agreement to sell, grant or convey (as the case may be), but not in any way affect the rights of the State in
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 ## PART II
 
@@ -376,11 +388,23 @@ making of structural alterations or additions thereto, or by the destruction the
 
 (g) is made by reason of any event whereby a property or part of a property becomes, or ceases to be, not liable to be liable to payment to a fee,
 
-shall have effect only as from the date when the new or altered property comes into occupation, or as from the happening of the event by reason of which the alteration is made, as the case may be.
+*the event by may be.*
 
-*Valuations Appeal Board . 40 of 1963. 14 of 1982.*
+shall have effect only as from the date when the new or altered property comes into occupation, or as from the happening of reason of which the alteration is made, as the case
 
-**15.** (1) There shall be established in respect of each town, for the purpose of hearing appeals against valuations made in pursuance of this Act, a Valuations Appeal Board consisting of, in the case of Belize City, a magistrate and two other persons appointed by the Minister, and in the case of any other town, the magistrate of the Judicial District wherein the town is situated, and two other persons appointed by the Minister.
+*Valuations 15.-(1) There Appeal Board . 40 of 1963.*
+
+*pursuance of*
+
+*14 of 1982.*
+
+*persons town, the is situated, and*
+
+shall be established in respect of each town, for the purpose of hearing appeals against valuations made in this Act, a Valuations Appeal Board consisting of, in the case of Belize City, a magistrate and two other appointed by the Minister, and in the case of any other magistrate of the Judicial District wherein the town two other persons appointed by the Minister.
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 (2) Every member of a Valuations Appeal Board, not being an officer of the public service of Belize, shall receive such remuneration as the Minister may determine and such remuneration shall be a charge upon the funds of the local authority.
 
@@ -590,13 +614,17 @@ not be actionable), on the property for which the rate is sought to be recovered
 
 (c) publishing a copy of the said summons in the Gazette and a national newspaper.
 
-*When name of owner need not be inserted in summons, etc.*
+*When name of In any owner need not order made be inserted in summons, etc. necessary to*
 
-**26.** In any information laid, summons or warrant issued or order made under section 24 of this Act, it shall not be necessary to insert the name of the owner of the property in respect of which any rate is due and unpaid if after reasonable inquiry it cannot be ascertained what is the name of the owner of such property or whether there is any owner of such property, but instead of the name of the owner of such property the words “the owner of”, followed by a reasonable description of the said property, may be inserted.
+*of such property, but*
 
-*Service and hearing of summons under section 26.*
+*of the said*
 
-**27.** (1) Every summons issued under section 26 of this Act, shall be served by,
+**26.** information laid, summons or warrant issued or under section 24 of this Act, it shall not be insert the name of the owner of the property in respect of which any rate is due and unpaid if after reasonable inquiry it cannot be ascertained what is the name of the owner property or whether there is any owner of such instead of the name of the owner of such property the words “the owner of”, followed by a reasonable description property, may be inserted.
+
+*Service and 27.-(1) Every hearing of summons under section 26.*
+
+summons issued under section 26 of this Act, shall be served by,
 
 (a) affixing and leaving affixed a copy of the summons upon any building, wall, tree, post (and for this purpose the driving or placing of a post shall not be actionable) or other prominent place upon the property described in the said summons; and
 
@@ -604,7 +632,13 @@ not be actionable), on the property for which the rate is sought to be recovered
 
 (c) publishing a copy of the said summons in three consecutive issues of the Gazette.
 
-(2) At the time and place appointed in and by any such summons for the hearing of the information therein specified, any person having or claiming any estate or interest in the said property may appear in the same manner as if the summons
+*(2) At the summons for any person property may*
+
+time and place appointed in and by any such the hearing of the information therein specified, having or claiming any estate or interest in the said appear in the same manner as if the summons
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 had been directed to him by name, but if no such person appears, then upon proof that the summons has been served as provided in this section and that the reasonable inquiry mentioned in section 26 of this Act, has been made, the information specified in the summons may be heard and adjudicated upon ex parte,
 

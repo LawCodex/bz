@@ -96,11 +96,17 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 **6.** The corporation shall exercise all of the powers and perform all the functions and duties directed and empowered
 
-or intended to be performed by its Board of Governors or Management.
+*or intended to Management.*
 
-*Capacity of the corporation.*
+be performed by its Board of Governors or
 
-**7.** The corporation shall have full power to,
+*Capacity of the*
+
+*The*
+
+*corporation.*
+
+**7.** corporation shall have full power to,
 
 (a) acquire and hold within Belize by purchase, devise or otherwise all property of whatever nature, including without limitation lands, tenements and hereditaments, and all personal estate, and to assign, convey, demise or otherwise dispose of such property;
 
@@ -112,9 +118,21 @@ or intended to be performed by its Board of Governors or Management.
 
 (e) do all other things deemed necessary, convenient or expedient to the accomplishment of any and all of the powers aforesaid.
 
-*Vesting of property and rights.*
+*Vesting of*
 
-**8.** All property, real and personal, of whatever nature now vested in any person or corporation for and on behalf of the
+*All*
+
+*property and*
+
+*vested in any*
+
+*rights.*
+
+**8.** property, real and personal, of whatever nature now person or corporation for and on behalf of the
+
+*EDITION 2020*
+
+### REVISED
 
 corporation shall be and the same are hereby vested in the corporation.
 

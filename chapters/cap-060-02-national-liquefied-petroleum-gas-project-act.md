@@ -36,6 +36,8 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 This is a revised edition of the Substantive Laws, prepared by the Law Revision Commissioner under the authority of the Law Revision Act, Chapter 3 of the Substantive Laws of Belize, Revised Edition 2020.
 
+National Liquefied Petroleum Gas Project [CAP. 60:02 3
+
 ### NATIONAL LIQUEFIED PETROLEUM GAS PROJECT
 
 ## ARRANGEMENT OF SECTIONS
@@ -126,11 +128,9 @@ obligations under the Definitive Agreement including the entirety of the underta
 
 **5.** As of the Commercial Operations Date, the Developer shall have the exclusive right to import wholesale LPG into Belize until the expiration of the term of the Definitive Agreement,
 
-Provided that the purchase of LPG by the Developer
-
 *CAP. 15.*
 
-shall be subject to an open, selective or limited tendering procedure set out in the Finance and Audit Reform Act except that the Developer shall be the procurement entity instead of the Government.
+Provided that the purchase of LPG by the Developer shall be subject to an open, selective or limited tendering procedure set out in the Finance and Audit Reform Act except that the Developer shall be the procurement entity instead of the Government.
 
 *Testing of LPG.*
 
@@ -140,31 +140,45 @@ shall be subject to an open, selective or limited tendering procedure set out in
 
 **7.** (1) Notwithstanding anything to the contrary in the Income and Business Tax Act, The General Sales Tax Act, the Customs
 
-and Excise Duties Act, the Stamp Duties Act, the Customs
+National Liquefied Petroleum Gas Project [CAP.
 
-*Cap. 55 Cap. 63. Cap. 48. Cap. 49. Cap. 52.*
+*and Excise*
 
-Regulation Act, the Exchange Control Regulation Act and any Regulations made under the said Acts, or in any other law, regulation, rule, order, or instrument having effect as part of the laws of Belize–
+*Cap. 55 Cap. 63.*
+
+*Regulations*
+
+*Cap. 48. Cap. 49. Cap. 52.*
+
+Duties Act, the Stamp Duties Act, the Customs Regulation Act, the Exchange Control Regulation Act and any made under the said Acts, or in any other law, regulation, rule, order, or instrument having effect as part of the laws of Belize–
 
 (a) the Developer shall be exempt from any duties, taxes and imposts levied or imposed under the aforesaid Acts and other laws including but not limited to import duties, excise taxes, environmental taxes and general sales taxes prior to the Commercial Operations Date and shall thereafter be exempt from income and business taxes (and any other taxes in substitution thereof (if any)) from and after the Commercial Operations Date; and
 
 (b) all instruments relating to the transfer of the Government’s Shares or any part thereof by the Government to the Developer, the transfer of the Project Facility by the Developer to the Government, the transfer of any property, assets, undertaking or business of the Developer to the Government and otherwise relating to any transactions in pursuance of the Definitive Agreement shall be exempt from stamp duty.
 
-(2) The Developer shall be exempt from all exchange control laws and regulations for the duration of the term of the Definitive Agreement.
+*(2) The control laws Definitive*
+
+Developer shall be exempt from all exchange and regulations for the duration of the term of the Agreement.
 
 *Cap. 293.*
 
-(3) The Supplies Control Act shall not apply to the importation and wholesale by the Developer of LPG.
+*(3) The*
 
-*Extent of exemption.*
+Supplies Control Act shall not apply to the importation and wholesale by the Developer of LPG.
 
-**8.** The exemption from taxes, duties and exchange controls granted by section 7 Act shall apply only to such activities of the Developer as relate directly to the Project.
+*Extent of*
 
-**9.** (1) During the term of the Definitive Agreement the
+*The*
+
+*exemption.*
+
+*granted by*
+
+**8.** exemption from taxes, duties and exchange controls section 7 Act shall apply only to such activities of the Developer as relate directly to the Project.
 
 *Ownership and transfer of project facility.*
 
-Government shall at all times hold a minimum of twenty-five percent (25%) of the issued and outstanding shares of the Developer and the Developer shall in turn hold a one hundred percent (100%) ownership interest in the Project Facility.
+**9.** (1) During the term of the Definitive Agreement the Government shall at all times hold a minimum of twenty-five percent (25%) of the issued and outstanding shares of the Developer and the Developer shall in turn hold a one hundred percent (100%) ownership interest in the Project Facility.
 
 (2) At the conclusion of the term of the Definitive Agreement, on the Termination Date, the Developer shall transfer, pass, and otherwise vest legal and beneficial title and ownership in the Project Facility to the Government in consideration of the Government fulfilling all its obligations under the Definitive Agreement and the transfer of the Government’s Shares to the Developer freed from and clear of any and all encumbrances.
 

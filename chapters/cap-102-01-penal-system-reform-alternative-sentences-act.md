@@ -68,6 +68,10 @@ Suspension of Custodial Sentences
 
 **9.** Subsequent offence during operational period.
 
+*[CAP.*
+
+102:01
+
 **10.** Discovery of further offence.
 
 **11.** Saving of existing powers.
@@ -119,6 +123,10 @@ Custodial Sentences
 **29.** Length of custodial sentences.
 
 **30.** Procedural requirements for custodial sentences.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 Other Sentencing Guidelines
 
@@ -192,13 +200,17 @@ Provided that the public officer who is the Director immediately before the comm
 
 (b) be deemed to have been appointed under section (1) of this section.
 
-(3) The Department shall perform such functions, and discharge such duties, as are specified by or under this Act or any other law.
+*(3) The discharge such any other law.*
 
-(4) There shall be appointed by the Public Services Commission in accordance with section 106 of the Belize Constitution, Cap. 4, such other Community Rehabilitation Officers as may be necessary for carrying out the provisions of this Act or any other law.
+Department shall perform such functions, and duties, as are specified by or under this Act or
 
-*Functions of the Department.*
+*(4) There Commission in Constitution, Officers as may this Act or any*
 
-**4.** The functions of the Department include,
+shall be appointed by the Public Services accordance with section 106 of the Belize Cap. 4, such other Community Rehabilitation be necessary for carrying out the provisions of other law.
+
+*Functions of the The Department.*
+
+**4.** functions of the Department include,
 
 (a) in respect of community orders, compiling reports for the consideration of the courts at the pre-sentencing or post-sentencing stage showing,
 
@@ -378,7 +390,9 @@ Community Service Orders
 
 (c) in lieu of imprisonment for a default in the payment of maintenance money to a spouse or child pursuant to the Families and Children’s Act, Cap. 173.
 
-(3) A court shall not make a community service order against an offender,
+*(3) A court against an*
+
+shall not make a community service order offender,
 
 (a) unless the offender consents to the making of such an order;
 
@@ -394,9 +408,17 @@ Community Service Orders
 
 (d) unless the offence falls in the categories of offences specified in Schedule I hereto.
 
-*Court to explain meaning of order.*
+*Court to explain*
 
-**13.** Before making a community service Order, the court shall explain to the offender, in ordinary language,
+*Before*
+
+*meaning of*
+
+*shall explain to*
+
+*order.*
+
+**13.** making a community service Order, the court the offender, in ordinary language,
 
 (a) the purpose and effect of the order, and in particular the conditions and requirements that may be specified in it under section 14 and the requirements of section 15(1)(b) of this Act;
 
@@ -404,25 +426,31 @@ Community Service Orders
 
 (c) that the court has under section 20 of this Act the power to review the order on application either of the offender or of the Director.
 
-*Duration and requirements of Community Service Order.*
+*Duration and (1) The requirements of a period not Community Service Order. not,*
 
-**14.** (1) The community service order shall be performed for a period not exceeding one year (twelve calendar months), and in any one week during the life of the order, the offender shall not,
+**14.** community service order shall be performed for exceeding one year (twelve calendar months), and in any one week during the life of the order, the offender shall
 
 (a) work for more than eight hours a day; or
 
 (b) work on a Saturday, a Sunday, or a public or bank holiday.
 
-(2) The community service order shall contain such requirements and conditions to be complied with by the offender during the life of the order as the court may consider necessary for the supervision of the offender.
+*(2) The requirements offender during necessary for*
 
-*Notice of Order and supervision of offender.*
+community service order shall contain such and conditions to be complied with by the the life of the order as the court may consider the supervision of the offender.
 
-**15.** (1) A court which makes a community service order,
+*Notice of Order 15.-(1) A court and supervision of offender.*
+
+which makes a community service order,
 
 (a) shall forthwith give a copy of the order to the offender and send a copy to the Director;
 
 (b) shall specify in the order a place at which, and a time when and within which, the offender shall present himself for the purpose of enabling the administration of the order to commence.
 
-(2) The Director shall ensure that a copy of the order sent to him under subsection (1)(a) of this section is supplied to the offender’s supervising Community Rehabilitation Officer.
+*(2) The*
+
+*offender’s*
+
+Director shall ensure that a copy of the order sent to him under subsection (1)(a) of this section is supplied to the supervising Community Rehabilitation Officer.
 
 *Obligations of offenders under Com- munity Service Orders.*
 
@@ -438,9 +466,17 @@ Community Service Orders
 
 (e) immediately notify his supervising Community Rehabilitation Officer of any change of his address.
 
-(2) In making a Community Service Order, a court shall ensure that the offender is required to work within his judicial district, preferably within his community.
+*(2) In*
 
-(3) The directions given by a supervising Community Rehabilitation Officer under subsection (1) of this section shall, so far as practicable, take account of the offender’s religious beliefs and the times, if any, when he normally
+*district,*
+
+making a Community Service Order, a court shall ensure that the offender is required to work within his judicial preferably within his community.
+
+*(3) The*
+
+*religious*
+
+directions given by a supervising Community Rehabilitation Officer under subsection (1) of this section shall, so far as practicable, take account of the offender’s beliefs and the times, if any, when he normally
 
 engages in gainful employment or attends school or other educational instruction.
 
@@ -472,15 +508,27 @@ this Act, whether by reason of a failure satisfactorily to comply with the condi
 
 (2) If at any time while a community service order is in force in respect of an offender it appears on information to a
 
-court specified in section 5(a) or (b) of this Act that the offender has failed to comply with section 16(1) of this Act, that court may issue a summons requiring the offender to appear before a summary jurisdiction court at the time specified therein, or may, if the information is in writing and on oath, issue a warrant for his arrest.
+*offender has*
 
-(3) If it is proved to the satisfaction of a court specified in section 5(a) or (b) of this Act before whom an offender appears or is brought under this section that he has failed without reasonable excuse to comply with section 16(1) of this Act that court may, without prejudice to the continuance of the order, impose on him a fine not exceeding two thousand dollars, or may,
+*appear before specified*
+
+court specified in section 5(a) or (b) of this Act that the failed to comply with section 16(1) of this Act, that court may issue a summons requiring the offender to a summary jurisdiction court at the time therein, or may, if the information is in writing and on oath, issue a warrant for his arrest.
+
+*(3) If it is section 5(a) or or is brought reasonable court may,*
+
+proved to the satisfaction of a court specified in
+
+(b) of this Act before whom an offender appears under this section that he has failed without excuse to comply with section 16(1) of this Act that without prejudice to the continuance of the order, impose on him a fine not exceeding two thousand dollars, or
+
+*may,*
 
 (a) if the community service order was made by a court specified in section 5(a) or (b) of this Act, revoke the order and deal with the offender for the offence in respect of which the order was made, in any manner in which the offender could have been dealt with for that offence by the court which made the order if the order had not been made;
 
 (b) if the order was made by a court specified in section 5(c), (d) or (e) of this Act, commit the offender to custody or release him on bail (with or without sureties) until such time as he can be brought or made to appear before such court.
 
-(4) Where (a court specified in section 5(a) or (b) of this Act deals with an offender’s case under subsection (3)(b) of this Act,
+*(4) Where Act deals with this Act,*
+
+(a court specified in section 5(a) or (b) of this an offender’s case under subsection (3)(b) of
 
 (a) that court shall send to the court referred to in section 5(c), (d) or (e) of this Act a certificate
 
@@ -496,9 +544,9 @@ signed by the magistrate certifying that the offender has failed to comply with 
 
 (ii) revoke the order and deal with the offender for the offence in respect of which the order was made, in any manner in which the offender could have been dealt with for that offence by the court which made the order if the order had not been made.
 
-(5) A fine imposed under this section in respect of a failure to comply with section 16 (1) of this Act, shall be deemed for the purposes of any law to be a sum adjudged to be paid by a
+*(5) A fine to comply with the purposes of conviction.*
 
-*conviction.*
+imposed under this section in respect of a failure section 16 (1) of this Act, shall be deemed for any law to be a sum adjudged to be paid by a
 
 *Commission of further offences.*
 
@@ -522,15 +570,23 @@ Provided that,
 
 (b) the Criminal Division of the Supreme Court convicts an offender of a subsequent offence that was committed whilst a community service order made by a court specified to in section 5(d) or (e) of this Act was in force in respect of him,
 
-the court that convicts the offender may, if it thinks fit, without proceeding to sentence, order that the offender appear or be brought before the court by which the community service order was made to be dealt with under subsection (7) of this section, and for this purpose may commit him to custody or release him on bail (with or without sureties), and a court that so orders shall send to the court referred to in section 5(c), (d) or (e) of this Act dealing with the matter, as the case may be, a copy of the record of the conviction for the subsequent offence.
+*the court that proceeding to brought before*
 
-(5) If it appears,
+*and for this*
+
+convicts the offender may, if it thinks fit, without sentence, order that the offender appear or be the court by which the community service order was made to be dealt with under subsection (7) of this section, purpose may commit him to custody or release him on bail (with or without sureties), and a court that so orders shall send to the court referred to in section 5(c), (d) or (e) of this Act dealing with the matter, as the case may be, a copy of the record of the conviction for the subsequent offence.
+
+*(5) If it*
+
+appears,
 
 (a) to a Judge of a court referred to in section 5(c), (d) or (e) of this Act by which a community service order was made; or
 
 (b) a magistrate of a court referred to in section 5(a) or (b) of this Act by which a community service order was made,
 
-that an offender has been convicted by any court of a subsequent offence, and has been dealt with for that offence but not sentenced under this section for an original offence, the
+*that an subsequent but not*
+
+offender has been convicted by any court of a offence, and has been dealt with for that offence sentenced under this section for an original offence, the
 
 Judge or magistrate, as the case may be, may issue a summons requiring the offender to appear before the court that made the community service order, at the time specified in the summons, or may issue a warrant for his arrest requiring him to be brought before that court and dealt with under subsection
 
@@ -554,9 +610,9 @@ Provided that a court referred to in section 5(a) or (b) of this Act, shall not 
 
 section, may also sentence him for the subsequent offence in any manner in which the court that convicted him of the subsequent offence could have sentenced him.
 
-*Variation and revocation of Community Service Orders.*
+*Variation and 20.-(1) Where a revocation of of an offender, Community Service Orders. Act, on*
 
-**20.** (1) Where a community service order is in force in respect of an offender, a court specified in section 5(a) or (b) of this Act, on application by the offender or by the Director,
+community service order is in force in respect a court specified in section 5(a) or (b) of this application by the offender or by the Director,
 
 (a) may, upon any of the grounds specified in subsection (2) of this section, if the community service order was made by a court specified in section 5(a) or (b) of this Act,
 
@@ -568,7 +624,9 @@ section, may also sentence him for the subsequent offence in any manner in which
 
 such particulars of the case as in its opinion are necessary.
 
-(2) The grounds upon which a court may vary or revoke a community service order under this section are,
+*(2) The community*
+
+grounds upon which a court may vary or revoke a service order under this section are,
 
 (a) that there has been a change of circumstances since the order was imposed that would justify the variation or revocation of the order;
 
@@ -578,11 +636,15 @@ such particulars of the case as in its opinion are necessary.
 
 (d) that because of incapacity or for any other reason considered sufficient by the court, it will be impossible for the offender to perform the service before the order expires, or that it would be unreasonable to require him to do so.
 
-(3) Where in pursuance of subsection (1)(b) of this section, the offender is brought or appears before a court referred to in section 5(c), (d) or
+*(3) Where in the offender is section 5(c), (d)*
+
+pursuance of subsection (1)(b) of this section, brought or appears before a court referred to in or
 
 (e) of this Act, that court may, upon the grounds specified in subsection (2), deal with the offender in any manner specified in subsection (1)(a) of this section.
 
-(4) Where a court specified in section 5(a) or (b) of this Act proposes to exercise its powers otherwise than on the
+*(4) Where a Act proposes*
+
+court specified in section 5(a) or (b) of this to exercise its powers otherwise than on the
 
 application of the offender, it shall summon him to appear before the court and, if he does not appear in answer to the summons, may issue a warrant for his arrest.
 
@@ -624,15 +686,25 @@ application of the offender, it shall summon him to appear before the court and,
 
 (n) a magistrate nominated by the Chief Magistrate.
 
-(3) The members of the National Committee shall elect one of their number to be Chairperson, and another of their number to be Deputy Chairperson.
+*(3) The*
 
-(4) The Chairperson and Deputy Chairperson shall hold office for one year but shall be eligible for re-election.
+members of the National Committee shall elect one of their number to be Chairperson, and another of their number to be Deputy Chairperson.
 
-(5) The Director shall be the Secretary of the Committee.
+*(4) The*
 
-*Functions of the National Committee.*
+Chairperson and Deputy Chairperson shall hold office for one year but shall be eligible for re-election.
 
-**23.** (1) The functions of the National Committee are,
+*(5) The*
+
+Director shall be the Secretary of the Committee.
+
+*Functions of the*
+
+*23.-(1) The*
+
+*National Committee.*
+
+functions of the National Committee are,
 
 (a) to monitor the operation of community service orders in all their aspects and to liaise and communicate with the Department on areas or issues requiring improvement;
 
@@ -642,13 +714,13 @@ application of the offender, it shall summon him to appear before the court and,
 
 (d) to undertake any other function that may be required of it by or under this Act or any other law.
 
-(2) The National Committee shall have District Committees.
+*(2) The Committees.*
 
-*Regulations.*
+National Committee shall have District
 
-**24.** (1) The Minister may make regulations prescribing,
+*Regulations. 24.-(1) The*
 
-(a) the composition and functions of District Committees;
+Minister may make regulations prescribing, (a) the composition and functions of District Committees;
 
 (b) any forms necessary for the purposes of this Act;
 
@@ -658,9 +730,11 @@ application of the offender, it shall summon him to appear before the court and,
 
 Principles of Judicial Sentencing General
 
-*General requirement.*
+*All General*
 
-**25.** All courts shall observe the principles of judicial sentencing in this Part and give them effect.
+*requirement.*
+
+**25.** courts shall observe the principles of judicial sentencing in this Part and give them effect.
 
 Community Sentences
 
@@ -684,19 +758,29 @@ Community Sentences
 
 Custodial Sentences
 
-*Restrictions on imposition of community sentences.*
+*28.-(1) This Restrictions on imposition of offence*
 
-**28.** (1) This section applies where a person is convicted of an offence punishable with a custodial sentence other than one fixed by law.
+*community*
 
-(2) Subject to subsection (3) of this section, the court shall not pass a custodial sentence on the offender unless it is of the opinion,
+section applies where a person is convicted of an punishable with a custodial sentence other than one
+
+*fixed by law. sentences.*
+
+*not pass a opinion,*
+
+(2) Subject to subsection (3) of this section, the court shall custodial sentence on the offender unless it is of the
 
 (a) that the offence was so serious that only such a sentence can be justified for the offence; or
 
 (b) where the offence is a violent or sexual offence (as defined in section 7 of this Act), that only such a sentence would be adequate to protect the public from serious harm from the offender.
 
-(3) Nothing in subsection (2) of this section prevents the court from passing a custodial sentence on an offender if the offender refuses to consent to a community sentence which is proposed by the court and requires that consent.
+*court from*
 
-(4) Where a court passes a custodial sentence it is the court’s duty,
+(3) Nothing in subsection (2) of this section prevents the passing a custodial sentence on an offender if the offender refuses to consent to a community sentence which is proposed by the court and requires that consent.
+
+(4) Where a court passes a custodial sentence it is the
+
+*court’s duty,*
 
 (a) in a case not falling within subsection (3) of this section, to state in open court that it is of the opinion that either or both of paragraphs
 
@@ -704,21 +788,33 @@ Custodial Sentences
 
 (b) in any case, to explain to the offender in open court and in ordinary language why it is passing a custodial sentence on the offender.
 
-A court shall cause the reasons stated by it under subsection
+*A court shall (4) to be entered in the*
 
-(4) to be specified in the warrant of commitment and to be entered in the record of the court.
+cause the reasons stated by it under subsection specified in the warrant of commitment and to be record of the court.
 
-*Length of custodial sentences.*
+*Length of*
 
-**29.** (1) This section applies where a court passes a custodial sentence other than one fixed by law.
+*29.-(1) This*
 
-(2) The custodial sentence shall be,
+*custodial*
+
+*sentence other*
+
+*sentences.*
+
+section applies where a court passes a custodial than one fixed by law.
+
+*(2) The*
+
+custodial sentence shall be,
 
 (a) for such term (not exceeding the permitted maximum) as in the opinion of the court is commensurate with the seriousness of the offence; or
 
 (b) where the offence is a violent or sexual offence (as defined in section 7 of this Act), for such longer term (not exceeding that maximum) as in the opinion of the court is necessary to protect the public from serious harm from the offender.
 
-(3) Where the court passes a custodial sentence for a term longer than is commensurate with the seriousness of the offence, the court shall,
+*(3) Where longer than is offence, the*
+
+the court passes a custodial sentence for a term commensurate with the seriousness of the court shall,
 
 (a) state in open court that it is of the opinion that subsection (2)(b) of this section applies and why it is of that opinion; and
 
@@ -726,7 +822,9 @@ A court shall cause the reasons stated by it under subsection
 
 *Procedural requirements for community sentences.*
 
-**30.** (1) Subject to subsection (2) of this Act, a court shall obtain from the Department and consider a pre-sentence report before forming any such opinion as is mentioned in subsection
+*before forming*
+
+**30.** (1) Subject to subsection (2) of this Act, a court shall obtain from the Department and consider a pre-sentence report any such opinion as is mentioned in subsection
 
 (2) of section 28 or 29 of this Act.
 
@@ -806,6 +904,8 @@ List of Offences
 
 **8.** A first offence for possession of cannabis or any other controlled drug of a quantity less than that specified under the Misuse of Drugs Act, Cap. 103, as the minimum quantity the possession of which is deemed to be possession for the purpose of supplying another person or for drug trafficking.
 
+### [CAP. 102:01
+
 **9.** A first offence involving smoking or otherwise using prepared cocaine, or cannabis.
 
 ## SCHEDULE 2 PENAL SYSTEM REFORM (ALTERNATIVE SENTENCES) ACT Type of Work
@@ -817,3 +917,5 @@ List of Offences
 **2.** Work at or for any other institution or organization for old, infirm or handicapped persons.
 
 **3.** Work on any land that is leased, occupied, administered, maintained or kept clean by the Government or any public statutory body.
+
+### THE SUBSTANTIVE LAWS OF BELIZE

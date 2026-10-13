@@ -220,11 +220,17 @@ the efficient and timely public and private patient care delivery;
 
 (e) doing all such other things as may be necessary or expedient from time to time for the proper performance of its functions.
 
+*6.-(1) The*
+
 *Powers of the Authority.*
 
-**6.** (1) The Authority shall have all the powers that are reasonably necessary or expedient to enable it to carry out its functions under this Act.
+*reasonably*
 
-(2) In particular, but without limiting the generality of its powers under subsection (1) of this section, the Authority may do all or any of the following things,
+Authority shall have all the powers that are necessary or expedient to enable it to carry out its functions under this Act.
+
+*(2) In powers under*
+
+particular, but without limiting the generality of its subsection (1) of this section, the Authority may do all or any of the following things,
 
 (a) acquire by purchase, lease, exchange, bailment, gift, or otherwise any interest in land or any other form of property;
 
@@ -240,7 +246,9 @@ the efficient and timely public and private patient care delivery;
 
 *Policy directions.*
 
-**7.** (1) The Minister may, after consultation with the Chairperson, give to the Board directions of a general character as to the policy to be followed in the performance of any of its functions, and the Board shall give effect to such directions.
+*7.-(1) The Chairperson,*
+
+Minister may, after consultation with the give to the Board directions of a general character as to the policy to be followed in the performance of any of its functions, and the Board shall give effect to such directions.
 
 ## PART III
 
@@ -274,11 +282,15 @@ ancillary posts of the semi-skilled or un-skilled category shall be entitled to 
 
 (d) enter into and carry into effect agreements for securing to any such employees or officers, widows, families or dependents such gratuities, pensions or allowances as are by this section allowed to be granted.
 
-*Duties of the Chief Executive Officer.*
+*Duties of the 9.-(1) The Chief Chief Executive directions of the Officer.*
 
-**9.** (1) The Chief Executive Officer shall, subject to the policy directions of the Board, be responsible for the management of the Authority, including the organization of staff in accordance with the general terms and conditions of service established by the Board.
+*the Authority, with the general the Board.*
 
-(2) The Chief Executive Officer shall have authority,
+Executive Officer shall, subject to the policy Board, be responsible for the management of including the organization of staff in accordance terms and conditions of service established by
+
+*(2) The*
+
+Chief Executive Officer shall have authority,
 
 (a) to sign jointly with any Governor authorised by the Board for that purpose, any reports, balance sheets and other financial statements;
 
@@ -288,13 +300,23 @@ ancillary posts of the semi-skilled or un-skilled category shall be entitled to 
 
 Administration
 
+*There*
+
 *Board of Governors.*
 
-**10.** There shall be a Board of Governors of the Authority, appointed by the Minister, which shall be constituted as provided in section 11 of this Act, and the Board of Governors shall be the principal policy making organ of the Authority.
+*provided in shall be the*
 
-*Composition of the Board.*
+**10.** shall be a Board of Governors of the Authority, appointed by the Minister, which shall be constituted as section 11 of this Act, and the Board of Governors principal policy making organ of the Authority.
 
-**11.** (1) The Board of Governors shall consist of the following persons,
+*Composition of*
+
+*11.-(1) The*
+
+*the Board.*
+
+Board of Governors shall consist of the following
+
+*persons,*
 
 (a) a representative from the Ministry responsible for Health, who shall be an ex-officio member;
 
@@ -306,7 +328,11 @@ Administration
 
 (e) the Director of Health Services, ex-officio, without the right to vote.
 
-(2) The Minister shall appoint one of the Governors referred to in paragraph (c) of subsection (1) of this section to be the Chairperson of the Board and the members of the Board shall elect from among their number a Deputy Chairperson.
+*(2) The*
+
+*be the*
+
+Minister shall appoint one of the Governors referred to in paragraph (c) of subsection (1) of this section to Chairperson of the Board and the members of the Board shall elect from among their number a Deputy Chairperson.
 
 (3) The Chief Executive Officer shall act as Secretary to the Board and in that capacity shall ensure that proper minutes be kept and maintained of the Board’s acts and decisions.
 
@@ -372,7 +398,9 @@ planning, developing and implementing criteria and standards for quality care;
 
 (11) To effectively discharge its functions and duties under this Act, it shall be lawful for the Board to constitute itself into Committees or to appoint Committees made up of suitably qualified persons to investigate, evaluate, analyse, comment, and report to the Board on any matter which the Board feels should be submitted to a Committee.
 
-(12) On appointing a Committee under subsection (11) of this section, the Board shall,
+*(12) On*
+
+appointing a Committee under subsection (11) of this section, the Board shall,
 
 (a) appoint a Governor of the Board, or some other suitably qualified person, to be Chairperson of the Committee;
 
@@ -382,11 +410,13 @@ planning, developing and implementing criteria and standards for quality care;
 
 (d) state clearly in writing that the Committee shall report its proceedings to the Board, and that the decisions of the Committee shall be subject to the approval of the Board.
 
-*Disqualifications to be a Governor*
+*Disqualifications 14.-(1) No to be a Governor who is a*
 
-**14.** (1) No person shall be appointed or remain a Governor who is a member of the National Assembly.
+person shall be appointed or remain a Governor member of the National Assembly.
 
-(2) The Minister may terminate the appointment of a Governor appointed under section 11 (1) (c) or (f) of this Act, only if the Governor, as the case may be,
+*(2) The Governor only if the*
+
+Minister may terminate the appointment of a appointed under section 11 (1) (c) or (f) of this Act, Governor, as the case may be,
 
 (a) by writing under his or her hand addressed to the Minister resigns his office;
 
@@ -402,9 +432,15 @@ becomes bankrupt or insolvent, compounds with his or her creditors or benefits u
 
 (g) enjoys or holds a place of gift or profit at the disposal of the Authority or the Hospital, or any right or benefit under any contract made by or on behalf of the Board or the Hospital, or has any financial or other interest likely to prejudice the proper discharge by him of his functions as Governor.
 
-(3) The Minister may, on the recommendations of the Board, terminate the appointment of a Governor who absents himself from three consecutive meetings of the Board without leave from the Board.
+*(3) The Board, himself from*
 
-(4) Where the membership of a person is terminated by the Minister under subsection (3) of this section, the organisation which nominated such person’s appointment to the Board shall nominate another person to replace him or her, and the person so nominated shall on his or her appointment, unless he or she
+Minister may, on the recommendations of the terminate the appointment of a Governor who absents three consecutive meetings of the Board without leave from the Board.
+
+*(4) Where*
+
+*which nominate so nominated*
+
+the membership of a person is terminated by the Minister under subsection (3) of this section, the organisation nominated such person’s appointment to the Board shall another person to replace him or her, and the person shall on his or her appointment, unless he or she
 
 earlier retires or is terminated, remain in office for the unexpired term of office of the person he or she is replacing.
 
@@ -438,9 +474,11 @@ earlier retires or is terminated, remain in office for the unexpired term of off
 
 (3) The Authority shall have power to indemnify and hold harmless any of the persons referred to in subsection (1) or (2) of this section who is a party to any action, suit or proceeding by whatever name called, be it civil, criminal, administrative or investigative, brought by reason of the fact that such person occupies a position within the Authority as provided in subsection (1) or (2) of this section, against any expenses (including attorneys’ fees), judgments, fines and any sums paid in settlement actually and reasonably incurred by him in connection with the aforesaid action, suit or proceeding.
 
-*Rules of the Authority.*
+*Rules of the 18.-(1) The Authority.*
 
-**18.** (1) The Board may from time to time make Rules of the Authority not inconsistent with this Act, for all or any of the following purposes,
+*Authority not following*
+
+Board may from time to time make Rules of the inconsistent with this Act, for all or any of the purposes,
 
 (a) regulating the proceedings of the Board;
 

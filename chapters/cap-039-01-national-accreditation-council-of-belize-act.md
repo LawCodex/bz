@@ -36,6 +36,8 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 This is a revised edition of the Substantive Laws, prepared by the Law Revision Commissioner under the authority of the Law Revision Act, Chapter 3 of the Substantive Laws of Belize, Revised Edition 2020.
 
+### [CAP. 39:01 3
+
 ### CHAPTER 39:01
 
 ### NATIONAL ACCREDITATION COUNCIL OF BELIZE
@@ -346,9 +348,15 @@ without the prior approval of the Minister.
 
 **12.** (1) The functions of the Council shall be to promote the advancement of education in Belize to ensure that the quality of education delivered in Belize meet the standards set by the Council for the qualifications and certificates conferred and that the appropriate standards are being maintained and improved; to protect the interests of students and potential
 
-students; and to promote the free movement of skills and knowledge across the region.
+*knowledge*
 
-(2) Notwithstanding the provisions in any other law, the Council shall be the principal body for conducting and advising on the accreditation and recognition of education and training institutions, providers, programmes and awards both foreign and local and or the promotion of the quality and standard of education and training in Belize.
+students; and to promote the free movement of skills and across the region.
+
+*training*
+
+*standard of*
+
+(2) Notwithstanding the provisions in any other law, the Council shall be the principal body for conducting and advising on the accreditation and recognition of education and institutions, providers, programmes and awards both foreign and local and or the promotion of the quality and education and training in Belize.
 
 (3) Notwithstanding the generality of the functions outlined in subsections (1) and (2), of this section, the Council shall in particular be responsible for,
 
@@ -384,17 +392,29 @@ students; and to promote the free movement of skills and knowledge across the re
 
 (p) providing to the public information on the quality and recognition of programmes and
 
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
+
 institutions in order to protect the interest of the consumer and the public;
 
 (q) advising on issues of intellectual property involving courses developed externally to the institution or country and to provide guidance over copyright; and
 
 (r) doing all other things necessary, incidental or ancillary to the efficient discharge of its functions.
 
-(4) The decision of the Council shall prevail in any dispute regarding assessments conducted by other bodies of the accreditation and or recognition of institutions, providers, programmes and or awards.
+*(4) The regarding accreditation programmes*
 
-*Powers of the Council.*
+decision of the Council shall prevail in any dispute assessments conducted by other bodies of the and or recognition of institutions, providers, and or awards.
 
-**13.** (1) In the exercise of its functions, the Council shall have the power to,
+*Powers of the*
+
+*13.-(1) In the*
+
+*Council.*
+
+exercise of its functions, the Council shall have
+
+*the power to,*
 
 (a) undertake assessment and evaluations, independently or in co-operation with other bodies, as maybe considered necessary for the discharge of its functions;
 
@@ -415,6 +435,10 @@ existing operations on the basis of an appropriate evaluation;
 (h) determine and receive fees in connection with the exercise of its functions and to receive grants and other payments;
 
 (i) appoint any person to hold an honorary office in connection with the Council;
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 (j) deprive institutions or providers of any approval recognition or title granted or conferred on them on the basis of what the Council may deem to be good and sufficient cause;
 
@@ -470,7 +494,7 @@ Financial Provision, Accounts and Reports
 
 *Application of funds.*
 
-**20.** The funds of the Council shall be applied in defraying the following expenditures,
+**20.** funds of the Council shall be applied in defraying the following expenditures,
 
 (a) the remuneration, fees and allowances of members and members of committees established by the Council;
 
@@ -484,13 +508,23 @@ Financial Provision, Accounts and Reports
 
 *Accounts.*
 
-**21.** (1) The Board may make regulations for the proper control of the system of accounting and financing of the Council.
+*21.-(1) The*
 
-(2) The accounts of the Council shall be audited annually by the Auditor General.
+Board may make regulations for the proper control of the system of accounting and financing of the Council.
+
+*(2) The*
+
+accounts of the Council shall be audited annually by the Auditor General.
 
 *Annual Report.*
 
-**22.** (1) The Council shall within six months of the end of each financial year submit to the Board for consideration and transmission to the Minister a report dealing generally with the activities of the Council during the preceding year and containing such information relating to the operations and policies of the Council as the Minister may from time to time require.
+*22.-(1) The*
+
+*activities of*
+
+Council shall within six months of the end of each financial year submit to the Board for consideration and transmission to the Minister a report dealing generally with the the Council during the preceding year and containing such information relating to the operations and policies of the Council as the Minister may from time to time
+
+*require.*
 
 (2) The Minister shall lay a copy of the Report before the National Assembly.
 
@@ -512,17 +546,27 @@ Staff and Related Matters
 
 **25.** (1) Any officer in the public or teaching service and any employee of any (public statutory) body whether such body be national or international may, with the approval of the appropriate authority or body and with his consent, be transferred on secondment to the service of the Council or from the service of the Council to the public or teaching service or any other body.
 
-(2) Where such transfer on secondment is effected the Council shall make, with the appropriate authority or body, such arrangements as may be necessary to preserve the rights of the officer or employee transferred to any pension, gratuity or other allowance for which he would have been eligible had he remained in the service of the Government, or of such other body, or of the Council, as the case may be.
+*such*
 
-(3) Except where the Board may decide otherwise, a period of transfer on secondment shall not in any case exceed five years.
+*or other*
+
+(2) Where such transfer on secondment is effected the Council shall make, with the appropriate authority or body, arrangements as may be necessary to preserve the rights of the officer or employee transferred to any pension, gratuity allowance for which he would have been eligible had he remained in the service of the Government, or of such other body, or of the Council, as the case may be.
+
+(3) Except where the Board may decide otherwise, a period of transfer on secondment shall not in any case exceed five
+
+*years.*
 
 *Liability.*
 
-**26.** (1) No personal liability shall attach to any member of the Board or committee of the Board, personnel of the Council or person appointed by the Council, for any act or omission done or omitted in good faith.
+*26.-(1) No Board or person*
+
+personal liability shall attach to any member of the committee of the Board, personnel of the Council or appointed by the Council, for any act or omission done or omitted in good faith.
 
 *Secrecy.*
 
-**27.** Any person employed by the Council who,
+*Any*
+
+**27.** person employed by the Council who,
 
 (a) communicates or reveals any information, thing or matter connected with or related to the Council’s operations to a person or body to whom he is not authorised on behalf of the Council to so communicate or reveal;
 
@@ -538,9 +582,9 @@ retain in his possession, commits an offence, and shall on summary conviction be
 
 Miscellaneous
 
-*Offences*
+*28.-(1) Any Offences*
 
-**28.** (1) Any person who,
+person who,
 
 (a) operates or alters the operations of an institution or provider without proper approval;
 
@@ -554,7 +598,13 @@ uses the word “university”, “college”, (c)
 
 (d) misrepresents to the public the recognition accorded to it or its courses or its awards, commits an offence.
 
-(2) Where an offence is committed under this section by a body corporate or other legal person, every person who at the material time was a Director, Manager, Secretary or other similar officer of the body corporate, or any person purporting
+*(2) Where body corporate material time similar officer*
+
+an offence is committed under this section by a or other legal person, every person who at the was a Director, Manager, Secretary or other of the body corporate, or any person purporting
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 to act in such capacity shall be liable to be proceeded against, and shall on summary conviction be liable to a fine of two thousand dollars, or to a term of imprisonment not exceeding one year, or to both such fine and term of imprisonment.
 

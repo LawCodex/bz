@@ -154,19 +154,23 @@ This edition contains a consolidation of amendments made to the law by Acts No. 
 
 (d) production worker in the print or electronic media;
 
-(e) graphic artist, cartoonist or photographer; or (f) editorial, programming or newsroom staff;
+*“Minister”*
 
-“Minister” means the Minister responsible for immigration;
+*“musician” 29 of 2020.*
 
-*29 of 2020.*
+(e) graphic artist, cartoonist or photographer; or (f) editorial, programming or newsroom staff; means the Minister responsible for immigration; means a person who–
 
-“musician” means a person who–
+(a) is active in or qualified to enter, a particular field of music as the player of a musical instrument, a singer or song writer; or
 
-(a) is active in or qualified to enter, a particular field of music as the player of a musical instrument, a singer or song writer; or (b) is involved in the field of music as support personnel, including band orchestra leader, conductor, promoter or events manager, with the specific purpose of earning a living from that particular activity;
+*with the specific activity;*
 
-*29 of 2020.*
+(b) is involved in the field of music as support personnel, including band orchestra leader, conductor, promoter or events manager, purpose of earning a living from that particular
 
-“National” in relation to an individual from a Caribbean Community State means–
+*“National” in 29 of 2020.*
+
+*Community*
+
+relation to an individual from a Caribbean State means–
 
 (a) a person–
 
@@ -174,23 +178,37 @@ This edition contains a consolidation of amendments made to the law by Acts No. 
 
 (ii) belonging to,
 
-a qualifying Caribbean Community State within the meaning of the laws of that State; or
+*a qualifying*
+
+Caribbean Community State within the meaning of the laws of that State; or
 
 (b) a person other than a person from Belize, who has a connection with that State of a kind which entitles him to be regarded as belonging to or, if it be so expressed, as being a native of the State for the purposes of the laws of that state relating to immigration;
 
-“property” includes real and personal property;
+*“property”*
+
+includes real and personal property;
+
+*“qualifying*
 
 *Schedule II.*
 
-“qualifying Caribbean Community state” means a member state of the Caribbean Community specified in Schedule II;
+*of the*
 
-“qualifying certificate” means a certificate of recognition of
+Caribbean Community state” means a member state Caribbean Community specified in Schedule II;
+
+*“qualifying Caribbean*
 
 *Schedule III.*
 
-Caribbean Community skills issued by the Minister in the form specified in Schedule III;
+*specified in*
 
-“recognized organization” means an organization declared by the Minister to be a recognized organization for the purposes of this Act by Order published in the Gazette;
+certificate” means a certificate of recognition of Community skills issued by the Minister in the form Schedule III;
+
+*“recognized*
+
+*this Act by*
+
+organization” means an organization declared by the Minister to be a recognized organization for the purposes of Order published in the Gazette;
 
 *29 of 2020.*
 
@@ -200,41 +218,49 @@ Caribbean Community skills issued by the Minister in the form specified in Sched
 
 (b) is involved in the field of sports as support personnel, including a coach, sports manager, sports promoter, sports agent or massage therapist,
 
-with the specific purpose of earning a living from that particular activity;
+with the specific purpose of earning a living from that particular
+
+*activity;*
+
+*“spouse”*
 
 *29 of 2020.*
 
-“spouse” includes–
+includes–
 
 (a) in relation to a woman, a man who is living with or has lived with the woman as her husband, for a period of not less than five years, neither person being married to anyone else or each other, immediately preceding the date of the application under this Act; or
 
 (b) in relation to a man, a woman who is living with or has lived with the man as his wife, for a period of not less than five years, neither person being married to anyone else or each other, immediately preceding the date of the application under this Act; and
 
-*29 of 2020.*
+*“step-child” 29 of 2020.*
 
-“step-child” means the child of one’s spouse.
+means the child of one’s spouse.
 
-(2) For the purposes of this Act, where the qualifying Caribbean Community state is Montserrat, a valid passport or other form of identification approved by the Minister showing the holder–
+*Caribbean other form of the holder–*
+
+(2) For the purposes of this Act, where the qualifying Community state is Montserrat, a valid passport or identification approved by the Minister showing
 
 (a) to be a citizen of the United Kingdom and Colonies or a British Dependent Territories citizen; and
 
 (b) to have been born in Montserrat, shall be deemed to be issued in Montserrat.
 
-*Minister may delegate specified functions. 12 of 2016.*
+*Minister may 2A.-(1) The delegate specified functions. exercise or 12 of 2016.*
 
-**2A.** (1) The Minister may, by Order published in the Gazette, delegate to any Minister of State appointed to assist him, the exercise or performance of all or any of the powers or functions conferred upon the Minister under the provisions of this Act specified in sub-section (4).
+*specified in*
 
-(2) A delegation under sub-section (1) is revocable by the Minister and the delegation of the exercise of a power or the performance of a function shall not preclude its exercise or performance by the Minister.
+Minister may, by Order published in the Gazette, delegate to any Minister of State appointed to assist him, the performance of all or any of the powers or functions conferred upon the Minister under the provisions of this Act sub-section (4).
+
+*(2) A Minister and*
+
+delegation under sub-section (1) is revocable by the the delegation of the exercise of a power or the performance of a function shall not preclude its exercise or performance by the Minister.
 
 (3) The provisions of this Act shall apply in relation to a power or a function delegated under this section as they would apply where the power or function is exercised or performed by the Minister.
 
 (4) The specified provisions are those of section 7.
 
-(5) The provisions of this section shall apply notwithstanding
-
 *CAP. 1.*
 
-the provisions of section 59 of the Interpretation Act (power to delegate authority).
+(5) The provisions of this section shall apply notwithstanding the provisions of section 59 of the Interpretation Act (power to delegate authority).
 
 *Provisional entry to Caribbean Community Nationals. 29 of 2020.*
 
@@ -268,19 +294,37 @@ Community State certifying that the national is recognised by the Government of 
 
 (iii) any dependant, above the age of seventeen, of the national.
 
-(2) The department shall submit the qualifying certificate submitted under sub-section (1) (a), to the Ministry responsible for trade for verification of its validity.
+*(2) The*
 
-(3) A national under sub-section (1), the spouse or any dependant of the national, may engage in gainful employment with an employer or as a self-employed person, pending the verification of validity of the qualifying certificate.
+*for trade for*
+
+department shall submit the qualifying certificate submitted under sub-section (1) (a), to the Ministry responsible verification of its validity.
+
+*(3) A*
+
+*with an*
+
+national under sub-section (1), the spouse or any dependant of the national, may engage in gainful employment employer or as a self-employed person, pending the verification of validity of the qualifying certificate.
 
 (4) Subject to section 5, the department shall, within thirty working days of submission of an application, refuse or approve the application.
 
-(5) Where an application is approved, the department shall grant to the applicant, the spouse or any dependent of that applicant, indefinite stay.
+*grant to the applicant,*
 
-(6) Where an application is refused, the department shall notify the applicant of the refusal.
+(5) Where an application is approved, the department shall applicant, the spouse or any dependent of that indefinite stay.
 
-*Prohibited Caribbean skilled persons.*
+*notify the*
 
-**5.** (1) Subject to sub-section (2), an immigration officer shall not permit a Caribbean skilled person, the spouse or any dependant of the Caribbean skilled person, to land in Belize if that Caribbean skilled person–
+(6) Where an application is refused, the department shall applicant of the refusal.
+
+*Prohibited Caribbean*
+
+*not permit a*
+
+*skilled persons.*
+
+*dependant of*
+
+**5.** (1) Subject to sub-section (2), an immigration officer shall Caribbean skilled person, the spouse or any the Caribbean skilled person, to land in Belize if that Caribbean skilled person–
 
 (a) is likely, if he enters Belize, to become a charge on public funds;
 
@@ -294,13 +338,19 @@ Community State certifying that the national is recognised by the Government of 
 
 (e) is a subject of a deportation order in force under the Deportation (British Subjects) Act.
 
-(2) Notwithstanding sub-section (1), it shall be lawful for the Minister to exempt any Caribbean skilled person from the provisions of paragraphs (a) to (e) of sub-section (1).
+*Minister to provisions of*
+
+(2) Notwithstanding sub-section (1), it shall be lawful for the exempt any Caribbean skilled person from the paragraphs (a) to (e) of sub-section (1).
 
 *Application for qualifying certificate. 29 of 2002.*
 
-**6.** (1) A person who satisfies the requirements for recognition as a Caribbean skilled person may apply to the Minister for a qualifying certificate.
+*qualifying*
 
-(2) An application under this section shall be in such form and be accompanied by such fee as the Minister may prescribe by Order published in the Gazette.
+**6.** (1) A person who satisfies the requirements for recognition as a Caribbean skilled person may apply to the Minister for a certificate.
+
+*(2) An and be by Order*
+
+application under this section shall be in such form accompanied by such fee as the Minister may prescribe published in the Gazette.
 
 *Minister to grant certificate to qualified applicant. 29 of 2020.*
 
@@ -348,13 +398,17 @@ which would not apply if those persons were nationals of Belize.
 
 (c) disentitle any person so convicted or the right to any permission under this Act.
 
-(3) Any person who commits an offence under this Act shall be liable on summary conviction to a fine not exceeding five thousand dollars or to imprisonment for a term not exceeding one year or to both such fine and imprisonment.
+*(3) Any be liable on thousand one year or to*
 
-*Department to be the secretariat to the Committee.*
+person who commits an offence under this Act shall summary conviction to a fine not exceeding five dollars or to imprisonment for a term not exceeding both such fine and imprisonment.
 
-**10A.** (1) The Chair of the Committee shall consult the department of all decisions of the Committee, that affect the free movement of nationals.
+*Department to be the secretariat to the Committee. movement of*
 
-(2) The department shall submit quarterly reports to the CARICOM Secretariat, of statistical data on–
+**10A.** (1) The Chair of the Committee shall consult the department of all decisions of the Committee, that affect the free nationals.
+
+*(2) The CARICOM*
+
+department shall submit quarterly reports to the Secretariat, of statistical data on–
 
 (a) applications for a qualifying certificate; (b) provisional entry to nationals;
 
@@ -366,11 +420,11 @@ which would not apply if those persons were nationals of Belize.
 
 (f) refusal of provisional entry into Belize to any national.
 
-*Establishment and composition of Caribbean Community Free Movement of Skilled Persons Committee. 29 of 2020.*
+*Establishment and composition Caribbean of Caribbean Community Free Committee. Movement of Skilled Persons Committee. (2) The 29 of 2020.*
 
-**10B.** (1) There is hereby established a body to be known as the Caribbean Community Free Movement of Skilled Persons Committee.
+**10B.** (1) There is hereby established a body to be known as the Community Free Movement of Skilled Persons
 
-(2) The Committee shall consist of–
+Committee shall consist of–
 
 (a) a representative from the following, (i) the Ministry responsible for labour; (ii) the Ministry responsible for education;
 
@@ -398,17 +452,27 @@ Ministry;
 
 (e) a representative from the Companies and Corporate Affairs Registry.
 
-*Functions of the Committee. 29 of 2020.*
+*Functions of the*
 
-**10C.** The function of the Committee shall be to meet at least once every month to–
+*10C. The*
+
+*Committee.*
+
+*once every*
+
+*29 of 2020.*
+
+function of the Committee shall be to meet at least month to–
 
 (a) review applications and ensure that the application is accompanied by all relevant documents that are required for submission of the application; and
 
 (b) make recommendations to the department on whether an application should be refused or approved.
 
-*Regulations.*
+*11.-(1) The Regulations.*
 
-**11.** (1) The Minister may make regulations generally for giving effect to the provisions of this Act and without prejudice to the generality of the foregoing may make regulations–
+*effect to the*
+
+Minister may make regulations generally for giving provisions of this Act and without prejudice to the generality of the foregoing may make regulations–
 
 (a) regulating the issue. amendment, revocation or replacement of qualifying certificates and for the payment offers by the persons applying therefor;
 
@@ -426,7 +490,9 @@ Ministry;
 
 (g) prescribing any other matter or thing required to be prescribed under this Act.
 
-(2) Regulations made under this section shall be subject to negative resolution.
+*negative*
+
+(2) Regulations made under this section shall be subject to resolution.
 
 *29 of 2020.*
 

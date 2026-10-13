@@ -146,6 +146,10 @@ Powers
 
 **43.** Evidence of signature of fiat, etc.
 
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
+
 Boards and Committees
 
 **44.** Power to appoint Chairperson.
@@ -470,9 +474,13 @@ producing, reproducing, representing or conveying words or ideas; and
 
 “writing” includes typewriting, printing, photocopying, lithography and any other means of representing or reproducing words in any form;
 
-“will” includes any testamentary disposition;
+*“will” includes*
 
-“year” means a calendar year.
+any testamentary disposition;
+
+*“year” means a*
+
+calendar year.
 
 (2)
 
@@ -482,9 +490,9 @@ producing, reproducing, representing or conveying words or ideas; and
 
 (b) The Attorney General may from time to time, by Order published in the Gazette, add any country to, or delete any country from, the countries specified in subsection (2) (a) of this section.
 
-(3) An Order signed by the Attorney General under subsection
+*(3) An (2)(b) above,*
 
-*(2)(b) above,*
+Order signed by the Attorney General under subsection
 
 (a) that on a date specified in the Order, a country was or was not a Commonwealth country; or
 
@@ -618,13 +626,19 @@ and also to amend or annul any such forms and to substitute other forms for thos
 
 Subsidiary Legislation
 
-**21.** Where an Act confers power on any authority to make subsidiary General provisions with legislation, the following provisions shall, unless the contrary regard to power intention appears, have effect with reference to the making thereof, to make subsidiary legislation. (a) when any subsidiary legislation purports to be made in exercise of a particular power of powers, it shall be deemed also to be made in exercise of all other powers thereunto enabling;
+*\21. Where an*
+
+*intention*
+
+Act confers power on any authority to make subsidiary General provisions with legislation, the following provisions shall, unless the contrary regard to power appears, have effect with reference to the making thereof, to make subsidiary legislation. (a) when any subsidiary legislation purports to be made in exercise of a particular power of powers, it shall be deemed also to be made in exercise of all other powers thereunto enabling;
 
 (b) no subsidiary legislation shall be inconsistent with the provisions of the Act under which it is made;
 
 (c) subsidiary legislation may at any time be amended by the same authority and in the same manner by and in which it was made.
 
-Provided that where such authority has been replaced wholly or in part by another authority, the power conferred upon the original authority may be exercised by the replacing authority concerning all matters or things within its jurisdiction as if it were the original authority;
+*Provided that by another may be*
+
+where such authority has been replaced wholly or in part authority, the power conferred upon the original authority exercised by the replacing authority concerning all matters or things within its jurisdiction as if it were the original authority;
 
 (d) where any Act confers power on any authority to make subsidiary legislation for any general purpose and also for any special purpose incidental there to, the enumeration of special purposes shall not be deemed to derogate from the generality of the powers conferred with reference to the general purpose;
 
@@ -640,23 +654,31 @@ imprisonment not exceeding six months as may be specified in the subsidiary legi
 
 (i) a copy of the Gazette containing any such instrument, or a copy of any such instrument purporting to be printed by the Government Printer, shall be prima facie evidence in all courts and for all other purposes whatever of the due making and tenor of such instrument.
 
-Effect of 22. Subsidiary legislation shall have the same force and effect and be subsidiary
+*Effect of 22. Subsidiary subsidiary*
 
-as binding and shall be construed for all purposes as if it had been legislation.
+*as binding and*
 
-contained in the Act under which it was made.
+*legislation.*
 
-Acts done under 23. An act shall be deemed to be done under an Act or by virtue of the subsidiary
+*contained in the*
 
-powers conferred by an Act or in pursuance or execution of the legislation
+legislation shall have the same force and effect and be shall be construed for all purposes as if it had been Act under which it was made.
 
-deemed done provisions of or under the authority of an Act, if it is done under or by under Act.
+*Acts done under 23. An act shall subsidiary*
 
-virtue of or in pursuance or execution of the provisions of or under the authority of subsidiary legislation made under any power contained in that Act.
+*powers*
 
-Saving of rights
+*legislation deemed done provisions of or under Act.*
 
-of the Crown.
+*virtue of or in authority of that Act.*
+
+be deemed to be done under an Act or by virtue of the conferred by an Act or in pursuance or execution of the under the authority of an Act, if it is done under or by pursuance or execution of the provisions of or under the subsidiary legislation made under any power contained in
+
+*Saving of rights of the Crown.*
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 **24.** No enactment shall in any manner whatever affect the right of the Crown, unless it is therein expressly stated, or unless it appears by necessary implication, that the Crown is bound thereby.
 
@@ -870,7 +892,9 @@ Power to take 54. Whenever any court, judge, magistrate, justice of the peace, e
 
 Miscellaneous
 
-Computation of 55. In computing time for the purposes of any Act time. 27 of 1985.
+*\55. In Computation of time. 27 of 1985.*
+
+computing time for the purposes of any Act
 
 (a) a period of days from the happening of any event or the doing of any act or thing shall be deemed to be exclusive of the day on which the event happens or the act or thing is done;
 
@@ -880,13 +904,17 @@ Computation of 55. In computing time for the purposes of any Act time. 27 of 198
 
 (d) where an act or proceeding is directed or allowed to be done or taken within any time not exceeding six days, no Saturday, Sunday or public holiday shall be reckoned in the computation of that time.
 
-Time for service 56. Any summons, notice, warrant or other process may be issued, of summons, etc.
+*Time for service 56. Any of summons, etc. served or*
 
-served or executed and any arrest, search or seizure may be carried out or made on any day, whether a Sunday or public holiday or not, and at any hour of the day or night.
+summons, notice, warrant or other process may be issued, executed and any arrest, search or seizure may be carried out or made on any day, whether a Sunday or public holiday or not, and at any hour of the day or night.
 
-Enactment 57.-(1) Every enactment shall be construed as always speaking and always speaking
+*Enactment always speaking anything*
 
-anything expressed in the present tense shall be applied to the circumstances as they occur, so that effect may be given to each enactment according to its
+*enactment*
+
+**57.** (1) Every enactment shall be construed as always speaking and expressed in the present tense shall be applied to the circumstances as they occur, so that effect may be given to each according to its
+
+### THE SUBSTANTIVE LAWS OF BELIZE
 
 (2) The expression, “now”, “next”, “heretofore”, or “hereafter” shall be construed as referring to the time when the enactment containing the expression came into force.
 
@@ -944,11 +972,21 @@ matters which may be considered shall, in addition to those which may be conside
 
 (d) any provision of the Caribbean Community Treaty and any Community instrument issued under the Treaty, where relevant.
 
-(2) The weight to be given for the purposes of this section to any such matter as is mentioned in subsection (1) shall be no more than is appropriate in the circumstances.
+*(2) The*
 
-(3) Nothing in this section shall be construed as authorising the consideration of reports of proceedings in the National Assembly for any purpose for which they could not be considered apart from this section.
+*than is*
 
-Principles of 65. The following shall be included among the principles to be interpretation. applied in the interpretation of Acts where more than one construction of the provisions in question is reasonably possible, namely,
+weight to be given for the purposes of this section to any such matter as is mentioned in subsection (1) shall be no more appropriate in the circumstances.
+
+*the*
+
+(3) Nothing in this section shall be construed as authorising consideration of reports of proceedings in the National Assembly for any purpose for which they could not be considered apart from this
+
+*section.*
+
+*\65. The applied in the*
+
+Principles of following shall be included among the principles to be interpretation. interpretation of Acts where more than one construction of the provisions in question is reasonably possible, namely,
 
 (a) that a construction which would promote the general legislative purpose underlying the provision is to be preferred to a construction which would not; and
 

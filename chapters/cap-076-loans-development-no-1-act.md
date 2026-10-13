@@ -90,13 +90,41 @@ Loans Act, Cap. 81, or, notwithstanding anything to the contrary contained in th
 
 (b) in this country under the provisions of the Local Public Loans Act, Cap. 80.
 
-*Raising of loan under CAP.81 or Cap.80.*
+*Raising of loan*
 
-**6.** If the loan hereby authorised or any part thereof is issued under the provisions of Part I of the Public Loans Act, Cap. 81, or of the Local Public Loans Act, Cap. 80, then the contribution to a sinking fund, as contemplated by the provisions of sections 28 and 29 of the former Act or of section 12 of the latter Act, as the case may be, shall commence in respect of such issue not later than three years after the date from which the interest on such issue commences to run.
+*If the*
 
-*Raising of loan in United Kingdom independently of Cap. 81.*
+*under CAP.81 or*
 
-**7.** If the loan hereby authorised or any part thereof be issued in the United Kingdom independently of Part I of the Public Loans Act, Cap. 81, then the following provisions shall apply,
+*issued under*
+
+*Cap.80.*
+
+*Cap. 81, or of*
+
+*provisions of*
+
+*from which the*
+
+**6.** loan hereby authorised or any part thereof is the provisions of Part I of the Public Loans Act, the Local Public Loans Act, Cap. 80, then the contribution to a sinking fund, as contemplated by the sections 28 and 29 of the former Act or of section 12 of the latter Act, as the case may be, shall commence in respect of such issue not later than three years after the date interest on such issue commences to run.
+
+*Raising of loan*
+
+*If the*
+
+*in United*
+
+*issued in the*
+
+*Kingdom independently of*
+
+*Public Loans*
+
+*Cap. 81.*
+
+**7.** loan hereby authorised or any part thereof be United Kingdom independently of Part I of the Act, Cap. 81, then the following provisions shall
+
+*apply,*
 
 (a) so long as any portion of such loan remains outstanding the Minister shall in each half-year ending with the day on which the interest on such loans falls due appropriate out of the general revenues and assets of this Country a sum equal to one half-year’s interest on the whole of such loan outstanding and shall remit that sum to the Crown Agents at such time as will enable them to pay there out the then current half-year’s interest on the day on which it falls due;
 
@@ -104,11 +132,17 @@ Loans Act, Cap. 81, or, notwithstanding anything to the contrary contained in th
 
 the formation of a sinking fund for the repayment of the loan at par an additional sum in respect of the total nominal amount of such loan outstanding equal to one-half of the annual contribution to be decided upon by the Minister on the issue of the loan and shall remit that sum to the Crown Agents with the remittance herein before mentioned.
 
-Provided that the said contribution shall commence not later than three years after the date from which the interest on such loan shall commence to run;
+*Provided that than three years loan shall*
+
+the said contribution shall commence not later after the date from which the interest on such commence to run;
 
 (c) the aforesaid annual contribution shall be not less than such amount as may be determined by the Minister with the approval of the National Assembly to be sufficient to redeem such loan at its due date;
 
 (d) the Crown Agents shall, for the purpose of forming a sinking fund for the final extinction of the debt, from time to time place at interest or invest in the purchase of such securities as may from time to time be approved by the National Assembly so much of the money so remitted to them as aforesaid as shall not be required for the payment of interest for the current half-year and shall also place at interest or invest in the purchase of like securities the accumulations of interest or the dividends, interest or produce of such investment, and may from time to time with the approval of the National Assembly change any such investments and shall hold such fund in trust for the repayment of the principal moneys for the time being represented by such loan;
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 (e) in case the sinking fund provided for by this Act shall be insufficient for the payment of all the principal monies so borrowed under the authority of this Act at the time it becomes due the Minister shall make good the deficiencies out of the general revenues and assets of this Country.
 

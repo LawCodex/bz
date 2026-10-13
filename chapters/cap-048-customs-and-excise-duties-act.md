@@ -96,6 +96,8 @@ Temporary visitors’ typewriters, etc., exempt from duty.
 
 **19.** Drawback on spirits supplied to Officers of H.M. Navy. Power to alter tariff.
 
+*[CAP.*
+
 Excise duty.
 
 Obligation to pay all duties leviable.
@@ -139,6 +141,10 @@ Miscellaneous
 **35.** Regulations for inwards duty free shops.
 
 Goods imported free of duty during disaster emergency, etc.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 Export duty of scrap metal.
 
@@ -288,11 +294,9 @@ Preliminary
 
 *17 of 1994.*
 
-“entered”, in relation to goods imported or exported, means the registration (acceptance and official numbering) by the Comptroller or other proper officer of Customs of a declaration
-
 *CAP. 49.*
 
-signed by or on behalf of the importer or exporter in the manner prescribed by the Customs Regulation Act together with the payment to the proper officer by the importer or the exporter of all rents and charges due to the Government in respect of the goods, and, in the case of dutiable goods (except on the entry for
+“entered”, in relation to goods imported or exported, means the registration (acceptance and official numbering) by the Comptroller or other proper officer of Customs of a declaration signed by or on behalf of the importer or exporter in the manner prescribed by the Customs Regulation Act together with the payment to the proper officer by the importer or the exporter of all rents and charges due to the Government in respect of the goods, and, in the case of dutiable goods (except on the entry for
 
 warehousing of goods), the payment by the importer or exporter to the proper officer of full duties due thereon, or else, where permitted, the deposit of a sum of money or giving of security for the duties, as provided by law;
 
@@ -318,17 +322,13 @@ Customs and Excise Duties
 
 *Customs duties to be levied. 7 of 1976. 17 of 1994.*
 
-**3.** (1) Subject to any exemption or rebates provided by or under the authority of this Act, there shall be raised, levied, collected and paid for the use of the Government, the customs duties, in respect of goods imported into Belize, or taken out of bond for
+*Schedule I.*
+
+**3.** (1) Subject to any exemption or rebates provided by or under the authority of this Act, there shall be raised, levied, collected and paid for the use of the Government, the customs duties, in respect of goods imported into Belize, or taken out of bond for consumption in Belize, at the rates set out in Schedule I.
 
 *Schedule I.*
 
-consumption in Belize, at the rates set out in Schedule I.
-
-(2) The Minister may from time to time by Order published
-
-*Schedule I.*
-
-in the Gazette vary the tariff headings appearing in Schedule I (by fragmentation or otherwise), to give effect to any scheme for the rationalization of the tariff structure.
+(2) The Minister may from time to time by Order published in the Gazette vary the tariff headings appearing in Schedule I (by fragmentation or otherwise), to give effect to any scheme for the rationalization of the tariff structure.
 
 *Regulations. 40 of 1963.*
 
@@ -408,7 +408,9 @@ were genuinely shipped in error and that the consignee thereof has re-shipped th
 
 (b) if consisting of food stuffs, were in such a state when shipped as to be unfit for human consumption if the consignee thereof elects to have such goods destroyed under Customs supervision or has reshipped the same goods to the seller or consignor to the place from whence they originally came,
 
-Provided that such goods have been destroyed or re-shipped within fourteen days of their importation;
+*Provided that within fourteen*
+
+such goods have been destroyed or re-shipped days of their importation;
 
 (c) have depreciated in value or decreased in quantity on account of damage through breakage or other cause in transit, in ship or on shore before delivery,
 
@@ -450,15 +452,23 @@ Provided that the Comptroller may in his discretion allow any additional period 
 
 (3) No entry shall be required for the temporary importation of any motor vehicle, aircraft or pleasure boat under authority of a form of triptych or similar document issued by the appropriate authority in accordance with the International Convention relative to motor traffic signed at New York on the 4th June, 1954, the Customs Convention on the temporary importation for private use of aircraft and pleasure boats signed at Geneva on the 18th May, 1956, or any Convention made in substitution thereof, or in amendment thereof. It shall be a condition of the delivery of any such motor vehicle, aircraft or pleasure boat that the original copy of the triptych or document as aforesaid shall be delivered to the proper officer on importation and the duplicate thereof to the proper officer who
 
-examines the motor vehicle, aircraft or pleasure boat prior to shipment for exportation and that proof of shipment and exportation shall be furnished upon such duplicates as if such duplicate were a shipping bill.
+*examines the shipment for exportation*
 
-*Temporary visitors’ typewriters, etc., exempt from duty.*
+motor vehicle, aircraft or pleasure boat prior to exportation and that proof of shipment and shall be furnished upon such duplicates as if such duplicate were a shipping bill.
 
-**16.** All typewriters, cameras, telescopes and binoculars which the Comptroller is satisfied are the bona fide property of any person on a temporary visit to Belize shall be admitted free of duty.
+*Temporary All visitors’*
 
-*Remission of duties in certain cases. Schedule I. 11 of 2008.*
+*which the typewriters, etc., exempt from*
 
-**17.** (1) The Minister may after consultations with the Comptroller, remit, wholly or partially, the duties set forth in Schedule I in the following cases if he or she is satisfied that it would be in the public interest to do so–
+*duty.*
+
+**16.** typewriters, cameras, telescopes and binoculars Comptroller is satisfied are the bona fide property of any person on a temporary visit to Belize shall be admitted free
+
+*of duty.*
+
+*Remission of 17.-(1) The duties in certain Comptroller, cases. Schedule I. Schedule I in 11 of 2008.*
+
+Minister may after consultations with the remit, wholly or partially, the duties set forth in the following cases if he or she is satisfied that it would be in the public interest to do so–
 
 *11 of 2008.*
 
@@ -512,11 +522,9 @@ upon any goods whereon a Customs or an Excise duty at the time when such resolut
 
 (b) when the resolution shall have effected a reduction of the duty, the Comptroller is hereby authorised to collect the difference between the duty payable at the time of reduction and that fixed by the resolution.
 
-(6) Notwithstanding the provisions of this section the Minister may, when he deems it necessary or expedient to do so, by Order which shall take effect from the date of its publication in the Gazette, reduce or abolish any customs duty set out in
-
 *Schedule I.*
 
-Schedule I, or restore any such duty to its original level as it was before such reduction or abolition.
+(6) Notwithstanding the provisions of this section the Minister may, when he deems it necessary or expedient to do so, by Order which shall take effect from the date of its publication in the Gazette, reduce or abolish any customs duty set out in Schedule I, or restore any such duty to its original level as it was before such reduction or abolition.
 
 *27 of 1991.*
 
@@ -534,11 +542,9 @@ Schedule I, or restore any such duty to its original level as it was before such
 
 (2) The excise duties levied under this section shall be payable on goods produced locally or imported into Belize.
 
-(3) Notwithstanding the provisions of section 20 the Minister responsible for finance may when he deems it necessary or
-
 *Schedule II.*
 
-expedient to do so, by Order which shall take effect from the date of its publication in the Gazette, reduce or abolish any excise duties set out in Schedule II to this Act, or restore any such duty to its original level as it were before such reduction or abolition.
+(3) Notwithstanding the provisions of section 20 the Minister responsible for finance may when he deems it necessary or expedient to do so, by Order which shall take effect from the date of its publication in the Gazette, reduce or abolish any excise duties set out in Schedule II to this Act, or restore any such duty to its original level as it were before such reduction or abolition.
 
 (4) Every Order made under this section shall be subject to the provisions of sub-sections (7), (8) and (9) of section 20 and shall be read and construed with such necessary modifications and adaptations.
 
@@ -558,11 +564,29 @@ require the owner or manager of the property or business and any other person on
 
 (d) where during the course of such an audit or examination it appears to him that there has been a violation of this Act, seize, take away and retain any of the records, books, accounts, vouchers, letters, invoices, telegrams and other documents that appear to be relevant.
 
-(2) Where any book, record or other document has been seized, examined or produced under this section, the person by whom it was seized or examined or to whom it was produced may make, or cause to be made, one or more copies thereof and in any case in which the person to whom the original document was returned refuses or neglects to produce the original document in court, after having been required to do so by the Comptroller, a document purporting to be certified by the Comptroller to be a copy made pursuant to this sub-section shall be admissible in evidence and shall be conclusive evidence of the contents of the original document.
+*(2) Where seized, whom it was may make, or in any case in was returned document in*
 
-*Grant of refund drawback on excise duties in certain circumstances. Schedule II.*
+*Comptroller to*
 
-**24.** (1) As from 1st February, 1997, the Comptroller may grant a refund or drawback of the whole or a part of the duties set out in Schedule II if he is satisfied that the goods relating to such duty or drawback ,
+*the contents of*
+
+any book, record or other document has been examined or produced under this section, the person by seized or examined or to whom it was produced cause to be made, one or more copies thereof and which the person to whom the original document refuses or neglects to produce the original court, after having been required to do so by the Comptroller, a document purporting to be certified by the be a copy made pursuant to this sub-section shall be admissible in evidence and shall be conclusive evidence of the original document.
+
+*Grant of refund drawback on*
+
+*a refund or*
+
+*excise duties in certain*
+
+*in Schedule II*
+
+*circumstances.*
+
+*duty or*
+
+*Schedule II.*
+
+**24.** (1) As from 1st February, 1997, the Comptroller may grant drawback of the whole or a part of the duties set out if he is satisfied that the goods relating to such drawback ,
 
 (a) were spirits or cigarettes sold to an approved duty free shop; or
 
@@ -608,11 +632,9 @@ and for this purpose the provisions of Parts I and II and any regulations made t
 
 (2) In this section “discriminatory” means affording different treatment to goods of the same description and class by way of imposing different rates of duty attributable wholly or mainly to the country in which the goods are produced, whether Belize or any other country.
 
-Every Order made under section 25 shall be submitted to
-
 *Interim order to be confirmed amended or revoked by the National Assembly. 14 of 1992.*
 
-the National Assembly at its next sitting or as soon thereafter as possible; and the National Assembly may by resolution confirm, amend or revoke such Order and, upon publication of the resolution of the National Assembly in the Gazette, the resolution shall take effect in place of the Order.
+Every Order made under section 25 shall be submitted to the National Assembly at its next sitting or as soon thereafter as possible; and the National Assembly may by resolution confirm, amend or revoke such Order and, upon publication of the resolution of the National Assembly in the Gazette, the resolution shall take effect in place of the Order.
 
 *Regulations.*
 
@@ -650,11 +672,9 @@ Customs Tariff (CARICOM) 1
 
 *Exemptions.*
 
-**31.** Except as otherwise provided in this Part goods which are shown to the satisfaction of the Comptroller of Customs, in
-
 *CAP. 49.*
 
-accordance with the Customs Regulation Act and others Parts of this Act, to have been–
+**31.** Except as otherwise provided in this Part goods which are shown to the satisfaction of the Comptroller of Customs, in accordance with the Customs Regulation Act and others Parts of this Act, to have been–
 
 (a) consigned from a part of the CARICOM area; and
 
@@ -668,9 +688,11 @@ shall be free of import duty and entry tax.
 
 CARICOM Customs Tariff in this Part was provided in Act No.12 of 1978
 
+*Section*
+
 *Goods applicable to tariff.*
 
-Section 31 shall not apply to–
+31 shall not apply to–
 
 goods specified in Schedule V;
 
@@ -680,9 +702,9 @@ goods specified in Schedule V;
 
 (c) goods consisting of, or manufactured from, oils or fats within the meaning of clause 2 of the Oils and Fats Agreement made on the 26th January, 1967, between the Governments of Barbados, Dominica, Grenada, Guyana, St. Lucia, St. Vincent and Trinidad and Tobago or any agreement amending or replacing the same.
 
-*Goods which may be excluded from exemptions by Comptroller.*
+*Goods which 33.-(1) Any may be excluded Customs from from exemptions by Comptroller.*
 
-**33.** (1) Any goods may be excluded by the Comptroller of Customs from the provisions of section 31 if–
+goods may be excluded by the Comptroller of the provisions of section 31 if–
 
 (a) export drawback was allowable in connection with any exportation from any part of the CARICOM area of those goods or of articles used in the production or manufacture of those goods;
 
@@ -690,7 +712,9 @@ goods specified in Schedule V;
 
 (c) goods are in the opinion of the Comptroller of Customs of a class which, having regard to any notification issued by the Minister in accordance with section 34, are liable to customs duty as if sections 31 and 32 did not apply as respects those goods.
 
-(2) Where on importation into the country goods have been treated as coming within the scope of section 31, and after their importation export drawback is allowed, the Comptroller of
+*(2) Where treated as importation*
+
+on importation into the country goods have been coming within the scope of section 31, and after their export drawback is allowed, the Comptroller of
 
 Customs may, if he thinks fit, recover from the importer the amount of import duty which would have been chargeable on the importation of the goods into the country if the goods had not been treated as coming within the scope of section 31.
 
@@ -712,23 +736,21 @@ brought into free ports and other places which have similar customs privileges.
 
 ## PART V
 
-Miscellaneous
+*Regulations for 35.-(1) The inwards duty free establishment shops.*
 
-*Regulations for inwards duty free shops.*
+*connected*
 
-**35.** (1) The Minister may make regulations for the licensing and establishment of inwards duty free shops and for all matters connected therewith.
+Miscellaneous Minister may make regulations for the licensing and of inwards duty free shops and for all matters therewith.
 
-(2) Without prejudice to the generality of the foregoing, the Minister may make regulations for any or all of the following matters,
+*Minister may matters,*
+
+(2) Without prejudice to the generality of the foregoing, the make regulations for any or all of the following
 
 (a) the fees and other charges that may be payable by the operators of such shops;
 
-(b) the type of goods to be sold in such shops;
+(b) the type of goods to be sold in such shops; (c) the category of persons who may purchase goods from such shops;
 
-(c) the category of persons who may purchase goods from such shops;
-
-(d) the maximum value of purchases which may be made by persons from such shops;
-
-(e) the currency to be used in purchasing such goods;
+(d) the maximum value of purchases which may be made by persons from such shops; (e) the currency to be used in purchasing such goods;
 
 (f) the areas where such shops may be established;
 
@@ -736,7 +758,9 @@ Miscellaneous
 
 (h) any other matters for which it may be deemed expedient to make regulations.
 
-(3) All regulations made by the Minister under this section shall be laid before the National Assembly as soon as may be
+*(3) All shall be laid*
+
+regulations made by the Minister under this section before the National Assembly as soon as may be
 
 after the making thereof and shall be subject to negative resolution,
 
@@ -764,11 +788,9 @@ This Schedule was originally contained in Ch. 43, R.L., 1958. The schedule was l
 
 [section 21]
 
-### EXCISE DUTIES RATE OF
-
 *NO.*
 
-DESCRIPTION OF H.S.CODE BZ EXCISE GOODS DUTY Sugar confectionary 17.04 (including white Chocolate), not containing cocoa.
+EXCISE DUTIES RATE OF DESCRIPTION OF H.S.CODE BZ EXCISE GOODS DUTY Sugar confectionary 17.04 (including white Chocolate), not containing cocoa.
 
 Chewing gum, whether or not 1704.10.00 00 15% 1
 
@@ -1108,7 +1130,9 @@ Value of Imported Goods
 
 [section 5]
 
-**1.** (1) In this Schedule–
+*1.-(1) In this*
+
+Schedule–
 
 “Customs value of imported goods” means the (a)
 
@@ -1130,7 +1154,9 @@ same country which, although not alike in all respects, have like characteristic
 
 case may be, do not include goods which
 
-This Schedule was amended by Act No. 27 of 1991 .
+*This Schedule was*
+
+amended by Act No. 27 of 1991 .
 
 incorporate or reflect engineering, development, artwork, design work, and plans and sketches for which no adjustment has been made under paragraph 8(1)(b)(iv) because such elements were undertaken in Belize;
 
@@ -1138,7 +1164,9 @@ incorporate or reflect engineering, development, artwork, design work, and plans
 
 which fall within a group or range of goods produced by a particular industry or industry sector, and includes identical or similar goods.
 
-(2) For the purposes of this Schedule–
+*(2) For the*
+
+purposes of this Schedule–
 
 (a) persons shall be deemed to be related only if,
 
@@ -1168,17 +1196,27 @@ person;
 
 (e) an event shall be deemed to occur about the same time as another event if the first event occurs on the same day as the other event, or within the 45 days immediately before, or the 45 days immediately after, the day on which the other event occurs.
 
-**2.** (1) The customs value of imported goods shall be determined under paragraph 3 whenever the conditions prescribed therein are fulfilled.
+*2.-(1) The determined prescribed*
 
-(2) Where such value cannot be determined under paragraph 3, it shall be determined by proceeding sequentially through paragraphs 4 to 7, inclusive, to the first such paragraph under which it can be determined subject to the proviso that, where the importer requests it and the Comptroller of Customs agrees, the order of application of paragraphs 6 and 7 shall be reversed.
+customs value of imported goods shall be under paragraph 3 whenever the conditions therein are fulfilled.
 
-(3) Except as provided for in sub-paragraph (2), it is only when the customs value of imported goods cannot be determined under a particular paragraph that the provisions of
+*3, it shall be*
 
-the next paragraph in the sequence established by sub-paragraph
+*importer order of*
 
-(2) can be applied.
+(2) Where such value cannot be determined under paragraph determined by proceeding sequentially through paragraphs 4 to 7, inclusive, to the first such paragraph under which it can be determined subject to the proviso that, where the requests it and the Comptroller of Customs agrees, the application of paragraphs 6 and 7 shall be reversed.
 
-(4) Where the Customs value of imported goods cannot be determined under paragraph 3 to 7, inclusive, it shall,
+*when the determined*
+
+(3) Except as provided for in sub-paragraph (2), it is only customs value of imported goods cannot be under a particular paragraph that the provisions of
+
+*the next (2) can be*
+
+paragraph in the sequence established by sub-paragraph applied.
+
+*(4) Where determined*
+
+the Customs value of imported goods cannot be under paragraph 3 to 7, inclusive, it shall,
 
 (a) be determined using reasonable means consistent with the principles and general provisions of this Schedule;
 
@@ -1186,7 +1224,9 @@ the next paragraph in the sequence established by sub-paragraph
 
 (c) make use of the methods of valuation laid down in paragraphs 3 to 7, inclusive, using where necessary, reasonable flexibility in their application.
 
-(5) No customs value shall be determined under subparagraph (4) on the basis of,
+*(5) No paragraph (4)*
+
+customs value shall be determined under sub-on the basis of,
 
 (a) the selling price in Belize of goods produced in Belize;
 
@@ -1202,7 +1242,9 @@ the next paragraph in the sequence established by sub-paragraph
 
 (g) arbitrary or fictitious values.
 
-**3.** (1) The customs value of imported goods determined under this paragraph shall be the transaction value, that is, the price actually paid or payable for the goods when sold for export to Belize, adjusted in accordance with paragraph 8, and in appropriate cases paragraph 9, provided,
+*3.-(1) The this paragraph actually paid or Belize, appropriate*
+
+customs value of imported goods determined under shall be the transaction value, that is, the price payable for the goods when sold for export to adjusted in accordance with paragraph 8, and in cases paragraph 9, provided,
 
 (a) that there are no restrictions as to the disposition or use of the goods by the buyer, other than restrictions which,
 
@@ -1244,7 +1286,9 @@ commercial levels, quantity levels, the elements enumerated in paragraph 8, and 
 
 payable in determining the customs value of imported goods.
 
-(4) The customs value of imported goods shall not include the following charges or costs, provided that they are distinguished from the price actually paid or payable for the imported goods,
+*(4) The the following distinguished*
+
+customs value of imported goods shall not include charges or costs, provided that they are from the price actually paid or payable for the imported goods,
 
 (a) charges for construction, erection, assembly, maintenance or technical assistance, undertaken after importation on imported goods such as industrial plant, machinery or equipment;
 
@@ -1252,17 +1296,27 @@ payable in determining the customs value of imported goods.
 
 (c) the cost of transport after importation.
 
-(5) The fact that goods which are the subject of a sale are entered for home use within Belize shall be regarded as adequate indication that they were sold for export to Belize. This indication shall also apply where successive sales of the goods have taken place before valuation. Where such successive sales have taken place each price resulting from them may be used as a basis for valuation.
+*(5) The fact entered for indication that indication shall have taken*
 
-**4.** (1) (a) The customs value of imported goods determined under this paragraph shall be the transaction value of identical goods sold for export to Belize and exported at or about the same time as the goods being valued.
+*a basis for*
+
+that goods which are the subject of a sale are home use within Belize shall be regarded as adequate they were sold for export to Belize. This also apply where successive sales of the goods place before valuation. Where such successive sales have taken place each price resulting from them may be used as valuation.
+
+*4.-(1)*
+
+(a) The customs value of imported goods determined under this paragraph shall be the transaction value of identical goods sold for export to Belize and exported at or about the same time as the goods being valued.
 
 (b) In applying this paragraph, the transaction value of identical goods in a sale at the same commercial level and in substantially the same quantity as the goods being valued shall be used to determine the customs value. Where
 
 no such sale is found, the transaction value of identical goods sold at a different commercial level and/or in different quantities, adjusted to take account of differences attributable to commercial level and/or to quantity shall be used, provided that such adjustments can be made on the basis of demonstrated evidence which clearly establishes the reasonableness and accuracy of the adjustment, whether the adjustment leads to an increase or a decrease in value.
 
-(2) Where the costs and charges referred to in paragraph 8 (1)(e) are included in the transaction value, an adjustment shall be made to take account of significant differences in such costs and charges between the imported goods and the identical goods in question arising from differences in distances and modes of transport.
+*(2) Where (1)(e) are be made to take and charges in question transport.*
 
-(3) In applying this paragraph,
+the costs and charges referred to in paragraph 8 included in the transaction value, an adjustment shall account of significant differences in such costs between the imported goods and the identical goods arising from differences in distances and modes of
+
+*(3) In*
+
+applying this paragraph,
 
 (a) if more than one transaction value of similar goods is found, the lowest such value shall be used to determine the customs value of the imported goods;
 
@@ -1270,7 +1324,9 @@ no such sale is found, the transaction value of identical goods sold at a differ
 
 (c) a condition for adjustment because of different commercial levels or different quantities shall be that such adjustment shall be made only on the basis of demonstrated evidence that clearly establishes the reasonableness and accuracy of the adjustment.
 
-(4) For the purposes of this paragraph, the transaction value of similar imported goods means a customs value previously determined under paragraph 3, adjusted as provided for in subparagraph (1)(b) and (2) of this paragraph.
+*(4) For the of similar determined paragraph (1)(b)*
+
+purposes of this paragraph, the transaction value imported goods means a customs value previously under paragraph 3, adjusted as provided for in sub-and (2) of this paragraph.
 
 *5.-(1)*
 
@@ -1292,7 +1348,9 @@ determined under this paragraph shall, subject otherwise to the provisions of su
 
 (4) Any sale in Belize to a person who supplies directly or indirectly free of charge or at reduced cost for use in connection with the production and sale for export of the imported goods any of the elements specified in paragraph 8 (1)(b), shall not be taken into account in establishing the unit price for the purposes of this paragraph.
 
-(5) For the purpose of sub-paragraph (1)(a)(i),
+*(5) For the*
+
+purpose of sub-paragraph (1)(a)(i),
 
 “profit and general expenses” shall be taken as a whole. The figure for the purposes of this deduction shall be determined on the basis of information supplied by or on behalf of the importer unless his figures are inconsistent with those obtaining in sales of imported goods of the same class or kind. Where the importer’s figures are inconsistent with such figures, the amount for profit and general expenses may be based upon relevant information other than that supplied by or on behalf of the importer; and
 
@@ -1302,7 +1360,9 @@ determined under this paragraph shall, subject otherwise to the provisions of su
 
 goods imported from the same country as the goods being valued as well as goods imported from other countries.
 
-(6) For the purpose of sub-paragraph (1) (b) the “earliest date” shall be the date by which sales of the imported goods or of identical or similar imported goods are made in sufficient quantity to establish the unit price.
+*(6) For the date” shall be of identical or quantity to*
+
+purpose of sub-paragraph (1) (b) the “earliest the date by which sales of the imported goods or similar imported goods are made in sufficient establish the unit price.
 
 **6.** (1) The customs value of imported goods determined under this paragraph shall be based on a computed value which shall consist of the sum of,
 
@@ -1336,9 +1396,9 @@ the “general expenses” referred to cover the (e)
 
 direct and indirect costs of producing and selling the goods for export which are not included under sub-paragraph (1)(a).
 
-**7.** (1) In determining the customs value under paragraph 3, there shall be added to the price actually paid or payable for the
+*7.-(1) In there shall be imported goods,*
 
-*imported goods,*
+determining the customs value under paragraph 3, added to the price actually paid or payable for the
 
 (a) the following, to the extent that they are incurred by the buyer but are not included in the price actually paid or payable for the goods,
 
@@ -1368,11 +1428,17 @@ engineering, development, artwork, design work, and plans and sketches undertake
 
 (iii) the cost of insurance.
 
-(2) No additions shall be made to the price actually paid or payable in determining the customs value except as provided in this paragraph.
+*(2) No payable in*
 
-(3) Additions to the price actually paid or payable shall be made under this paragraph only on the basis of objective and quantifiable data; and if such do not exist a transaction value shall not be determined under the provisions of paragraph 3.
+additions shall be made to the price actually paid or determining the customs value except as provided in this paragraph.
 
-(4) In this paragraph, the term “buying commissions” means fees paid by an importer to his agent for the service of representing him abroad in the purchase of the goods being valued.
+*quantifiable shall not be*
+
+(3) Additions to the price actually paid or payable shall be made under this paragraph only on the basis of objective and data; and if such do not exist a transaction value determined under the provisions of paragraph 3.
+
+*(4) In this fees paid by representing valued.*
+
+paragraph, the term “buying commissions” means an importer to his agent for the service of him abroad in the purchase of the goods being
 
 (5) Notwithstanding sub-paragraph (1)(c) of this paragraph,
 
@@ -1380,7 +1446,9 @@ engineering, development, artwork, design work, and plans and sketches undertake
 
 (b) payments made by the buyer for the right to distribute or resell the imported goods shall not be added to the price actually paid or payable for the imported goods if such payments are not a condition of the sale for export to Belize of the goods.
 
-**8.** (1) Charges for interest under a financing arrangement entered into by the buyer and related to the purchase of imported goods shall not be included in the customs value determined under paragraph 3 provided that,
+*8.-(1) Charges entered into by goods shall not*
+
+for interest under a financing arrangement the buyer and related to the purchase of imported be included in the customs value determined under paragraph 3 provided that,
 
 (a) the charges are distinguished from the price actually paid or payable for the goods;
 

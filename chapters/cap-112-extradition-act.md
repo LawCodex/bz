@@ -146,11 +146,9 @@ the Supreme Court for a warrant of arrest of the accused person, and if the cour
 
 Extradition (Guatemala)
 
-**8.** The extradition of fugitive criminals between Belize and
-
 *Guatemala extradition regulated.*
 
-the Republic of Guatemala shall be as directed in accordance with–
+**8.** The extradition of fugitive criminals between Belize and the Republic of Guatemala shall be as directed in accordance with–
 
 (a) an Order in Council of Her late Majesty Queen Victoria made on the 26th day of November 1886, giving effect to a treaty between Her Majesty and the President of the Republic of Guatemala signed at Guatemala on the 4th day of July 1885, and published in the Gazette on the 22nd January 1887;
 
@@ -164,11 +162,9 @@ Extradition (United States of America)
 
 *United States extradition regulated.*
 
-**9.** The extradition of fugitive criminals between Belize and the United States of America shall be as directed in accordance
-
 *Schedule I.*
 
-with the Extradition Treaty between the Government of Belize and the Government of the United States of America signed on
+**9.** The extradition of fugitive criminals between Belize and the United States of America shall be as directed in accordance with the Extradition Treaty between the Government of Belize and the Government of the United States of America signed on
 
 *10 of 2016.*
 
@@ -178,11 +174,9 @@ the 30th day of March, 2000, a copy of which is set out in Schedule I.
 
 Extradition (United Mexican States)
 
-**10.** The extradition of fugitive criminals between Belize and
-
 *United Mexican Stated extradition regulated. Schedule II.*
 
-the United Mexican States shall be as directed in accordance with the Extradition Treaty between the Government of Belize and the Government of the United Mexican States, signed on the 29th day of August, 1988, a copy of which is set forth in Schedule II.
+**10.** The extradition of fugitive criminals between Belize and the United Mexican States shall be as directed in accordance with the Extradition Treaty between the Government of Belize and the Government of the United Mexican States, signed on the 29th day of August, 1988, a copy of which is set forth in Schedule II.
 
 ## SCHEDULE I EXTRADITION ACT
 
@@ -210,15 +204,23 @@ Extraditable Offenses
 
 **4.** If the offense was committed outside of the territory of the Requesting State, extradition shall be granted in accordance with this Treaty if the laws in the Requested State provide for
 
-punishment of an offense commit-ted outside of its territory in similar circumstances.
+*similar*
 
-**5.** If extradition has been granted for an extraditable offense, it shall also be granted for any other offense specified in the request even if the latter offense is punishable by one year’s deprivation of liberty or less, provided that all other requirements for extradition are met.
+punishment of an offense commit-ted outside of its territory in circumstances.
+
+*If*
+
+*year’s*
+
+**5.** extradition has been granted for an extraditable offense, it shall also be granted for any other offense specified in the request even if the latter offense is punishable by one deprivation of liberty or less, provided that all other requirements for extradition are met.
 
 Article 3
 
 Nationality
 
-Extradition shall not be refused on the ground that the person sought is a national of the Requested State.
+*sought is a*
+
+Extradition shall not be refused on the ground that the person national of the Requested State.
 
 Article 4
 
@@ -268,7 +270,9 @@ Extradition Procedures and Required Documents
 
 (d) the documents, statements, or other types of evidence specified in paragraph 3 or paragraph 4 of this Article, as applicable.
 
-**3.** A request for extradition of a person who is sought for prosecution shall also be supported by,
+*A prosecution*
+
+**3.** request for extradition of a person who is sought for shall also be supported by,
 
 (a) a copy of the warrant or order of arrest, if any, issued by a judge or other competent authority of the Requesting State;
 
@@ -276,7 +280,11 @@ Extradition Procedures and Required Documents
 
 (c) such evidence as would be found sufficient, according to the law of the Requested State, to justify the committal for trial of the person sought if the offense of which the person has been accused had been committed in the Requested State.
 
-A request for extradition relating to a person who has been convicted of the offense for which extradition is sought shall, in addition to the materials listed in paragraph 2 of this Article, be supported by,
+*A*
+
+*shall, in Article, be*
+
+request for extradition relating to a person who has been convicted of the offense for which extradition is sought addition to the materials listed in paragraph 2 of this supported by,
 
 (a) a copy of the judgment of conviction or, if such copy is not available, a statement by a judicial authority that the person has been convicted;
 
@@ -290,9 +298,13 @@ Article 7
 
 Admissibility of Documents
 
-The documents which accompany an extradition request shall be received and admitted as evidence in extradition proceedings if,
+*The shall be*
+
+documents which accompany an extradition request received and admitted as evidence in extradition proceedings if,
 
 (a) in the case of a request from the United States, they are authenticated by an officer of the United States Department of State and are certified by the principal diplomatic or consular officer of Belize resident in the United States;
+
+### THE SUBSTANTIVE LAWS OF BELIZE
 
 (b) in the case of a request from Belize, they are certified by the principal diplomatic or consular officer of the United States resident in Belize, as provided by the extradition laws of the United States; or
 
@@ -400,9 +412,13 @@ Rule of Speciality
 
 (ii) the person extradited may be detained by the Requesting State for 90 days, or for such longer period of time as the Requested State may authorize, while the request is being processed.
 
-**2.** A person extradited under this Treaty may not be extradited to a third State for an offense committed prior to his surrender unless the surrendering State consents.
+*A extradited to a*
 
-**3.** Paragraphs I and 2 of this Article shall not prevent the detention, trial, or punishment of an extradited person, or the extradition of that person to a third State, if,
+**2.** person extradited under this Treaty may not be third State for an offense committed prior to his surrender unless the surrendering State consents.
+
+*extradition of*
+
+**3.** Paragraphs I and 2 of this Article shall not prevent the detention, trial, or punishment of an extradited person, or the that person to a third State, if,
 
 (a) that person leaves the territory of the Requesting State after extradition and voluntarily returns to it; or
 
@@ -412,7 +428,13 @@ Article 15
 
 Waiver of Extradition
 
-If the person sought consents to surrender to the Requesting State, the Requested State may surrender the person as expeditiously as possible without further proceedings.
+*State, the*
+
+If the person sought consents to surrender to the Requesting Requested State may surrender the person as expeditiously as possible without further proceedings.
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 Article 16
 
@@ -470,6 +492,8 @@ Done at Belize, in duplicate, this 30th day of March, 2000.
 
 FOR THE GOVERNMENT OF FOR THE GOVERNMENT BELIZE: OF THE UNITED STATES OF AMERICA:
 
+*[CAP.*
+
 ## SCHEDULE
 
 List of Offenses Referred to in Treaty
@@ -495,6 +519,10 @@ List of Offenses Referred to in Treaty
 **10.** Robbery; assault with intent to rob;
 
 **11.** Burglary, housebreaking, shopbreaking, or similar offenses;
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 Receiving or otherwise handling any goods, money, valuable securities or other property, knowing the same to have been stolen or unlawfully obtained;
 

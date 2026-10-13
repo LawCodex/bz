@@ -84,6 +84,8 @@ Raising of Loans by Debentures
 
 Appointment of day for drawing of debentures.
 
+*[CAP.*
+
 Notice of time and place appointed for drawing. Mode of drawing.
 
 Notice of debentures drawn for redemption.
@@ -127,6 +129,10 @@ Raising of Loans by Issue of Stock
 **38.** Raising of loans in Belize.
 
 **39.** Regulations.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 ### PUBLIC LOANS
 
@@ -312,9 +318,13 @@ Provided always that contributions to the sinking fund shall be recommenced if t
 
 **31.** All expenses of or incidental to the management of the sinking fund, or to the payment of the principal moneys borrowed, shall be paid out of the sinking fund.
 
+*32.-(1) The*
+
 *Powers of Minister.*
 
-**32.** (1) The Minister shall also have, and may from time to time exercise, the following powers and authorities or any of them,
+*time exercise, them,*
+
+Minister shall also have, and may from time to the following powers and authorities or any of
 
 (a) he may authorise the Crown Agents when issuing any loan in the form of debentures to declare that the debentures will be convertible into stock at such dates and on the terms and conditions as may be prescribed by the Crown Agents at the time of the issue of the debentures;
 
@@ -324,7 +334,9 @@ Provided always that contributions to the sinking fund shall be recommenced if t
 
 (d) he may authorise the creation and sale of any such stock or debentures for the purpose of raising money for redeeming any outstanding loans whether issued before or subsequent to the passing of this Act, for paying any expense in the creation of stock, and otherwise for carrying out the provisions of this Act.
 
-(2) Any conversion authorised under this section may be effected either by an arrangement with the holders of existing securities or by purchase thereof out of moneys raised by the sale of stock, or partly in one way and partly in the other.
+*(2) Any effected either securities or by sale of stock, or*
+
+conversion authorised under this section may be by an arrangement with the holders of existing purchase thereof out of moneys raised by the partly in one way and partly in the other.
 
 *Exchange of securities for stock.*
 

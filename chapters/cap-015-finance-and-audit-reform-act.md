@@ -166,17 +166,25 @@ of procurement of goods or services, or a combination of goods and services by c
 
 (b) of sale of goods or services, or a combination of goods and services by contract by the Government,
 
-in accordance with section 19 of this Act;
+*in accordance*
 
-“procurement” means a procurement of goods or services, or a combination of goods and services by contract by the Government;
+with section 19 of this Act;
 
-“public moneys” means,
+*“procurement” combination of Government;*
+
+means a procurement of goods or services, or a goods and services by contract by the
+
+*“public*
+
+moneys” means,
 
 (a) all revenues or other moneys raised or received by Belize referred in section 114(1) of the Belize Constitution, Cap. 4;
 
 (b) any other moneys held, whether temporarily or otherwise, by any person, for and on behalf of the Government;
 
-“selective tendering procedure” means a tendering procedure,
+*“selective*
+
+tendering procedure” means a tendering procedure,
 
 (a) of procurement of goods or services, or a combination of goods and services by the Government where by only suppliers invited to do so by the Government may submit a tender for a contract;
 
@@ -216,11 +224,17 @@ Finance
 
 (5) The moneys standing to the credit of the Consolidated Revenue Fund referred to in subsection (4) of this section, may be invested, on the authority of the Cabinet, with a bank or financial institution, either at call or subject to notice, or with any Fund administered by the Crown Agents, or in any of the investments authorized by law for the investment of trustee funds, and such investments, together with any interest received therefrom, shall form part of the Consolidated Revenue Fund.
 
-*Issue of money before passing of Appropriation Act.*
+*If the Issue of money*
 
-**4.** If the Appropriation Act for any financial year has not come into operation by the beginning of that financial year, the Minister may by warrant under his hand authorize the withdrawal from the Consolidated Revenue Fund of moneys to meet such expenditure as may be necessary to carry on the services of the Government until the expiration of four months from the beginning of that financial year, or the coming into operation of that Appropriation Act, whichever is the earlier,
+*before passing of come into Appropriation Act.*
 
-Provided that,
+*meet such*
+
+*from the*
+
+**4.** Appropriation Act for any financial year has not operation by the beginning of that financial year, the Minister may by warrant under his hand authorize the withdrawal from the Consolidated Revenue Fund of moneys to expenditure as may be necessary to carry on the services of the Government until the expiration of four months beginning of that financial year, or the coming into operation of that Appropriation Act, whichever is the earlier,
+
+*Provided that,*
 
 (a) no expenditure upon any goods or service for which no provision has been made in an Act in force during the previous financial year shall be deemed to be authorized by this section;
 
@@ -228,9 +242,9 @@ Provided that,
 
 (c) all moneys withdrawn from the Consolidated Revenue Fund in pursuance of the said warrants shall be deemed to have been issued in anticipation of grants being made by the National Assembly in the Appropriation Act for the financial year in which the withdrawal took place, and on the coming into operation of such Act the warrant shall cease to have effect, and withdrawals thereunder shall be deemed to have been made for the purposes of such Act and shall be accounted for accordingly.
 
-*Special Warrants.*
+*Special 5.-(1) If the Warrants.*
 
-**5.** (1) If the Minister is satisfied that there has arisen an urgent and unforeseen need for expenditure which,
+Minister is satisfied that there has arisen an urgent and unforeseen need for expenditure which,
 
 being in respect of a new service or new goods is not provided for in any Act, or
 
@@ -248,9 +262,9 @@ Provided howsoever that all such authorizations by Special Warrant must be repor
 
 year, or the sum of five hundred thousand dollars in the case of new goods or a new service.
 
-*Advances.*
+*Advances. 6.-(1) The*
 
-**6.** (1) The Minister may, by advance warrant, authorize the issue, from the Consolidated Revenue Fund and other public funds of Belize advances,
+Minister may, by advance warrant, authorize the issue, from the Consolidated Revenue Fund and other public funds of Belize advances,
 
 (a) on behalf of, and recoverable from, other Governments;
 
@@ -260,11 +274,17 @@ year, or the sum of five hundred thousand dollars in the case of new goods or a 
 
 (d) to public officers for the purposes and under the conditions set out in the Public Service Regulations for the time being in force.
 
-(2) The total advances under paragraphs (c) and (d) of subsection (1), shall not after repayments have been deducted exceed at any time five hundred thousand dollars without the prior approval of the National Assembly.
+*(2) The*
 
-*Loans to Government.*
+*exceed at any prior approval*
 
-**7.** (1) The National Assembly may, subject to subsection (2) of this section, from time to time by resolution authorize the Government to borrow monies or to raise loans and to offer security for such monies or loans, from any public or private
+total advances under paragraphs (c) and (d) of subsection (1), shall not after repayments have been deducted time five hundred thousand dollars without the of the National Assembly.
+
+*Loans to 7.-(1) The Government. this section,*
+
+*security for*
+
+National Assembly may, subject to subsection (2) of from time to time by resolution authorize the Government to borrow monies or to raise loans and to offer such monies or loans, from any public or private
 
 bank or financial institution or capital market in or outside Belize, upon such terms and conditions and in an amount not exceeding in the aggregate the sum specified in that behalf in the resolution, to meet current or capital requirements.
 
@@ -406,13 +426,21 @@ call upon any public officer for any explanations and information he may require
 
 (d) lay before the Attorney General a case in writing as to any question regarding the interpretation of any law concerning the powers of the Auditor General or the discharge of his duties, and the Attorney General shall give a written opinion upon such case.
 
-(2) In the exercise of his duties under this Act, the Auditor General or any person duly authorized thereto by him shall have access to all books, vouchers, documents, cash, stamps, securities, stores or other Government property of any kind whatsoever, including in electronic form, in the possession of any public officer.
+*(2) In the*
 
-(3) In the exercise of his duties under this Act, the Auditor General shall not be subject to the direction or control of any other person or authority.
+*securities, whatsoever, any public*
 
-*31 of 2010.*
+exercise of his duties under this Act, the Auditor General or any person duly authorized thereto by him shall have access to all books, vouchers, documents, cash, stamps, stores or other Government property of any kind including in electronic form, in the possession of officer.
 
-(4) Every public officer who makes a default in the supply of information to the Auditor General, or willfully supplies false or misleading information, or otherwise willfully obstructs the Auditor General in the discharge of his or her duties under this Act, shall be subject to disciplinary action by the competent authority, without prejudice to any criminal
+*(3) In the General shall*
+
+exercise of his duties under this Act, the Auditor not be subject to the direction or control of any other person or authority.
+
+*31 of 2010. (4) Every*
+
+*false or obstructs the*
+
+public officer who makes a default in the supply of information to the Auditor General, or willfully supplies misleading information, or otherwise willfully Auditor General in the discharge of his or her duties under this Act, shall be subject to disciplinary action by the competent authority, without prejudice to any criminal
 
 liability, which may be incurred where the act or omission alleged is an offence under the Criminal Code, Cap. 101 of any other law.
 
@@ -528,13 +556,13 @@ or purchaser from being considered for the purposes of the procurement;
 
 (j) an applicable supplier or purchaser who is included in a permanent list of qualified suppliers or purchasers is notified as soon as possible after the list ceases to be used or his name is removed from the list.
 
-(2) The Government may, for the purposes of subsection
+*(2) The (1) of this participate in*
 
-(1) of this section, treat a supplier or purchaser as ineligible to participate in the open tendering procedure or to short-list the
+Government may, for the purposes of subsection section, treat a supplier or purchaser as ineligible to the open tendering procedure or to short-list the
 
-supplier or purchaser in the list of eligible suppliers or
+*supplier or purchasers where,*
 
-*purchasers where,*
+purchaser in the list of eligible suppliers or
 
 (a) the supplier, or purchaser, being an individual, is bankrupt or has made any composition or arrangement for the benefit of his creditors;
 
@@ -544,9 +572,9 @@ supplier or purchaser in the list of eligible suppliers or
 
 (d) the supplier or purchaser is guilty of serious misrepresentation in supplying any information required by the Government.
 
-(3) The Government shall, through the appropriate
+*(3) The Ministry,*
 
-*Ministry,*
+Government shall, through the appropriate
 
 (a) consider the tenders supplied by suppliers or purchasers;
 
@@ -580,13 +608,23 @@ supplier or purchaser in the list of eligible suppliers or
 
 (f) any other relevant factors.
 
-(3) Where a permanent list of qualified suppliers or purchasers is maintained, the Government may select the supplier or purchaser from that list, and award the contract accordingly.
+*(3) Where a purchasers is supplier or accordingly.*
 
-(4) Section 19(3) and (4) of this Act shall, mutatis mutandis, apply to the selective tendering procedure.
+permanent list of qualified suppliers or maintained, the Government may select the purchaser from that list, and award the contract
 
-*Limited tendering procedure.*
+*(4) Section mutandis, apply*
 
-**21.** (1) The Government shall use the limited tendering procedure for procurement or sale in the following circumstances,
+19(3) and (4) of this Act shall, mutatis to the selective tendering procedure.
+
+*Limited 21.-(1) The tendering*
+
+*procedure for*
+
+*procedure.*
+
+Government shall use the limited tendering procurement or sale in the following
+
+*circumstances,*
 
 (a) where the open tendering procedure or selective tendering procedure was used but no tender was received;
 
@@ -654,9 +692,13 @@ on disciplinary proceedings, to dismissal, demotion or a fine not exceeding ten 
 
 (b) on summary conviction, to imprisonment for a term not exceeding two years or to a fine not exceeding ten thousand dollars or to both such fine and term of imprisonment.
 
-(4) All regulations made by the Minister under this section shall be subject to affirmative resolution.
+*(4) All shall be subject*
 
-(5) The Financial Orders and Stores Orders which were in force immediately before the commencement of the principal Act, shall have legislative effect and shall be binding on all public officers, with particular reference to the following matters, insofar as they are not inconsistent with the provisions of this Act or until amended or repealed by regulations made by the Minister under subsection (1) of this section,
+regulations made by the Minister under this section to affirmative resolution.
+
+*(5) The force Act, shall have public officers, matters, insofar of this Act or by the Minister*
+
+Financial Orders and Stores Orders which were in immediately before the commencement of the principal legislative effect and shall be binding on all with particular reference to the following as they are not inconsistent with the provisions until amended or repealed by regulations made under subsection (1) of this section,
 
 (a) the collection, receipt, custody, issue, expenditure, due accounting for, care and management of all public money and the duties of all persons concerned therein;
 

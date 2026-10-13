@@ -82,6 +82,10 @@ R.E. 1980-1990.
 
 (2) Without prejudice to the generality of the powers conferred by subsection (1) of this section, exchange control regulations may be made to confer powers, and impose duties and restrictions, in relation to gold, currency, payments, securities, debts, and the import, export, transfer and settlement of property, and for purposes connected with the matters mentioned in this subsection.
 
+*THE*
+
+### SUBSTANTIVE LAWS OF BELIZE
+
 *Exemption.*
 
 **4.** The Minister may by an Order published in the Gazette exempt any person or body of persons from the provisions of the exchange control regulations.
@@ -101,3 +105,7 @@ R.E. 1980-1990.
 Provided that the punishment for a second offence under this section shall not be less than a fine of five thousand dollars or a term of imprisonment of not less than six months and the punishment for a third or subsequent offence under this section shall not be less than a term of six months imprisonment.
 
 (2) Where the offence is concerned with any currency, security, payment, gold, goods or any other property, and does not consist only of a failure to give information or to produce books, accounts or other documents with respect thereto when required to do so under any exchange control regulations, a larger fine may be imposed not exceeding three times the amount or value of the currency, security, payment, gold, goods, or property.
+
+*EDITION 2020*
+
+### REVISED

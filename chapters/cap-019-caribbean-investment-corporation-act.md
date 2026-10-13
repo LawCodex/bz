@@ -148,15 +148,17 @@ The States mentioned in paragraph 1 (b) of this Article the Governments of which
 
 Functions and Powers
 
-*19 of 1978.*
+*19 of 1978. The promotion of development of agricultural and Countries that*
 
-**1.** The function of the Corporation shall be to ensure the promotion of the industrial development including the development of agro-based industries, tourism and integrated agricultural and industrial complexes of the Less Developed Countries that are members of the Corporation and which,
+**1.** function of the Corporation shall be to ensure the the industrial development including the agro-based industries, tourism and integrated industrial complexes of the Less Developed are members of the Corporation and which,
 
 (a) prior to the 1st May, 1974, have signed the Accord done at Georgetown, Guyana on the 13th day of April, 1973; and
 
 (b) on or after the 1st May, 1974, are members of the Caribbean Common Market.
 
-**2.** For the purpose of performing this function the Corporation is hereby empowered to,
+*For the Corporation is*
+
+**2.** purpose of performing this function the hereby empowered to,
 
 (a) make equity investments in industrial enterprise in the Less Developed Countries;
 
@@ -172,9 +174,11 @@ guarantee suppliers’ credits;
 
 Definitions
 
-**1.** For the purpose of this Agreement the following expressions shall, unless the context otherwise require, have the meaning herein provided: “More Developed Country” means Barbados, Guyana, Jamaica, Trinidad and Tobago, and
+*expressions*
 
-“Less Developed Country” means any other State listed in Part A of the Annex which is a Member of the Corporation provided that the Board of Governors may from time to time decide to alter any designation as to them may seem fit.
+*means “Less A of the*
+
+**1.** For the purpose of this Agreement the following shall, unless the context otherwise require, have the meaning herein provided: “More Developed Country” Barbados, Guyana, Jamaica, Trinidad and Tobago, and Developed Country” means any other State listed in Part Annex which is a Member of the Corporation provided that the Board of Governors may from time to time decide to alter any designation as to them may seem fit.
 
 2.
 
@@ -266,13 +270,19 @@ The financial resources of the Corporation shall be used exclusively to further 
 
 POWERS AND MANAGEMENT ARTICLE 12 Borrowing and Other Specific Powers
 
-**1.** In addition to any other powers conferred on the Corporation by this Agreement for the purpose of exercising its functions the Corporation shall have power to, (a) borrow money (whether by way of debentures or otherwise) for the purpose for which it is established;
+*In*
 
-(b) advance money by way of loans on such terms and conditions as it thinks necessary; (c) invest or deposit in any State that is a member of the Corporation any of its resources not needed in its operations. ARTICLE 13 Management The Corporation shall have a Board of Governors, a Board of Directors and such staff as is necessary for the exercise of its functions.
+**1.** addition to any other powers conferred on the Corporation by this Agreement for the purpose of exercising its functions the Corporation shall have power to, (a) borrow money (whether by way of debentures or otherwise) for the purpose for which it is established;
+
+(b) advance money by way of loans on such terms and conditions as it thinks necessary; (c) invest or deposit in any State that is a member of the Corporation any of its resources not needed in its operations. ARTICLE 13 Management The Corporation shall have a Board of Governors, a Board of Directors and such staff as is necessary for the exercise of its
+
+*functions.*
 
 ARTICLE 14 Composition of Board of Governors
 
-**1.** The Board of Governors shall consist of the following persons,
+*The persons,*
+
+**1.** Board of Governors shall consist of the following
 
 (a) a Minister of Government appointed as a Governor by each of the Member States;
 
@@ -290,9 +300,15 @@ ARTICLE 14 Composition of Board of Governors
 
 Powers of Board of Governors
 
-**1.** All the functions and powers of the Corporation, except the power to make equity investments, guarantee loans and advance money by way of loans and appoint staff of the Corporation, shall be vested in the Board of Governors.
+*All the the power to*
 
-**2.** The Board of Governors may delegate to the Board of Directors all or any of its powers, except the power to,
+*Corporation,*
+
+**1.** functions and powers of the Corporation, except make equity investments, guarantee loans and advance money by way of loans and appoint staff of the shall be vested in the Board of Governors.
+
+*\2. The Board Directors all or*
+
+of Governors may delegate to the Board of any of its powers, except the power to,
 
 (a) admit new members referred to in paragraph 1 (b) of Article 2 of this Agreement and determine the terms and conditions of their admission;
 
@@ -314,15 +330,23 @@ Powers of Board of Governors
 
 (j) exercise any other powers that are expressly assigned to the Board of Governors in this Agreement.
 
-**3.** The Board of Governors shall retain full power to exercise authority over any matter delegated to the Board of Directors under paragraph 2 and may give general policy directions on any matter within the competence of the Board of Directors.
+*The exercise*
+
+*directions on Directors.*
+
+**3.** Board of Governors shall retain full power to authority over any matter delegated to the Board of Directors under paragraph 2 and may give general policy any matter within the competence of the Board of
 
 ### ARTICLE 16
 
 Procedure of Board of Governors
 
-**1.** The Board of Governors shall hold an annual meeting and such other meetings as may be called by the Chairperson or by the Board of Directors. The Board of Directors shall call a meeting of the Board of Governors whenever requested by a majority of the members of the Corporation.
+*The*
 
-**2.** The quorum for any meeting of the Board of Governors shall not be less than ten governors of whom,
+**1.** Board of Governors shall hold an annual meeting and such other meetings as may be called by the Chairperson or by the Board of Directors. The Board of Directors shall call a meeting of the Board of Governors whenever requested by a majority of the members of the Corporation.
+
+*The*
+
+**2.** quorum for any meeting of the Board of Governors shall not be less than ten governors of whom,
 
 (a) at least two of the governors are representatives of the More Developed Countries;
 
@@ -330,9 +354,13 @@ Procedure of Board of Governors
 
 (c) at least four of the governors are representatives of the Less Developed Countries.
 
-**3.** The Board of Governors may by regulation establish a procedure whereby the Board of Directors may, when the latter considers it advisable, obtain a vote of the governors on a specific question without calling a meeting of the Board of Governors.
+*The procedure considers it specific Governors.*
 
-**4.** The Board of Governors may,
+**3.** Board of Governors may by regulation establish a whereby the Board of Directors may, when the latter advisable, obtain a vote of the governors on a question without calling a meeting of the Board of
+
+*The*
+
+**4.** Board of Governors may,
 
 (a) establish such subsidiary bodies as it may consider necessary in the exercise of its powers under this Agreement;
 
@@ -344,7 +372,9 @@ Procedure of Board of Governors
 
 Composition of Board of Directors
 
-**1.** The Board of Directors shall consist of the following persons,
+*The persons,*
+
+**1.** Board of Directors shall consist of the following
 
 (a) a representative appointed by each of the governments of the More Developed Countries;
 
@@ -360,17 +390,25 @@ Composition of Board of Directors
 
 (c) The appointment of a director may at any time be revoked by the authority responsible for such appointment under paragraph 1 of this Article.
 
-**3.** Each director shall have an alternate who shall, in the case of the director appointed under paragraph 1 (a) or (b) of this Article be appointed in like manner as the director and, in the case of a director appointed under paragraph 1 (c) of this Article be appointed by the director.
+*Each case of the this Article be the case of a Article be*
 
-**4.** The alternate to a director selected from the Less Developed Countries under paragraph 1 (c) hereof shall also be from the Less Developed Countries.
+**3.** director shall have an alternate who shall, in the director appointed under paragraph 1 (a) or (b) of appointed in like manner as the director and, in director appointed under paragraph 1 (c) of this appointed by the director.
+
+*The Developed from the Less*
+
+**4.** alternate to a director selected from the Less Countries under paragraph 1 (c) hereof shall also be Developed Countries.
 
 Disqualification of Directors
 
-**1.** No person shall be eligible to be a director who is, (a) a member of the Board of Governors; or (b) a member of the Legislature of any of the States which are members of the Corporation; or
+*No*
+
+**1.** person shall be eligible to be a director who is, (a) a member of the Board of Governors; or (b) a member of the Legislature of any of the States which are members of the Corporation; or
 
 (c) an employee of the Corporation.
 
-**2.** The office of a director appointed under paragraph 1 (c) of Article 17 of this Agreement shall be deemed to be vacated if the director,
+*The*
+
+**2.** office of a director appointed under paragraph 1 (c) of Article 17 of this Agreement shall be deemed to be vacated if the director,
 
 (a) assumes any of the offices mentioned in paragraph 1 of this Article;
 
@@ -378,7 +416,9 @@ Disqualification of Directors
 
 (d) resigns his office by notice in writing to the Corporation;
 
-(e) is no longer a member of the Corporation. In any such case, the provisions of paragraph 2 (b) of Article 17 shall apply.
+*In any such*
+
+(e) is no longer a member of the Corporation. case, the provisions of paragraph 2 (b) of Article 17 shall apply.
 
 Chairperson of Board of Directors
 
@@ -408,21 +448,35 @@ Subject to the general policy directions of the Board of Governors, the Board of
 
 Procedure of Board of Directors
 
-**1.** The Board of Directors shall meet at least four times in each year and at such times and places as may be necessary for the efficient performance of its functions.
+*The*
 
-**2.** A special meeting may be called by the Board of Directors at any time at the written request of the majority of the total membership of the Board of Directors.
+**1.** Board of Directors shall meet at least four times in each year and at such times and places as may be necessary for the efficient performance of its functions.
 
-**3.** The Board may regulate the procedure to be adopted in the conduct of its meetings.
+*A*
 
-**4.** A Director or his alternate shall during deliberations on any matter in which he has a pecuniary interest either directly or indirectly declare such interest.
+*the total*
 
-**5.** Six members of the Board of Directors shall constitute a quorum: Provided that three members of the quorum shall be respectively,
+**2.** special meeting may be called by the Board of Directors at any time at the written request of the majority of membership of the Board of Directors.
+
+*The*
+
+**3.** Board may regulate the procedure to be adopted in the conduct of its meetings.
+
+*A*
+
+**4.** Director or his alternate shall during deliberations on any matter in which he has a pecuniary interest either directly or indirectly declare such interest.
+
+*Six a quorum:*
+
+**5.** members of the Board of Directors shall constitute Provided that three members of the quorum shall be respectively,
 
 (a) a representative of a More Developed Country;
 
 (b) a representative of a Less Developed Country; and
 
 (c) a representative of the members admitted to membership under paragraph 1 (c) of Article 2 of this Agreement.
+
+Caribbean Investment Corporation [CAP.
 
 **6.** Each member of the Board of Directors shall have one vote. The Chairperson shall have a casting vote.
 
@@ -518,7 +572,9 @@ Distribution of Assets on Termination
 
 (c) the Board of Governors has made an evaluation of the assets to be distributed among members.
 
-**2.** Any distribution of the assets of the Corporation to the members shall be in proportion to the contribution of the member to the issue of the authorised capital stock of the Corporation and shall be effected at such times and under such conditions as the Board of Governors deems fair and equitable.
+*Any*
+
+**2.** distribution of the assets of the Corporation to the members shall be in proportion to the contribution of the member to the issue of the authorised capital stock of the Corporation and shall be effected at such times and under such conditions as the Board of Governors deems fair and equitable.
 
 ### CHAPTER IX
 
@@ -528,7 +584,9 @@ Distribution of Assets on Termination
 
 Legal Status
 
-**1.** The Corporation shall possess full juridical personality and, in particular, full capacity to,
+*The and, in*
+
+**1.** Corporation shall possess full juridical personality particular, full capacity to,
 
 (a) enter into agreement;
 
@@ -564,7 +622,11 @@ financial controls, regulations or moratoria of any kind.
 
 Immunities and Privileges of Personnel
 
-**1.** The Governors, Directors, alternates, officials and staff of, and experts performing missions for, the Corporation shall be immune from legal process with respect to acts done by them in their official capacity.
+*The*
+
+*be immune them in their*
+
+**1.** Governors, Directors, alternates, officials and staff of, and experts performing missions for, the Corporation shall from legal process with respect to acts done by official capacity.
 
 **2.** Persons referred to in paragraph 1 of this Article who are not nationals shall,
 

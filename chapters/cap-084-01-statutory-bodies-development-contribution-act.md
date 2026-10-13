@@ -36,6 +36,8 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 This is a revised edition of the Substantive Laws, prepared by the Law Revision Commissioner under the authority of the Law Revision Act, Chapter 3 of the Substantive Laws of Belize, Revised Edition 2020.
 
+Statutory Bodies Development Contribution[CAP. 84:01 3
+
 ### STATUTORY BODIES DEVELOPMENT CONTRIBUTION
 
 ## ARRANGEMENT OF SECTIONS
@@ -79,6 +81,8 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 (c) Belize Tourism Board;
 
 (d) Belize Trade and Investment Development Service (BELTRAIDE);
+
+Statutory Bodies Development Contribution[CAP.
 
 (e) Border Management Agency;
 
@@ -129,5 +133,9 @@ March, 30th June, 30th September and 31st December, in each year of assessment.
 (a) the forms, notices, returns, books, registers or other documents to be used and the particulars to be given in connection with this Act;
 
 (b) any fees payable for services performed under this Act; or
+
+*Statutory*
+
+Bodies Development Contribution[CAP.
 
 (c) all other matters and things which by this Act are required or permitted to be prescribed or which are necessary or expedient to be prescribed to give effect to this Act.

@@ -70,6 +70,10 @@ CAP. 57. [11 th November, 1972] R.E. 1980-1990.
 
 **5.** The contribution to a sinking fund as contemplated by the provisions of section 12 of the Local Public Loans Act, shall commence, in respect of the loan authorised by this Act, in the half year ending on 1st November, 1975.
 
+*THE*
+
+### SUBSTANTIVE LAWS OF BELIZE
+
 *Interest paid on debentures not computed in chargeable income. CAP. 55.*
 
 **6.** The interest paid on the debentures issued in respect of the loan authorised by this Act shall not be taken into account in ascertaining the chargeable income of debenture-holders under the Income and Business Tax Act.

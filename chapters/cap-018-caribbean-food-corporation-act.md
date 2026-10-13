@@ -176,7 +176,7 @@ missions in connection with, the Corporation, its subsidiaries or joint enterpri
 
 **32.** Freedom of Assets from Restrictions.
 
-**33.** Immunities and Privileges of the Corporation Personnel.
+**33.** Immunities and Privileges of Corporation Personnel.
 
 **34.** Taxation.
 
@@ -224,7 +224,7 @@ Interpretation and Application
 
 **1.** In this Agreement unless the context otherwise requires,
 
-“agricultural production” includes the (a)
+“agricultural production” includes (a)
 
 production of fish and meat;
 
@@ -268,13 +268,17 @@ General of the Caribbean Community established by the Treaty;
 
 Caribbean Community done at Chaguaramas on the 4th July, 1973.
 
-Any question of interpretation or application of the provisions of this Agreement not otherwise expressly provided for shall be submitted to the Board of Governors for decision by a simple majority of the total number of Governors.
+*Any provisions of for shall be by a simple*
+
+question of interpretation or application of the this Agreement not otherwise expressly provided submitted to the Board of Governors for decision majority of the total number of Governors.
 
 ### ARTICLE 3
 
 Objectives
 
-The Corporation shall have as its objectives the production, processing, packing, storage, transportation, distribution and marketing of food, and without limiting the generality of the foregoing, the following,
+*The processing, marketing of*
+
+Corporation shall have as its objectives the production, packing, storage, transportation, distribution and food, and without limiting the generality of the foregoing, the following,
 
 (a) identifying, planning and implementing all stages of agricultural production schemes and any schemes relating thereto and, in pursuing the foregoing, to co- operate with national agencies;
 
@@ -336,7 +340,11 @@ In order to achieve its objectives, the Corporation shall have power,
 
 (j) to do all such other things as may be considered to be incidental or conducive to the exercise of the above powers or any of them.
 
-And it is hereby declared that the word “company” in this Article shall be deemed to include any body of persons whether corporate or unincorporated, and that the powers specified in the different paragraphs of this Article shall, except where otherwise expressed in such paragraphs, be in no wise limited by reference to any other paragraphs or the name of the Corporation, but may be carried out in as full and ample
+*And it is Article shall whether specified in except where*
+
+*of the*
+
+hereby declared that the word “company” in this be deemed to include any body of persons corporate or unincorporated, and that the powers the different paragraphs of this Article shall, otherwise expressed in such paragraphs, be in no wise limited by reference to any other paragraphs or the name Corporation, but may be carried out in as full and ample
 
 a manner and shall be construed in as wide a sense as if each of the said paragraphs defined the powers of a separate, distinct and independent company.
 
@@ -420,13 +428,17 @@ borrowed by the Corporation for the purpose of meeting any of its obligations or
 
 Operating Principles
 
-**1.** In pursuance of its objectives the Corporation shall invest in enterprises which are financially viable, due regard being paid to the following important criteria,
+*In invest in*
+
+**1.** pursuance of its objectives the Corporation shall enterprises which are financially viable, due regard being paid to the following important criteria,
 
 (a) the ability of the enterprise to increase agricultural production in order to achieve the greatest possible self-sufficiency within the Region; and
 
 (b) the ability of the enterprise to produce agricultural products that will raise the nutritional levels within the Region.
 
-**2.** In the performance of its functions the Corporation may,
+**2.** In the performance of its functions the Corporation
+
+*may,*
 
 (a) utilise the services of wholly-owned subsidiaries;
 
@@ -434,15 +446,21 @@ Operating Principles
 
 (c) utilise where appropriate the services of the Caribbean Investment Corporation, the Caribbean Development Bank, the Caribbean Agricultural Research and Development Institute and similar institutions within or without the Region.
 
-**3.** In making investments in private enterprises, regionally owned and controlled enterprises shall be preferred.
+*In*
 
-**4.** Before engaging in any enterprise in a Member Country the Corporation shall obtain the approval of the Member Country in which the enterprise is to be located.
+**3.** making investments in private enterprises, regionally owned and controlled enterprises shall be preferred.
+
+*the*
+
+**4.** Before engaging in any enterprise in a Member Country Corporation shall obtain the approval of the Member Country in which the enterprise is to be located.
 
 ### ARTICLE 12
 
 Investment Programmes
 
-**1.** The Board of Directors shall submit for approval of the Board of Governors, investment programmes at such times and for such periods as the Board of Governors may determine. These investment programmes shall take into account the respective policies of Member Countries within the Region concerning agriculture and agro-based industries.
+*Board of for such These respective*
+
+**1.** The Board of Directors shall submit for approval of the Governors, investment programmes at such times and periods as the Board of Governors may determine. investment programmes shall take into account the policies of Member Countries within the Region concerning agriculture and agro-based industries.
 
 The investment programmes shall take into account the priority areas of activity as determined by the Board of Governors under Article 18 of this Agreement.
 
@@ -528,13 +546,17 @@ Board of Governors Voting and Procedure
 
 Board of Directors Composition
 
-**1.** Upon the entry into force of this Agreement the Board of Directors shall consist of not more than nine Directors, as follows,
+*Upon the of Directors follows,*
+
+**1.** entry into force of this Agreement the Board shall consist of not more than nine Directors, as
 
 (a) Directors appointed by or in respect of Member Countries in accordance with this Article;
 
 (b) the Secretary-General or his nominee and the Managing Director. The Directors referred to in subparagraph (b) shall have no vote.
 
-**2.** Directors shall be appointed as follows,
+*Directors*
+
+**2.** shall be appointed as follows,
 
 (a) each MDC upon becoming a Member of the Corporation shall be entitled to appoint one Director and one alternate Director;
 
@@ -542,7 +564,9 @@ Board of Directors Composition
 
 (c) in respect of the LDCs (other than Belize) the WISA Council of Ministers shall be entitled to appoint two Directors and two alternate Directors, if but only if, one or more of the LDCs have taken up not less than one hundred shares in the initial issue of shares.
 
-**3.** Subject to paragraph 4 an alternate Director shall in the absence of his principal attend any meeting and shall be entitled to vote on any matter.
+*Subject absence of his entitled to vote*
+
+**3.** to paragraph 4 an alternate Director shall in the principal attend any meeting and shall be on any matter.
 
 For so long as a Member Country is deemed to be in arrears under Article 17 (2) of this Agreement, the Director appointed by that Member Country or the Directors appointed by the WISA Council of Ministers (in any case where the Member Country in arrears is an LDC (other than Belize)) shall not participate in the business of the Board of Directors.
 
@@ -573,6 +597,8 @@ The Board of Directors shall be responsible, subject to any direction by the Boa
 Board of Directors Voting and Procedure
 
 **1.** The business of the Board of Directors shall be transacted at the principal office of the Corporation or at such places as may from time to time be determined by the Board.
+
+[CAP.
 
 The Board of Directors shall meet at least every six months or as often as the business of the Corporation requires.
 

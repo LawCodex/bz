@@ -134,11 +134,9 @@ S.I. 39 of 1993.
 
 Establishment, Powers, Jurisdiction, Functions etc., of Family Courts
 
-**3.** For the purpose of exercising the powers and functions
-
 *Establishment of Courts. 18 of 2000.*
 
-conferred on a Family Court by or under the provisions of this Act, there shall be established a District Family Court in each judicial district.
+**3.** For the purpose of exercising the powers and functions conferred on a Family Court by or under the provisions of this Act, there shall be established a District Family Court in each judicial district.
 
 *District Family*
 
@@ -236,17 +234,21 @@ for the day-to-day administration of the Courts, the supervision of the social w
 
 Miscellaneous
 
-*Act to have overriding effect.*
+*The Act to have*
 
-**18.** The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force or in any instrument having effect by virtue of any law other than this Act.
+*overriding effect. any other law*
 
-*Rules. 18 of 2000.*
+**18.** provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in for the time being in force or in any instrument having effect by virtue of any law other than this Act.
 
-**19.** The Chief Justice may, with the approval of the Attorney General, make rules regulating the procedure to be followed by Family Courts.
+*Rules. The 18 of 2000.*
 
-*Regulations.*
+*Attorney followed by*
 
-**20.** (1) The Attorney General may, after consultation with the Chief Justice and the Minister responsible for social services, by regulations provide for,
+**19.** Chief Justice may, with the approval of the General, make rules regulating the procedure to be Family Courts.
+
+*Regulations. 20.-(1) The Chief Justice*
+
+Attorney General may, after consultation with the and the Minister responsible for social services, by regulations provide for,
 
 (a) the normal working hours of Family Courts;
 
@@ -259,6 +261,12 @@ Miscellaneous
 (e) payment of fees and expenses (including travelling expenses) of medical experts or other persons called to assist the Family Courts;
 
 (f) any other matter which may be required for the better carrying out of the purposes of this Act.
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
+
+[CAP.
 
 (2) Regulations made under this section shall be laid as soon as may be after the making thereof before the National Assembly and shall be subject to negative resolution.
 

@@ -88,6 +88,8 @@ Obstruction of Chief Valuer, Arbitration and Valuation Roll
 
 **15.** Chief Valuer to assess upon failure to submit return. Chief Valuer may amend roll.
 
+*[CAP.*
+
 Substitution of sale price.
 
 Notification upon change of ownership.
@@ -178,6 +180,8 @@ Miscellaneous
 
 ## SCHEDULE IV
 
+*[CAP.*
+
 ### CHAPTER 58
 
 ### LAND TAX
@@ -228,11 +232,9 @@ Preliminary
 
 *5 of 2004.*
 
-“Cayes” means all offshore islands other that those (or part
-
 *CAP . 65.*
 
-thereof) which fall within the Towns Property Tax Act;
+“Cayes” means all offshore islands other that those (or part thereof) which fall within the Towns Property Tax Act;
 
 *11 of 2001.*
 
@@ -266,6 +268,8 @@ thereof) which fall within the Towns Property Tax Act;
 
 “town” means the cities of Belize and Belmopan, the towns of Corozal, Orange Walk, Dangriga, San Ignacio, Punta Gorda, Benque Viejo del Carmen, San Pedro and the villages of Caye Caulker, St. Georges Caye and such other towns or places as the Minister may at any time, by Order, declare to be towns for the purpose of this Act, and it shall be lawful for the Minister at any time by Order to declare that any town or place shall cease to be a “town” for the purposes of this Act; and
 
+*[CAP.*
+
 “unimproved value” means the market value in vacant possession assuming that at the time as at which the value is required to be ascertained, the improvements made on the land do not exist,
 
 Provided that in determining such market value no allowance shall be made on the ground that the market will be depressed on account of the entirety of the land being placed in such market at one time.
@@ -290,11 +294,9 @@ Provided that the Minister may nominate an officer of the Ministry to perform th
 
 **5.** The owner of any land situated outside the limits of any town shall, within three months of acquiring ownership of such land if the acquisition of such ownership occurred after the coming into force of this Act, submit to the Chief Valuer a return in the form prescribed in Schedule I hereto.
 
-Any person who wilfully or knowingly submits a false
-
 *Submission of false return.*
 
-description of or value for any land owned by him commits an offence and is liable on summary conviction to a fine not exceeding one thousand dollars.
+Any person who wilfully or knowingly submits a false description of or value for any land owned by him commits an offence and is liable on summary conviction to a fine not exceeding one thousand dollars.
 
 *Valuation by Chief Valuer 20 of 1980 (repealed).*
 
@@ -390,11 +392,9 @@ Provided, however, that the Commissioner of Land Tax may, if he considers necess
 
 **17.** Notwithstanding anything contained in this Act, where any land contained in any valuation roll is sold in an unimproved condition, the sale price, if greater than the value in the valuation roll, shall be entered there-in as the unimproved value of the said land, as of the date of the sale.
 
-**18.** (1) In the event of the sale or alienation by the owner of all
-
 *Notification upon change of ownership.*
 
-or part of his interest in any land contained in any valuation roll, the said owner, the purchaser, or the alienee shall, within thirty days of such change, inform the Chief Valuer of such change and shall file a new return in the form set out in Schedule I,
+**18.** (1) In the event of the sale or alienation by the owner of all or part of his interest in any land contained in any valuation roll, the said owner, the purchaser, or the alienee shall, within thirty days of such change, inform the Chief Valuer of such change and shall file a new return in the form set out in Schedule I,
 
 *11 of 2001.*
 
@@ -480,11 +480,9 @@ is more than one and one-half times the unimproved value of such land or where t
 
 *When taxes due. 11 of 2001.*
 
-**24.** (1) All taxes imposed by sections 21, 22, 23 and 23A shall
-
 *44 of 2017.*
 
-be paid by and recoverable from the owner of the land in respect whereof the same are chargeable and shall be deemed to become due on the first day of April in respect of the twelve calendar months beginning on that date and shall be paid to the Commissioner of Land Tax.
+**24.** (1) All taxes imposed by sections 21, 22, 23 and 23A shall be paid by and recoverable from the owner of the land in respect whereof the same are chargeable and shall be deemed to become due on the first day of April in respect of the twelve calendar months beginning on that date and shall be paid to the Commissioner of Land Tax.
 
 (2) If any tax remains unpaid after the due date, a sum equal to one per cent of the amount in arrears shall be added thereto
 
@@ -508,15 +506,23 @@ Provided that nothing in this section contained shall affect any agreement made 
 
 (2) Any person having such charge or debt by specialty or otherwise may pay the taxes to which the land subject to the charge or debt is liable and add the moneys so paid to the debt or other sum charged as aforesaid and thereupon the increased
 
+*18 [CAP. 58*
+
 charge or debt shall bear the same interest and may be enforced and recovered in the same manner as the original charge or debt.
 
-*Readjustment of the tax where returns subsequently discovered incorrect.*
+*Readjustment of the tax where returns subsequently legal discovered*
 
-**27.** (1) If at any time within five years after payment has been made of any tax under this Act it is proved by survey or in any legal proceedings that returns the return on which the tax was assessed was incorrect, and that the amount of the tax paid in accordance therewith was in excess of or less than the amount
+*assessed was*
+
+*incorrect.*
+
+*accordance*
 
 *44 of 2017.*
 
-which ought to have been paid, then, notwithstanding that the return was bona fide made and was approved under the foregoing provisions of this Act, the Commissioner of Land Tax shall–
+*return was foregoing shall–*
+
+**27.** (1) If at any time within five years after payment has been made of any tax under this Act it is proved by survey or in any proceedings that returns the return on which the tax was incorrect, and that the amount of the tax paid in therewith was in excess of or less than the amount which ought to have been paid, then, notwithstanding that the bona fide made and was approved under the provisions of this Act, the Commissioner of Land Tax
 
 (a) apply any sum in excess of the amount of tax which ought to have been paid in the payment in whole or in part of any other tax due on the land to which the said return related and repay the owner any surplus of the excess which remains after such application;
 
@@ -524,13 +530,19 @@ which ought to have been paid, then, notwithstanding that the return was bona fi
 
 (c) receive from the owner of the land to which the said return related any sum of money short paid by him in any case where the amount of tax paid was less than the amount which ought to have been paid on the said land.
 
-(2) Any amount of tax short paid shall be recoverable from the owner in the same manner as the tax could have been originally recovered.
+*(2) Any*
 
-The Minister may remit taxes in whole or part, including
+*originally*
+
+amount of tax short paid shall be recoverable from the owner in the same manner as the tax could have been recovered.
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 *Power to remit tax in case of disaster or disease. 30 of 2020.*
 
-any arrears and interest, in the case of any disaster as follows–
+The Minister may remit taxes in whole or part, including any arrears and interest, in the case of any disaster as follows–
 
 (a) a hurricane, other act of God, invasion, civil commotion, fire or other occurrence which causes any destruction or grievous damage to cultivated crops or any dwelling houses or other buildings; or
 
@@ -542,11 +554,9 @@ any arrears and interest, in the case of any disaster as follows–
 
 *Remission of tax on grounds of indigence.*
 
-**30.** (1) Whenever it is brought to the notice of the Commissioner of Land Tax that any owner of land is in indigent circumstances and unable pay the tax or any part thereof, the
-
 *44 of 2017.*
 
-Commissioner of Land Tax shall submit to the Minister a statement of the case in which he shall give the name of the owner of the land, the amount due from him for tax, a description of the land and any evidence of the poverty of the owner or his inability to pay the whole or part of the tax.
+**30.** (1) Whenever it is brought to the notice of the Commissioner of Land Tax that any owner of land is in indigent circumstances and unable pay the tax or any part thereof, the Commissioner of Land Tax shall submit to the Minister a statement of the case in which he shall give the name of the owner of the land, the amount due from him for tax, a description of the land and any evidence of the poverty of the owner or his inability to pay the whole or part of the tax.
 
 *44 of 2017.*
 
@@ -554,11 +564,9 @@ Commissioner of Land Tax shall submit to the Minister a statement of the case in
 
 (3) The Minister may institute such further enquiry as he considers necessary and remit the whole or part of the tax due or allow time for the payment or may make such other order as he thinks fit.
 
-**30A.** (1) Notice of any remission of tax on any land under
-
 *Notice of remission under section 28 or 30. 30 of 2020.*
 
-sections 28 or 30 shall be published in one issue of the Gazette.
+**30A.** (1) Notice of any remission of tax on any land under sections 28 or 30 shall be published in one issue of the Gazette.
 
 (2) A Notice under sub-section (1) shall specify–
 
@@ -582,19 +590,15 @@ sections 28 or 30 shall be published in one issue of the Gazette.
 
 *Forms.*
 
-**32.** (1) Blank forms of the returns required to be made for the
-
 *44 of 2017.*
 
-purposes of this Act shall be supplied free of charge to owners of land on application to the Commissioner of Land Tax.
+**32.** (1) Blank forms of the returns required to be made for the purposes of this Act shall be supplied free of charge to owners of land on application to the Commissioner of Land Tax.
 
 (2) The Commissioner of Land Tax or any officer delegated by him shall in the case of illiterate persons afford them all possible assistance in completing the necessary forms but they shall not incur any legal liability by reason of any informality, misstatement or mistake in such forms.
 
-The Commissioner of Land Tax shall levy the tax in
-
 *Notices of assessment and power to impose tax.*
 
-respect of–
+The Commissioner of Land Tax shall levy the tax in respect of–
 
 (a) lands for which no returns are received;
 
@@ -612,11 +616,9 @@ Provided, however, that the fixation of tax under this subsection shall be alter
 
 *5 of 2004.*
 
-(2) Proceedings for the recovery of the tax may be
-
 *44 of 2017.*
 
-commenced at any time before the expiration of twelve years from the day on which it becomes payable and all taxes due from the same person may be recovered on a single complaint.
+(2) Proceedings for the recovery of the tax may be commenced at any time before the expiration of twelve years from the day on which it becomes payable and all taxes due from the same person may be recovered on a single complaint.
 
 *5 of 2004.*
 
@@ -642,11 +644,9 @@ Whenever the owner of the land subject to the tax cannot be found or it cannot b
 
 **37.** At the time and place appointed in and by the summons for any hearing of the information therein specified, any person having or claiming any estate or interest in the land may appear in the same manner as if the summons had been directed to him by name but if no such person nor the owner of the land appears then upon proof that the summons had been served in accordance with the provisions of this Act relating to service of summons, the information specified in the summons may be heard and adjudicated upon ex parte.
 
-**38.** (1) If in any legal proceedings taken under the provisions of
-
 *Sale to recover unpaid taxes and to be by public auction fixing reserve price.*
 
-this Act it is found that the tax specified in the information has not been paid the owner of the land shall be adjudged to pay the tax so found together with the costs of the proceedings.
+**38.** (1) If in any legal proceedings taken under the provisions of this Act it is found that the tax specified in the information has not been paid the owner of the land shall be adjudged to pay the tax so found together with the costs of the proceedings.
 
 *44 of 2017.*
 
@@ -694,11 +694,9 @@ Landholding Act, subject to such conditions as to development as the Minister ma
 
 (11) The magistrate shall issue a warrant containing a written statement of the particulars of such land, the name, so far as it is known to him, of the owner and the date or dates of the abortive sale or sales and shall cause the same to be recorded in the General Registry in the manner provided by law, and on being so recorded such warrant shall, provided the provisions of this Act necessary to authorise such sales shall have been duly complied with, constitute an indefeasible title in Government, free from all encumbrances, fraud excepted,
 
-Provided that where the land to be sold is land registered at
-
 *CAP. 327.*
 
-the General Registry, the magistrate may execute a memorandum which shall be received by the Registrar General as authority notwithstanding anything to the contrary in the General Registry Act, to cancel the registered proprietor’s Certificate of Title in respect of the land described in the memorandum in favour of Government as registered proprietor of the same in fee simple absolute,
+Provided that where the land to be sold is land registered at the General Registry, the magistrate may execute a memorandum which shall be received by the Registrar General as authority notwithstanding anything to the contrary in the General Registry Act, to cancel the registered proprietor’s Certificate of Title in respect of the land described in the memorandum in favour of Government as registered proprietor of the same in fee simple absolute,
 
 *CAP . 194 .*
 
@@ -712,15 +710,11 @@ And also provided that where the land sold is registered under the Registered La
 
 Provided that after the expiration of ten years to be computed from the day of the sale, such surplus if unpaid shall be appropriated to the Consolidated Revenue Fund.
 
-**39.** (1) It shall be lawful for the owner of any land to convey to
-
 *Conveyance of land in payment of taxes.*
-
-the State for the use of the Government of Belize, and for the Minister in his discretion to accept from the owner, any such land, in payment of any taxes due and payable by such owner
 
 *44 of 2017.*
 
-under this Act at a value to be agreed upon between such owner and the Commissioner of Land Tax.
+**39.** (1) It shall be lawful for the owner of any land to convey to the State for the use of the Government of Belize, and for the Minister in his discretion to accept from the owner, any such land, in payment of any taxes due and payable by such owner under this Act at a value to be agreed upon between such owner and the Commissioner of Land Tax.
 
 *44 of 2017.*
 
@@ -762,11 +756,9 @@ Miscellaneous
 
 *Penalty.*
 
-**46.** Any person who fails to furnish any returns, notices or
-
 *44 of 2017.*
 
-information or comply with any requirements of the Chief Valuer or Commissioner of Land Tax, as and when required by the Chief Valuer or Commissioner of Land Tax, commits an offence and on summary conviction thereof in a summary jurisdiction court is liable to a fine not exceeding one thousand dollars.
+**46.** Any person who fails to furnish any returns, notices or information or comply with any requirements of the Chief Valuer or Commissioner of Land Tax, as and when required by the Chief Valuer or Commissioner of Land Tax, commits an offence and on summary conviction thereof in a summary jurisdiction court is liable to a fine not exceeding one thousand dollars.
 
 *Repeals.*
 

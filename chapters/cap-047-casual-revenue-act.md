@@ -80,8 +80,16 @@ R.E. 1980-1990
 
 **4.** The Minister shall, from time to time as occasion requires, repay and make good to any person preferring and duly proving his claim to the same after such appropriation as
 
+*THE*
+
+### SUBSTANTIVE LAWS OF BELIZE
+
 provided in section 2 of this Act, all such sums of money so appropriated, and all moneys in the Treasury forming of or arising from the general revenue of Belize shall be applicable for so repaying or making good the same.
 
 *Right of action for money appropriated by Crown.*
 
 **5.** If any person prefers a claim to any moneys so appropriated pursuant to the provisions of this Act and that claim is disallowed by the Minister, that person may, notwithstanding such rejection, institute civil proceedings for the recovery of the money claimed against the State in accordance with the provisions of the Crown Proceedings Act, Cap.167.
+
+*EDITION 2020*
+
+### REVISED

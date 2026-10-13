@@ -58,59 +58,91 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 ### LOANS (DEVELOPMENT) (NO. 3)
 
-[18th November, 1983] CAP. 65C,
+*CAP. 65C, R.E. 1980-1990. 14 of 1983. 6 of 1984.*
 
-R.E. 1980-1990.
-
-14 of 1983.
-
-6 of 1984.
+[18th November, 1983]
 
 *Short title.*
 
-**1.** This Act may be cited as the Loans (Development) (No. 3) Act.
+**1.** This Act may be cited as the Loans (Development) (No.
 
-*Interpretation.*
+*\3) Act.*
+
+*Interpretation. for finance.*
 
 In this Act, “Minister” means the Minister responsible
 
 2.
 
-for finance.
+*Authority to The borrow.*
 
-*Authority to borrow.*
+*sufficient to*
 
-**3.** The Minister or Crown Agents or other authorised agents acting on his behalf may raise by loan an amount sufficient to produce as nearly as may be the sum of fifteen million dollars.
+**3.** Minister or Crown Agents or other authorised agents acting on his behalf may raise by loan an amount produce as nearly as may be the sum of fifteen million dollars.
 
 *Purpose of loan.*
 
 **4.** (1) Any sum raised to defray expenses of issue shall be applied only to that purpose.
 
-(2) Save as aforesaid the sum borrowed under this Act shall be appropriated and applied towards the financing of development and capital expenditure.
+*be development*
+
+(2) Save as aforesaid the sum borrowed under this Act shall appropriated and applied towards the financing of and capital expenditure.
 
 *Method of raising loan.*
 
-**5.** The loan hereby authorised, or any part thereof, may be raised either,
+**5.** The loan hereby authorised, or any part thereof, may be
+
+*raised either,*
 
 (a) in the United Kingdom by the Crown Agents or other authorised agents under the provisions of the Public Loans Act, Cap. 81, or, notwithstanding anything to the contrary contained in the said Act, independently of that Act as the Minister may decide; or
 
 (b) in Belize under the provisions of the Local Public Loans Act, Cap. 80.
 
-*Raising of loan under Cap. 81 or Cap. 80. 6 of 1984.*
+*Raising of loan*
 
-**6.** If the loan hereby authorised or any part thereof shall be issued under the provisions of the Public Loans Act, Cap. 81, or the Local Public Loans Act, Cap. 80, then the contribution to a sinking fund, as contemplated by the provisions of sections 28 and 29 of the former Act or of section 12 of the latter Act, as the case may be, shall commence in respect of such issue not later than three years after the date from which the interest on such issue shall commence to run.
+*If the*
 
-*Raising of loan in United Kingdom independently of Cap. 81.*
+*under Cap. 81 or*
 
-**7.** If the loan hereby authorised or any part thereof be issued in the United Kingdom independently of the Public Loans Act, Cap. 81, then the following provisions shall apply,
+*issued under*
+
+*Cap. 80.*
+
+*or the Local*
+
+*6 of 1984.*
+
+*to a sinking*
+
+*latter Act, as such issue not the interest on*
+
+**6.** loan hereby authorised or any part thereof shall be the provisions of the Public Loans Act, Cap. 81, Public Loans Act, Cap. 80, then the contribution fund, as contemplated by the provisions of sections 28 and 29 of the former Act or of section 12 of the the case may be, shall commence in respect of later than three years after the date from which such issue shall commence to run.
+
+*Raising of loan*
+
+*If the*
+
+*in United*
+
+*issued in the*
+
+*Kingdom independently of Cap. 81.*
+
+**7.** loan hereby authorised or any part thereof be United Kingdom independently of the Public Loans Act, Cap. 81, then the following provisions shall apply,
 
 (a) so long as any portion of such loan remains outstanding the Minister shall in each half-year ending with the day on which the interest on such loans falls due appropriate out of the general revenues and assets of this Country a sum equal to one half-year’s interest on the whole of such loan outstanding and shall remit that sum to the Crown Agents or other authorised agents at such time as will enable them to pay thereout the then current half-year’s interest on the day on which it falls due;
 
 (b) the Minister shall also in each half year ending as aforesaid appropriate out of the said revenues and assets of Belize for the formation of a sinking fund for the repayment of the loan at par an additional sum in respect of the total nominal amount of such loan outstanding equal to one half of the annual contribution to be decided upon by the Minister on the issue of the loan and shall remit that sum to the Crown Agents or other
 
-authorised agents with the remittance hereinbefore mentioned.
+*EDITION 2020*
 
-Provided that the said contribution shall commence not later than three years after the date from which the interest on such loan shall commence to run,
+### SUBSTANTIVE LAWS OF BELIZE REVISED
+
+authorised agents with remittance hereinbefore mentioned.
+
+*Provided that than three years loan shall*
+
+the said contribution shall commence not later after the date from which the interest on such commence to run,
 
 (c) the aforesaid annual contribution shall be not less than such amount as may be determined by the Minister to be sufficient to redeem such loan at its due date;
 

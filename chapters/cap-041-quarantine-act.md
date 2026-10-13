@@ -120,11 +120,9 @@ S.I. 17 of 1964.
 
 *Establishment of*
 
-**3.** (1) For the purposes of this Act, there shall be a Quarantine
-
 *Authority and appointment of staff.*
 
-Authority.
+**3.** (1) For the purposes of this Act, there shall be a Quarantine Authority.
 
 (2) The person from time to time holding the office of Director of Health Services shall be the Quarantine Authority.
 
@@ -148,7 +146,9 @@ Authority.
 
 persons or things in ships, aircraft or any other form of conveyance arriving at any place in Belize.
 
-(2) Without prejudice to the generality of the powers conferred by sub-section (1) regulations under that sub-section may make provision for all or any of the following–
+*(2) Without conferred by may make*
+
+prejudice to the generality of the powers sub-section (1) regulations under that sub-section provision for all or any of the following–
 
 (a) the collection and transmission of epidemiological and sanitary information;
 
@@ -230,11 +230,13 @@ Provided that rules shall not have any force or effect if and to the extent that
 
 **6.** (1) When in the opinion of the Quarantine Authority an emergency exists, the Quarantine Authority may by order direct special measures to be taken during the continuance of that emergency for any of the purposes specified in sections 4 and 5, and any such order shall have effect notwithstanding anything to the contrary in any regulations or rules in force by virtue of those sections.
 
-(2) An order made under sub-section (1), may be varied or rescinded by order of the Minister.
+*(2) An order rescinded by*
 
-*Offences and penalties.*
+made under sub-section (1), may be varied or order of the Minister.
 
-**7.** (1) Any person who–
+*Offences and 7.–(1) Any penalties.*
+
+person who–
 
 (a) refuses to answer or knowingly gives an untrue answer to any inquiry made under the authority of this Act, or intentionally withholds any information reasonably required of him by any officer or other person acting under the authority of this Act, or knowingly furnishes to any such officer or other person any information which is false;
 
@@ -242,15 +244,17 @@ Provided that rules shall not have any force or effect if and to the extent that
 
 (c) assaults, resists, wilfully obstructs, or intimidates any officer or other person acting under the authority of this Act, or offers or gives a bribe to any officer or person in connection with his powers or duties under this Act, or being such officer or person, demands, solicits or takes a bribe in connection with his powers or duties under this Act, or otherwise obstructs the execution of this Act,
 
-commits an offence and is liable on summary conviction to a fine of one thousand dollars or to imprisonment for six months or to both.
+*commits an fine of one or to both.*
 
-(2) Any person who commits any other offence against this Act is liable on summary conviction to a fine of one thousand dollars or to imprisonment for six months or to both.
+offence and is liable on summary conviction to a thousand dollars or to imprisonment for six months
 
-The Minister may direct that any part of any fine
+*(2) Any Act is liable on dollars or to*
+
+person who commits any other offence against this summary conviction to a fine of one thousand imprisonment for six months or to both.
 
 *Rewards to informers. 40 of 1963.*
 
-recovered in respect of any offence against this Act shall be paid to any person who has given information leading to the conviction of the offender.
+The Minister may direct that any part of any fine recovered in respect of any offence against this Act shall be paid to any person who has given information leading to the conviction of the offender.
 
 *Recovery of expenses and charges.*
 
@@ -314,15 +318,23 @@ a first case of plague recognised as non-imported has occurred or in which roden
 
 (d) typhus or smallpox exists in epidemic form, that is to say that the occurrence of new cases indicates that the spread of the disease is not under control; and includes a port or sea-board which serves an infected local area;
 
-“infectious disease” means any epidemic or acute infectious disease, and includes open pulmonary tuberculosis but does not include venereal disease;
+*“infectious disease, and*
 
-“isolation” means the removal to a hospital or other suitable place approved by the Health Officer of a person suffering, or suspected to be suffering, from an infectious disease, and his detention therein, until, in the opinion of the Health Officer,
+disease” means any epidemic or acute infectious includes open pulmonary tuberculosis but does not include venereal disease;
+
+*“isolation”*
+
+*detention*
+
+means the removal to a hospital or other suitable place approved by the Health Officer of a person suffering, or suspected to be suffering, from an infectious disease, and his therein, until, in the opinion of the Health Officer,
 
 (a) he is free from infection, or
 
 (b) if not so free, he may be discharged without undue danger to public health;
 
-“local area” means a well defined area such as a province, district, island, town or quarter of a town, port or village, whatever may be its extent or population;
+*“local area”*
+
+means a well defined area such as a province, district, island, town or quarter of a town, port or village, whatever may be its extent or population;
 
 “master”, “port” and “ship” have the meanings assigned to them in section 3;
 
@@ -476,9 +488,17 @@ Other infectious diseases
 
 Provisions As To Ships Departing.
 
-General power to examine and prohibit persons embarking
+*General*
 
-**14.** The Health Officer may examine any person intending to embark in a ship whom he suspects to be suffering from an infectious disease and if, after examination, he is of opinion that the person shows symptoms of any infectious disease he may prohibit his embarkation and the embarkation of any persons in such relations to the sick as to render them liable to transmit an infectious disease.
+power to examine and prohibit persons embarking
+
+*The*
+
+*infectious the person prohibit his*
+
+*infectious*
+
+**14.** Health Officer may examine any person intending to embark in a ship whom he suspects to be suffering from an disease and if, after examination, he is of opinion that shows symptoms of any infectious disease he may embarkation and the embarkation of any persons in such relations to the sick as to render them liable to transmit an disease.
 
 Infected areas in Belize
 
@@ -504,15 +524,23 @@ the ship which, in the opinion of the Health Officer or authorised officer, may 
 
 Offences
 
-**16.** (1) Any person whom–
+*16.–(1) Any*
+
+person whom–
 
 (a) knowing or having reason to suspect that he is suffering from an infectious disease embarks in or is conveyed in a ship leaving Belize without the permission of the Health Officer, or
 
 (b) embarks in a ship about to leave an infected area of Belize without submitting himself for examination by the Health Officer, or exports or takes on board any such ship any merchandise, stores, baggage, personal effects or other articles from such area without submitting them for examination, and, if required, disinsectisation and disinfection by the Health Officer or an authorised officer, or does any of such things as aforesaid contrary to any prohibition or restriction which the Health Officer may impose with a view to preventing the spread of infection,
 
-commits an offence against these Regulations.
+*commits an*
 
-(2) Any master of a ship, ship owner or ship’s agent, who knowingly conveys or permits the conveyance in a ship from an infected area of Belize of any person or thing contrary to any prohibition or restriction imposed by or under regulations 14 or 15, of these Regulations, commits an offence against these Regulations.
+offence against these Regulations.
+
+*(2) Any knowingly*
+
+*prohibition or 15, of these Regulations.*
+
+master of a ship, ship owner or ship’s agent, who conveys or permits the conveyance in a ship from an infected area of Belize of any person or thing contrary to any restriction imposed by or under regulations 14 or Regulations, commits an offence against these
 
 ## PART V
 
@@ -520,7 +548,9 @@ Miscellaneous Provisions as to Ships Arriving and in Port
 
 General power to inspect ships, etc.
 
-**17.** The Health Officer or an authorised officer shall be entitled at any time to visit and inspect any ship arriving in or lying in a port of Belize, whether or not the ship has come from a foreign port, and–
+*The*
+
+**17.** Health Officer or an authorised officer shall be entitled at any time to visit and inspect any ship arriving in or lying in a port of Belize, whether or not the ship has come from a foreign port, and–
 
 (a) in any circumstances which would justify the refusal of pratique under these Regulations in the case of ships arriving from foreign ports, direct that the ship shall be deemed to be in quarantine for the purposes of all, or any of these Regulations; or
 
@@ -528,11 +558,17 @@ General power to inspect ships, etc.
 
 Power to send ship to another port
 
-**18.** If the Health Officer is of opinion that the port of Belize at which a ship arrives is not suitably equipped to deal with it for the purposes of these Regulations, he may order the master of the ship to take the ship to a port of Belize which is suitably equipped.
+*If the*
+
+*of the ship to equipped.*
+
+**18.** Health Officer is of opinion that the port of Belize at which a ship arrives is not suitably equipped to deal with it for the purposes of these Regulations, he may order the master take the ship to a port of Belize which is suitably
 
 General powers
 
-**19.** (1) A Health Officer may, in relation to any ship arriving in or lying in a port of Belize, whether the ship has come from a foreign port or otherwise–
+*19.–(1) A or lying in a*
+
+Health Officer may, in relation to any ship arriving in port of Belize, whether the ship has come from a foreign port or otherwise–
 
 (a) medically inspect the crew and passengers;
 
@@ -544,11 +580,17 @@ detain any such persons for medical examination;
 
 Duties of master
 
-**20.** Without prejudice to any other provisions of these Regulations, it shall be the duty of the master of every ship which is in any port of Belize forthwith to notify a Visiting Officer, whether the information is requested or not, of any case or suspected case of infectious disease in the ship and of any circumstances on board which are likely to lead to infection or the spread of infectious disease including in his notification particulars as to the sanitary condition of the ship and the presence of dead rats or mice or mortality or sickness among rats or mice in the ship, and any master of a ship who contravenes or fails to comply with these requirements commits an offence against these Regulations.
+*or suspected circumstances the spread of particulars as presence of rats or mice*
+
+*an offence*
+
+**20.** Without prejudice to any other provisions of these Regulations, it shall be the duty of the master of every ship which is in any port of Belize forthwith to notify a Visiting Officer, whether the information is requested or not, of any case case of infectious disease in the ship and of any on board which are likely to lead to infection or infectious disease including in his notification to the sanitary condition of the ship and the dead rats or mice or mortality or sickness among in the ship, and any master of a ship who contravenes or fails to comply with these requirements commits against these Regulations.
 
 Repetition of sanitary measures not necessary
 
-**21.** A ship, which before arriving at a port in Belize has already been subjected to sanitary measures to the satisfaction of the Health Officer of that port, shall not again be subjected to
+*already been of the Health*
+
+**21.** A ship, which before arriving at a port in Belize has subjected to sanitary measures to the satisfaction Officer of that port, shall not again be subjected to
 
 such measures unless some new incident has occurred which so requires.
 
@@ -620,9 +662,15 @@ Merchandise, etc., not to be put on ship in quarantine without permission
 
 **30.** Without the general or special permission of the Health Officer, but subject to the provisions of regulation 32, no merchandise, stores, baggage, personal effects or other articles shall be taken off or put on board a ship which has not been granted pratique, and any person who contravenes this provision commits an offence against these Regulations.
 
-Entry of merchandise and baggage to be permitted subject to certain measures
+*Entry of*
 
-**31.** The entry of merchandise and baggage arriving at a suitably equipped port of Belize shall in all cases be permitted, but the following measures may be applied where, in the opinion of the Health Officer, there is danger of infection from a specified infectious disease–
+merchandise and baggage to be permitted subject to certain measures
+
+*suitably but the*
+
+*specified*
+
+**31.** The entry of merchandise and baggage arriving at a equipped port of Belize shall in all cases be permitted, following measures may be applied where, in the opinion of the Health Officer, there is danger of infection from a infectious disease–
 
 (a) in the case of plague, disinsectisation or disinfection of recently used bedding and clothing and prohibition of the unloading of merchandise from an infected area which is likely to harbour rats or fleas unless adequate precautions to prevent the escape of rats and fleas and to ensure their destruction are taken;
 
@@ -634,7 +682,9 @@ Entry of merchandise and baggage to be permitted subject to certain measures
 
 Destruction of clothes, etc., likely to carry infections
 
-**32.** The Health Officer or an authorised officer may order clothes and other articles of small value, including rags not carried as merchandise in bulk, which he considers likely to convey a specified infectious disease, to be destroyed.
+*carried as convey a*
+
+**32.** The Health Officer or an authorised officer may order clothes and other articles of small value, including rags not merchandise in bulk, which he considers likely to specified infectious disease, to be destroyed.
 
 Saving of mails
 
@@ -664,13 +714,19 @@ is suffering from or suspected to be suffering from a specified infectious disea
 
 (d) has been exposed to risk of infection by any infectious disease other than a specified infectious disease, may, at the discretion of the Health Officer, be placed under surveillance as provided in regulation 13.
 
-(2) When any person arriving in Belize has, in the opinion of the Health Officer, been exposed to infection from yellow fever within the previous six days, then, unless the Health Officer otherwise directs or such person is immune from the disease, the Health Officer shall order him to be kept under observation under Aedes-free conditions for six days or the remainder of the six days, from the last day on which he was exposed to the infection.
+*(2) When of the Health fever within Officer disease, the observation remainder of*
 
-(3) An inoculated person who is not yet regarded as immune shall be kept under observation for a period not exceeding six days from the last day of possible exposure to infection.
+any person arriving in Belize has, in the opinion Officer, been exposed to infection from yellow the previous six days, then, unless the Health otherwise directs or such person is immune from the Health Officer shall order him to be kept under under Aedes-free conditions for six days or the the six days, from the last day on which he was exposed to the infection.
+
+*(3) An shall be kept days from the*
+
+inoculated person who is not yet regarded as immune under observation for a period not exceeding six last day of possible exposure to infection.
 
 Duties of persons under observation or surveillance
 
-**37.** (1) Any person placed under observation or surveillance shall–
+*37.–(1) Any shall–*
+
+person placed under observation or surveillance
 
 furnish all such information as may reasonably be required to the Health Officer or other authorised officer and shall comply with the orders and instructions of such Health Officer or authorised officer; or
 
@@ -810,33 +866,25 @@ Deck................. Crew.............. List of ports of call from commencement
 
 Health Questions
 
-**1.** Has there been on board during the voyage * any case or suspected case of plague, cholera, yellow fever, typhus fever or smallpox? Insert particulars in the
+*...............................*
+
+**1.** Has there been on board during the voyage * any case or suspected case of plague, cholera, yellow fever, typhus fever or smallpox? Insert particulars in the Schedule hereto.
 
 *...............................*
 
-Schedule hereto.
-
-**2.** Has plague occurred or been suspected amongst the rats or mice on board during the voyage * or has there been an unusual
+**2.** Has plague occurred or been suspected amongst the rats or mice on board during the voyage * or has there been an unusual mortality amongst them?
 
 *...............................*
 
-mortality amongst them?
-
-**3.** Has any person died on board during the voyage * otherwise than as a result of accident? Insert particulars in Schedule
-
-*...............................*
-
-hereto
+**3.** Has any person died on board during the voyage * otherwise than as a result of accident? Insert particulars in Schedule hereto
 
 **4.** Is there on board or has there been during the voyage* any case of illness which you suspect to be of an infectious nature? Insert particulars in Schedule hereto.
 
 *...............................*
 
-**5.** Is there any sick person on board now?
-
 *...............................*
 
-Insert particulars in Schedule hereto.
+**5.** Is there any sick person on board now? Insert particulars in Schedule hereto.
 
 Note.-In the absence of a surgeon, the master should regard the following symptoms as ground for suspecting the existence of infectious disease; fever accompanied by prostration or persisting for several days, or attended with glandular swellings, or any acute skin rash or eruption with or without fever; severe diarrhoea or
 
@@ -846,11 +894,9 @@ If more than six weeks have elapsed since the voyage began, it will suffice to g
 
 diarrhoea with symptoms of collapse; jaundice ac-companied by fever.
 
-**6.** Are you aware of any other condition on board which may lead to infection or the
-
 *...............................*
 
-spread of infectious disease?
+**6.** Are you aware of any other condition on board which may lead to infection or the spread of infectious disease?
 
 I hereby declare that the particulars and answers to the questions given in this Declaration of Health (including the Schedule) are true and correct to the best of my knowledge and belief.
 
@@ -902,11 +948,9 @@ Number indicated cases of infectious disease(s) indicated have occurred during t
 
 Item IV I have no other case of sickness on board.
 
-I have number indicated other cases of sickness on board.
-
 *\\**
 
-For notes on the sending of a Standard Quarantine Message, see page 229 of the British edition of the 1931 International Code of Signals.
+I have number indicated other cases of sickness on board. For notes on the sending of a Standard Quarantine Message, see page 229 of the British edition of the 1931 International Code of Signals.
 
 Item V No deaths from sickness infectious or otherwise have occurred on board during the voyage.
 
@@ -960,7 +1004,7 @@ holds were *laden with ................ tons of............. ...................
 
 ( Strike out the unnecessary indications)
 
-OBSERVATIONS: (In case of exemption, state here the measures taken for maintaining the vessel in such a condition that the rat population would be reduced to a minimum.) ..................................................................................................... ..................................................................................................... ..................................................................................................... ....................................................................
+[CAP. OBSERVATIONS: (In case of exemption, state here the measures taken for maintaining the vessel in such a condition that the rat population would be reduced to a minimum.) ..................................................................................................... ..................................................................................................... ..................................................................................................... ....................................................................
 
 ......................................................... Seal, Name, Qualification and Signature of the Health Officer.
 
@@ -1144,9 +1188,13 @@ All ships, except those employed in national coastal service, shall be periodica
 
 Governments shall make known through the Office International d’Hygiene Publique those of their ports possessing the equipment and personnel necessary for the deratisation of ships.
 
-A Deratisation Certificate or a Deratisation Exemption Certificate shall be issued only by the sanitary authorities of ports specified above. Every such certificate shall be valid for six months but this period may be extended by one month in the case of a ship proceeding to its home port.
+*A Deratisation Certificate shall ports specified six months but case of a ship*
 
-If no valid certificate is produced, the sanitary authority at the ports mentioned in the second paragraph of this Article may after inquiry and inspection,
+Certificate or a Deratisation Exemption be issued only by the sanitary authorities of above. Every such certificate shall be valid for this period may be extended by one month in the proceeding to its home port.
+
+*If no valid ports mentioned after inquiry and*
+
+certificate is produced, the sanitary authority at the in the second paragraph of this Article may inspection,
 
 (a) themselves carry out deratisation of the vessel, or cause such operations to be carried out under their direction and control. On the completion of these operations to their satisfaction they shall issue a dated Deratisation Certificate. They shall decide in each case the technique which should be employed to secure the practical extermination of rats on board, but details of the deratising process applied and of the number of rats destroyed shall be entered on the certificate. Destruction of rats shall be carried out so as to avoid as far as possible damage to the ship and cargo (if any). The operation must not last longer than twenty-four hours. In the case of ships in ballast the process shall be carried out before taking cargo. Any charges made in respect of these operations of deratisation, and any question of compensation for damage, shall be determined in accordance with the provisions of Article
 
@@ -1322,13 +1370,21 @@ Preliminary
 
 Interpretation
 
-**1.** In these Regulations, unless the context otherwise requires,
+*In these requires,*
 
-“Aedes” means Aedes aegypti and any potential vectors of yellow fever;
+**1.** Regulations, unless the context otherwise
 
-“aerodrome”, “aircraft” and “commander” have the meanings assigned to them in section 2;
+*“Aedes” means yellow fever;*
 
-“aircraft coming from an infected area” in relation to an aircraft arriving at an aerodrome or other place means an aircraft,
+Aedes aegypti and any potential vectors of
+
+*“aerodrome”, assigned to*
+
+“aircraft” and “commander” have the meanings them in section 2;
+
+*“aircraft coming arriving at an*
+
+from an infected area” in relation to an aircraft aerodrome or other place means an aircraft,
 
 (a) which left a plague, cholera, typhus or smallpox infected area within the period of incubation of those diseases;
 
@@ -1358,9 +1414,13 @@ to the effect that the bearer has been inoculated for the first time more than t
 
 (c) to the effect that he has recovered from an attack of yellow fever and that his blood contains immune bodies against yellow fever as proved by a test carried out by an institution regularly carrying out biological tests for yellow fever;
 
-“infected” in relation to an aircraft arriving at an aerodrome or other place, means that the aircraft has on board a case or suspected case of plague, yellow fever, typhus or smallpox, or a case presenting clinical signs of cholera, or which has had such a case or suspected case on board and has not since been subjected to the measures prescribed by these Regulations;
+*“infected” in other place, suspected case case presenting a case or subjected to the*
 
-“infected area” means a local area in which the Health Officer has reason to believe that,
+relation to an aircraft arriving at an aerodrome or means that the aircraft has on board a case or of plague, yellow fever, typhus or smallpox, or a clinical signs of cholera, or which has had such suspected case on board and has not since been measures prescribed by these Regulations;
+
+*“infected area” has reason to*
+
+means a local area in which the Health Officer believe that,
 
 (a) a first case of plague recognised as non-imported has occurred or in which rodent plague exists or has existed during the previous six months;
 
@@ -1454,13 +1514,15 @@ Aircraft landing otherwise than at permitted aerodromes.
 
 (a) as soon as practicable after the landing, the commander shall cause to be reported to a
 
-Health Officer, authorised officer or Government Medical Officer the circumstances of the flight and the emergency landing;
+Health Officer, authorised officer or Government Medical Officer circumstances of the flight and the emergency landing;
 
 (b) without the permission of a Health Officer, authorised officer or Government Medical Officer, no person shall remove any merchandise or baggage from the aircraft, and no passenger or member of the crew shall depart from the landing place, unless such removal or departure is necessary for the purposes of safety or for the preservation of life or property, and the commander shall take all steps in his power to secure compliance with this provision;
 
 (c) a Health Officer, authorised officer or Government Medical Officer may give all such orders and instructions to the crew and passengers, and may impose all such conditions upon them, as he may deem advisable having regard to the principles of these Regulations.
 
-(2) Any person who contravenes or fails to comply with any of the provisions of paragraph (1) commits an offence against these Regulations.
+*(2) Any of the these*
+
+person who contravenes or fails to comply with any provisions of paragraph (1) commits an offence against Regulations.
 
 ## PART III
 
@@ -1468,7 +1530,9 @@ General Sanitary Provisions
 
 Duties of commander
 
-**6.** (1) The commander of every aircraft arriving in Belize shall,
+*6.-(1) The*
+
+commander of every aircraft arriving in Belize shall,
 
 as long as possible before arrival, inform the Health Officer or an authorised officer by wireless of any death, and of any case or suspected case of infectious disease, on board the aircraft;
 
@@ -1478,11 +1542,17 @@ as long as possible before arrival, inform the Health Officer or an authorised o
 
 (ii) make and present to a Health Officer or an authorised officer a declaration of health in a form from time to time approved by the Quarantine Authority, in which shall be set out the places of call and any facts relevant to public health which have arisen in the aircraft in the course of the voyage and any health measures undergone by the aircraft, the crew and the passengers before departure and at places of call.
 
-(2) The commander of an aircraft who contravenes or fails to comply with any of the provisions of this regulation commits an offence against these Regulations.
+*(2) The to comply with an offence*
 
-Details of specified infectious diseases to be recorded
+commander of an aircraft who contravenes or fails any of the provisions of this regulation commits against these Regulations.
 
-**7.** When any specified infectious disease makes its appearance in any part of Belize, the Health Officer or an authorised officer shall enter all necessary details in the record
+*Details of*
+
+specified infectious diseases to be recorded
+
+*When appearance in authorised*
+
+**7.** any specified infectious disease makes its any part of Belize, the Health Officer or an officer shall enter all necessary details in the record
 
 of all aircraft leaving an aerodrome during a period of fifteen days from the date on which information of such specified infectious disease was received.
 
@@ -1504,7 +1574,9 @@ forthwith take such action as may be appropriate under these Regulations.
 
 Powers of Health Officer
 
-**10.** Without prejudice to any other provisions of these Regulations, the Health Officer may, in relation to any aircraft arriving at an aerodrome in Belize,
+*Without Regulations, the arriving at an*
+
+**10.** prejudice to any other provisions of these Health Officer may, in relation to any aircraft aerodrome in Belize,
 
 (a) medically inspect the crew and passengers;
 
@@ -1516,9 +1588,13 @@ Powers of Health Officer
 
 (e) if the aircraft has arrived from an area from which it is liable to bring insect vectors of malaria or other diseases, order that the aircraft shall be disinsected.
 
-Measure to be applied on the landing of sick persons
+*Measure to*
 
-**11.** If there is on board an aircraft arriving at an aerodrome in Belize a case of infectious disease other than a specified infectious disease, duly so verified by the Health Officer, the
+be applied on the landing of sick persons
+
+*If there in Belize a infectious*
+
+**11.** is on board an aircraft arriving at an aerodrome case of infectious disease other than a specified disease, duly so verified by the Health Officer, the
 
 sick person may be landed and, at the discretion of the Health Officer, isolated, and such other sanitary measures as such officer may consider desirable shall be applied, the other passengers and crew shall have the right to continue the voyage after medical inspection and the application of the appropriate sanitary measures, such measures being so arranged that the aircraft is detained as short a time as possible.
 
@@ -1544,25 +1620,43 @@ Health Officer may permit them to continue their voyage but shall take such step
 
 General powers in relation to aircraft departing
 
-**15.** (1) The Health Officer may, before the departure of an aircraft, medically inspect the passengers and crew and may prohibit the embarkation of any person with symptoms of any infectious disease.
+*aircraft,*
 
-(2) In the absence of the Health Officer, the person in charge of the aerodrome or any authorised officer shall have power to defer the departure of any person until he has been medically inspected.
+*infectious*
+
+**15.** (1) The Health Officer may, before the departure of an medically inspect the passengers and crew and may prohibit the embarkation of any person with symptoms of any disease.
+
+*of the defer the inspected.*
+
+(2) In the absence of the Health Officer, the person in charge aerodrome or any authorised officer shall have power to departure of any person until he has been medically
 
 ## PART IV
 
-Special Sanitary Measures In The Case Of Plague, Cholera, Typhus and Smallpox
+*Special*
+
+Sanitary Measures In The Case Of Plague, Cholera, Typhus and Smallpox
 
 Application of Part IV
 
-**16.** The provisions of this Part shall be without prejudice to any other provisions of these Regulations.
+*any other*
 
-Infected aircraft and aircraft coming from infected areas
+**16.** The provisions of this Part shall be without prejudice to provisions of these Regulations.
 
-If an infected aircraft or an aircraft coming from an infected area arrives at an aerodrome, the appropriate measures set out in the Schedule hereto in relation to specified infectious diseases other than yellow fever shall be carried out.
+*Infected*
+
+aircraft and aircraft coming from infected areas
+
+*If an infected area set out in the diseases other*
+
+infected aircraft or an aircraft coming from an arrives at an aerodrome, the appropriate measures Schedule hereto in relation to specified infectious than yellow fever shall be carried out.
 
 Aircraft departing from infected areas
 
-**18.** In the case of an aircraft departing from an infected area, in which there is infection by a specified infectious disease other than yellow fever, the appropriate measures set out below shall be carried out, that is to say,
+*In the*
+
+*than yellow be carried out,*
+
+**18.** case of an aircraft departing from an infected area, in which there is infection by a specified infectious disease other fever, the appropriate measures set out below shall that is to say,
 
 (a) cleansing and disinfection to the satisfaction of the Health Officer of any parts of the aircraft which, in his opinion, require to be cleansed and disinfected;
 
@@ -1578,27 +1672,43 @@ Aircraft departing from infected areas
 
 ## PART V
 
-Special Sanitary Measures In The Case Of Yellow Fever
+*Special*
+
+Sanitary Measures In The Case Of Yellow Fever
 
 Application of Part V
 
-**19.** The provisions of this Part shall be without prejudice to any provisions of these Regulations.
+*The*
+
+**19.** provisions of this Part shall be without prejudice to any provisions of these Regulations.
 
 Prohibition of landing at or departing from certain areas
 
-**20.** Except with the general or special permission of the Quarantine Authority, no aircraft shall land in or depart from any yellow fever infected or endemic area in Belize.
+*Quarantine any yellow*
+
+**20.** Except with the general or special permission of the Authority, no aircraft shall land in or depart from fever infected or endemic area in Belize.
 
 Prohibition of aircraft entering Belize from certain areas outside Belize
 
-**21.** (1) Except with the general or special permission of the Quarantine Authority, no aircraft coming from a yellow fever infected or endemic area outside Belize shall enter Belize.
+*Quarantine infected or*
 
-(2) When permission is given to any such aircraft as provided in paragraph (1), the aircraft shall use only such
+**21.** (1) Except with the general or special permission of the Authority, no aircraft coming from a yellow fever endemic area outside Belize shall enter Belize.
 
-aerodromes in Belize as may be specified by the Quarantine Authority.
+*provided in*
 
-Measures on arrival of aircraft from territory in which yellow fever exists
+(2) When permission is given to any such aircraft as paragraph (1), the aircraft shall use only such
 
-**22.** On the arrival of an aircraft from a yellow fever infected area or from an aerodrome situated in or near a yellow fever infected area the following measures shall be taken,
+*aerodromes in Authority.*
+
+Belize as may be specified by the Quarantine
+
+*Measures on*
+
+arrival of aircraft from territory in which yellow fever exists
+
+*On the*
+
+**22.** arrival of an aircraft from a yellow fever infected area or from an aerodrome situated in or near a yellow fever infected area the following measures shall be taken,
 
 (a) disinsectisation of the aircraft prior to landing of passengers and cargo;
 
@@ -1610,7 +1720,9 @@ Measures on arrival of aircraft from territory in which yellow fever exists
 
 (e) surveillance for six days from last day of possible exposure to infection of persons who are not subjected to observation on arrival:
 
-Provided that a person in possession of a valid certificate of inoculation against yellow fever shall not for the purpose of the control of yellow fever be subjected to quarantine restrictions.
+*inoculation control of*
+
+Provided that a person in possession of a valid certificate of against yellow fever shall not for the purpose of the yellow fever be subjected to quarantine restrictions.
 
 Measures on arrival of aircraft from an aerodrome situated in an endemic area
 
@@ -1630,9 +1742,13 @@ Aircraft in transit landing to take in supplies
 
 **24.** Aircraft from healthy areas which in transit to Belize have called at an aerodrome in an infected or endemic area merely to take in supplies, shall be exempt from measures specified in regulations 22 and 23 other than disinsectisation on arrival in Belize, provided the fact that the aircraft has called at such an aerodrome for the sole purpose of taking in supplies is entered in the journey log-book, declaration form or other record.
 
-Measures on departure from certain areas of Belize
+*Measures*
 
-Before the departure of an aircraft from a yellow fever infected or endemic area of Belize, the following measures shall be taken,
+on departure from certain areas of Belize
+
+*Before infected or be taken,*
+
+the departure of an aircraft from a yellow fever endemic area of Belize, the following measures shall
 
 (a) passengers and crew who are not immune shall undergo observation under Aedes-free conditions for six days immediately before departure;
 
@@ -1644,7 +1760,9 @@ Before the departure of an aircraft from a yellow fever infected or endemic area
 
 Restriction as to certain aerodromes
 
-**26.** No person other than,
+*No*
+
+**26.** person other than,
 
 (a) an immune person; or
 
@@ -1704,11 +1822,9 @@ Further provisions as to expenses and charges
 
 Miscellaneous Saving as to mails The Schedule
 
-**35.** Save as provided in paragraph (2) of regulation 38, or in
-
 *CAP. 228.*
 
-Parts A and B of the Schedule hereto, nothing in these Regulations shall render liable to detention, disinfection or destruction any article forming part of any mail conveyed under the authority of the Postmaster General, or of the postal administration of any other Government, or shall prejudicially affect the receipt on board and delivery in due course of any such mail in accordance with the provisions of the Post Office Act,
+**35.** Save as provided in paragraph (2) of regulation 38, or in Parts A and B of the Schedule hereto, nothing in these Regulations shall render liable to detention, disinfection or destruction any article forming part of any mail conveyed under the authority of the Postmaster General, or of the postal administration of any other Government, or shall prejudicially affect the receipt on board and delivery in due course of any such mail in accordance with the provisions of the Post Office Act,
 
 Health Officers to take account of previous measures
 
@@ -1832,13 +1948,21 @@ PART D.
 
 I. Infected Aircraft
 
-The passengers and crew shall be medically examined.
+passengers and crew shall be medically examined.
 
 **2.** The sick shall immediately be disembarked and isolated.
 
-**3.** Any other person reasonably suspected by the Health Officer to have been exposed to infection on board shall be offered vaccination and shall be placed under surveillance or, in exceptional circumstances, observation for a period expiring not later than fourteen days after the date of arrival of the aircraft,
+*Any*
 
-Provided that a person shall not be placed under surveillance or observation if after vaccination he shows signs of early reaction attesting an adequate immunity, or if he satisfies the Health Officer that he is already sufficiently immunised against smallpox, and for the purpose of this paragraph a person shall be regarded as already sufficiently immunised against smallpox if,
+*offered exceptional later than*
+
+**3.** other person reasonably suspected by the Health Officer to have been exposed to infection on board shall be vaccination and shall be placed under surveillance or, in circumstances, observation for a period expiring not fourteen days after the date of arrival of the aircraft,
+
+*attesting an Officer that*
+
+Provided that a person shall not be placed under surveillance or observation if after vaccination he shows signs of early reaction adequate immunity, or if he satisfies the Health he is already sufficiently immunised against smallpox, and for the purpose of this paragraph a person shall be regarded as already sufficiently immunised against smallpox
+
+*if,*
 
 (a) he produces a vaccination certificate to the satisfaction of the Health Officer bearing the date thereof and signed or countersigned by a medical officer in the employment of the Government or of the health authorities of the territory in which the certificate was issued to the effect that he has been vaccinated not less than fourteen days and not more than three years prior to the date of arrival;
 

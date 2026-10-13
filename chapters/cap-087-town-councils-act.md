@@ -78,6 +78,8 @@ Constitution, etc., of the Council, Members of the Council, and their Qualificat
 
 **12.** Power to fix allowances.
 
+*[CAP.*
+
 ## PART III
 
 Appointment of Officers, Employees, Conditions of Service and Elections
@@ -135,6 +137,10 @@ A Council’s power to co-ordinate activities of utility agencies.
 **30.** Additional general duties of every Council.
 
 **30A.** Allocation of portfolio and collective responsibility.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 ## PART VI
 
@@ -320,9 +326,9 @@ imprisonment, by whatever name called, for a term exceeding twelve months and ha
 
 (i) is or becomes a member of the National Assembly or of any Commission established by or under the Belize Constitution.
 
-(2) For the purposes of this section, a person shall not be disqualified from being a member by reason of his being
+*(2) For the disqualified interested in–*
 
-*interested in–*
+purposes of this section, a person shall not be from being a member by reason of his being
 
 (a) any contract in respect of which the Minister shall remove the disqualification if he is of the opinion that such removal will be of public benefit;
 
@@ -330,25 +336,41 @@ imprisonment, by whatever name called, for a term exceeding twelve months and ha
 
 (c) any contract with the Council as a shareholder in any joint stock company, but he shall not vote at any meeting of the Council on any question in which such company is interested.
 
-(3) The office of Mayor of every Council and the office of a member are declared not to be offices of emolument or places of profit in the gift or disposal of the Council although remuneration may be paid to such Mayor and member out of moneys provided by the Council.
+*(3) The member are of profit in remuneration moneys*
 
-(4) A person shall not be considered as holding an office of emolument or place of profit in the gift or disposal of a Council or as being in the employment of the Council or as holding a public office by reason only of the fact that he is in receipt of a pension of other like allowance in respect of service under the Council or the Public Service, or that he holds a general retainer as solicitor of the Council.
+office of Mayor of every Council and the office of a declared not to be offices of emolument or places the gift or disposal of the Council although may be paid to such Mayor and member out of provided by the Council.
 
-*Penalty for person incapable of election or of person whose seat has become vacant, who sits or votes.*
+*emolument or or as being in*
 
-**8.** Any person who–
+*Council or the as solicitor of*
+
+(4) A person shall not be considered as holding an office of place of profit in the gift or disposal of a Council the employment of the Council or as holding a public office by reason only of the fact that he is in receipt of a pension of other like allowance in respect of service under the Public Service, or that he holds a general retainer the Council.
+
+*Penalty for*
+
+*Any*
+
+*person incapable of election or of person whose seat has become vacant, who sits or votes.*
+
+**8.** person who–
 
 (a) having been returned as an elected member of a Council without having been at the time of his election qualified to be an become vacant, elected member, or having since his election become disqualified in pursuance of section 7, from sitting and voting, sits or votes on the Council; or
 
 (b) sits or votes on a Council after his seat has become vacant under section 9,
 
-shall, for every day on which he sits or votes after his seat has become vacant, be liable to a fine of one hundred dollars to be
+*shall, for every*
 
-recovered by action in the Supreme Court by any person who, with the written consent of the Attorney General, sues for it.
+day on which he sits or votes after his seat has become vacant, be liable to a fine of one hundred dollars to be
+
+*recovered by with the written*
+
+action in the Supreme Court by any person who, consent of the Attorney General, sues for it.
+
+*If any*
 
 *Vacation of seat.*
 
-**9.** If any elected member of a Council–
+**9.** elected member of a Council–
 
 (a) dies;
 
@@ -410,19 +432,33 @@ sufficiently detailed reports showing the developmental and other activities und
 
 (i) such other areas in the administration and management of the town as the Council may, by two-thirds majority resolution, decide to confer on him.
 
-*Leave of absence.*
+*Leave of*
 
-**11.** (1) The Mayor may, with the concurrence of four other members, grant leave of absence to any member for a period not exceeding six months.
+*11.-(1) The*
 
-(2) A Council may grant to the Mayor leave of absence not exceeding six months.
+*absence.*
 
-*Power to fix allowances. 21 of 2008.*
+*exceeding six*
 
-**12.** (1) Subject to the approval of the Minister of Finance every Council may by resolution fix an allowance to be paid to members from monies constituting the Town Fund of the town administered by the Council.
+Mayor may, with the concurrence of four other members, grant leave of absence to any member for a period not months.
+
+*(2) A exceeding six*
+
+Council may grant to the Mayor leave of absence not months.
+
+*Power to fix allowances.*
+
+*Council may*
 
 *21 of 2008.*
 
-(2) No payment shall be made to any member, whether in the form of salary, allowance or otherwise, unless it has been previously approved by the Minister of Finance, and every payment made in contravention of this section shall be wholly
+**12.** (1) Subject to the approval of the Minister of Finance every by resolution fix an allowance to be paid to members from monies constituting the Town Fund of the town administered by the Council.
+
+*21 of 2008.*
+
+*(2) No the form of previously*
+
+payment shall be made to any member, whether in salary, allowance or otherwise, unless it has been approved by the Minister of Finance, and every payment made in contravention of this section shall be wholly
 
 void and shall be recoverable from the member receiving such payment.
 
@@ -468,11 +504,13 @@ shall be entitled to vote at the election of a member of the Council for the tow
 
 (3) Where a person is permitted to vote under sub-section (2), the presiding officer shall so state to the candidates or agents then present in the polling station, and also make a record of his reasons for so doing and shall maintain a list of the names and registration numbers of the electors voting without producing their identification cards, showing the number of the ballot paper issued to each of them.
 
-**16.** (1) The Elections and Boundaries Commission may, after
+*16.-(1) The*
 
-*Elections regulations.*
+*Elections consultation regulations.*
 
-consultation with representatives of civil society organisations and other interested bodies, make regulations–
+*and other*
+
+Elections and Boundaries Commission may, after with representatives of civil society organisations interested bodies, make regulations–
 
 (a) to provide for the registration of electors;
 
@@ -500,27 +538,31 @@ consultation with representatives of civil society organisations and other inter
 
 (m) to prescribe for all such other matters relating to elections as may be necessary for the carrying out of the provisions of this Act.
 
-(2) Contraventions of any regulations made under subsection (1), may be declared by the Elections and Boundaries Commission to be illegal practices, and provision may be made in the said regulations for the punishment on summary conviction, of persons committing or aiding, abetting, inciting, taking part or attempting to take part in the commission of such illegal practices, by–
+*section (1),*
+
+(2) Contraventions of any regulations made under sub-may be declared by the Elections and Boundaries Commission to be illegal practices, and provision may be made in the said regulations for the punishment on summary conviction, of persons committing or aiding, abetting, inciting, taking part or attempting to take part in the commission of such illegal practices, by–
 
 (a) a fine not exceeding two thousand dollars; and
 
 *CAP. 85.*
 
-(b) disqualification from voting at any election
-
 *CAP. 9.*
-
-under this Act, the Belize City Council Act, the Representation of the People Act, the
 
 *CAP. 88.*
 
-Village Councils Act, and from being elected or appointed, as the case may be, as a member of a City Council, Town Council, Village Council or of the National Assembly for a period of three years from the date of his conviction.
+(b) disqualification from voting at any election under this Act, the Belize City Council Act, the Representation of the People Act, the Village Councils Act, and from being elected or appointed, as the case may be, as a member of a City Council, Town Council, Village Council or of the National Assembly for a period of three years from the date of his conviction.
 
-(3) Regulations made by the Election and Boundaries Commission under this section shall be laid on the table of the House of Representatives by the Minister as soon as may be after the making thereof and shall be subject to negative resolution.
+*House of after the resolution.*
 
-*Elections expenses regulations.*
+(3) Regulations made by the Election and Boundaries Commission under this section shall be laid on the table of the Representatives by the Minister as soon as may be making thereof and shall be subject to negative
 
-**17.** (1) The Minister may make regulations–
+*Elections expenses*
+
+*17.-(1) The*
+
+*regulations.*
+
+Minister may make regulations–
 
 (a) with respect to the incurring of expense and the expenses making of payments by or on behalf regulations of a candidate, whether before, during or after an election, on account of or in respect of, the conduct or management of such election;
 
@@ -532,23 +574,19 @@ Village Councils Act, and from being elected or appointed, as the case may be, a
 
 (e) requiring a return of expenses and prescribing the form in which the same shall be made and verified.
 
-(2) Contraventions of regulations made under sub-section (1), may be declared by the Minister to be illegal practices, and provision may be made in the said regulations for the punishment on summary conviction, of persons committing or aiding, abetting, inciting, attempting to take part or taking part in the commission of such illegal practices, by–
+*(1), may be provision may punishment on aiding, abetting, in the*
+
+(2) Contraventions of regulations made under sub-section declared by the Minister to be illegal practices, and be made in the said regulations for the summary conviction, of persons committing or inciting, attempting to take part or taking part commission of such illegal practices, by–
 
 (a) a fine not exceeding two thousand dollars; and
 
-(b) disqualification from voting at any election
-
 *CAP. 85.*
-
-under this Act, the Belize City Council Act,
 
 *CAP. 9.*
 
-the Representation of the People Act, the Village Councils Act, and from being elected
-
 *CAP. 88.*
 
-or appointed, as the case may be, as a member of a City Council, Town Council, Village Council or of the National Assembly for a period of three years from the date of his conviction.
+(b) disqualification from voting at any election under this Act, the Belize City Council Act, the Representation of the People Act, the Village Councils Act, and from being elected or appointed, as the case may be, as a member of a City Council, Town Council, Village Council or of the National Assembly for a period of three years from the date of his conviction.
 
 (3) Regulations made by the Minister pursuant to this section shall be subject to negative resolution.
 
@@ -560,19 +598,29 @@ or appointed, as the case may be, as a member of a City Council, Town Council, V
 
 (2) The Chief Elections Officer shall, with the approval of the Commission, appoint an Election Clerk and one or more Assistant Clerks for each town where an election is held. If at any time between the dissolution of a Council and the declaration of the result of the election following thereon the Returning Officer dies or becomes incapable of performing his duties as such, the Election Clerk shall forthwith report that fact to the Chief Elections Officer and shall discharge all the duties and exercise all the powers of the Returning Officer until some
 
-other Returning Officer is appointed or the Returning Officer ceases to be incapable of performing his duties, as the case may be.
+*ceases to be be.*
 
-(3) An appointment made under sub-sections (1) and (2), may be revoked at any time.
+other Returning Officer is appointed or the Returning Officer incapable of performing his duties, as the case may
+
+*(3) An*
+
+appointment made under sub-sections (1) and (2), may be revoked at any time.
 
 ## PART IV
 
 Meetings, Finances, etc., of the Council
 
-*Council’s meetings regulations.*
+*Council’s meetings*
 
-**19.** (1) Every Council may from time to time make regulations to regulate Council meetings and proceedings, and the meetings and proceedings of any Committees established by the Council.
+*to regulate*
 
-(2) Without prejudice to the generality of sub-section (1), such regulations may provide for all or any of the following matters, namely–
+*regulations.*
+
+**19.** (1) Every Council may from time to time make regulations Council meetings and proceedings, and the meetings and proceedings of any Committees established by the Council.
+
+*matters,*
+
+(2) Without prejudice to the generality of sub-section (1), such regulations may provide for all or any of the following namely–
 
 (a) the regulation of the proceedings of the Council and of Committees and the conduct of meetings thereof respectively;
 
@@ -604,15 +652,17 @@ officers and servants;
 
 (n) anything incidental to or connected with the matters referred to in this sub-section.
 
-(3) Regulations made by any Council under this section shall be subject to negative resolution.
+*be subject to*
 
-(4) Notwithstanding any other rule of law to the contrary, Council meetings shall be open to the public unless otherwise directed by the Mayor.
+(3) Regulations made by any Council under this section shall negative resolution.
 
-**20.** The proceedings of every Council or of any Committee
+*Council*
+
+(4) Notwithstanding any other rule of law to the contrary, meetings shall be open to the public unless otherwise directed by the Mayor.
 
 *Vacancy not to invalidate meetings.*
 
-thereof shall not be invalidated by any vacancy among its members, or the want of qualification of a member.
+**20.** The proceedings of every Council or of any Committee thereof shall not be invalidated by any vacancy among its members, or the want of qualification of a member.
 
 *Town Councils Fund.*
 
@@ -630,11 +680,9 @@ thereof shall not be invalidated by any vacancy among its members, or the want o
 
 **22.** (1) The Council may, with the approval of the Minister responsible for finance, borrow sums required by it for meeting any of its obligations or discharging any of its functions.
 
-(2) Subject to sub-section (1), the Council may establish
-
 *CAP. 250.*
 
-companies under the Companies Act, to raise funds for infrastructural development projects.
+(2) Subject to sub-section (1), the Council may establish companies under the Companies Act, to raise funds for infrastructural development projects.
 
 (3) The Council may, either directly or through companies established by it, float bonds or issue shares or debentures for the purpose of exercising its borrowing powers under this Act.
 
@@ -662,17 +710,29 @@ companies under the Companies Act, to raise funds for infrastructural developmen
 
 (3) In every case where the approval or certification of the financial controller is required pursuant to sub-section (1), every person who makes or authorises a payment without such certification or approval, without prejudice to any civil liability which may be incurred in that behalf, commits an offence and is liable on summary conviction to a fine not exceeding one
 
-thousand dollars or to imprisonment for a term not exceeding one year, or to both such fine and imprisonment.
+*thousand*
+
+dollars or to imprisonment for a term not exceeding one year, or to both such fine and imprisonment.
 
 ## PART V
 
-Duties and Powers of Every Council on Streets and Adjoining Lands
+*Duties and*
 
-*General powers as to streets, etc.*
+Powers of Every Council on Streets and Adjoining Lands
 
-**24.** (1) All streets, in which term is included public drains and bridges within the boundaries of a town, shall be under the control, care and management of the Council for that town.
+*General powers*
 
-(2) The Council is empowered in respect of any street to do any of the following things–
+*24.-(1) All*
+
+*as to streets, etc.*
+
+*control, care*
+
+streets, in which term is included public drains and bridges within the boundaries of a town, shall be under the and management of the Council for that town.
+
+*(2) The any of the*
+
+Council is empowered in respect of any street to do following things–
 
 (a) to lay out, construct, repair, alter or widen all streets with such material and in such manner as the Council thinks fit;
 
@@ -716,13 +776,21 @@ public roads and streets within its town as are conferred upon it by or under th
 
 (5) There shall be established within every town’s administration a Utility Co-ordination Unit with power to ensure effective co-ordination between all utility agencies and to enforce by-laws made pursuant to sub-section (4).
 
-(6) In this section, the expression “utility agencies” means all corporations, companies and entities which provide electricity, water and sewerage, telephone, tele-fax, gas and other utility services.
+*(6) In this all electricity, other utility*
 
-(7) The provisions of this section shall have effect notwithstanding the provisions of any other law to the contrary.
+section, the expression “utility agencies” means corporations, companies and entities which provide water and sewerage, telephone, tele-fax, gas and services.
 
-*Penalties for damages to streets, etc.*
+*(7) The*
 
-**26.** (1) Any person who, not being authorised by a Council or by any law–
+provisions of this section shall have effect notwithstanding the provisions of any other law to the contrary.
+
+*Penalties for 26.-(1) Any damages to*
+
+person who, not being authorised by a Council or
+
+*by any law–*
+
+*streets, etc.*
 
 (a) encroaches on a street or other public right of way by making or erecting any building, fence, ditch, or other obstacle or work of any kind upon, over or under it or planting any tree or shrub thereon;
 
@@ -750,11 +818,9 @@ commitsan offence and is liable on summary conviction to a fine not exceeding fi
 
 **27.** If any land adjoining any street within the boundaries of a town is allowed to remain unfenced or if the fences of such land are allowed to be or remain out of repair and the land is, owing to the absence or inadequate repair of any such fence, a source of danger to passengers, cyclists or pedestrians, or is used for any immoral or indecent purpose, or for any purpose causing inconvenience or annoyance to the public, the Council responsible for administering the town may, at any time after the expiration of fourteen days from the service upon the owner or occupier of such land of a notice in writing by the Council requiring the land to be fenced or any fence on the land to be repaired, cause the land to be fenced or the fences thereto to be repaired in a manner it thinks fit, and the reasonable expenses thereby incurred shall be recoverable from the owner or occupier summarily as a civil debt.
 
-**28.** (1) Every Council may, by notice in writing to the owner of
-
 *A Council may require owner to erect fence.*
 
-any land situate in its town, require such owner, within a reasonable time specified in such notice, to cause a sufficient fence to be erected in the public interest dividing the land from any adjoining street or to cause any fence dividing the land from any adjoining street to be restored, repaired or otherwise put in a proper state of repair.
+**28.** (1) Every Council may, by notice in writing to the owner of any land situate in its town, require such owner, within a reasonable time specified in such notice, to cause a sufficient fence to be erected in the public interest dividing the land from any adjoining street or to cause any fence dividing the land from any adjoining street to be restored, repaired or otherwise put in a proper state of repair.
 
 (2) An owner who makes default in complying with the requirements of any notice served upon him under this section is liable to a fine of fifty dollars for every day that the default continues after written notice thereof from the Council.
 
@@ -780,9 +846,19 @@ any land situate in its town, require such owner, within a reasonable time speci
 
 (i) to do all such other things or matters for the purpose of increasing the convenience and amenity of the town.
 
-*Additional general duties of every Council.*
+*Additional*
 
-**30.** Without prejudice to any powers conferred upon, or duties imposed on, any Council by this or any other Act or regulations made thereunder, every Council shall have the obligation to perform the following duties in its town in an efficient and timely manner–
+*Without*
+
+*general duties of*
+
+*duties imposed*
+
+*every Council.*
+
+*regulations obligation to efficient and*
+
+**30.** prejudice to any powers conferred upon, or on, any Council by this or any other Act or made thereunder, every Council shall have the perform the following duties in its town in an timely manner–
 
 (a) to maintain all public cemeteries in its town in a sanitary manner and to keep such cemeteries in a general state of good repair;
 
@@ -842,11 +918,9 @@ Pensions etc.
 
 **36.** No pension shall be granted to an officer who has not attained the age of fifty-five years, unless on medical evidence to the satisfaction of the Council that he is incapable, by reason of some infirmity of mind or body, of discharging the duties of his office, and that such infirmity is likely to be permanent and is not attributable to his own misconduct or gross negligence.
 
-**37.** No pension granted to an officer under this Act shall
-
 *Maximum pensions.*
 
-exceed two-thirds of the highest pensionable emoluments drawn by the officer at any time in the course of his service.
+**37.** No pension granted to an officer under this Act shall exceed two-thirds of the highest pensionable emoluments drawn by the officer at any time in the course of his service.
 
 *Rate of pensions. CAP. 30.*
 
@@ -910,17 +984,25 @@ Council in whose service the officer was appointed, any lower age not being less
 
 (b) any periods during which an officer has been absent from duty on leave with full pay.
 
-(2) The periods during which an officer has been absent on leave on half-pay shall, for the purposes of this Part, be counted at the rate of one day for every two days of such period.
+*(2) The leave on at the rate of*
 
-(3) Any period during which he has been absent on leave, other than those specified above, shall be deducted from the officer’s total service in order to arrive at his period of pensionable service.
+periods during which an officer has been absent on half-pay shall, for the purposes of this Part, be counted one day for every two days of such period.
 
-*Emoluments on which to base computation of pensions, etc.*
+*(3) Any other than*
 
-For the purpose of computing the amount of an officer’s
+*pensionable*
 
-47.
+period during which he has been absent on leave, those specified above, shall be deducted from the officer’s total service in order to arrive at his period of service.
 
-pension–
+*Emoluments on which to base*
+
+purpose of computing the amount of an officer’s
+
+**47.** For the
+
+*pension–*
+
+*computation of pensions, etc.*
 
 (a) in the case of an officer who has held one office for a period of three years immediately preceding the date of his retirement, the full pensionable emoluments payable to him at that date in respect of that office shall be taken;
 
@@ -928,13 +1010,21 @@ pension–
 
 (c) in other cases, the average of the full pensionable emoluments payable in respect of each of the offices substantively held by the officer during his tenure thereof within such period of three years shall be taken,
 
-Provided that if such average is less than the full pensionable emoluments which were payable to him at the date of the first transfer within such period of three years, the Council in whose service the officer was appointed may grant him a pension
+*emoluments*
 
-calculated upon the full pensionable emoluments payable to him at that date.
+*service the*
+
+Provided that if such average is less than the full pensionable which were payable to him at the date of the first transfer within such period of three years, the Council in whose officer was appointed may grant him a pension
+
+calculated upon the full pensionable emoluments payable to him
+
+*at that date.*
 
 *Pensions Regulations.*
 
-**48.** (1) Every Council may make regulations to govern the administration of pensions and gratuities payable to its officers and servants under this Part.
+*and servants*
+
+**48.** (1) Every Council may make regulations to govern the administration of pensions and gratuities payable to its officers under this Part.
 
 (2) Regulations made by a Council under sub-section (1), shall be subject to negative resolution.
 
@@ -942,11 +1032,19 @@ calculated upon the full pensionable emoluments payable to him at that date.
 
 Miscellaneous
 
-*Council’s powers to make by-laws.*
+*Council’s*
 
-**49.** (1) Every Council may from time to time make by-laws on all matters connected with the rule and good order of its town and for the proper carrying out of the objects and purposes of this Act.
+*49.-(1) Every powers to make all matters*
 
-(2) Without prejudice to the generality of sub-section (1), such by-laws may provide for all or any of the following, namely–
+*by-laws.*
+
+*and for the this Act.*
+
+Council may from time to time make by-laws on connected with the rule and good order of its town proper carrying out of the objects and purposes of
+
+*such by-laws namely–*
+
+(2) Without prejudice to the generality of sub-section (1), may provide for all or any of the following,
 
 (a) for the establishment, control and use of public lavatories and latrines;
 
@@ -974,15 +1072,11 @@ Miscellaneous
 
 **50.** (1) Where any by-laws made by a Council under this Act prescribe any fees, fines, penalties and forfeitures, such by-laws shall be subject to affirmative resolution.
 
-(2) All licences, fees, fines, penalties and forfeitures
-
 *CAP. 98.*
-
-imposed by this Act or any by-laws made hereunder shall be recoverable under the Summary Jurisdiction (Offences) Act,
 
 *CAP. 99.*
 
-and Summary Jurisdiction (Procedure) Act.
+(2) All licences, fees, fines, penalties and forfeitures imposed by this Act or any by-laws made hereunder shall be recoverable under the Summary Jurisdiction (Offences) Act, and Summary Jurisdiction (Procedure) Act.
 
 *Admissibility in evidence of documents signed by Mayor or Town Administrator.*
 
@@ -1016,11 +1110,9 @@ until evidence is given to the contrary.
 
 *Acquisition of land.*
 
-**54.** Where any land is required for public purposes by a Council such land shall for all purposes be taken to be land required by the Minister for public purposes, and may be acquired in the manner prescribed by the Land Acquisition
-
 *CAP. 184.*
 
-(Public Purposes) Act.
+**54.** Where any land is required for public purposes by a Council such land shall for all purposes be taken to be land required by the Minister for public purposes, and may be acquired in the manner prescribed by the Land Acquisition (Public Purposes) Act.
 
 *Execution of work in case of default.*
 
@@ -1082,11 +1174,13 @@ a debt due to the Council by the owner for the time being of the premises.
 
 **60.** An offence under this Act or any regulations made thereunder may be commenced within one year after the
 
-commission of the offence, or within one year after the Council concerned or affected by such offence becomes aware of the offence, whichever is the later.
+*commission of concerned or offence,*
 
-*Regulations.*
+the offence, or within one year after the Council affected by such offence becomes aware of the whichever is the later.
 
-**61.** (1) Every Council may make regulations for the better carrying out of the objects and purposes of this Act, and without prejudice to the generality of the foregoing, such regulations may provide for–
+*Regulations. 61.-(1) Every carrying out of prejudice to the may provide*
+
+Council may make regulations for the better the objects and purposes of this Act, and without generality of the foregoing, such regulations for–
 
 (a) the power of the Council to direct, through a notice published in the Gazette, that any lots or land within the town other than National Land be filled up by the owner or occupier thereof to the prescribed level, and the procedure to follow during the filling up of the land;
 
@@ -1108,19 +1202,33 @@ commission of the offence, or within one year after the Council concerned or aff
 
 (j) any other matter not specifically included in the paragraphs above which may properly be dealt with by way of regulations.
 
-(2) Regulations made by the Council under this section shall be subject to negative resolution.
+*be subject to*
+
+(2) Regulations made by the Council under this section shall negative resolution.
 
 *Commencement.*
 
 **62.** This Act comes into force on 1st December 1999.
 
-*Repeals and savings. S.I. 114 of 1999.*
+*Repeals and*
 
-**63.** (1) The Local Government (District Boards) Act is hereby repealed.
+*63.-(1) The*
+
+*savings.*
+
+Local Government (District Boards) Act is hereby
+
+*repealed.*
+
+*S.I. 114 of 1999.*
 
 *CAP. 67.*
 
-(2) All regulations, by-laws, rules, orders and other subsidiary legislation made under the Local Government (District Boards) Act, shall continue in force after the commencement of this Act to such an extent as they are not inconsistent with the provisions of this Act, until repealed by regulations, by-laws, rules, orders and other subsidiary legislation made hereunder.
+*(2) All subsidiary (District*
+
+*inconsistent regulations,*
+
+regulations, by-laws, rules, orders and other legislation made under the Local Government Boards) Act, shall continue in force after the commencement of this Act to such an extent as they are not with the provisions of this Act, until repealed by by-laws, rules, orders and other subsidiary legislation made hereunder.
 
 ## SCHEDULE
 

@@ -244,9 +244,13 @@ counted in full towards the qualifying period laid down in section 6(1) and (2) 
 
 (4) Service in Belize by a probationer or pupil teacher over eighteen years of age which is immediately followed by service as a teacher under this Act shall be deemed to be service under this Act.
 
-*Salary to be taken for computation of pensions.*
+*Salary to be 10.-(1) For the taken for*
 
-**10.** (1) For the purpose of computing the amount of a teacher’s pension or gratuity “final pensionable emoluments” means,
+*pension or computation of*
+
+purpose of computing the amount of a teacher’s gratuity “final pensionable emoluments” means,
+
+*pensions.*
 
 (a) in the case of a teacher who has held the same appointment for a period of three years immediately preceding the date of retirement, the full annual salary enjoyed by him at that date in respect of that office;
 
@@ -257,6 +261,10 @@ counted in full towards the qualifying period laid down in section 6(1) and (2) 
 (i) if such one-third is less than the highest annual salary enjoyed by him at the date of any transfer within such period of three years that salary shall be taken; and
 
 (ii) if such one-third is less than the annual salary which would have been enjoyed by him at the date of his retirement if he had continued to hold any appointment from which he has been transferred at any time during such period of three years, and has received all increments which, in the opinion of the Governor-General,
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 would have been granted to him, the annual salary which would have been enjoyed shall be taken.
 
@@ -462,11 +470,17 @@ deemed to have died in the circumstances detailed in subsection (1) (a) and (c) 
 
 **24.** Where a teacher in the service of a school dies whilst in such service, the Governor-General may grant to his legal
 
-personal representatives a commuted pension or his final pensionable emoluments, whichever is the greater.
+*personal pensionable*
 
-*Regulations 40 of 1963.*
+representatives a commuted pension or his final emoluments, whichever is the greater.
 
-**25.** (1) The Governor-General may make regulations generally for carrying out the provisions of this Act.
+*Regulations*
+
+*25.-(1) The*
+
+*40 of 1963.*
+
+Governor-General may make regulations generally for carrying out the provisions of this Act.
 
 (2) Regulations made under this section shall be of no force or effect unless approved by the National Assembly.
 
@@ -482,27 +496,47 @@ personal representatives a commuted pension or his final pensionable emoluments,
 
 *16 of 1963.*
 
-then such teacher shall be entitled to a refund of such deductions and he shall be deemed to have renounced all claims to any pension or gratuity in respect of any teaching service prior to the date of such refund.
+*then such*
 
-*Officers injured or contracting diseases in the discharge of their duties.*
+teacher shall be entitled to a refund of such deductions and he shall be deemed to have renounced all claims to any pension or gratuity in respect of any teaching service prior to the date of such refund.
 
-**27.** (1) This section shall apply to a teacher who,
+*Officers injured*
+
+*27.-(1) This*
+
+*or contracting diseases in the discharge of their duties.*
+
+section shall apply to a teacher who,
 
 (a) is injured in the actual discharge of his duty by some injury specifically attributable to the nature of his duty which is not wholly or mainly due to, or seriously aggravated by, his own serious and culpable negligence or misconduct; or
 
 (b) contracts a disease to which he is exposed by the nature of his duty, not being a disease wholly or mainly due to, or seriously aggravated by, his own serious and culpable negligence or misconduct.
 
-(2) In this section unless the contrary intention appears, references to a teacher being injured and to the date on which an injury is sustained shall respectively be construed as including references to him contracting such a disease as is mentioned in subsection (1) of this section and to the date on which such disease is contracted.
+*(2) In this references to a an injury is including mentioned in which such*
 
-(3) Where a teacher to whom this Act applies is holding a pensionable office in which he has been confirmed, he may,
+section unless the contrary intention appears, teacher being injured and to the date on which sustained shall respectively be construed as references to him contracting such a disease as is subsection (1) of this section and to the date on disease is contracted.
+
+*pensionable*
+
+(3) Where a teacher to whom this Act applies is holding a office in which he has been confirmed, he may,
 
 (a) if his retirement is necessitated or materially accelerated by his injury and he has been in the teaching service for less than ten years, be granted, in lieu of any gratuity under section 11 of this Act, a pension under section 8, as the case may be, as if the words “ten years or upwards” were omitted from the said section 8;
 
 (b) if he was injured while in the teaching service of Belize be granted on retirement an additional pension, at the annual rate of the proportion of his actual pensionable emoluments at the date of his injury appropriate to his case as shown in the following table,
 
-when his capacity to contribute to his own support is,
+*when his*
 
-Slightly impaired five sixtieths Impaired ten sixtieths Materially impaired fifteen sixtieths Totally destroyed twenty sixtieths
+capacity to contribute to his own support is,
+
+*Slightly*
+
+*Totally*
+
+impaired five sixtieths Impaired ten sixtieths Materially impaired fifteen sixtieths destroyed twenty sixtieths
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 The amount of the additional pension may be reduced to such an extent as the Governor-General thinks reasonable where the injury is not the cause or the sole cause of retirement.
 

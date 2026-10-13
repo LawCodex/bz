@@ -78,6 +78,10 @@ The Right to Provide Services
 
 Collateral activities by service providers.
 
+*[CAP.*
+
+17:03
+
 Management of removal of restrictions on the right to provide a service.
 
 ## PART IV
@@ -121,6 +125,10 @@ Safeguard Measures
 Miscellaneous
 
 **27.** Determination of organs and bodies of the Community to be carried out.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 Mechanisms to implement Community standards relating to diplomas, etc.
 
@@ -196,15 +204,21 @@ State for the purposes of the laws thereof relating to immigration; or
 
 (c) is a company or other legal entity constituted in a Member State in accordance with the laws thereof and which that Member State regards as belonging to it, provided that such company or other legal entity has been formed for gainful purposes and has its registered office and central administration, and carries on substantial activity within the Community and is substantially owned and effectively controlled by persons mentioned in paragraphs (a) and (b);
 
-“non-wage-earning activity” means an activity undertaken by a self-employed person;
+*self-employed*
 
-“right of establishment” includes the right to–
+“non-wage-earning activity” means an activity undertaken by a person;
+
+*“right of*
+
+establishment” includes the right to–
 
 (a) engage in any non-wage-earning activity of a commercial, industrial, agricultural, professional or artisan nature;
 
 (b) create and manage an economic enterprise;
 
-“service” means a service provided against remuneration other than wages in any, approved sector and “the provision of a service” means the supply of a service–
+*“service” means than wages in service” means*
+
+a service provided against remuneration other any, approved sector and “the provision of a the supply of a service–
 
 (a) from the territory of a Member State into the territory of another Member State;
 
@@ -214,19 +228,31 @@ State for the purposes of the laws thereof relating to immigration; or
 
 (d) by a service supplier of one Member State through the presence of a natural person of a Member State in the territory of another Member State;
 
-“Treaty” means the Revised Treaty of Chaguaramas establishing the Caribbean Community including the CARICOM Single Market and Economy signed at Nassau, The Bahamas, on 5th July, 2001.
+*“Treaty” establishing CARICOM Bahamas, on*
+
+means the Revised Treaty of Chaguaramas the Caribbean Community including the Single Market and Economy signed at Nassau, The 5th July, 2001.
 
 *Application of this Act.*
 
-**3.** (1) Save as otherwise provided in this section and in sections 7 and 9, the provisions of this Act shall apply to–
+*7 and 9, the*
+
+**3.** (1) Save as otherwise provided in this section and in sections provisions of this Act shall apply to–
 
 (a) the right of establishment and the right to provide a service in Belize by a national of a Member State; and
 
 (b) the right of a national of a Member State to move capital into and within Belize and out of Belize to another Member State.
 
-(2) An activity in Belize involving the exercise of governmental authority by a duly authorized person shall be excluded from the operation of this Act.
+*(2) An*
 
-(3) For the purposes of sub-section (2) “an activity in Belize involving the exercise of governmental authority” means an activity conducted in Belize neither on a commercial basis nor in competition with one or more economic enterprises such as–
+activity in Belize involving the exercise of governmental authority by a duly authorized person shall be excluded from the operation of this Act.
+
+purposes of sub-section (2) “an activity in Belize
+
+(3) For the
+
+*activity*
+
+involving the exercise of governmental authority” means an conducted in Belize neither on a commercial basis nor in competition with one or more economic enterprises such as–
 
 (a) an activity conducted by the Central Bank of Belize or any other public entity in pursuance of monetary or exchange rate policies;
 
@@ -238,9 +264,13 @@ State for the purposes of the laws thereof relating to immigration; or
 
 (e) such other activity as may be excluded by Regulations made pursuant to section 31.
 
-*Rights of nationals of Member State in respect of establishment of services and capital.*
+*Rights of Subject nationals of*
 
-**4.** Subject to the provisions of this Act, a national of a Member State shall enjoy–
+*Member State Member State in*
+
+**4.** to the provisions of this Act, a national of a shall enjoy–
+
+*respect of establishment of services and capital.*
 
 (a) in Belize–
 
@@ -252,27 +282,47 @@ State for the purposes of the laws thereof relating to immigration; or
 
 (b) the right to move capital into and within Belize and out of Belize to other Member States, without discrimination on the ground of nationality.
 
-*Obligations to notify restrictions.*
+*Obligations to notify*
 
-**5.** The Competent Minister shall notify, not later than 31st December, 2005 to the Council for Trade and Economic Development or the Council for Finance and Planning, as the case may require, any remaining restrictions on–
+*The*
+
+*restrictions.*
+
+*December,*
+
+*case may*
+
+**5.** Competent Minister shall notify, not later than 31st 2005 to the Council for Trade and Economic Development or the Council for Finance and Planning, as the require, any remaining restrictions on–
 
 (a) the right of establishment and the right to provide a service in Belize by a national of another Member State; and
 
 (b) the right to move capital into and within Belize and out of Belize to another Member State, and to make current payments and transfers.
 
-*Prohibition of new restrictions.*
+*Prohibition of*
 
-**6.** Subject to this Act, the Competent Minister shall not introduce new restrictions on a national of another Member State entitled to the rights specified in section 4.
+*Subject*
+
+*new restrictions.*
+
+*introduce new State entitled to*
+
+**6.** to this Act, the Competent Minister shall not restrictions on a national of another Member the rights specified in section 4.
 
 ## PART II
 
 The Right of Establishment
 
+*7.-(1)*
+
 *Treatment of monopolies.*
 
-**7.** (1) Notwithstanding any provision to the contrary in this Act, the Competent Minister may determine that the public interest requires the exclusion or restriction of the right of establishment in any industry or in a particular section of an industry.
+*the Competent requires the in any industry*
 
-(2) Where a determination by the Competent Minister has been made pursuant to sub-section (1) and results in the continuation or establishment of–
+Notwithstanding any provision to the contrary in this Act, Minister may determine that the public interest exclusion or restriction of the right of establishment or in a particular section of an industry.
+
+*(2) Where a been made continuation or*
+
+determination by the Competent Minister has pursuant to sub-section (1) and results in the establishment of–
 
 (a) a government monopoly, the Competent Minister shall adopt appropriate measures to ensure that the monopoly does not discriminate among nationals of Member States, save as otherwise provided in this Act, and is subject to the agreed rules of competition established for an economic enterprise of the Community; or
 
@@ -330,11 +380,9 @@ The Right to Provide Services
 
 (3) For the purposes of sub-section (1), the laws listed in Column 1 of the Schedule are amended to the extent specified in Column 2 with effect from the dates specified in Column 3.
 
-(4) The Competent Minister may, by Order published in the
-
 *Schedule.*
 
-Gazette and subject to an affirmative resolution by the National Assembly, amend the Schedule to remove restrictions not notified to COTED in accordance with section 5 before 1st day of July, 2005.
+(4) The Competent Minister may, by Order published in the Gazette and subject to an affirmative resolution by the National Assembly, amend the Schedule to remove restrictions not notified to COTED in accordance with section 5 before 1st day of July, 2005.
 
 *Collateral activities by service providers.*
 
@@ -344,7 +392,9 @@ Gazette and subject to an affirmative resolution by the National Assembly, amend
 
 **13.** (1) The Competent Minister shall take such measures as may be necessary to ensure that a national of another Member State is not impeded in the exercise of his right to provide a service in Belize.
 
-(2) Without prejudice to the generality of sub-section (1), the Competent Minister shall–
+*the Competent*
+
+(2) Without prejudice to the generality of sub-section (1), Minister shall–
 
 (a) remove administrative practices and procedures in Belize which impede the exercise of the right to provide a service by a national of another Member State;
 
@@ -352,15 +402,19 @@ Gazette and subject to an affirmative resolution by the National Assembly, amend
 
 (c) ensure that a national of another Member State exercising the right to provide a service in Belize has,
 
-the right to acquire or otherwise possess or control land, buildings and other property’ on a non-discriminatory basis for purposes directly related to the provision of the service.
+*the right to buildings and purposes*
+
+acquire or otherwise possess or control land, other property’ on a non-discriminatory basis for directly related to the provision of the service.
 
 ## PART IV
 
 The Right to Move Capital
 
+*Subject*
+
 *Prohibition of new restrictions on the movement of capital.*
 
-**14.** Subject to this Act, the Competent Minister–
+**14.** to this Act, the Competent Minister–
 
 (a) shall not introduce new restrictions–
 
@@ -426,7 +480,9 @@ Safeguard Measures
 
 (d) restrictions on the right to move capital or on payments and transfers for transactions connected therewith.
 
-(3) The restrictions mentioned in sub-section (1) shall,
+*(3) The*
+
+restrictions mentioned in sub-section (1) shall,
 
 (a) subject to the provisions of this Act, and to the relevant determinations of Conference, the Council for Finance and Planning and the Council for Trade and Economic Development, as the case may require, not discriminate among Member States or against Member States in favour of third States;
 
@@ -436,9 +492,13 @@ Safeguard Measures
 
 (d) be temporary and not longer than eighteen months and shall be removed progressively as the situation mentioned in sub-section (1), improves.
 
-*Incidence and notification of restrictions.*
+*19.-(1) In Incidence and notification of*
 
-**19.** (1) In determining the incidence of restrictions mentioned in section 18, the Competent Minister may accord priority to activities which are essential to the economic stability of Belize but such restrictions shall not be adopted or maintained for the purpose of protecting a particular sector, due regard being paid
+*restrictions.*
+
+*but such purpose of*
+
+determining the incidence of restrictions mentioned in section 18, the Competent Minister may accord priority to activities which are essential to the economic stability of Belize restrictions shall not be adopted or maintained for the protecting a particular sector, due regard being paid
 
 to any special factors which may be affecting the reserves of Belize or Belize’s need for reserves.
 
@@ -476,7 +536,9 @@ to any special factors which may be affecting the reserves of Belize or Belize�
 
 **22.** (1) The Competent Minister shall, at the time of applying the restrictions mentioned in section 21, submit to the Council for Trade and Economic Development or the Council for Finance and Planning, as the case may require, a programme setting out the measures to be taken by Belize to resolve the difficulties or alleviate the hardships.
 
-(2) The Competent Minister shall act on the determination of the competent organ of the Community regarding–
+*(2) The of the*
+
+Competent Minister shall act on the determination competent organ of the Community regarding–
 
 (a) the appropriateness of the restrictions and whether they shall continue;
 
@@ -494,19 +556,23 @@ to any special factors which may be affecting the reserves of Belize or Belize�
 
 (d) to prevent the unreasonable exercise of rights granted by this Act, the exercise of which could impair the development of the CARICOM Single Market and Economy.
 
-*Nondiscrimination in applying permissible restrictions.*
+*Non-*
 
-**24.** The Competent Minister, in applying the restrictions pursuant to section 21, shall not discriminate on the ground of nationality and–
+*The*
+
+*discrimination in applying pursuant to permissible restrictions.*
+
+**24.** Competent Minister, in applying the restrictions section 21, shall not discriminate on the ground of nationality and–
 
 (a) shall progressively relax them as relevant conditions improve; or
 
 (b) may maintain them only to the extent that conditions mentioned in section 21 continue to justify their application.
 
-**25.** (1) Notwithstanding any provision to the contrary in this
+*25.-(1)*
 
-*General exceptions to the obligation to remove restrictions.*
+*General Act, the exceptions to the measures– obligation to remove restrictions.*
 
-Act, the Competent Minister shall not be precluded from taking measures–
+Notwithstanding any provision to the contrary in this Competent Minister shall not be precluded from taking
 
 (a) to protect public morals or maintain public order and safety;
 
@@ -538,11 +604,21 @@ Act, the Competent Minister shall not be precluded from taking measures–
 
 (m) to give effect to international obligations including the treaties on the avoidance of double taxation.
 
-(2) Nothing in sub-section (1), shall be construed as permitting the Competent Minister to take any measure which constitutes arbitrary or unjustifiable discrimination against a national of another Members States.
+*(2) Nothing permitting the constitutes national of*
 
-*Security exceptions to obligation to remove restrictions.*
+in sub-section (1), shall be construed as Competent Minister to take any measure which arbitrary or unjustifiable discrimination against a another Members States.
 
-**26.** Nothing in this Act shall be construed as preventing the Competent Minister from taking measures to–
+*Security exceptions to*
+
+*Nothing*
+
+*obligation to*
+
+*Competent*
+
+*remove restrictions.*
+
+**26.** in this Act shall be construed as preventing the Minister from taking measures to–
 
 (a) protect the essential security services of Belize–
 
@@ -556,13 +632,17 @@ purpose of provisioning a military establishment;
 
 *Amendment of laws.*
 
-**26A.** (1) Subject to the provisions of the principal Act, where in any law having force and effect in Belize, provision is made, as a qualification or condition precedent for a person to exercise the right of establishment, the right to provide services, and the right to move capital into and within Belize and out of Belize to other Member States of the Caribbean Community, including the CARICOM Single Market and Economy–
+*any law having a qualification the right of right to move other Member the CARICOM*
+
+**26A.** (1) Subject to the provisions of the principal Act, where in force and effect in Belize, provision is made, as or condition precedent for a person to exercise establishment, the right to provide services, and the capital into and within Belize and out of Belize to States of the Caribbean Community, including Single Market and Economy–
 
 (a) that the person needs to be a citizen of Belize, that law shall be read and construed as referring to a person who is a national of a country which is a State Party to the Treaty;
 
 (b) that the person should be residing in Belize, that law shall be read and construed as referring to a person who is a national of, and residing in, a country which is a State Party to the Treaty.
 
-(2) Subject to sub-section (3), sub-section (1) shall apply, in particular, but shall not be limited in its application to–
+*(2) Subject particular, but*
+
+to sub-section (3), sub-section (1) shall apply, in shall not be limited in its application to–
 
 *CAP. 233.*
 
@@ -614,15 +694,19 @@ Miscellaneous
 
 **29.** Where a functionary purports to restrict a person in the exercise of a right granted under section 4 the person aggrieved may, without prejudice to any other remedy, appeal to the Competent Minister for a speedy review of the decision of such functionary.
 
-Any person who, contrary to the provisions of this Act,
+*Any*
 
-*Offences against this Act.*
+*Offences against obstructs or this Act.*
 
-obstructs or otherwise impedes a national of a Member State in the lawful enjoyment of any right mentioned in section 4 or any right collateral thereto commits an offence and shall be liable on summary conviction to a fine not exceeding two thousand dollars or to imprisonment for a term not exceeding two years, or to both such fine and term of imprisonment.
+*the lawful*
 
-*Regulations.*
+*summary dollars or to*
 
-**31.** (1) The Competent Minister may make regulations generally for giving effect to the provisions of this Act.
+person who, contrary to the provisions of this Act, otherwise impedes a national of a Member State in enjoyment of any right mentioned in section 4 or any right collateral thereto commits an offence and shall be liable on conviction to a fine not exceeding two thousand imprisonment for a term not exceeding two years, or to both such fine and term of imprisonment.
+
+*Regulations. generally for*
+
+**31.** (1) The Competent Minister may make regulations giving effect to the provisions of this Act.
 
 (2) Without prejudice to the generality of sub-section (1), the Competent Minister may make regulations to,
 
@@ -1120,7 +1204,7 @@ Revised Edition
 
 ‘“Council of Human and Social Development” means the body of the Caribbean Community empowered by Article 35 of the Treaty of Chaguaramas establishing the Caribbean
 
-Community including the CARICOM Single Market and Economy to establish standards and measures for accreditation or mutual recognition of diplomas, certificates and other evidence of qualification of nationals of CARICOM Member States.’
+Community including CARICOM Single Market and Economy to establish standards and measures for accreditation or mutual recognition of diplomas, certificates and other evidence of qualification of nationals of CARICOM Member States.’
 
 (ii) Add a new section 24A immediately after section 24 as follows–
 

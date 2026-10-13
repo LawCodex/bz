@@ -90,6 +90,8 @@ Members of medical service not to keep a chemist’s shop.
 
 Visitors ex officio.
 
+*[CAP.*
+
 Visitors by appointment.
 
 Power of visitors.
@@ -146,6 +148,10 @@ Inquiry as to state of person’s mind.
 
 Admission of convicted persons for observation.
 
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
+
 Admission of accused persons for observation.
 
 Evidence of state of mind.
@@ -200,6 +206,8 @@ Miscellaneous
 
 **67.** Relatives of inmate made liable for expenses.
 
+*[CAP.*
+
 Dues recoverable summarily.
 
 Remission of dues wholly or in part.
@@ -207,6 +215,10 @@ Remission of dues wholly or in part.
 Schedules:
 
 Schedule 1 — Order for Free Admission into Hospital Schedule 2 — Undertaking to pay Hospital Dues and Order for Admission into Hospital Schedule 3 — Provisional Admission Report into Hospital on Accident or Emergency cases Schedule 4 — Order for Admission Into Hospital of Accident or Emergency Cases Schedule 5 — Certificate entitling a Person to receive Gratuitous Medical Attendance at a Dispensary
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 ### CHAPTER 39
 
@@ -308,11 +320,9 @@ servants as may be necessary, and to suspend or dismiss such servant, subject to
 
 Creation of Medical Districts, Hospitals and Dispensaries, etc.
 
-**12.** The Minister may by Order published in the Gazette
-
 *Medical District how created. 40 of 1963.*
 
-declare any portion of Belize a medical district, and may from time to time by Order, alter or revoke any such Order, and may from time to time by a like Order alter the limits of any such medical district.
+**12.** The Minister may by Order published in the Gazette declare any portion of Belize a medical district, and may from time to time by Order, alter or revoke any such Order, and may from time to time by a like Order alter the limits of any such medical district.
 
 *Assignment of medical district to a medical officer.*
 
@@ -386,19 +396,41 @@ The Minister may from time to time appoint any person or persons a visitor or vi
 
 (a) members of the police department, in accordance with rules and regulations made from time to time by the Minister in
 
+Medical Services and Institutions
+
 accordance with any legislation dealing with such department;
 
 (b) all sick persons provided with a written order signed by any public officer or other person empowered by virtue of any rule or regulation made under this Act to sign orders of admission in the form given in the First Schedule;
 
 (c) every person who shall furnish to the satisfaction of an officer designated by the Director of Health Services for that purpose, security for the payment of such hospital dues as may be from time to time determined on by the Minister, such security being given by a personal bond with or without guarantors and with or without a deposit of money as the designated officer may require, and who shall obtain from the designated officer an order for admission in the form as set out in the Second Schedule.
 
-*Medical officer in charge to have discretion in granting admissions.*
+*Medical officer*
 
-**25.** (1) The mere production of the order for admission as in the forms in the First and Second Schedules, shall not be deemed to entitle the persons to whom they refer to be admitted into the hospital for treatment.
+*25.-(1) The*
 
-(2) In every case, the medical officer in charge shall exercise his professional discretion as to the desirability of treating such diseases as the applicant may be suffering from in the hospital, and he shall admit or refuse to admit the person as the case may be.
+*in charge to have*
 
-(3) Every person, being dissatisfied with the decision of the medical officer in charge, shall have the right of appeal to the Minister.
+*the forms in*
+
+*discretion in granting*
+
+*deemed to*
+
+*admissions.*
+
+*admitted into*
+
+mere production of the order for admission as in the First and Second Schedules, shall not be entitle the persons to whom they refer to be the hospital for treatment.
+
+*exercise his treating such*
+
+(2) In every case, the medical officer in charge shall professional discretion as to the desirability of diseases as the applicant may be suffering from in the hospital, and he shall admit or refuse to admit the person as the case may be.
+
+*(3) Every*
+
+person, being dissatisfied with the decision of the medical officer in charge, shall have the right of appeal to the
+
+*Minister.*
 
 *Admission in cases of urgency.*
 
@@ -632,13 +664,33 @@ Any person of unsound mind who escapes from the Mental Hospital may at any time 
 
 **55.** All members of the police department shall give proper assistance in the conveyance of persons of unsound mind to the Mental Hospital, and all reasonable expenses incurred by persons, not being relatives or friends of the person of unsound mind, in conveying them to the Mental Hospital shall be repaid to the persons so incurring them by the Director of Health Services out of funds provided by the National Assembly in cases where the persons of unsound mind are alleged to be paupers.
 
-*Inquiry into death of persons of unsound mind in the Mental Hospital.*
+Medical Services and Institutions
 
-On the death of any person of unsound mind or idiot or other patient in the Mental Hospital, it shall be the duty of the coroner in the Belize Judicial District to hold an inquiry into the cause of death, for which purpose he shall be notified of the death by the person in charge of the Mental Hospital.
+*On the*
 
-*Power to make regulations.*
+*Inquiry into death of persons*
 
-**57.** (1) The Minister may make regulations for all or any of the following purposes,
+*other patient in*
+
+*of unsound mind*
+
+*coroner in the*
+
+*in the Mental Hospital.*
+
+*the cause of*
+
+death of any person of unsound mind or idiot or the Mental Hospital, it shall be the duty of the Belize Judicial District to hold an inquiry into death, for which purpose he shall be notified of the death by the person in charge of the Mental Hospital.
+
+*Power to make*
+
+*57.-(1) The*
+
+*regulations.*
+
+*following*
+
+Minister may make regulations for all or any of the purposes,
 
 (a) defining the duties of the Director of Health Services, medical officers, nurses, attendants and other servants and employees at the Mental Hospital;
 
@@ -648,15 +700,19 @@ On the death of any person of unsound mind or idiot or other patient in the Ment
 
 (d) prescribing the forms to be used for the purpose of giving information to the magistrate concerning persons believed to be of unsound mind, the certification of such persons, the warrant for conveying and holding a person adjudged to be of unsound mind, the order adjudging a person of unsound mind and all other forms necessary for proceedings to be taken under this Act.
 
-(2) Subject to subsection (1) of this section, power to make regulations conferred on the Minister under section 66 of this Act, shall include the power to make regulations for the Mental Hospital.
+*(2) Subject regulations Act, shall Hospital.*
+
+to subsection (1) of this section, power to make conferred on the Minister under section 66 of this include the power to make regulations for the Mental
 
 ## PART V
 
 Offences and Penalties
 
+*Every*
+
 *Unlawful entry into Mental Hospital.*
 
-**58.** Every person who,
+**58.** person who,
 
 (a) without lawful warrant or authority enters the Mental Hospital or any enclosure or apartment therein or thereto pertaining;
 
@@ -668,11 +724,19 @@ Offences and Penalties
 
 (e) supplies any person of unsound mind confined in the Mental Hospital with the means of escape or anything whereby his escape may be facilitated or effected,
 
-shall be guilty of an offence and on summary conviction shall be liable to a fine not exceeding one hundred and fifty dollars or to imprisonment for a term not exceeding six months.
+*shall be guilty be liable to a or to*
 
-*Indecency to females.*
+of an offence and on summary conviction shall fine not exceeding one hundred and fifty dollars imprisonment for a term not exceeding six months.
 
-**59.** Every person who,
+*Indecency to Every females.*
+
+**59.** person who,
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
+
+Medical Services and Institutions
 
 (a) being a male takes any indecent liberty with any female inmate of the Mental Hospital, whether with or without her consent;
 
@@ -680,21 +744,35 @@ shall be guilty of an offence and on summary conviction shall be liable to a fin
 
 (c) being an officer or servant of the Mental Hospital, knowingly permits any person to take any indecent liberty with any such inmate with or without her consent,
 
-shall be guilty of an offence and, if an officer or servant of the Mental Hospital, shall be liable on summary conviction to a fine not exceeding two hundred and fifty dollars or to imprisonment for a term not exceeding twelve months or, if not such officer or servant, shall be liable to a fine not exceeding one hundred and fifty dollars or to imprisonment for a term not exceeding six months.
+*shall be guilty Mental fine not imprisonment not such exceeding one a term not*
 
-*Penalty for rescuing escaped inmate, etc.*
+of an offence and, if an officer or servant of the Hospital, shall be liable on summary conviction to a exceeding two hundred and fifty dollars or to for a term not exceeding twelve months or, if officer or servant, shall be liable to a fine not hundred and fifty dollars or to imprisonment for exceeding six months.
 
-**60.** Every person who,
+*Penalty for*
+
+*Every*
+
+*rescuing escaped inmate, etc.*
+
+**60.** person who,
 
 (a) rescues any person of unsound mind while he is being conveyed to, or while he is confined in, the Mental Hospital; or
 
 (b) harbours or hides any person of unsound mind who has escaped from lawful custody while being conveyed to, or while he is confined in, the Mental Hospital,
 
-shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding one hundred and fifty dollars or to imprisonment for a term not exceeding three months.
+*shall be guilty*
 
-*Assaulting inmate or obstructing officer, etc.*
+*dollars or to months.*
 
-**61.** Every person who,
+of an offence and shall be liable on summary conviction to a fine not exceeding one hundred and fifty imprisonment for a term not exceeding three
+
+*Assaulting inmate or*
+
+*Every*
+
+*obstructing officer, etc.*
+
+**61.** person who,
 
 (a) being a person employed at the Mental Hospital, strikes, ill-treats or neglects any person of unsound mind or other person confined in a Mental Hospital,
 
@@ -702,17 +780,25 @@ shall be guilty of an offence and shall be liable on summary conviction to a fin
 
 (c) assaults, molests or obstructs any officer, servant or employee of the Mental Hospital while he is engaged in the performance of his duty as such officer, servant or employee,
 
-shall be guilty of an offence and on summary conviction shall be liable to a fine not exceeding one hundred and fifty dollars.
+*shall be guilty be liable to a*
 
-*Penalty for issuing false certificate, etc.*
+of an offence and on summary conviction shall fine not exceeding one hundred and fifty dollars.
 
-**62.** Every medical practitioner who,
+*Penalty for Every issuing false certificate, etc.*
+
+**62.** medical practitioner who,
 
 (a) issues a certificate relating to the state of mind of any person for the purpose of an inquiry or other procedure under this Act which is to his knowledge false in any material particular; or
 
 (b) refuses or neglects to make an examination of a person believed to be of unsound mind when appointed by the Minister or a magistrate, or when required by the Director of Health Services, to do so for any purpose of this Act, or fails to furnish a certificate of the result of any examination which he is appointed or required to make as aforesaid,
 
-shall be guilty of an offence and on summary conviction thereof shall be liable to a fine not exceeding two hundred and
+*shall be guilty thereof shall be*
+
+of an offence and on summary conviction liable to a fine not exceeding two hundred and
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 fifty dollars or to imprisonment for a term not exceeding six months.
 
@@ -754,11 +840,17 @@ Miscellaneous
 
 (i) for the better carrying out of any of the provisions of this Act.
 
-*Relatives of inmate made liable for expenses.*
+*Relatives of 67.-(1) The inmate made institution shall liable for expenses. maintaining*
 
-**67.** (1) The relatives of an inmate in any Government institution shall be liable to contribute to the cost of maintaining such inmate in accordance with this section.
+relatives of an inmate in any Government be liable to contribute to the cost of such inmate in accordance with this section.
 
-(2) For the purposes of this section “relative” means parent, child, husband, wife, brother or sister, whether legitimate or
+*(2) For the child, husband,*
+
+purposes of this section “relative” means parent, wife, brother or sister, whether legitimate or
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 not, and the word “parent” shall be deemed to include grandparent and great-grandparent and the word “child” grandchild and great-grandchild.
 

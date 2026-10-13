@@ -88,11 +88,9 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 (2) An Order made under this section shall be subject to affirmative resolution by the National Assembly.
 
-**5.** (1) Where any amendment to the Agreement is accepted by
-
 *Minister may amend the schedule.*
 
-the Government of Belize, the Minister may, by Order, published in the Gazette, amend the Schedule by including therein the amendment so accepted.
+**5.** (1) Where any amendment to the Agreement is accepted by the Government of Belize, the Minister may, by Order, published in the Gazette, amend the Schedule by including therein the amendment so accepted.
 
 (2) An Order made under this section may contain such consequential, supplemental or ancillary provisions as appear to the Minister to be necessary or expedient for the purpose of giving due effect to the amendment accepted as aforesaid and without prejudice to the generality of the foregoing, may contain provisions amending references in this Act to specific provisions of the Agreement.
 
@@ -242,6 +240,10 @@ Functions of the Council
 
 (d) consider and adopt measures for the resolution of disputes between States Parties relating to standards and standards related matters;
 
+*Caribbean*
+
+Community (CARICOM) Regional
+
 (e) approve the organizations with which CROSQ shall establish and maintain functional co-operation in relation to standards and standards-related matters.
 
 (f) appoint the Executive Secretary as provided for in paragraph 2 of Article 9 of this Agreement;
@@ -264,13 +266,19 @@ Functions of the Council
 
 Composition, Procedures and Functions of the Special Committees
 
-**1.** Special Committees shall consist of the nominees of States Parties and Associate Members drawn from the public and private sectors.
+*States Parties and private*
+
+**1.** Special Committees shall consist of the nominees of and Associate Members drawn from the public sectors.
 
 **2.** Decisions of the Special Committees shall be made by consensus and shall constitute recommendations to the Council.
 
-**3.** Special Committees shall meet as often as necessary to perform their functions efficiently and expeditiously.
+*perform their*
 
-**4.** The functions of the Special Committees shall include,
+**3.** Special Committees shall meet as often as necessary to functions efficiently and expeditiously.
+
+*The*
+
+**4.** functions of the Special Committees shall include,
 
 (a) the development, adoption, adaptation or harmonisation of standards and standards-related matters as the case may require, in all sectors that affect regional trade of goods and services among Member States;\
 
@@ -298,13 +306,17 @@ Composition of the Secretariat
 
 **3.** In the appointment of professional staff of the Secretariat, due consideration shall be given to equitable geographical representation of the membership of CROSQ.
 
-In the performance of their functions, the staff of the Secretariat shall neither seek nor receive instructions from any source external to CROSQ.
+*In the Secretariat shall source external*
+
+performance of their functions, the staff of the neither seek nor receive instructions from any to CROSQ.
 
 ### ARTICLE 10
 
 Functions of the Secretariat
 
-Subject to the directions of the Council, the Secretariat shall perform the following functions,
+*Subject to the perform the*
+
+directions of the Council, the Secretariat shall following functions,
 
 (a) promote the development, harmonisation, application and maintenance of standards and standards-related matters;
 

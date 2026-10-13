@@ -100,11 +100,9 @@ NOW, THEREFORE, BE IT ENACTED, by and with the advice and consent of the House o
 
 (iv) from 1st January 2016 to 31st December 2016, BSI and Belcogen shall be exempt from 20% of income and business tax.
 
-(2) After the expiry of the period mentioned in sub-section (1)(b)(iv), BSI and Belcogen shall be liable to pay all income
-
 *CAP. 55.*
 
-and business tax as provided in the Income and Business Tax Act.
+(2) After the expiry of the period mentioned in sub-section (1)(b)(iv), BSI and Belcogen shall be liable to pay all income and business tax as provided in the Income and Business Tax Act.
 
 (3) BSI and Belcogen shall be exempt from withholding tax as follows–
 
@@ -128,11 +126,9 @@ and business tax as provided in the Income and Business Tax Act.
 
 **6.** There shall be granted an exemption of 50% of stamp duty payable on the cancellation or assignment of existing security documents and other instruments necessary to give effect to the acquisition of the shareholding in BSI by ASR or its affiliated companies.
 
-**7.** BSI and Belcogen shall be exempt from all exchange
-
 *Exempt ion from exchange control.*
 
-control restrictions for a period of ten years with effect from 1st September 2012.
+**7.** BSI and Belcogen shall be exempt from all exchange control restrictions for a period of ten years with effect from 1st September 2012.
 
 *Exemption from export restrictions. CAP. 283.*
 

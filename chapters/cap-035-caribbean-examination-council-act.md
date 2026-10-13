@@ -266,23 +266,33 @@ If any member of the Council is for the time being unable to act, the appointing
 
 (c) the Council shall elect one of its members to be Deputy Chairperson who shall hold office for such time not being more than his unexpired term as the Council may determine.
 
-**6.** The Chairperson and members of the Council shall be paid such remuneration and allowances as may from time to time be determined by the Council.
+*The paid such time be*
+
+**6.** Chairperson and members of the Council shall be remuneration and allowances as may from time to determined by the Council.
 
 ### ARTICLE III
 
 Headquarters
 
-**1.** The Council shall have its Administrative Headquarters in Barbados.
+*The in Barbados.*
 
-**2.** The Council shall establish other administrative and operational centres in Guyana, Jamaica and Trinidad and Tobago and may, if it considers it desirable, establish such centres elsewhere in the Area.
+**1.** Council shall have its Administrative Headquarters
 
-The Council may conclude with Participating Governments Agreements relating to the legal capacity, privileges and immunities to be recognised and granted to it in respect of its Headquarters and other administrative and operational centres.
+*The operational Tobago and centres*
+
+**2.** Council shall establish other administrative and centres in Guyana, Jamaica and Trinidad and may, if it considers it desirable, establish such elsewhere in the Area.
+
+*Governments privileges and respect of its operational*
+
+Council may conclude with Participating Agreements relating to the legal capacity, immunities to be recognised and granted to it in Headquarters and other administrative and centres.
 
 ### ARTICLE IV
 
 Duties
 
-The Council shall,
+*The Council*
+
+shall,
 
 (a) conduct such examinations as it may think appropriate and award certificates and diplomas on the results of examinations so conducted;
 
@@ -310,7 +320,9 @@ such examinations, advise any body so invited on such adaptation of the examinat
 
 General Powers
 
-The Council shall have power to,
+*The Council*
+
+shall have power to,
 
 (a) appoint a Registrar and such other persons as may be necessary for the performance of its duties;
 
@@ -418,17 +430,25 @@ National Committees
 
 (b) to advise the Council on any matter on which advice may be sought including the content of the syllabuses, the appointment of examiners and any other matter connected with examinations conducted by the Council.
 
-A National Committee may make a report or recommendations to the Council on any matter relevant to the provisions of this Agreement.
+*A*
 
-**7.** A National Committee may appoint from among its members such sub-committee as it thinks fit and shall specify the duties of such sub- committee.
+National Committee may make a report or recommendations to the Council on any matter relevant to the provisions of this Agreement.
 
-**8.** A National Committee shall have the power to co-opt any person to assist it in its work, so, however, that no such person shall be or be deemed to be a member of the Committee.
+*A*
+
+**7.** National Committee may appoint from among its members such sub-committee as it thinks fit and shall specify the duties of such sub- committee.
+
+*A*
+
+**8.** National Committee shall have the power to co-opt any person to assist it in its work, so, however, that no such person shall be or be deemed to be a member of the Committee.
 
 ### ARTICLE X
 
 School Examinations Committee
 
-**1.** The School Examinations Committee shall consist of,
+*The*
+
+**1.** School Examinations Committee shall consist of,
 
 (a) the Chairperson of the Council or his Deputy who shall be the Chairperson;
 
@@ -438,7 +458,9 @@ School Examinations Committee
 
 (d) one member of the teaching profession nominated by each National Committee.
 
-**2.** The duties of the School Examinations Committee shall include,
+*The include,*
+
+**2.** duties of the School Examinations Committee shall
 
 (a) preparation for the approval of Council of regulations relating to the conduct of examinations;
 
@@ -456,13 +478,21 @@ School Examinations Committee
 
 (h) performing such duties as may be delegated to it by the Council.
 
-**3.** The School Examinations Committee shall have power to co-opt any person to assist it in its works, so, however, that no such person shall be deemed to be a member of the Committee.
+*The to co-opt any*
+
+**3.** School Examinations Committee shall have power person to assist it in its works, so, however, that no such person shall be deemed to be a member of the
+
+*Committee.*
 
 ### ARTICLE XI
 
 Administrative and Finance Committee
 
-**1.** The Administrative and Finance Committee may appoint a sub- committee in each Territory of the Areas and may delegate to any such sub-committee such powers as it
+*The*
+
+*may delegate*
+
+**1.** Administrative and Finance Committee may appoint a subcommittee in each Territory of the Areas and to any such sub-committee such powers as it
 
 thinks fit regarding administrative and financial matters affecting that Territory.
 

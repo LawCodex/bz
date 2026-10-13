@@ -82,11 +82,9 @@ CARIBBEAN COMMUNITY CLIMATE CHANGE CENTRE 6 of 2015.
 
 **2.** In this Act, unless the context otherwise requires–
 
-“Agreement” means, subject to section 7, the Agreement Establishing the Caribbean Community Climate Change Centre, signed at Belize City, Belize on the 4th day of February 2002,
-
 *Schedule I.*
 
-the text of which is set out in Schedule I;
+“Agreement” means, subject to section 7, the Agreement Establishing the Caribbean Community Climate Change Centre, signed at Belize City, Belize on the 4th day of February 2002, the text of which is set out in Schedule I;
 
 “Minister” means the Minister responsible for climate change and related matters;
 
@@ -244,7 +242,9 @@ Article V
 
 Functions
 
-In order to achieve its objectives set out in Article 4, the Centre shall perform the following functions:
+*In order to shall perform*
+
+achieve its objectives set out in Article 4, the Centre the following functions:
 
 (a) collecting, analysing, storing, retrieving and disseminating meteorological and sea-level data relevant to the observation of climate change and facilitating, in collaboration with specialised Caribbean agencies, the collection of information about the impact of climate change on the economic sectors in the Caribbean;
 
@@ -264,7 +264,9 @@ Article VI
 
 Principles
 
-Pursuant to the objectives set out in Article 4, the Centre shall be guided by the following principles, inter alia:
+*Pursuant to the be guided by the*
+
+objectives set out in Article 4, the Centre shall following principles, inter alia:
 
 (a) the unrestricted exchange of non-confidential information;
 
@@ -278,7 +280,9 @@ Article VII
 
 Composition of the Centre
 
-The Centre shall consist of the following Organs:
+*The Centre shall*
+
+consist of the following Organs:
 
 (a) the Council of Ministers;
 
@@ -310,7 +314,9 @@ Article IX
 
 Functions of the Council
 
-In furtherance of the objectives of the Centre, the Council shall:
+*In furtherance of*
+
+the objectives of the Centre, the Council shall:
 
 (a) be the principal policymaking Organ of the Centre and shall, subject to general or special directions of COTED, determine the policy of the Centre;
 
@@ -338,27 +344,43 @@ Article X
 
 The Board of Governors
 
-The Board of Governors (hereinafter called “the Board”
+*The*
+
+Board of Governors (hereinafter called “the Board”
 
 1.
 
 shall consist of representatives of Members and institutions, both public and private, set out in the Annex to this Agreement.
 
-**2.** The Board shall meet in ordinary session once in every year and in extra-ordinary session as often as the Board considers necessary or expedient.
+*The*
 
-**3.** The Centre shall defray the expenses of Members of Board incurred to attend meetings of the Board.
+*considers*
 
-**4.** Each Member of the Board shall have one vote.
+**2.** Board shall meet in ordinary session once in every year and in extra-ordinary session as often as the Board necessary or expedient.
 
-**5.** The Board shall take decisions by a qualified majority of three-quarters of the votes of its membership.
+*The*
 
-**6.** Subject to the provisions of this Article, the Board shall determine its rules of procedure.
+**3.** Centre shall defray the expenses of Members of Board incurred to attend meetings of the Board.
+
+*Each*
+
+**4.** Member of the Board shall have one vote.
+
+*The*
+
+**5.** Board shall take decisions by a qualified majority of three-quarters of the votes of its membership.
+
+*Subject determine its*
+
+**6.** to the provisions of this Article, the Board shall rules of procedure.
 
 Article XI
 
 Functions of the Board
 
-The Board shall perform the following functions:
+*The Board shall*
+
+perform the following functions:
 
 (a) initiate or determine, as the case may be, projects designed to protect the climate system or to address the adverse effects of climate change in the Caribbean Region;
 
@@ -396,7 +418,15 @@ Article XII
 
 Composition and Procedures of the Policy Advisory Committee
 
-**1.** The Board shall establish a Policy Advisory Committee (hereinafter referred to as “the Committee”) comprising representatives from public and private sector organisations, including the Caribbean Community (CARICOM), the United Nations Environment Programme (UNEP), the Caribbean Environmental Health Institute (CEHI), the CARICOM Fisheries Unit (CFU), the University of the West Indies Centre for Environment and Development (UWICED), the Caribbean Conservation Association (CCA), the United Nations Development Programme (UNDP), the Organisation of Eastern Caribbean States/ Natural Resources Management Unit (OECS/
+*The (hereinafter*
+
+*including the Nations*
+
+*Fisheries Unit*
+
+*Conservation Development Caribbean*
+
+**1.** Board shall establish a Policy Advisory Committee referred to as “the Committee”) comprising representatives from public and private sector organisations, Caribbean Community (CARICOM), the United Environment Programme (UNEP), the Caribbean Environmental Health Institute (CEHI), the CARICOM (CFU), the University of the West Indies Centre for Environment and Development (UWICED), the Caribbean Association (CCA), the United Nations Programme (UNDP), the Organisation of Eastern States/ Natural Resources Management Unit (OECS/
 
 UNRMU) the Organisation of American States (OAS), the Association of Caribbean States (ACS), the Caribbean Meteorological Institute (CMI), the Caribbean Association for Industry and Commerce (CAIC), and such other organisations as the Board may determine. 2. Each member of the Committee shall have one vote.
 
@@ -436,11 +466,19 @@ Article XIV
 
 The Technical Secretariat
 
-**1.** The Technical Secretariat shall comprise a Director and such other members of staff as the Board may determine.
+*The such other*
 
-**2.** The Director shall be appointed by the Board on the recommendation of the Policy Advisory Committee. The Director shall serve for a period of five years and may be re-appointed.
+**1.** Technical Secretariat shall comprise a Director and members of staff as the Board may determine.
 
-**3.** In the appointment of staff to the Technical Secretariat, the Director shall be guided by the principle of equitable geographical representation of Members of the Centre and the
+*The*
+
+**2.** Director shall be appointed by the Board on the recommendation of the Policy Advisory Committee. The Director shall serve for a period of five years and may be re-
+
+*appointed.*
+
+*In the the Director geographical*
+
+**3.** appointment of staff to the Technical Secretariat, shall be guided by the principle of equitable representation of Members of the Centre and the
 
 requirement to ensure the highest standards of efficiency in the delivery of services.
 
@@ -450,7 +488,9 @@ requirement to ensure the highest standards of efficiency in the delivery of ser
 
 Functions of the Technical Secretariat
 
-The Technical Secretariat shall perform the following functions:
+*The Technical*
+
+Secretariat shall perform the following functions:
 
 (a) provide the Council with timely advice on scientific and technological matters relating to climate change and adaptation to the adverse effects thereof;
 
@@ -480,11 +520,13 @@ Article XVI
 
 The Reserve Fund
 
-**1.** The Centre shall establish a Reserve Fund along the lines set out in this Article.
+*The set out in this*
 
-**2.** The resources of the Reserve Fund shall consist of the
+**1.** Centre shall establish a Reserve Fund along the lines Article.
 
-*following:*
+*The following:*
+
+**2.** resources of the Reserve Fund shall consist of the
 
 (a) grants from international donors and sponsors of the Centre;
 
@@ -574,13 +616,19 @@ Article XXIV
 
 Privilege for Communications
 
-Official communications of the Centre shall be accorded by each Member, treatment not less favourable than that it accords to the official communications of any other Member.
+*Official each Member, to the official*
+
+communications of the Centre shall be accorded by treatment not less favourable than that it accords communications of any other Member.
 
 Article XXV
 
-Privileges and Immunities of Centre Personnel
+*Privileges and*
 
-The Director, other senior officials of the Centre notified to and approved by the Government of Members, Members of the Board and Council, and experts performing missions for the Centre:
+Immunities of Centre Personnel
+
+*The Director, approved by Board and Centre:*
+
+other senior officials of the Centre notified to and the Government of Members, Members of the Council, and experts performing missions for the
 
 (a) shall be immune from legal process in respect of acts performed by them in their official capacity;
 
@@ -808,21 +856,31 @@ groups or communities within the Parties to the Agreement.
 
 ### III. MEMBERS
 
-### A. NOMINATION, ELECTION AND RE-ELECTION
+*A.*
+
+### NOMINATION, ELECTION AND RE-ELECTION
 
 Rule 3
 
 Paragraph 1 of the Article 10 of the Agreement states that:
 
-**1.** The Board of Directors shall consist of representatives of Members and Institutions, both public and private. Set out in the Annex to this Agreement.
+*The Members and Annex to this*
+
+**1.** Board of Directors shall consist of representatives of Institutions, both public and private. Set out in the Agreement.
 
 Rule 4
 
-The Fourteenth Meeting of the COTED in March 2003 agree that:
+The Fourteenth Meeting of the COTED in March 2003 agree
 
-**1.** Initally, members of the Board would serve for three (3) but could be reappointed for continuity purposes, if necessary.
+*that:*
 
-**2.** For the first three (3) years, the Board will consists of eleven (11) members drawn from the following:
+*but could be*
+
+**1.** Initally, members of the Board would serve for three (3) reappointed for continuity purposes, if necessary.
+
+*eleven (11)*
+
+**2.** For the first three (3) years, the Board will consists of members drawn from the following:
 
 (a) five (5) members representing Parties to the Agreement: two (2) representing the more developed countries (MDC), one (1) of which must be drawn from a continental States; two
 

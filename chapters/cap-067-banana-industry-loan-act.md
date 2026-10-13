@@ -90,6 +90,10 @@ relating to a loan not exceeding one million five hundred thousand pounds sterli
 
 **4.** The Minister may issue such promissory notes or other instruments and enter into such agreement as may be necessary for the purpose of issuing any guarantee under the authority of this Act and any such promissory notes, instruments or
 
+*THE*
+
+### SUBSTANTIVE LAWS OF BELIZE
+
 agreements may be signed or executed by the Minister or by any person or persons authorised in writing by the Minister.
 
 *Purpose of loan.*
@@ -103,3 +107,7 @@ agreements may be signed or executed by the Minister or by any person or persons
 *Remission of taxes, etc. CAP. 55. CAP. 64. CAP. 327.*
 
 **7.** The Minister may by Order published in the Gazette provide that any tax, duty or fee payable under the Income and Business Tax Act, or the Stamp Duties Act, or the General Registry Act, or any other enactment shall be remitted where such remission is, in the opinion of the Minister, necessary to give full effect to the Loan Agreement or to any agreement, promissory note, instrument, guarantee or undertaking to which this Act applies.
+
+*EDITION 2020*
+
+### REVISED

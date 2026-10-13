@@ -68,7 +68,11 @@ def main():
         p = os.path.join(RAW, "pdf", fn)
         if pdf_ok(p):
             continue
-        r = req("GET", BASE + it["href"])
+        try:
+            r = req("GET", BASE + it["href"])
+        except RuntimeError as e:
+            print(n, fn, "FAILED", e, flush=True)
+            continue
         if r.status_code == 200 and r.content[:5] == b"%PDF-":
             cl = r.headers.get("content-length")
             if not cl or int(cl) == len(r.content):

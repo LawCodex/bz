@@ -130,11 +130,11 @@ This edition contains a consolidation of amendments made to the law by Act No. 3
 
 (2) In the event a person who has been designated a Qualified Retired Person ceases to meet any of the qualifications set out in paragraphs (b) or (d) of sub-section (1) or to satisfy the undertaking given under paragraph (c) of that sub-section, he shall forthwith lose his entitlement to all the exemptions and privileges conferred upon Qualified Retired Persons by this Act.
 
-**4.** (1) A Person who has been designated a Qualified Retired
+*4.-(1) A Person Privileges and Person shall be Exemptions of Qualified Retired*
 
-*Privileges and Exemptions of Qualified Retired Persons.*
+who has been designated a Qualified Retired entitled–
 
-Person shall be entitled–
+*Persons.*
 
 (a) to enter and remain in Belize along with his dependents from time to time and for such time as he remains a Qualified Retired Person;
 
@@ -146,9 +146,9 @@ Person shall be entitled–
 
 (c) every three years thereafter upon proof that he has properly disposed of the means of transportation he had previously imported into Belize, to import new approved means of transportation for his personal use into Belize upon such concessionary terms as the Minister may by Regulations made under this Act provide.
 
-(2) A Qualified Retired Person properly disposes of an approved means of transportation within the meaning of this Act
+*(2) A approved means if–*
 
-*if–*
+Qualified Retired Person properly disposes of an of transportation within the meaning of this Act
 
 (a) he exports the approved means of transportation from Belize; or
 
@@ -182,15 +182,21 @@ Person shall be entitled–
 
 (b) purchase a home for their residential use only.
 
-(3) Nothing in this section shall prohibit a Qualified Retired Person or his dependents from carrying on business from within Belize, if such business relates to activities carried on mainly outside Belize and is conducted exclusively with persons not resident in Belize.
+*Person or his*
 
-*Offence and penalty.*
+*resident in*
 
-**6.** Any person who knowingly makes any false declaration or entry in order to qualify for or retain any exemption or privilege granted under this Act commits an offence and is liable on summary conviction to a fine not exceeding five thousand dollars.
+(3) Nothing in this section shall prohibit a Qualified Retired dependents from carrying on business from within Belize, if such business relates to activities carried on mainly outside Belize and is conducted exclusively with persons not Belize.
 
-*Regulations.*
+*Offence and Any penalty.*
 
-**7.** The Minister may make Regulations for the better administration of this Act, and without prejudice to the generality of the foregoing, such Regulations may–
+*or entry in privilege on summary dollars.*
+
+**6.** person who knowingly makes any false declaration order to qualify for or retain any exemption or granted under this Act commits an offence and is liable conviction to a fine not exceeding five thousand
+
+*Regulations. The*
+
+**7.** Minister may make Regulations for the better administration of this Act, and without prejudice to the generality of the foregoing, such Regulations may–
 
 (a) provide for the registration of Qualified Retired Persons and the procedure to be followed therefor;
 
@@ -204,19 +210,23 @@ Person shall be entitled–
 
 (f) specify the procedures to be followed by a Qualified Retired Person in disposing of his
 
-personal effects and approved means of transportation imported pursuant to this Act;
-
 *3 of 2019.*
 
-(g) Repealed.
+personal effects and approved means of transportation imported pursuant to this Act; (g) Repealed.
 
 (h) designate, by name or by office, the persons or officials who shall be responsible for the day-to-day administration of this Act; and (i) provide generally for anything incidental to or connected with this Act.
 
 *.*
 
-*Amendment to Schedules. 3 of 2019.*
+*7A. The*
 
-**7A.** The Minister may from time to time, by Order published in the Gazette, amend the Schedules.
+*Amendment to*
+
+*the Gazette,*
+
+*Schedules. 3 of 2019.*
+
+Minister may from time to time, by Order published in amend the Schedules.
 
 *Commencement.*
 

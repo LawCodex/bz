@@ -84,6 +84,10 @@ Schedule — List of Conventions.
 
 **3.** (1) Notwithstanding any other law, but subject to the provisions of this Act, the IMO Conventions and Protocols acceded to by Belize, as listed in the Schedule hereto, shall have the force of law in Belize.
 
+*THE*
+
+### SUBSTANTIVE LAWS OF BELIZE
+
 (2) The Minister may from time to time by Order published in the Gazette amend the Schedule.
 
 *Relationship with other laws.*
@@ -101,6 +105,10 @@ Schedule — List of Conventions.
 *Notices and Circular letters.*
 
 **6.** Subject to this Act and the Regulations made by the Minister under section 5, the Registrar, or the Senior Deputy Registrar with the approval of the Registrar may issue notices, circular letters and directives to shipowners and other persons concerned, for the better carrying out of the objects and purposes of this Act and the IMO Conventions and Protocols acceded to by Belize.
+
+*EDITION 2020*
+
+### REVISED
 
 ## SCHEDULE
 

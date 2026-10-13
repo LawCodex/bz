@@ -40,6 +40,8 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 This edition contains a consolidation of amendments made to the law by Acts No. 18 of 2008, No. 4 of 2013, No. 7 of 2014, No. 7 of 2016 and No. 37 of 2017.
 
+*[CAP. 104*
+
 ### CHAPTER 104
 
 ### MONEY LAUNDERING AND TERRORISM (PREVENTION) ACT
@@ -145,6 +147,8 @@ Anti-Money Laundering and Anti-Terrorism Supervision
 **32.** Monitoring orders.
 
 **33.** Monitoring orders not to be disclosed.
+
+*[CAP. 104*
 
 Power to intercept communications and the admissibility of intercepted communications.
 
@@ -260,6 +264,8 @@ Enforcement of Foreign Orders and Co-operation with Foreign Regulatory Authoriti
 
 **75G.** Privileged documents and information.
 
+*[CAP. 104*
+
 ## PART V
 
 Miscellaneous
@@ -312,59 +318,41 @@ Miscellaneous
 
 ## SCHEDULE VI
 
-### CHAPTER 104
+### CHAPTER 104 LAUNDERING AND TERRORISM (PREVENTION)
 
-### MONEY LAUNDERING AND TERRORISM (PREVENTION)
+[12th January, 2009]
 
-[12th January, 2009] 18 of 2008.
+*18 of 2008. S.I. 5 of 2009. 4 of 2013. 7 of 2014. 7 of 2016. 37 of 2017.*
 
-S.I. 5 of 2009.
-
-4 of 2013.
-
-7 of 2014.
-
-7 of 2016.
-
-37 of 2017.
-
-## PART I
-
-Preliminary
+## PART I Preliminary
 
 *Short title.*
 
-**1.** This Act may be cited as the Money Laundering and Terrorism (Prevention) Act.
+*Terrorism*
+
+**1.** This Act may be cited as the Money Laundering and (Prevention) Act.
 
 *Interpretation.*
 
-**2.** (1) In this Act, unless the context otherwise requires–
+*“account” financial*
 
-“account” means any facility or arrangement by which a financial institution does any one or more of the following–
-
-(a) accepts deposits of currency;
+**2.** (1) In this Act, unless the context otherwise requires– means any facility or arrangement by which a institution does any one or more of the following– (a) accepts deposits of currency;
 
 (b) allows withdrawals of currency or transfers into or out of the account;
 
-(c) pays cheques or payment orders drawn on a financial institution by, or collects cheques or payment orders on behalf of, a person;
-
-(d) supplies a facility or arrangement for a safety deposit box; or
+(c) pays cheques or payment orders drawn on a financial institution by, or collects cheques or payment orders on behalf of, a person; (d) supplies a facility or arrangement for a safety deposit box; or
 
 (e) accepts or holds stocks, bonds or mutual funds;
 
 “act” and “action” include omission;
 
-“accused” means a person charged with an offence, whether or
-
 *7 of 2016.*
 
-not he has been convicted of the offence, and includes in the case of proceedings for a production order, monitoring order, customer information order, search warrant or restraining order under this Act, a person who is about to be charged with an offence or is being investigated for an offence;
-
-“AML/CFT obligation” in relation to a reporting entity, means
+“accused” means a person charged with an offence, whether or not he has been convicted of the offence, and includes in the case of proceedings for a production order, monitoring order, customer information order, search warrant or restraining order under this Act, a person who is about to be charged with an offence or is being investigated for an offence;
 
 *7 of 2014.*
 
-an obligation of the reporting entity under the Act or any other law relating to money laundering or terrorist financing, the AML Regulations, and any applicable regulations or guidelines issued under this Act, and includes–
+“AML/CFT obligation” in relation to a reporting entity, means an obligation of the reporting entity under the Act or any other law relating to money laundering or terrorist financing, the AML Regulations, and any applicable regulations or guidelines issued under this Act, and includes–
 
 (a) an obligation to provide information imposed on the reporting entity in a request given to it by the Financial Intelligence Unit under section 11(1)(k) or 17(6); and
 
@@ -380,11 +368,17 @@ an obligation of the reporting entity under the Act or any other law relating to
 
 “business relationship” or “business transaction” means any arrangement, including opening an account, between two or more persons where the purpose of the arrangement is to facilitate a transaction between the persons concerned and
 
-includes any related transaction between any of the persons concerned and another person;
+*includes any concerned and*
+
+related transaction between any of the persons another person;
 
 *7 of 2014.*
 
-“cash” includes the following regardless of the type of currency–
+“cash” includes
+
+the following regardless of the type of
+
+*currency–*
 
 (a) notes and coins in circulation as a medium of exchange;
 
@@ -404,7 +398,9 @@ bankers’ drafts;
 
 (g) such other monetary instruments as the Minister may, by notice published in the Gazette, specify;
 
-“collective investment scheme” means a scheme, in whatever form, in pursuance of which, members of the public are invited or permitted to invest money or other assets in a portfolio, and which scheme has the following characteristics–
+*“collective form, in or permitted to which scheme*
+
+investment scheme” means a scheme, in whatever pursuance of which, members of the public are invited invest money or other assets in a portfolio, and has the following characteristics–
 
 (a) two or more investors contribute money or other assets to hold a participatory interest in a portfolio of the scheme through shares, units or any other form of participatory interest; and
 
@@ -480,15 +476,21 @@ deposits with relevant institutions or other entities, balances on accounts, deb
 
 (h) any other instrument of export financing;
 
+*“gift” includes*
+
 *7 of 2016.*
 
-“gift” includes any transfer of property by a person to another person directly or indirectly after the commission of an offence by the first person–
+*person directly by the first*
+
+any transfer of property by a person to another or indirectly after the commission of an offence person–
 
 (a) for no consideration; or
 
 (b) for consideration the value of which is significantly less than the value of the property transferred and to the extent of the difference between the market value of the property transferred and the consideration provided by the transferee;
 
-“Government” means the Government of Belize;
+*“Government”*
+
+means the Government of Belize;
 
 “identification record” means any reliable and independent source documents, data or information or other evidence as is reasonably capable of establishing the true identity and verifying the identity of the applicant of a reporting entity, including a valid driving licence, a social security card, a valid passport and in the case of a body corporate, a certified copy of the Memorandum and Articles of Association, a certificate of incorporation together with the latest annual return to the Registrar-General or other competent authority;
 
@@ -548,11 +550,9 @@ if it occurs in Belize, is unlawful under the criminal law of Belize; or
 
 “proceeds of crime” has the meaning given in section 2B;
 
-“property” includes money, funds, investments, holdings,
-
 *7 of 2014.*
 
-possessions and assets of every kind however acquired, whether corporeal or incorporeal, movable or immovable, legal documents or instruments evidencing title in any form including electronic or digital, or interest in such assets, wherever situate, whether in Belize or elsewhere;
+“property” includes money, funds, investments, holdings, possessions and assets of every kind however acquired, whether corporeal or incorporeal, movable or immovable, legal documents or instruments evidencing title in any form including electronic or digital, or interest in such assets, wherever situate, whether in Belize or elsewhere;
 
 “property of or in the possession or control of any person” includes any gift made to that person;
 
@@ -612,11 +612,13 @@ possessions and assets of every kind however acquired, whether corporeal or inco
 
 “terrorist cash” means cash that is terrorist property;
 
-“terrorism” or “terrorist act” have the meaning assigned in section 2C;
+*“terrorism” or section 2C;*
 
-*7 of 2016.*
+“terrorist act” have the meaning assigned in
 
-“terrorist” means any individual who–
+*“terrorist” 7 of 2016.*
+
+means any individual who–
 
 (a) willfully commits, or attempts to commit, a terrorist act by any means whether directly or indirectly;
 
@@ -628,15 +630,17 @@ possessions and assets of every kind however acquired, whether corporeal or inco
 
 (e) is designated by, or under the authority of, the United Nations Security Council under Chapter VII of the Charter of the United Nations, including in accordance with Security Council Resolution 1267 (1999) or 2253 (2015) or the successor resolutions of either or designated by a country or supranational jurisdiction pursuant to Security Council Resolution 1373 (2001) or its successor resolutions;
 
-“terrorist financing” shall have the meaning given under section
+*“terrorist 68;*
+
+financing” shall have the meaning given under section
 
 *7 of 2016.*
 
-68;
+*“terrorist*
 
 *7 of 2016.*
 
-“terrorist organization” means any group of terrorists that–
+organization” means any group of terrorists that–
 
 willfully commits, or attempts to commit, a terrorist act by any means whether directly or indirectly;
 
@@ -650,9 +654,13 @@ willfully commits, or attempts to commit, a terrorist act by any means whether d
 
 (f) is designated by, or under the authority of, the United Nations Security Council under Chapter VII of the Charter of the United Nations, including in accordance with Security Council Resolution 1267 (1999) or 2253 (2015) or the successor resolutions of either or designated by a country or supranational jurisdiction pursuant to Security Council Resolution 1373 (2001) or its successor resolutions;
 
-“terrorist property” has the meaning given in section 2D,
+*“terrorist*
 
-“transaction” includes–
+property” has the meaning given in section 2D,
+
+*“transaction”*
+
+includes–
 
 (a) opening of an account;
 
@@ -672,17 +680,33 @@ cheque, payment order or other instrument or by electronic or other non-physical
 
 (h) such other actions as may be prescribed by the Minister by Order published in the Gazette; and
 
-“unit trust” means any arrangement made for the purpose or having the effect of providing, for a person having funds available for investment, facilities for the participation by the person as a beneficiary under a trust, in any profits or income arising from the acquisition, holding, management or disposal of any property pursuant to the trust.
+*“unit trust” having the available for person as a*
 
-(2) The Minister may from time to time by Order published in the Gazette amend any of the Schedules.
+means any arrangement made for the purpose or effect of providing, for a person having funds investment, facilities for the participation by the beneficiary under a trust, in any profits or income arising from the acquisition, holding, management or disposal of any property pursuant to the trust.
+
+*(2) The*
+
+Minister may from time to time by Order published in the Gazette amend any of the Schedules.
 
 *How to infer knowledge, etc.*
 
 (3) Knowledge, intent, purpose, belief or suspicion required as an element of any offence under this Act may be inferred from objective, factual circumstances.
 
-*Meaning of charge in relation to a serious crime. 7 of 2016.*
+*(4) Any*
 
-(4) Any reference in this Act to a person being charged or about to be charged with an offence is a reference to a procedure, however described, in Belize or elsewhere, by which criminal proceedings may be commenced.
+*Meaning of charge in relation*
+
+*about to be*
+
+*to a serious*
+
+*however*
+
+*crime. 7 of 2016.*
+
+*proceedings*
+
+reference in this Act to a person being charged or charged with an offence is a reference to a procedure, described, in Belize or elsewhere, by which criminal may be commenced.
 
 *Meaning of conviction in relation to a serious crime. 7 of 2016.*
 
@@ -692,15 +716,15 @@ cheque, payment order or other instrument or by electronic or other non-physical
 
 (b) the person is charged with, and found guilty of, the offence but is discharged without any conviction being recorded; or
 
-(c) the court, with the consent of the convicted person, takes the offence, of which the person has not been found guilty, into account in
-
 *7 of 2016.*
 
-passing sentence on the person for another offence.
+(c) the court, with the consent of the convicted person, takes the offence, of which the person has not been found guilty, into account in passing sentence on the person for another offence.
+
+*(6) For the*
 
 *Meaning of quashing of conviction. 7 of 2016.*
 
-(6) For the purposes of this Act, a person’s conviction for an offence shall be taken to be quashed in any case–
+purposes of this Act, a person’s conviction for an offence shall be taken to be quashed in any case–
 
 (a) where sub-section 5(a) applies, if the conviction is quashed or set aside;
 
@@ -718,9 +742,15 @@ for that other offence is quashed or set aside; or
 
 (d) where the Governor-General, acting on the advice of the Belize Advisory Council, grants the person a pardon in respect of the person’s conviction for the offence.
 
-*Meaning of dealing with property.*
+*Meaning of (7) For the dealing with*
 
-(7) For the purposes of this Act, dealing with property held by any person includes, without prejudice to the generality of the expression–
+*by any person*
+
+*property.*
+
+purposes of this Act, dealing with property held includes, without prejudice to the generality of
+
+*the expression–*
 
 (a) where the property is a debt owed to that person, making a payment to any person in reduction or full settlement of the amount of the debt;
 
@@ -730,25 +760,27 @@ for that other offence is quashed or set aside; or
 
 (d) removing the property from Belize.
 
-*Meaning of deriving a benefit.*
+*Meaning of (8) In this deriving a*
 
-(8) In this Act, a reference to a benefit derived or obtained by or otherwise accruing to a person includes a reference to a benefit derived or obtained by, or otherwise accruing to, another person at the request or direction of the first person.
+*by or otherwise*
 
-*Meaning of benefiting from the proceeds of crime.*
+*benefit.*
 
-(9) For the purposes of this Act–
+*benefit derived person at the*
 
-(a) a person has benefited from an offence if the person has at any time received any payment or other reward in connection with, or derived
+Act, a reference to a benefit derived or obtained accruing to a person includes a reference to a or obtained by, or otherwise accruing to, another request or direction of the first person.
 
-*7 of 2016.*
+*Meaning of (9) For the benefiting from the proceeds of crime.*
 
-any pecuniary advantage from, the commission of an offence, whether committed by that person or another person;
-
-a person’s proceeds of crime are any payments or other rewards received by the person in connection with, and any pecuniary advantage derived by the person at any time from, the
+purposes of this Act–
 
 *7 of 2016.*
 
-commission of an offence; and
+(a) a person has benefited from an offence if the person has at any time received any payment or other reward in connection with, or derived any pecuniary advantage from, the commission of an offence, whether committed by that person or another person;
+
+*7 of 2016.*
+
+a person’s proceeds of crime are any payments or other rewards received by the person in connection with, and any pecuniary advantage derived by the person at any time from, the commission of an offence; and
 
 the value of a person’s proceeds of crime is the (c)
 
@@ -756,19 +788,43 @@ aggregate of the values of the payments, rewards or pecuniary advantages receive
 
 *7 of 2016.*
 
-(9A) Property belonging to a person (“the owner”) that would, but for the following paragraphs, be tainted property, is not tainted property if–
+*would, but for not tainted*
+
+(9A) Property belonging to a person (“the owner”) that the following paragraphs, be tainted property, is property if–
 
 (a) the offence concerned was not committed by the owner; and
 
 (b) the owner does not give his consent, express or implied, to the property being used in, or in connection with, the offence concerned.
 
-*Powers of the FIU under the FIU Act not affected. 35 of 2002. CAP. 138:02.*
+*Powers of the*
 
-(10) The powers of the Financial Intelligence Unit under this Act are in addition to and not in derogation from the powers of the FIU under the Financial Intelligence Unit Act, and the FIU may exercise all or any of such powers as the occasion may require.
+*(10) The*
 
-*Meaning of “Politically exposed person”.*
+*FIU under the*
 
-**2A.** (1) “Politically exposed person” means–
+*Act are in*
+
+*FIU Act not affected.*
+
+*the FIU under*
+
+*35 of 2002.*
+
+*may exercise*
+
+*CAP. 138:02.*
+
+powers of the Financial Intelligence Unit under this addition to and not in derogation from the powers of the Financial Intelligence Unit Act, and the FIU all or any of such powers as the occasion may
+
+*require.*
+
+*Meaning of*
+
+*2A.–(1)*
+
+*“Politically exposed person”.*
+
+“Politically exposed person” means–
 
 (a) a foreign politically exposed person;
 
@@ -778,21 +834,19 @@ aggregate of the values of the payments, rewards or pecuniary advantages receive
 
 (c) a person who is, or has been, entrusted with a prominent function by an international organisation.
 
-(2) “Foreign politically exposed person” means a person who is, or has been, entrusted with a prominent public function by a country other than Belize.
+“Foreign politically exposed person” means a person who is, or has been, entrusted with a prominent public function by a country other than Belize.
 
 (3) “Domestic politically exposed person” means a person who is, or has been, entrusted with a prominent public function by Belize.
 
 *7 of 2014.*
 
-(4) Without limiting sub-sections (2) or (3), the following have or exercise prominent public functions in relation to a country–
+*have or country–*
+
+(4) Without limiting sub-sections (2) or (3), the following exercise prominent public functions in relation to a
 
 (a) heads of state, heads of government and senior politicians;
 
-(b) senior government or judicial officials;
-
-(c) high-ranking officers in the armed forces;
-
-(d) members of courts of auditors or of the boards of central banks;
+(b) senior government or judicial officials; (c) high-ranking officers in the armed forces; (d) members of courts of auditors or of the boards of central banks;
 
 ambassadors and chargés d’affaires;
 
@@ -814,15 +868,21 @@ not treated as a resident institutional unit of the country in which it is locat
 
 *7 of 2014.*
 
-(6) For the purposes of sub-section (1)(c), the following have or exercise prominent functions in relation to an international organisation–
+*have or international*
+
+(6) For the purposes of sub-section (1)(c), the following exercise prominent functions in relation to an organisation–
 
 (a) the directors and deputy directors of the international organisation;
 
-(b) the members of the board or governing body of the international organisation; and (c) other members of the senior management of the international organisation.
+(b) the members of the board or governing body of the international organisation; and
+
+(c) other members of the senior management of the international organisation.
 
 *7 of 2014.*
 
-(7) The following are immediate family members of a politically exposed person–
+*(7) The politically*
+
+following are immediate family members of a exposed person–
 
 (a) a spouse;
 
@@ -830,19 +890,25 @@ not treated as a resident institutional unit of the country in which it is locat
 
 (c) children and their spouses or partners; (d) parents;
 
-(e) grandparents and grandchildren; and (f) siblings.
+(e) grandparents and grandchildren; and
+
+(f) siblings.
 
 *7 of 2014.*
 
-(8) For the purposes of sub-section (7)(b) and (c), “partner” means–
+purposes of sub-section (7)(b) and (c), “partner”
+
+(8) For the
+
+*means–*
 
 (a) a person who lives in a domestic relationship which is similar to the relationship between husband and wife; or
 
 a person in a relationship with another person who is considered by the law of the jurisdiction which applies to the relationship as equivalent to a spouse.
 
-*7 of 2014.*
+*7 of 2014. (9) The*
 
-(9) The following are close associates of a politically exposed person–
+following are close associates of a politically exposed person–
 
 (a) any person known to maintain a close business relationship with that person or to be in a position to conduct substantial financial transactions on behalf of the person;
 
@@ -852,13 +918,17 @@ a person in a relationship with another person who is considered by the law of t
 
 *7 of 2014.*
 
-(10) For the purposes of deciding whether a person is a close associate of a politically exposed person, a service provider need only have regard to information which is in that person’s possession or is publicly known.
+*associate of a only have*
 
-*Meaning of “proceeds of crime”. 7 of 2016.*
+(10) For the purposes of deciding whether a person is a close politically exposed person, a service provider need regard to information which is in that person’s possession or is publicly known.
 
-**2B.** (1) Property is the proceeds of crime if it constitutes a person’s benefit from an offence or it represents such a benefit, in whole or part and whether directly or indirectly.
+*Meaning of 2B.–(1) “proceeds of crime”. 7 of 2016.*
 
-(2) For the purposes of sub-section (1)–
+Property is the proceeds of crime if it constitutes a person’s benefit from an offence or it represents such a benefit, in whole or part and whether directly or indirectly.
+
+*(2) For the*
+
+purposes of sub-section (1)–
 
 (a) a person benefits from an offence if he obtains property as a result of or in connection with the offence;
 
@@ -874,7 +944,9 @@ if a person benefits from an offence, his benefit is the value of the property o
 
 (iii) whether the offence occurred before or after the commencement date.
 
-(3) References to property obtained or a pecuniary advantage derived in connection with an offence include references to property obtained or a pecuniary advantage derived in both that connection and some other connection.
+*derived in property*
+
+(3) References to property obtained or a pecuniary advantage connection with an offence include references to obtained or a pecuniary advantage derived in both that connection and some other connection.
 
 *Meaning of: “terrorism” and “terrorist act”. 7 of 2016.*
 
@@ -896,7 +968,9 @@ may reasonably be regarded as being intended, to–
 
 (c) the action is carried out or threat of action is made for the purpose of advancing a political, religious, racial or ideological cause.
 
-(2) Action falls within this sub-section if it–
+*(2) Action*
+
+falls within this sub-section if it–
 
 (a) involves serious violence against a person;
 
@@ -924,11 +998,13 @@ services such as utilities or transportation;
 
 (i) involves travel for the purpose of planning, preparing or carrying out any action referred to in paragraphs (a) to (h).
 
-(3) The use or threat of action falling within sub-section (2) which involves the use of firearms or explosives is terrorism or a terrorist act whether or not any condition of sub-section (1)(b)
+*(3) The use which involves a terrorist act is met.*
 
-*is met.*
+or threat of action falling within sub-section (2) the use of firearms or explosives is terrorism or whether or not any condition of sub-section (1)(b)
 
-(4) In this section–
+*(4) In this*
+
+section–
 
 “action” includes action outside Belize; (a)
 
@@ -938,7 +1014,9 @@ services such as utilities or transportation;
 
 (d) reference to an action taken for the purposes of terrorism includes action taken for the benefit of a terrorist organisation.
 
-**2D.** (1) In this Act “terrorist property” means–
+*2D.–(1) In this*
+
+Act “terrorist property” means–
 
 *Meaning of “terrorist property”.*
 
@@ -952,7 +1030,9 @@ property intended or allocated to be used in any way for the purposes of terrori
 
 (e) any property derived or generated from any property referred to in paragraphs (a) to (d).
 
-(2) In sub-section (1)–
+*(2) In*
+
+sub-section (1)–
 
 (a) reference to proceeds of an act include reference to any property which wholly or partly, directly or indirectly, represents the benefit obtained as a result of or in connection with the act, including payment or other reward made in relation to the act; and
 
@@ -960,11 +1040,17 @@ property intended or allocated to be used in any way for the purposes of terrori
 
 ## PART II
 
-Money Laundering and Terrorism Prohibited
+Laundering and Terrorism Prohibited
 
-*Offence of money laundering.*
+*Offence of*
 
-**3.** (1) A person commits the offence of money laundering if the person knowing or having reasonable grounds to believe that any property in whole or in part, directly or indirectly, represents any person’s proceeds of crime–
+*3.–(1) A person*
+
+*money laundering.*
+
+*any property in any person’s*
+
+commits the offence of money laundering if the person knowing or having reasonable grounds to believe that whole or in part, directly or indirectly, represents proceeds of crime–
 
 (a) converts or transfers that property for the purpose of concealing or disguising the illicit origin of the property or of assisting any person who is involved in the commission of the crime to evade the legal consequences of his action;
 
@@ -976,23 +1062,21 @@ Money Laundering and Terrorism Prohibited
 
 *7 of 2014.*
 
-(1A) A person is not guilty of an offence under sub-section
+*(1A) A (1) if–*
 
-(1) if–
+person is not guilty of an offence under sub-section
 
 (a) he makes an authorised disclosure and, if the disclosure is made before he does the act specified in sub-section (1), he has the appropriate consent;
 
 (b) he intended to make such a disclosure but had a reasonable excuse for not doing so; or
 
-(c) the act he does is done in carrying out a function he has relating to the enforcement of any
-
 *7 of 2016.*
 
-provision of this Act or of any other provision of criminal law or of law relating to the proceeds of crime or terrorist financing.
+the act he does is done in carrying out a function he has relating to the enforcement of any provision of this Act or of any other provision of criminal law or of law relating to the proceeds of crime or terrorist financing.
 
-*7 of 2014.*
+*7 of 2014. (1B) A*
 
-(1B) A disclosure by a person is an authorised disclosure if–
+disclosure by a person is an authorised disclosure if–
 
 (a) it is a disclosure made to the Financial Intelligence Unit that property is, or may be, the proceeds of crime; and
 
@@ -1030,25 +1114,31 @@ provision of this Act or of any other provision of criminal law or of law relati
 
 an irresistible inference that the property could only be derived from unlawful conduct.
 
-*Penalty for money laundering.*
+*Penalty for money*
 
-**4.** A person who commits an offence under the provisions of section 3, is liable on conviction–
+*of section 3, is*
+
+*laundering.*
+
+**4.** A person who commits an offence under the provisions liable on conviction–
 
 (a) in the case of a natural person, to a fine of not be less than fifty thousand dollars but which may extend to two hundred and fifty thousand dollars, or to imprisonment for a term of not be less than five years but which may extend to ten years, or to both such fine and term of imprisonment; and
 
 (b) in the case of a legal person or other entity, to a fine of not be less than one hundred thousand dollars but which may extend to five hundred thousand dollars.
 
-*Offence of terrorism and penalty.*
+*Offence of terrorism and and is liable on penalty.*
 
-**5.** A person who commits a terrorist act commits an offence and is liable on conviction–
+**5.** A person who commits a terrorist act commits an offence conviction–
 
 (a) in the case of a natural person, to imprisonment for a term of not be less than ten years but which may extend to imprisonment for life; and
 
 (b) in the case of a legal person or other entity, to a fine of not be less than five hundred thousand dollars but which may extend to one million dollars.
 
-*Offences committed by a body of persons.*
+*Offences Where committed by a or 68 is body of persons.*
 
-**6.** Where an offence under the provisions of sections 3, 5 or 68 is committed by a body of persons, whether corporate or un-incorporated, every person who, at the time of the commission of the offence, acted in an official capacity for or on behalf of such body of persons, whether as director, manager, secretary or other similar officer, or was purporting to act in
+*commission of on behalf of secretary or*
+
+**6.** an offence under the provisions of sections 3, 5 committed by a body of persons, whether corporate or un-incorporated, every person who, at the time of the the offence, acted in an official capacity for or such body of persons, whether as director, manager, other similar officer, or was purporting to act in
 
 such capacity, shall be guilty of that offence and punished accordingly, unless he adduces evidence to show that the offence was committed without his knowledge, consent or connivance.
 
@@ -1070,21 +1160,27 @@ such capacity, shall be guilty of that offence and punished accordingly, unless 
 
 *Extra-territorial jurisdiction.*
 
-**10.** Notwithstanding anything to the contrary contained in any other law, the offences created by this Act shall be investigated, tried, judged and sentenced by a court in Belize
-
 *7 of 2016.*
 
-regardless of whether or not an offence occurred in Belize or in
+**10.** Notwithstanding anything to the contrary contained in any other law, the offences created by this Act shall be investigated, tried, judged and sentenced by a court in Belize regardless of whether or not an offence occurred in Belize or in
 
-another territorial jurisdiction, but without prejudice to extradition where applicable in accordance with the law.
+*another extradition*
+
+territorial jurisdiction, but without prejudice to where applicable in accordance with the law.
 
 ## PART III
 
-Anti-Money Laundering and Anti-Terrorism Supervision
+*Anti-Money*
 
-*Powers of the Financial Intelligence Unit. 35 of 2002. CAP. 138:02. 7 of 2014.*
+Laundering and Anti-Terrorism Supervision
 
-**11.** (1) Without prejudice to its powers and responsibilities under the Financial Intelligence Unit Act, or any other provision of this Act, the Financial Intelligence Unit–
+*Powers of the 11.–(1) Without Financial*
+
+*under the Intelligence Unit.*
+
+*35 of 2002. of this Act, the CAP. 138:02. 7 of 2014.*
+
+prejudice to its powers and responsibilities Financial Intelligence Unit Act, or any other provision Financial Intelligence Unit–
 
 (a) shall receive, analyse and assess reports of suspicious transactions issued by reporting entities pursuant to section 17(4);
 
@@ -1126,11 +1222,9 @@ for terrorist financing, whether in Belize or elsewhere;
 
 *35 of 2002.*
 
-(m) may disclose any report, any information derived from such report or any other information it receives pursuant to this section to an institution or agency of a foreign state or of an international organization established by the governments of foreign states that has powers and duties similar to those of the Financial Intelligence Unit as set out in this
-
 *CAP. 138:01*
 
-section and sections 13 and 14, or in the Financial Intelligence Unit Act, if on the basis of its analysis and assessment, the Financial Intelligence Unit has reasonable grounds to suspect that a report or information would be relevant to investigating proceeds of crime or investigating or prosecuting an offence;
+(m) may disclose any report, any information derived from such report or any other information it receives pursuant to this section to an institution or agency of a foreign state or of an international organization established by the governments of foreign states that has powers and duties similar to those of the Financial Intelligence Unit as set out in this section and sections 13 and 14, or in the Financial Intelligence Unit Act, if on the basis of its analysis and assessment, the Financial Intelligence Unit has reasonable grounds to suspect that a report or information would be relevant to investigating proceeds of crime or investigating or prosecuting an offence;
 
 (n) may disclose any report to the supervisory authority for purposes of ensuring compliance with this Act;
 
@@ -1142,11 +1236,23 @@ section and sections 13 and 14, or in the Financial Intelligence Unit Act, if on
 
 (q) in performing its functions as a supervisory authority, has the information gathering, enforcement and other powers provided for in the Schedule V.
 
-(2) Every order made by the Financial Intelligence Unit pursuant to sub-section (1)(d), for the freezing of funds or financial assets of any person shall cease to have effect after seven business days from the making of the Order, unless within such period the Financial Intelligence Unit makes an application to a Judge of the Supreme Court in Chambers for an order for the freezing of such property, and the application shall be heard by the Court as soon as practicable.
+*(2) Every pursuant to financial assets seven business such period the to a Judge of the freezing of by the Court as*
 
-*Freezing of funds connected with terrorism.*
+order made by the Financial Intelligence Unit sub-section (1)(d), for the freezing of funds or of any person shall cease to have effect after days from the making of the Order, unless within Financial Intelligence Unit makes an application the Supreme Court in Chambers for an order for such property, and the application shall be heard soon as practicable.
 
-**12.** (1) Where the Financial Intelligence Unit has reasonable grounds for believing that the person by, for or on behalf of whom any funds are held is or may be–
+*Freezing of*
+
+*12.–(1) Where*
+
+*funds connected*
+
+*grounds for*
+
+*with terrorism.*
+
+*whom any*
+
+the Financial Intelligence Unit has reasonable believing that the person by, for or on behalf of funds are held is or may be–
 
 *7 of 2014.*
 
@@ -1170,15 +1276,31 @@ a person controlled or owned directly or indirectly by a person in (a); or
 
 (6) Where a direction has been given under sub-section (1), any person by, for or on behalf of whom those funds are held may apply to the Supreme Court for the direction to be set aside; and on such application the Court may set aside the direction.
 
-(7) A person who makes an application under sub-section
+*(6) shall give statement or*
 
-(6) shall give a copy of the application and any witness statement or affidavit in support to the Financial Intelligence Unit, and to any other person by, for or on behalf of whom those funds are held, not later than seven days before the date fixed for the hearing of the application.
+*funds are held, for the hearing*
 
-(8) Any person who contravenes or fails to comply with the requirements of this section commits a money laundering offence and is liable to the penalties prescribed in section 4.
+(7) A person who makes an application under sub-section a copy of the application and any witness affidavit in support to the Financial Intelligence Unit, and to any other person by, for or on behalf of whom those not later than seven days before the date fixed of the application.
 
-*Disclosure to foreign institutions and agencies.*
+*(8) Any requirements offence and is*
 
-**13.** The Financial Intelligence Unit may disclose any report or information as set out under section 11(1)(m) to an institution or agency of a foreign state or of an international organisation or body or other institution or agency established by the governments of foreign states that has powers and duties similar to those of the Financial Intelligence Unit–
+person who contravenes or fails to comply with the of this section commits a money laundering liable to the penalties prescribed in section 4.
+
+*Disclosure to*
+
+*The*
+
+*foreign*
+
+*or information*
+
+*institutions and agencies.*
+
+*or agency of a or body or*
+
+*to those of the*
+
+**13.** Financial Intelligence Unit may disclose any report as set out under section 11(1)(m) to an institution foreign state or of an international organisation other institution or agency established by the governments of foreign states that has powers and duties similar Financial Intelligence Unit–
 
 (a) on such terms and conditions as are set out in the agreement or arrangement between the Financial Intelligence Unit and that foreign state or international organisation regarding the exchange of such information under section 14; or
 
@@ -1208,23 +1330,33 @@ financing offence or an offence that is substantially similar to either offence;
 
 (b) the stipulation that the information be treated in a confidential manner and not be further disclosed without the express consent of the Financial Intelligence Unit.
 
-**15.** (1) Reporting entities shall establish the identity and verify
+*15.–(1)*
 
-*Reporting entities to identify and verify identity of customer.*
+*Reporting*
 
-the identity of any customer of the reporting entity by requiring the customer to produce an identification record or such other reliable, independent source document as the Minister may prescribe.
+*the identity of*
 
-(2) The requirements of sub-section (1), shall apply when–
+*entities to identify and verify identity of*
+
+*reliable,*
+
+*customer.*
+
+Reporting entities shall establish the identity and verify any customer of the reporting entity by requiring the customer to produce an identification record or such other independent source document as the Minister may
+
+*prescribe.*
+
+*(2) The*
+
+requirements of sub-section (1), shall apply when–
 
 (a) a reporting entity establishes a business relationship;
 
 (b) in the absence of such a relationship, a reporting entity conducts–
 
-(i) any transaction in an amount equal to or
-
 *7 of 2014.*
 
-above the sum of twenty thousand dollars or such other amount as may from time to time be prescribed by the Minister, whether conducted as a single transaction or several transactions that appear to be linked and where the amount of the transaction is unknown at the time of the transaction, the identification and verification shall be undertaken as soon as the amount becomes known or the said threshold is reached; and
+(i) any transaction in an amount equal to or above the sum of twenty thousand dollars or such other amount as may from time to time be prescribed by the Minister, whether conducted as a single transaction or several transactions that appear to be linked and where the amount of the transaction is unknown at the time of the transaction, the identification and verification shall be undertaken as soon as the amount becomes known or the said threshold is reached; and
 
 (ii) any wire transfers as set out in section 19 of this Act;
 
@@ -1232,7 +1364,9 @@ above the sum of twenty thousand dollars or such other amount as may from time t
 
 (d) the reporting entity has doubts about the veracity or adequacy of previously obtained customer identification data.
 
-(3) Without limiting the generality of sub-section (1), a reporting entity shall–
+*(3) Without reporting entity*
+
+limiting the generality of sub-section (1), a shall–
 
 *4 of 2013.*
 
@@ -1240,7 +1374,9 @@ above the sum of twenty thousand dollars or such other amount as may from time t
 
 (b) if the transaction is conducted by a natural person, adequately identify and verify his identity including information relating to–
 
-the person’s name and address; (i)
+the person’s name and address;
+
+(i)
 
 (ii) the national identity card, social security document, passport or other applicable official identifying document; or
 
@@ -1266,43 +1402,37 @@ members, for foundations, legal form, head office address and identities of dire
 
 *4 of 2013.*
 
-(d) have appropriate risk management systems to
-
 *7 of 2014.*
 
-determine if a potential customer, customer or beneficial owner is, is likely to be, is found to be or becomes a politically exposed person, or family member or close associate of the politically exposed person and if so, shall–
+(d) have appropriate risk management systems to determine if a potential customer, customer or beneficial owner is, is likely to be, is found to be or becomes a politically exposed person, or family member or close associate of the politically exposed person and if so, shall–
 
 (i) adequately identify and verify his identity as set out in this section;
 
 *4 of 2013.*
 
-(ii) obtain the approval of senior
-
 *7 of 2014.*
 
-management before establishing or counting a business relationship with the politically exposed person or family member or close associate of the politically exposed person; and
+(ii) obtain the approval of senior management before establishing or counting a business relationship with the politically exposed person or family member or close associate of the politically exposed person; and
 
 (iii) take reasonable measures to establish the source of funds and source of property;
 
 Repealed.
 
-(e) perform due diligence measures on a risk
-
 *7 of 2014.*
 
-sensitive basis which are consistent with guidelines issued by the competent authority or a supervisory authority; and
+(e) perform due diligence measures on a risk sensitive basis which are consistent with guidelines issued by the competent authority or a supervisory authority; and
 
 *4 of 2013.*
 
 (f) upon the establishment of a business relationship, and when completing the verification of the identity of the customer and beneficial owner, ensure that money laundering risks are effectively managed.
 
-*7 of 2014.*
+*7 of 2014. (3A) A a business*
 
-(3A) A reporting entity shall conduct ongoing monitoring of a business relationship.
+reporting entity shall conduct ongoing monitoring of relationship.
 
-*7 of 2014.*
+*7 of 2014. (3B) In ongoing*
 
-(3B) In applying due diligence measures and conducting ongoing monitoring, a reporting entity shall–
+applying due diligence measures and conducting monitoring, a reporting entity shall–
 
 (a) assess the risk that any business relationship or occasional transaction involves, or will involve, money laundering or terrorist financing, depending upon the type of customer, business relationship, product or transaction; and
 
@@ -1352,11 +1482,17 @@ perform at least one additional check designed to mitigate the risk of identity 
 
 (b) apply such additional enhanced due diligence measures or undertake enhanced ongoing monitoring, as the reporting entity considers appropriate, if any.
 
+*(4C) For the*
+
 *7 of 2014.*
 
-(4C) For the purposes of this section, “enhanced customer due diligence measures” and “enhanced ongoing monitoring” mean customer due diligence measures, or ongoing monitoring, that involves specific and adequate measures to compensate for the higher risk of money laundering or terrorist financing.
+*due diligence mean customer that involves the higher risk*
 
-(5) Nothing in this section shall require the production of any evidence of identity where–
+purposes of this section, “enhanced customer measures” and “enhanced ongoing monitoring” due diligence measures, or ongoing monitoring, specific and adequate measures to compensate for of money laundering or terrorist financing.
+
+*(5) Nothing any evidence of*
+
+in this section shall require the production of identity where–
 
 (a) the customer is itself a financial institution to which this Act applies and which has been licensed or registered, and is supervised for anti-money laundering and countering the financing of terrorism measures by a regulatory authority and the reporting entity has satisfied itself as to the adequacy of the measures to prevent money laundering and the financing of terrorism; or
 
@@ -1372,9 +1508,9 @@ the customer is located, or resides, in a country that does not apply, or insuff
 
 (c) a higher risk of money laundering or terrorist financing has been identified.
 
-*7 of 2014.*
+*7 of 2014. (6) A bank or to enter, a securities or provides*
 
-(6) A bank or financial institution that is in, or that proposes to enter, a correspondent banking relationship, that undertakes securities transactions or funds transfers on a cross-border basis, or provides finance to facilitate international trade shall–
+financial institution that is in, or that proposes correspondent banking relationship, that undertakes transactions or funds transfers on a cross-border basis, finance to facilitate international trade shall–
 
 (a) apply due diligence measures on respondent banks using a risk-based approach that enables the bank or financial institution to fully understand the nature of the respondent bank’s business and which takes into account, in particular–
 
@@ -1418,9 +1554,9 @@ where it has knowledge or suspicion that the respondent or any of its customers 
 
 (ii) is able to provide relevant due diligence information and verification evidence to the bank or financial institution upon request.
 
-*4 of 2013.*
+*4 of 2013. (6A) A*
 
-(6A) A reporting entity shall–
+reporting entity shall–
 
 *7 of 2014.*
 
@@ -1434,21 +1570,19 @@ terminate the relationship and consider making a suspicious transaction report w
 
 (d) terminate a business relationship when the reporting entity is unable to undertake ongoing monitoring with respect to the relationship.
 
-(7) Where a reporting entity relies on an intermediary or
+*(7) Where a third party to*
 
 *7 of 2014.*
 
-third party to undertake its obligations under sub-sections (1),
+*(2) or (3) or to*
 
-(2) or (3) or to introduce business to it–
+reporting entity relies on an intermediary or undertake its obligations under sub-sections (1), introduce business to it–
 
 (a) it must be satisfied that the third party is able to provide copies of identification data and other documents relating to the obligation of due diligence under sub-sections (1), (2) and
 
-(3) without delay, including, without
-
 *7 of 2014.*
 
-limitation, identification data and other documents relating to–
+(3) without delay, including, without limitation, identification data and other documents relating to–
 
 (i) beneficial ownership;
 
@@ -1458,17 +1592,13 @@ limitation, identification data and other documents relating to–
 
 *4 of 2013.*
 
-(b) it shall satisfy itself that the third party or intermediary is regulated and supervised, and has measures in place to comply with the requirements set out in sections 15 and 16 and in accordance with the FATF Recommendations on regulation, supervision
+*7 of 2014.*
+
+(b) it shall satisfy itself that the third party or intermediary is regulated and supervised, and has measures in place to comply with the requirements set out in sections 15 and 16 and in accordance with the FATF Recommendations on regulation, supervision and monitoring;
 
 *7 of 2014.*
 
-and monitoring;
-
-the reporting entity shall immediately obtain from the intermediary or third party, copies of
-
-*7 of 2014.*
-
-identification data and other documents relating to the obligation of the customer due diligence process;
+the reporting entity shall immediately obtain from the intermediary or third party, copies of identification data and other documents relating to the obligation of the customer due diligence process;
 
 *7 of 2014.*
 
@@ -1498,15 +1628,15 @@ previous experience gained from existing relationships connected with the interm
 
 *4 of 2013.*
 
-(e) the reporting entity shall maintain ultimate
+*7 of 2014.*
+
+(e) the reporting entity shall maintain ultimate responsibility for customer identification and verification of customer identity.
 
 *7 of 2014.*
 
-responsibility for customer identification and verification of customer identity.
+*(7A) For the*
 
-*7 of 2014.*
-
-(7A) For the purposes of this section–
+purposes of this section–
 
 “correspondent banking relationship” means a (a)
 
@@ -1544,11 +1674,17 @@ the official or identifying documents, or the reliable and independent source do
 
 *7 of 2016.*
 
-(9) Repealed.
+*Repealed.*
 
-*Other obligations of reporting entities.*
+(9)
 
-**16.** (1) Reporting entities shall establish and maintain–
+*Other obligations*
+
+*16.–(1)*
+
+*of reporting entities.*
+
+Reporting entities shall establish and maintain–
 
 (a) records of all transactions in accordance with the requirements of sub-section (3);
 
@@ -1560,9 +1696,13 @@ obtained in accordance with section 15, a record that indicates the nature of th
 
 (d) written reports established in accordance with section 17.
 
-(2) Customer accounts of a reporting entity shall be kept in the true name of the account holder.
+*the true name of*
 
-(3) Records required under sub-section (1), shall contain particulars sufficient to identify–
+(2) Customer accounts of a reporting entity shall be kept in the account holder.
+
+*(3) Records particulars*
+
+required under sub-section (1), shall contain sufficient to identify–
 
 (a) the name, address and occupation or, where appropriate, business or principal activity of each person–
 
@@ -1584,9 +1724,9 @@ if known, on whose behalf the transaction is being conducted, as well as the met
 
 (f) in the case of reports under section 17 and any other reports, the name and address of the reporting entity, and of the officer, employee or agent of the reporting entity who prepared the report.
 
-*7 of 2014.*
+*7 of 2014. (4) Records the reporting*
 
-(4) Records required under sub-section (1) shall be kept by the reporting entity–
+required under sub-section (1) shall be kept by entity–
 
 (a) for a period of at least 5 years from the date the relevant business or transaction was completed, or termination of business relationship, whichever is the later; or
 
@@ -1606,11 +1746,9 @@ if known, on whose behalf the transaction is being conducted, as well as the met
 
 *4 of 2013.*
 
-(4E) The receiving intermediary or third party reporting
-
 *7 of 2014.*
 
-entity shall keep all records received from an ordering financial institution where technical limitations would prevent the full originator information that should accompany a cross-border wire transfer from being transmitted with a related domestic wire transfer for five years.
+(4E) The receiving intermediary or third party reporting entity shall keep all records received from an ordering financial institution where technical limitations would prevent the full originator information that should accompany a cross-border wire transfer from being transmitted with a related domestic wire transfer for five years.
 
 (5) A reporting entity shall–
 
@@ -1628,19 +1766,25 @@ permit any authorized officer of the Financial Intelligence Unit to enter into a
 
 *7 of 2014.*
 
-(6) Repealed.
+*Repealed.*
+
+(6)
+
+*(7) Every*
 
 *7 of 2016.*
 
-(7) Every reporting entity that contravenes or fails to comply with the provisions of this section shall be liable to a fine of up to five thousand dollars by the Financial Intelligence Unit.
+*with the to five thousand*
 
-*7 of 2014.*
+reporting entity that contravenes or fails to comply provisions of this section shall be liable to a fine of up dollars by the Financial Intelligence Unit.
 
-(8) Repealed.
+*7 of 2014. Repealed.*
 
-*Reporting of suspicious transactions by reporting entities.*
+(8)
 
-**17.** (1) Reporting entities shall pay special attention to–
+*Reporting of 17.–(1) suspicious transactions by reporting entities.*
+
+Reporting entities shall pay special attention to–
 
 (a) all complex, unusual or large business transactions, or unusual patterns of transactions, whether completed or not, and to insignificant but periodic transactions, that have no apparent economic or lawful purpose;
 
@@ -1652,7 +1796,9 @@ arrangements, from or in jurisdictions that do not have adequate systems in plac
 
 (c) electronic funds transfer that do not contain complete originator information and shall adopt effective risk-based procedures to identify and handle any such transfer.
 
-(2) In relation to sub-section (1), a reporting entity shall–
+*(2) In*
+
+relation to sub-section (1), a reporting entity shall–
 
 (a) set forth in writing the specific information regarding the transactions or business relations specified in sub-section (1) (a) to (c), its background and purpose to the extent known, and the identity of the persons involved; and
 
@@ -1666,9 +1812,15 @@ arrangements, from or in jurisdictions that do not have adequate systems in plac
 
 (3) Repealed.
 
-(4) Whenever a reporting entity suspects or has reasonable grounds to suspect that any transaction, proposed transaction or attempted transaction is related to the commission of a money laundering offence or terrorist financing offence or is related or linked to, or is to be used in connection with a terrorist act or for the financing of terrorism, or that the funds or property are the proceeds of crime, it shall as soon as possible but not later than
+*grounds to attempted laundering*
 
-three days after forming that suspicion and wherever possible before the transaction is carried out–
+*proceeds of*
+
+(4) Whenever a reporting entity suspects or has reasonable suspect that any transaction, proposed transaction or transaction is related to the commission of a money offence or terrorist financing offence or is related or linked to, or is to be used in connection with a terrorist act or for the financing of terrorism, or that the funds or property are the crime, it shall as soon as possible but not later than
+
+*three days after before the*
+
+forming that suspicion and wherever possible transaction is carried out–
 
 (a) take reasonable measures to ascertain the purpose of the transaction, the origin and ultimate destination of the funds involved and the identity and address, of any ultimate beneficiary;
 
@@ -1678,9 +1830,9 @@ three days after forming that suspicion and wherever possible before the transac
 
 (d) in case of reporting entities which are real estate agents and dealers in vehicles, shall report transactions in accordance with this sub-section to the Financial Intelligence Unit when involved in transactions for their clients concerning the buying or selling of real estate or vehicles of any description.
 
-*7 of 2014.*
+*7 of 2014. (4A) For the knowledge, suspicion of applies even may be a tax*
 
-(4A) For the avoidance of doubt, the obligation to report any knowledge, suspicion, or reasonable grounds for knowledge or suspicion of money laundering referred to in sub-section (4), applies even though the offence that results in proceeds of crime may be a tax offence or may involve or relate to tax, and a
+avoidance of doubt, the obligation to report any suspicion, or reasonable grounds for knowledge or money laundering referred to in sub-section (4), though the offence that results in proceeds of crime offence or may involve or relate to tax, and a
 
 reporting entity’s procedures relating to reporting should reflect this.
 
@@ -1704,11 +1856,9 @@ if the Financial Intelligence Unit deems it appropriate, to inform and advise a 
 
 (b) For the purposes of calculating the period of five days referred to in sub-section (7) (a), Saturdays, Sundays and public and bank holidays shall not be taken into account.
 
-*7 of 2014.*
+*7 of 2014. (8) The are applicable to–*
 
-(8) The provisions of sub-sections (4), (4A), (5), (6) and (7)
-
-*are applicable to–*
+provisions of sub-sections (4), (4A), (5), (6) and (7)
 
 (a) lawyers, notaries, other independent legal professionals and accountants when, on behalf of or for a client, they prepare for or engage in or carry out a transaction in relation to the following activities–
 
@@ -1734,9 +1884,13 @@ acting as a formation agent of legal persons;
 
 (v) acting as, or arranging for another person to act as, a nominee shareholder for another person.
 
-(9) Nothing in this section requires any lawyer to disclose any privileged communication.
+*(9) Nothing any privileged*
 
-(10) For the purposes of this section, a communication is a privileged communication only if–
+in this section requires any lawyer to disclose communication.
+
+*(10) For the privileged*
+
+purposes of this section, a communication is a communication only if–
 
 (a) it is to a person who is a professional legal adviser and the disclosure falls within subsection (b); or
 
@@ -1768,11 +1922,9 @@ Provided that a disclosure does not fall within sub-section (b), if it is made w
 
 (a) appoint a compliance officer in accordance with section 18A;
 
-(b) establish and maintain internal policies, procedures, controls and systems and take
-
 *7 of 2014.*
 
-such other measures as it considers appropriate to–
+(b) establish and maintain internal policies, procedures, controls and systems and take such other measures as it considers appropriate to–
 
 (i) implement the customer identification requirements;
 
@@ -1790,31 +1942,27 @@ make its officers and employees aware of the laws relating to combating money la
 
 *4 0f 2013.*
 
-(viii) disseminate warning notices and other
+*7 of 2014.*
+
+(viii) disseminate warning notices and other information received from a supervisory authority or the competent authority relating to a weakness in the anti-money laundering and combating of financing of terrorism systems of other countries;
 
 *7 of 2014.*
 
-information received from a supervisory authority or the competent authority relating to a weakness in the anti-money laundering and combating of financing of terrorism systems of other countries;
-
-(ix) ensure that a foreign branch or subsidiary observes the anti-money laundering and combating of financing of terrorism system that is consistent with Belize’s requirements and the
-
-*7 of 2014.*
-
-FATF Recommendations, including application of counter-measures, where that foreign country does not apply or insufficiently applies the FATF Recommendations; and
+(ix) ensure that a foreign branch or subsidiary observes the anti-money laundering and combating of financing of terrorism system that is consistent with Belize’s requirements and the FATF Recommendations, including application of counter-measures, where that foreign country does not apply or insufficiently applies the FATF Recommendations; and
 
 *7 of 2014.*
 
 (x) guard against the use of technological developments in money laundering or terrorist financing;
 
-establish an adequately resourced and independent audit function to test compliance,
-
 *7 of 2014.*
 
-including sample testing, of its anti-money laundering and combatting the financing of terrorism procedures and systems; and
+establish an adequately resourced and independent audit function to test compliance, including sample testing, of its anti-money laundering and combatting the financing of terrorism procedures and systems; and
 
 (d) conduct ongoing training of its officers, employees and agents to ensure that employees are kept informed of new developments, including information on current money laundering and terrorist financing techniques, methods and trends.
 
-(2) A reporting entity shall–
+*(2) A*
+
+reporting entity shall–
 
 *4 of 2013.*
 
@@ -1822,17 +1970,17 @@ including sample testing, of its anti-money laundering and combatting the financ
 
 (b) require the identified person to report the matter, pursuant to section 17, in the event that he determines that sufficient basis exists.
 
-(3) The person identified in sub-section (1)(a) shall–
+*(3) The*
+
+person identified in sub-section (1)(a) shall–
 
 *7 of 2014.*
 
 (a) be a senior officer with relevant qualifications and experience to enable him to respond sufficiently well to inquiries relating to the reporting entity and the conduct of its business and possess core competencies and knowledge in administering anti- money laundering measures ;
 
-be responsible for establishing and maintaining such manual of compliance procedures in relation to its business as the
-
 *7 of 2014.*
 
-supervisory authority or the competent authority may, from time to time, require;
+be responsible for establishing and maintaining such manual of compliance procedures in relation to its business as the supervisory authority or the competent authority may, from time to time, require;
 
 (c) be responsible for ensuring compliance by staff of the reporting entity with–
 
@@ -1842,25 +1990,39 @@ supervisory authority or the competent authority may, from time to time, require
 
 (d) act as the liaison between the reporting entity and the Financial Intelligence Unit in matters relating to compliance with this Act and any other law or directive with respect to money laundering or terrorist financing.
 
+*7 of 2014. (4) A sole procedures*
+
+trader is not required to maintain policies and relating to internal reporting, screening of employees and the internal communication of such policies and
+
+*procedures.*
+
+*Appointment of 18A.–(1) money*
+
+*than a sole*
+
+*laundering compliance officer.*
+
+*laundering*
+
+Subject to sub-section (8), a reporting entity, other trader, shall appoint an individual approved as being fit and proper by the supervisory authority as its money compliance officer.
+
 *7 of 2014.*
 
-(4) A sole trader is not required to maintain policies and procedures relating to internal reporting, screening of employees and the internal communication of such policies and procedures.
+*(2) A sole*
 
-*Appointment of money laundering compliance officer.*
+trader is the money laundering compliance officer in respect of his relevant business.
 
-**18A.** (1) Subject to sub-section (8), a reporting entity, other than a sole trader, shall appoint an individual approved as being fit and proper by the supervisory authority as its money laundering compliance officer.
+*(3) A*
 
-*7 of 2014.*
-
-(2) A sole trader is the money laundering compliance officer in respect of his relevant business.
-
-(3) A reporting entity shall ensure that–
+reporting entity shall ensure that–
 
 the individual appointed as money laundering compliance officer under this section is of an appropriate level of seniority; and
 
 (b) the money laundering compliance officer has timely access to all records that are necessary or expedient for the purpose of performing his functions as money laundering compliance officer.
 
-(4) The principal functions of the money laundering compliance officer are–
+*(4) The compliance*
+
+principal functions of the money laundering officer are–
 
 to oversee and monitor the reporting entity’s (a)
 
@@ -1872,9 +2034,15 @@ compliance with the Act, any applicable regulations, codes or guidelines made un
 
 (d) where he considers a suspicious transaction report should be made, submit the report.
 
-(5) When an individual has ceased to be the money laundering compliance officer of a reporting entity, the reporting entity shall as soon as reasonably practicable appoint another individual approved by the supervisory authority as its money laundering compliance officer.
+*(5) When laundering*
 
-(6) A reporting entity shall give the supervisory authority written notice within 7 days after the date–
+*another money*
+
+an individual has ceased to be the money compliance officer of a reporting entity, the reporting entity shall as soon as reasonably practicable appoint individual approved by the supervisory authority as its laundering compliance officer.
+
+*(6) A written notice*
+
+reporting entity shall give the supervisory authority within 7 days after the date–
 
 of the appointment of a money laundering compliance officer; or
 
@@ -1888,11 +2056,9 @@ of the appointment of a money laundering compliance officer; or
 
 *Financial institutions and money transmission service providers to include originator information. Cap. 263. Cap. 267.*
 
-**19.** (1) An institution or a person that is licensed to do business in Belize as a bank or financial institution under the Banks and Financial Institutions Act, or the International Banking Act, or a money transmission service provider shall verify, maintain and include accurate originator information and maintain and include beneficiary information on outgoing electronic funds transfers and related outgoing messages. Such institutions and
-
 *4 of 2013. 7 of 2014.*
 
-persons when acting as an intermediary financial institution shall ensure that all originator information and beneficiary information that accompanies the wire transfer is retained for a period of at least five years with the transfer.
+**19.** (1) An institution or a person that is licensed to do business in Belize as a bank or financial institution under the Banks and Financial Institutions Act, or the International Banking Act, or a money transmission service provider shall verify, maintain and include accurate originator information and maintain and include beneficiary information on outgoing electronic funds transfers and related outgoing messages. Such institutions and persons when acting as an intermediary financial institution shall ensure that all originator information and beneficiary information that accompanies the wire transfer is retained for a period of at least five years with the transfer.
 
 *7 of 2014.*
 
@@ -1916,13 +2082,17 @@ either the originator’s–
 
 (iv) date and place of birth.
 
-(2A) Beneficiary information shall be set forth in the message or payment form accompanying the transfer, and shall include–
+*message or include–*
+
+(2A) Beneficiary information shall be set forth in the payment form accompanying the transfer, and shall
 
 (a) the name of the beneficiary;
 
 (b) the beneficiary account number, where such an account is used to process the transaction, otherwise a unique transaction reference number which permits traceability of the transaction.
 
-(2B) For the purposes of sub-section (2), the “customer identification number” refers to–
+*(2B) For identification*
+
+the purposes of sub-section (2), the “customer number” refers to–
 
 (a) a number which uniquely identifies the originator to the originating financial institution and is a different number from the unique transaction reference number; and
 
@@ -1978,7 +2148,9 @@ there is information that has been required to be provided;
 
 the request related would be removed, tampered with or destroyed.
 
-(2) A warrant issued under this section shall authorise a named representative of the supervisory authority, together with a police officer and any other person named in the warrant–
+*(2) A named a police officer*
+
+warrant issued under this section shall authorise a representative of the supervisory authority, together with and any other person named in the warrant–
 
 (a) to enter the premises specified in the warrant at any time within 1 week from the date of the warrant;
 
@@ -1990,21 +2162,35 @@ the request related would be removed, tampered with or destroyed.
 
 (e) to use such force as may be reasonably necessary to execute the warrant.
 
-(3) Unless the Judge, on the application of the supervisory authority, otherwise orders, any document of which possession is taken under this paragraph may be retained–
+*(3) Unless authority, is taken under*
+
+the Judge, on the application of the supervisory otherwise orders, any document of which possession this paragraph may be retained–
 
 for a period of 3 months; or
 
-if, within a period of 3 months, proceedings for
-
 *7 of 2016.*
 
-an offence to which the document is relevant are commenced against any person, until the conclusion of those proceedings.
+if, within a period of 3 months, proceedings for an offence to which the document is relevant are commenced against any person, until the conclusion of those proceedings.
 
-*Role of supervisory authority. 7 of 2014.*
+*Role of*
 
-**21.** (1) The supervisory authority responsible for supervising each reporting entity shall supervise compliance by the entity with the entity’s AML/CFT obligations.
+*21.–(1) The*
 
-(2) In accordance with the law, the supervisory authority, shall–
+*supervisory*
+
+*each reporting*
+
+*authority.*
+
+*with the entity’s*
+
+*7 of 2014.*
+
+supervisory authority responsible for supervising entity shall supervise compliance by the entity AML/CFT obligations.
+
+*(2) In shall–*
+
+accordance with the law, the supervisory authority,
 
 (a) examine and supervise the reporting entity, and regulate and oversee effective compliance with the entity’s AML/CFT obligations, through on-site examinations, or other means;
 
@@ -2014,11 +2200,9 @@ an offence to which the document is relevant are commenced against any person, u
 
 (d) impose requirements that–
 
-the reporting entity should ensure that their foreign branches and subsidiaries adopt and enforce measures of a higher standard or consistent with this law to the extent that local laws and regulations so permit, and where the foreign branch or subsidiary is unable to adopt and observe these measures, to report the matter to the designated, the supervisory
-
 *7 of 2014.*
 
-authority or the competent authority; or
+the reporting entity should ensure that their foreign branches and subsidiaries adopt and enforce measures of a higher standard or consistent with this law to the extent that local laws and regulations so permit, and where the foreign branch or subsidiary is unable to adopt and observe these measures, to report the matter to the designated, the supervisory authority or the competent authority; or
 
 *7 of 2014.*
 
@@ -2038,7 +2222,9 @@ authority or the competent authority; or
 
 *7 of 2014.*
 
-(2A) A warning or notice issued under paragraph (2)(b) may direct a reporting entity–
+*(2A) A direct a*
+
+warning or notice issued under paragraph (2)(b) may reporting entity–
 
 (a) not to enter into a business relationship;
 
@@ -2050,21 +2236,23 @@ authority or the competent authority; or
 
 (e) to apply enhanced customer due diligence measures or enhanced ongoing monitoring to any business relationship or occasional transaction,
 
-with any person carrying on business, resident, incorporated, constituted or formed in a country to which the FATF has recommended that counter-measures be applied or a country which continues not to apply or insufficiently applies the FATF Recommendations.
+*with any*
+
+person carrying on business, resident, incorporated, constituted or formed in a country to which the FATF has recommended that counter-measures be applied or a country which continues not to apply or insufficiently applies the FATF Recommendations.
 
 *4 of 2013.*
 
-(3) A supervisory authority, in carrying out its functions under this section shall have the power to obtain access to or
+*(3) A under this*
+
+supervisory authority, in carrying out its functions section shall have the power to obtain access to or
 
 compel the production of records, documents or information as it considers necessary to supervise compliance.
 
 *4 of 2013.*
 
-(4) Where the supervisory authority is also the relevant
-
 *7 of 2014.*
 
-regulatory authority for a reporting entity and the supervisory authority finds that the reporting entity has committed a breach of any AML/CFT obligation, the supervisory authority may impose any one or more of the following sanctions –
+(4) Where the supervisory authority is also the relevant regulatory authority for a reporting entity and the supervisory authority finds that the reporting entity has committed a breach of any AML/CFT obligation, the supervisory authority may impose any one or more of the following sanctions –
 
 (a) severe reprimand;
 
@@ -2104,31 +2292,33 @@ ordering regular reports from the reporting entity on the measures it is taking;
 
 (h) such other measure as may be prescribed.
 
-(2) The supervisory authority shall inform the Financial
+*(2) The*
 
 *7 of 2014.*
 
-Intelligence Unit as to any measure imposed and may order the publication of its decision.
+*Intelligence*
+
+supervisory authority shall inform the Financial Unit as to any measure imposed and may order the publication of its decision.
 
 *7 of 2014.*
 
-(3) Any supervisory authority or, in the case of a licensed or regulated reporting entity, the relevant regulatory authority that discovers facts likely to constitute indication of money laundering or financing of terrorism shall so inform the Financial Intelligence Unit without delay.
+*(3) Any regulated*
 
-**22A.** (1) Where by section 22, or an instruction, guideline or
+*Financial*
+
+supervisory authority or, in the case of a licensed or reporting entity, the relevant regulatory authority that discovers facts likely to constitute indication of money laundering or financing of terrorism shall so inform the Intelligence Unit without delay.
 
 *Failure to take required action.*
 
-recommendation given under this Act, a reporting entity is required, by a specified time–
+**22A.** (1) Where by section 22, or an instruction, guideline or recommendation given under this Act, a reporting entity is required, by a specified time–
 
 *4 of 2013.*
 
 (a) to take a certain measure or action; or
 
-(b) to cease a particular activity, behaviour or practice, and the supervisory authority or
-
 *7 of 2014.*
 
-competent authority is satisfied that the reporting entity has failed to do so, the supervisory authority or competent authority may, by written notice, impose on the reporting entity, a penalty of five thousand dollars and, in the case of a continuing failure, to an additional penalty not exceeding five hundred dollars for every day during which the failure continues.
+(b) to cease a particular activity, behaviour or practice, and the supervisory authority or competent authority is satisfied that the reporting entity has failed to do so, the supervisory authority or competent authority may, by written notice, impose on the reporting entity, a penalty of five thousand dollars and, in the case of a continuing failure, to an additional penalty not exceeding five hundred dollars for every day during which the failure continues.
 
 (2) A penalty shall not be imposed on a reporting entity or financial institution under this section unless the reporting entity or financial institution is first given an opportunity to be heard and to show cause as to why the action should not be taken.
 
@@ -2136,11 +2326,9 @@ competent authority is satisfied that the reporting entity has failed to do so, 
 
 *Appeals. 7 of 2014.*
 
-**22B.** (1) Subject to sub-section (2), a person who is aggrieved by a decision of a supervisory authority, the competent authority or the Financial Intelligence Unit made under this Act or under any regulations made or guidelines issued under this Act may, within 30 days of the date of the decision, appeal to the
-
 *Cap. 91.*
 
-Supreme Court under the provisions of Part IX of the Supreme Court of Judicature Act, and for this purpose, the supervisory authority or competent authority shall be deemed to be an inferior court and the rules governing the inferior court appeals shall mutatis mutandis apply to every such appeal.
+**22B.** (1) Subject to sub-section (2), a person who is aggrieved by a decision of a supervisory authority, the competent authority or the Financial Intelligence Unit made under this Act or under any regulations made or guidelines issued under this Act may, within 30 days of the date of the decision, appeal to the Supreme Court under the provisions of Part IX of the Supreme Court of Judicature Act, and for this purpose, the supervisory authority or competent authority shall be deemed to be an inferior court and the rules governing the inferior court appeals shall mutatis mutandis apply to every such appeal.
 
 *Cap. 91.*
 
@@ -2164,9 +2352,15 @@ a document relevant to identifying, locating or quantifying recoverable property
 
 (d) a document related to terrorist property, the police officer or an authorised officer of the Financial Intelligence Unit may apply ex parte and in writing to a Judge of the Supreme Court in chambers for an order against the person suspected of having possession or control of a document of the kind referred. The application shall be supported by an affidavit.
 
-(2) The Judge may, if he considers there are reasonable grounds for so doing, make an order that the person produce to a police officer or an authorised officer of the Financial Intelligence Unit, at a time and place specified in the order, any documents of the kind referred to in sub-section (1).
+*(2) The*
 
-(3) A police officer or an authorised officer of the Financial Intelligence Unit to whom documents are produced may–
+*a police Intelligence*
+
+Judge may, if he considers there are reasonable grounds for so doing, make an order that the person produce to officer or an authorised officer of the Financial Unit, at a time and place specified in the order, any documents of the kind referred to in sub-section (1).
+
+*Intelligence*
+
+(3) A police officer or an authorised officer of the Financial Unit to whom documents are produced may–
 
 (a) inspect the documents;
 
@@ -2174,9 +2368,13 @@ a document relevant to identifying, locating or quantifying recoverable property
 
 (c) retain the documents for so long as is reasonably necessary for the purposes of this Act.
 
-(4) Where a police officer or an authorised officer of the Financial Intelligence Unit retains documents produced to him, he shall make a copy of the documents available to the person who produced them.
+*Financial*
 
-(5) Notwithstanding any other rule of law or practice to the contrary, a person is not entitled to refuse to produce documents ordered to be produced under this section on the ground that–
+(4) Where a police officer or an authorised officer of the Intelligence Unit retains documents produced to him, he shall make a copy of the documents available to the person who produced them.
+
+*contrary, a*
+
+(5) Notwithstanding any other rule of law or practice to the person is not entitled to refuse to produce documents ordered to be produced under this section on the ground that–
 
 the document might tend to incriminate the person or make him liable to a penalty; or
 
@@ -2184,13 +2382,23 @@ the document might tend to incriminate the person or make him liable to a penalt
 
 *Evidential value of information.*
 
-**24.** (1)Where a person produces a document pursuant to an order under this section, the production of the document, or any information, document or things obtained as a direct or indirect consequence of the production of the document is not admissible against that person in any criminal proceedings except proceedings under section 25.
+*information, consequence admissible except*
 
-(2) For the purposes of sub-section (1), proceedings on an application for a restraining order, a forfeiture order or a pecuniary penalty order are not criminal proceedings.
+**24.** (1)Where a person produces a document pursuant to an order under this section, the production of the document, or any document or things obtained as a direct or indirect of the production of the document is not against that person in any criminal proceedings proceedings under section 25.
 
-*Failure to comply with a production order.*
+*pecuniary*
 
-**25.** (1)Where a person is required by a production order to produce a document to a police officer or an authorised officer of the Financial Intelligence Unit, the person commits an offence against this section if he–
+(2) For the purposes of sub-section (1), proceedings on an application for a restraining order, a forfeiture order or a penalty order are not criminal proceedings.
+
+*Failure to comply with a*
+
+*produce a*
+
+*production order.*
+
+*of the*
+
+**25.** (1)Where a person is required by a production order to document to a police officer or an authorised officer Financial Intelligence Unit, the person commits an offence against this section if he–
 
 (a) contravenes the order without reasonable cause; or
 
@@ -2232,15 +2440,25 @@ there are reasonable grounds to believe that a person has been charged with or c
 
 (b) a police officer or an authorised officer of the Financial Intelligence Unit has reasonable grounds for suspecting that there is, or may be within the next 72 hours, upon any land or upon or in any premises, a document in relation to the offence or in relation to any tainted property, realisable property or terrorist property,
 
-the police officer or an authorised officer of the Financial Intelligence Unit may make an application supported by information on oath to a magistrate or a judge for a search warrant in respect of that land or those premises.
+*the police Intelligence*
 
-(2) Where an application is made under sub-section (1) for a warrant to search land or premises, the magistrate or judge may, subject to sub-section (4) issue a warrant authorising a police officer or an authorised officer of the Financial Intelligence Unit, whether or not named in the warrant, with such assistance and by such force as is necessary and reasonable–
+*warrant in*
+
+officer or an authorised officer of the Financial Unit may make an application supported by information on oath to a magistrate or a judge for a search respect of that land or those premises.
+
+*warrant to subject to officer or an*
+
+*and by such*
+
+(2) Where an application is made under sub-section (1) for a search land or premises, the magistrate or judge may, sub-section (4) issue a warrant authorising a police authorised officer of the Financial Intelligence Unit, whether or not named in the warrant, with such assistance force as is necessary and reasonable–
 
 (a) to enter upon the land or in or upon any premises and to search the land or premises for property of that kind; and
 
 (b) to seize property found in the course of the search that the police officer or the authorized officer of the Financial Intelligence Unit believes on reasonable grounds to be property of that kind.
 
-(3) A magistrate or judge shall not issue a warrant under subsection (2) unless he is satisfied that–
+*(3) A section (2)*
+
+magistrate or judge shall not issue a warrant under sub-unless he is satisfied that–
 
 (a) a production order has been given in respect of the document and has not been complied with;
 
@@ -2250,7 +2468,9 @@ the police officer or an authorised officer of the Financial Intelligence Unit m
 
 (d) the document involved cannot be identified or described with sufficient particularity to enable a production order to be obtained.
 
-(4) A warrant issued under this section shall state–
+*(4) A*
+
+warrant issued under this section shall state–
 
 (a) the purpose for which it is issued, including a reference to the nature of the relevant offence;
 
@@ -2260,25 +2480,37 @@ the police officer or an authorised officer of the Financial Intelligence Unit m
 
 (d) whether entry is authorised to be made at any time of the day or night or during specified hours.
 
-(5) If during the course of searching under a warrant issued under this section, a police officer or an authorised officer of the Financial Intelligence Unit finds–
+*(5) If during under this Financial*
 
-a document that the police officer or an authorised officer of the Financial Intelligence Unit believes on reasonable grounds to relate to the relevant offence or to another offence;
+the course of searching under a warrant issued section, a police officer or an authorised officer of the Intelligence Unit finds–
 
 *7 of 2016.*
 
-or
+a document that the police officer or an authorised officer of the Financial Intelligence Unit believes on reasonable grounds to relate to the relevant offence or to another offence; or
 
 (b) anything the police officer or an authorised officer of the Financial Intelligence Unit believes on reasonable grounds will afford evidence as to the commission of a criminal offence,
 
-the police officer or an authorised officer of the Financial Intelligence Unit may seize that property or thing and the warrant shall be deemed to authorise such seizure.
+*the police Intelligence*
 
-*35 of 2002. Cap. 138.02.*
+officer or an authorised officer of the Financial Unit may seize that property or thing and the warrant shall be deemed to authorise such seizure.
 
-(6) The powers contained in this section are without prejudice to the powers of the FIU under the Financial Intelligence Unit Act.
+*35 of 2002.*
 
-*Powers to search for and seize tainted property or terrorist property.*
+*(6) The*
 
-**29.** (1) A police officer or an authorized officer of the Financial Intelligence Unit may–
+*Cap. 138.02.*
+
+*prejudice to Intelligence*
+
+powers contained in this section are without the powers of the FIU under the Financial Unit Act.
+
+*Powers to search for and seize*
+
+*Intelligence*
+
+*tainted property or terrorist property.*
+
+**29.** (1) A police officer or an authorized officer of the Financial Unit may–
 
 (a) search a person for tainted property or terrorist property;
 
@@ -2330,11 +2562,19 @@ warrant, with such assistance and by such force as is necessary and reasonable�
 
 *7 of 2014.*
 
-(3) A magistrate shall not issue a warrant under sub-section
+*(3) A*
 
-(2) unless the magistrate is satisfied that there are reasonable grounds to believe that tainted property or terrorist property are on or within the control of the person, on the land or in the premises specified in the application for the warrant.
+magistrate shall not issue a warrant under sub-section
 
-(4) A warrant issued under this section shall state–
+*grounds to*
+
+*premises*
+
+(2) unless the magistrate is satisfied that there are reasonable believe that tainted property or terrorist property are on or within the control of the person, on the land or in the specified in the application for the warrant.
+
+*(4) A*
+
+warrant issued under this section shall state–
 
 (a) the purpose for which it is issued including, in respect of tainted property, a reference to the nature of the relevant offence;
 
@@ -2348,11 +2588,9 @@ warrant, with such assistance and by such force as is necessary and reasonable�
 
 (a) property that the police officer or the authorized officer believes on reasonable grounds to be tainted property or terrorist property of a type not specified in the warrant, or tainted property in relation to another serious offence; or
 
-(b) anything the police officer or the authorized
-
 *7 of 2016.*
 
-officer believes on reasonable grounds will afford evidence as to the commission of another offence,
+(b) anything the police officer or the authorized officer believes on reasonable grounds will afford evidence as to the commission of another offence,
 
 the police officer or the authorized officer may seize that property or thing and the warrant shall be deemed to authorise such seizure.
 
@@ -2372,7 +2610,11 @@ not have retrospective effect; and
 
 only apply for a period of a maximum of three months from the date of the making of the order.
 
-(3) A judge or magistrate shall not issue a monitoring order unless he is satisfied that there are reasonable grounds for suspecting that the person in respect of whose account the order is sought–
+*unless he is*
+
+(3) A judge or magistrate shall not issue a monitoring order satisfied that there are reasonable grounds for suspecting that the person in respect of whose account the order
+
+*is sought–*
 
 *7 of 2016.*
 
@@ -2382,19 +2624,25 @@ only apply for a period of a maximum of three months from the date of the making
 
 (b) has benefited directly or indirectly, or is about to benefit directly or indirectly from the commission of an offence.
 
-(4) A monitoring order shall specify–
+*(4) A*
+
+monitoring order shall specify–
 
 (a) the name or names in which the account is believed to be held; and
 
 (b) the class of information that the institution is required to give.
 
-(5) Where a reporting entity, which has been given notice of a monitoring order, knowingly–
+*a monitoring*
+
+(5) Where a reporting entity, which has been given notice of order, knowingly–
 
 (a) contravenes the order; or
 
 (b) provides false or misleading information in purported compliance with the order,
 
-the reporting entity commits an offence against this section and is liable on conviction, in the case of a natural person, to a fine not exceeding five thousand dollars or to imprisonment for a term not exceeding two years or to both such fine and
+*the reporting is liable on not exceeding term not*
+
+entity commits an offence against this section and conviction, in the case of a natural person, to a fine five thousand dollars or to imprisonment for a exceeding two years or to both such fine and
 
 imprisonment; and in the case of a body corporate, to a fine not exceeding twenty thousand dollars.
 
@@ -2414,11 +2662,29 @@ imprisonment; and in the case of a body corporate, to a fine not exceeding twent
 
 (4) A reporting entity or other person who contravenes the provisions of sub-sections (1) or (2), commits an offence and is liable on conviction, in the case of a natural person, to a fine not exceeding five thousand dollars or to imprisonment for a term not exceeding two years or to both such fine and term of imprisonment, and in the case of a legal person or other entity,
 
-to a fine which shall not be less than twenty thousand dollars but which may extend to fifty thousand dollars.
+*which may*
 
-*Power to intercept communications and the admissibility of intercepted communications. 16 of 2002. CAP. 229.*
+to a fine which shall not be less than twenty thousand dollars but extend to fifty thousand dollars.
 
-**34.** (1) Without prejudice to the powers of the Minister responsible for telecommunications under the Telecommunications Act, a police officer or an authorized office of the Financial Intelligence Unit may, for the purpose of obtaining evidence of the commission of a money laundering offence, a terrorist financing offence or the proceeds of crime under this Act, apply, ex parte, to a Judge of the Supreme Court, for an interception of communications order.
+*Power to intercept*
+
+*34.–(1)*
+
+*communications and the*
+
+*responsible*
+
+*admissibility of intercepted communications. 16 of 2002.*
+
+*obtaining*
+
+*CAP. 229.*
+
+*offence, a*
+
+*for an*
+
+Without prejudice to the powers of the Minister for telecommunications under the Telecommunications Act, a police officer or an authorized office of the Financial Intelligence Unit may, for the purpose of evidence of the commission of a money laundering terrorist financing offence or the proceeds of crime under this Act, apply, ex parte, to a Judge of the Supreme Court, interception of communications order.
 
 (2) A judge to whom an application is made under subsection (1), may make an order–
 
@@ -2488,11 +2754,9 @@ shall be admissible in proceedings for a money laundering offence or terrorist f
 
 involved in money laundering or the financing of terrorism; or
 
-(d) being or has been brought into or taken out of
-
 *7 of 2016. CAP. 49.*
 
-Belize without making the declaration required under section 51A or 77A of the Customs Regulation Act or after making a false declaration.
+(d) being or has been brought into or taken out of Belize without making the declaration required under section 51A or 77A of the Customs Regulation Act or after making a false declaration.
 
 *7 of 2014.*
 
@@ -2520,11 +2784,15 @@ Belize without making the declaration required under section 51A or 77A of the C
 
 (4A) Where cash is detained under this section for more than 72 hours, it shall, as soon as practicable, be paid into an interest
 
-bearing account and held there, and the interest accruing on it is to be added to it on its forfeiture or release.
+*bearing account to be added to it*
+
+and held there, and the interest accruing on it is on its forfeiture or release.
 
 *7 of 2014.*
 
-(5) Subject to sub-section (4), cash detained under this section may be released in whole or in part to the person from whom it was seized–
+*(5) Subject section may be whom it was*
+
+to sub-section (4), cash detained under this released in whole or in part to the person from seized–
 
 (a) by order of a magistrate that its continued detention is no longer justified, upon application by or on behalf of that person and after considering any views of the Director of the Financial Intelligence Unit to the contrary; or
 
@@ -2532,7 +2800,9 @@ bearing account and held there, and the interest accruing on it is to be added t
 
 *7 of 2014.*
 
-(6) No cash detained under this section shall be released where–
+*(6) No cash where–*
+
+detained under this section shall be released
 
 (a) an application is made under this Act for the purpose of–
 
@@ -2542,11 +2812,15 @@ bearing account and held there, and the interest accruing on it is to be added t
 
 (b) proceedings are instituted in Belize or elsewhere against any person for an offence with which the cash is connected,
 
-unless and until the proceedings relating to the relevant application or the proceedings for the offence as the case may have been concluded.
+*unless and application or have been*
+
+until the proceedings relating to the relevant the proceedings for the offence as the case may concluded.
 
 *7 of 2016.*
 
-(7) On being satisfied that cash detained under this section represents the proceeds of crime or property that has been used
+*represents the*
+
+(7) On being satisfied that cash detained under this section proceeds of crime or property that has been used
 
 in, or in connection with, an offence or is intended to be used in, or in connection with, an offence, the magistrate shall make a forfeiture order.
 
@@ -2576,7 +2850,9 @@ in, or in connection with, an offence or is intended to be used in, or in connec
 
 (2) An application under sub-section (1) may be made in the course of detention or forfeiture proceedings or at any other time.
 
-(3) If, on an application under sub-section (1), it appears to the magistrate that–
+*the magistrate*
+
+(3) If, on an application under sub-section (1), it appears to that–
 
 (a) the applicant was deprived of the cash to which the application relates, or of property which it represents, by unlawful conduct;
 
@@ -2584,7 +2860,9 @@ in, or in connection with, an offence or is intended to be used in, or in connec
 
 (c) the cash belongs to him, the magistrate may order the cash to which the application relates to be released to the applicant.
 
-(4) The magistrate may order the cash to which the application relates to be released to the applicant where–
+*(4) The application*
+
+magistrate may order the cash to which the relates to be released to the applicant where–
 
 (a) an applicant under sub-section (1) is not the person from whom the cash to which the application relates was seized;
 
@@ -2594,19 +2872,27 @@ in, or in connection with, an offence or is intended to be used in, or in connec
 
 ## PART IV
 
-Freezing and Forfeiture of Assets in Relation to Money Laundering and Terrorist Financing
+*Freezing*
 
-*Application for a restraining order.*
+and Forfeiture of Assets in Relation to Money Laundering and Terrorist Financing
 
-**39.** (1) The Director of Public Prosecutions or the Financial Intelligence Unit may apply to the Supreme Court for a restraining order against any realisable property held by the
+*Application for a*
 
-accused or specified realisable property held by a person other
+*39.–(1)*
 
-*than the accused.*
+*restraining order.*
 
-(2) An application for a restraining order may be made ex parte and shall be in writing and be accompanied by an affidavit
+*Intelligence restraining*
 
-*stating–*
+The Director of Public Prosecutions or the Financial Unit may apply to the Supreme Court for a order against any realisable property held by the
+
+*accused or than the accused.*
+
+specified realisable property held by a person other
+
+*(2) An parte and shall stating–*
+
+application for a restraining order may be made ex be in writing and be accompanied by an affidavit
 
 *7 of 2016.*
 
@@ -2632,9 +2918,9 @@ accused or specified realisable property held by a person other
 
 *orders.*
 
-Subject to this section, where the Director of Public Prosecutions or the Financial Intelligence Unit applies to the Court for a restraining order against property and the Court is
+*Prosecutions or Court for a satisfied that–*
 
-*satisfied that–*
+Subject to this section, where the Director of Public the Financial Intelligence Unit applies to the restraining order against property and the Court is
 
 *7 of 2016.*
 
@@ -2646,7 +2932,9 @@ Subject to this section, where the Director of Public Prosecutions or the Financ
 
 (d) there are reasonable grounds for believing that a forfeiture order or a pecuniary penalty order may be or is likely to be made under this Part in respect of the property,
 
-the Court may make an order,
+*the Court may*
+
+make an order,
 
 (i) prohibiting the defendant or any person from disposing of, or otherwise dealing
 
@@ -2742,15 +3030,23 @@ dealing was not for sufficient consideration or not in favour of a person who ac
 
 (2) An application under sub-section (1) shall not be heard by the Court unless the applicant has given to the Director of Public Prosecutions or the Financial Intelligence Unit at least 3 clear days’ notice in writing of the application.
 
-(3) The Court may require notice of the application to be given to, and may hear, any person who in the opinion of the Court appears to have an interest in the property.
+*(3) The given to, and*
 
-(4) On an application under sub-section (1) the Court may revoke or vary the order or make the order subject to such conditions as the Court thinks fit. For the purposes of this subsection the Court may–
+Court may require notice of the application to be may hear, any person who in the opinion of the Court appears to have an interest in the property.
+
+*(4) On an*
+
+*conditions as section the*
+
+application under sub-section (1) the Court may revoke or vary the order or make the order subject to such the Court thinks fit. For the purposes of this sub-Court may–
 
 (a) require the applicant to enter into recognisances; or
 
 (b) vary the order to permit the payment of reasonable living expenses of the applicant, including his dependants, if any, and reasonable legal or business expenses of the applicant.
 
-(5) An order under sub-section (4), may only be made if the Court is satisfied that–
+*Court is*
+
+(5) An order under sub-section (4), may only be made if the satisfied that–
 
 *7 of 2016.*
 
@@ -2758,35 +3054,49 @@ dealing was not for sufficient consideration or not in favour of a person who ac
 
 (b) the property will no longer be required for the purposes of any investigation or as evidence in any proceedings.
 
-*Extension of restraining order.*
+*Extension of 48.–(1) restraining order. Intelligence*
 
-**48.** (1) The Director of Public Prosecutions or the Financial Intelligence Unit may apply to the Supreme Court that made a restraining order for an extension of the period of the operation of the order.
+The Director of Public Prosecutions or the Financial Unit may apply to the Supreme Court that made a restraining order for an extension of the period of the operation
 
-(2) Where the Director of Public Prosecutions or the Financial Intelligence Unit makes an application under sub-
+*of the order.*
 
-section (1), the Court may extend the operation of a restraining order for a specified period if it is satisfied that a forfeiture order may be made in respect of the property or part thereof or that a pecuniary penalty order may be made against the person.
+*(2) Where Financial*
 
-*Forfeiture order on conviction. 7 of 2016.*
+the Director of Public Prosecutions or the Intelligence Unit makes an application under sub-
 
-**49.** (1) Where, upon application by the Director of Public Prosecutions or the Financial Intelligence Unit, the Court is satisfied that a property is tainted property in respect of an offence of which a person has been convicted, the Court may order that specified property to be forfeited.
+*order for a*
 
-(2) In determining whether property is tainted property the Court may infer, in the absence of evidence to the contrary–
+*pecuniary*
 
-(a) that the property was used in or in connection with the commission of an offence if it was in the person’s possession at the time of, or
+section (1), the Court may extend the operation of a restraining specified period if it is satisfied that a forfeiture order may be made in respect of the property or part thereof or that a penalty order may be made against the person.
+
+*Forfeiture order*
+
+*49.–(1)*
+
+*on conviction. 7 of 2016.*
+
+*offence of order that*
+
+Where, upon application by the Director of Public Prosecutions or the Financial Intelligence Unit, the Court is satisfied that a property is tainted property in respect of an which a person has been convicted, the Court may specified property to be forfeited.
+
+*(2) In*
+
+determining whether property is tainted property the Court may infer, in the absence of evidence to the contrary–
 
 *7 of 2016.*
 
-immediately after the commission of the offence for which the person was convicted; or
-
-(b) that the property was derived, obtained or
+(a) that the property was used in or in connection with the commission of an offence if it was in the person’s possession at the time of, or immediately after the commission of the offence for which the person was convicted; or
 
 *7 of 2016.*
 
-realised as a result of the commission of the offence if it was acquired by the person before, during or within six years after the period of the commission of the offence of which the person was convicted, and the Court is satisfied that the income of that person from sources unrelated to criminal activity of that person cannot reasonably account for the acquisition of that property.
+(b) that the property was derived, obtained or realised as a result of the commission of the offence if it was acquired by the person before, during or within six years after the period of the commission of the offence of which the person was convicted, and the Court is satisfied that the income of that person from sources unrelated to criminal activity of that person cannot reasonably account for the acquisition of that property.
 
 (3) Where the Court orders that property, other than money, be forfeited, the Court shall specify in the order the amount that it considers to be the value of the property at the time when the order is made.
 
-(4) In considering whether a forfeiture order should be made under sub-section (1) the Court shall have regard to–
+*(4) In under*
+
+considering whether a forfeiture order should be made sub-section (1) the Court shall have regard to–
 
 the rights and interests, if any, of third parties in the property;
 
@@ -2796,23 +3106,23 @@ the rights and interests, if any, of third parties in the property;
 
 (d) the use that is ordinarily made of the property, or the use to which the property was intended to be put.
 
-(5) Where the Court makes a forfeiture order, the Court may give such directions as are necessary or convenient for giving effect to the order.
+*(5) Where give such effect to the*
 
-*Effect of forfeiture order on conviction.*
+the Court makes a forfeiture order, the Court may directions as are necessary or convenient for giving order.
 
-**50.** (1) Subject to sub-section (2), where a Court makes a forfeiture order against any property, the property vests absolutely in the Government by virtue of the order.
+*Effect of 50.–(1) forfeiture order on conviction.*
 
-(2) Where property ordered to be confiscated is land–
+Subject to sub-section (2), where a Court makes a forfeiture order against any property, the property vests absolutely in the Government by virtue of the order.
 
-(a) the property vests in the Government in equity but does not vest in the Government at law until the applicable registration requirements
+*(2) Where*
+
+property ordered to be confiscated is land–
 
 *CAP. 194.*
 
-under the Registered Land Act or the Law of
-
 *CAP. 190.*
 
-Property Act, as appropriate, have been complied with;
+(a) the property vests in the Government in equity but does not vest in the Government at law until the applicable registration requirements under the Registered Land Act or the Law of Property Act, as appropriate, have been complied with;
 
 (b) the Government is entitled to be registered as owner of the property;
 
@@ -2820,21 +3130,23 @@ Property Act, as appropriate, have been complied with;
 
 instrument to be executed by a person transferring an interest in property of that kind.
 
-(3) Where the Court makes a forfeiture order against
+*(3) Where property–*
 
-*property–*
+the Court makes a forfeiture order against
 
 (a) the property shall not, except with the leave of the Court and in accordance with any directions of the Court, be disposed of, or otherwise dealt with, by or on behalf of the Government before the relevant appeal date; and
 
 (b) if after the relevant appeal date, the order has not been discharged, the property may be disposed of and the proceeds applied or otherwise dealt with in accordance with the directions of the Minister of Finance.
 
-(4) In this section–
+*(4) In this*
 
-“relevant appeal date” used in relation to a forfeiture order made
+section–
+
+*“relevant appeal in consequence*
 
 *7 of 2016.*
 
-in consequence of a person’s conviction of an offence means–
+date” used in relation to a forfeiture order made of a person’s conviction of an offence means–
 
 (a) the date on which the period allowed by rules of court for the lodging of an appeal against a person’s conviction or for the lodging of an appeal against the making of a forfeiture order expires without an appeal having been lodged, whichever is the later; or
 
@@ -2842,9 +3154,13 @@ where an appeal against a person’s conviction (b)
 
 or against the making of a forfeiture order is lodged, the date on which the appeal lapses in accordance with the rules of court or is finally determined, whichever is the later.
 
-*Voidable transfers.*
+*Voidable*
 
-**51.** The Court may–
+*The*
+
+*transfers.*
+
+**51.** Court may–
 
 before making a forfeiture order; and
 
@@ -2862,11 +3178,9 @@ set aside any conveyance or transfer of the property that occurred after the sei
 
 (a) that he was not in any way involved in the commission of the offence; and
 
-(b) where he acquired the interest during or after
-
 *7 of 2016.*
 
-the commission of the offence, that he acquired the interest–
+(b) where he acquired the interest during or after the commission of the offence, that he acquired the interest–
 
 (i) for sufficient consideration; and
 
@@ -2912,11 +3226,21 @@ direct that an amount equal to the value of the interest of the applicant, as de
 
 (4) In the exercise of his powers under this section and section 50, the Registrar General or the Registrar of Lands, as applicable, shall have the power to do or authorize the doing of anything necessary or convenient to effect the transfer or return of the property, including the execution of any instrument and the making of any application for the registration of an interest in the property on any appropriate register.
 
-Where the court is satisfied that a forfeiture order should
+*Where*
 
-*Payment instead of a forfeiture order. 7 of 2016.*
+*Payment instead*
 
-be made in respect of the property of a person convicted of an offence but that the property or any part thereof or interest therein cannot be made subject to such an order and, in particular–
+*be made in*
+
+*of a forfeiture*
+
+*offence but*
+
+*order. 7 of 2016.*
+
+*therein cannot particular–*
+
+the court is satisfied that a forfeiture order should respect of the property of a person convicted of an that the property or any part thereof or interest be made subject to such an order and, in
 
 (a) cannot, on the exercise of due diligence, be located;
 
@@ -2928,11 +3252,21 @@ be made in respect of the property of a person convicted of an offence but that 
 
 (e) has been commingled with other property that cannot be divided without difficulty,
 
-the Court may, instead of ordering the property, part thereof or interest therein to be forfeited, order the person to pay to the Government an amount equal to the value of the property, part or interest.
+*the Court may, interest therein*
 
-*Applications of procedure for enforcing fines. 7 of 2016.*
+instead of ordering the property, part thereof or to be forfeited, order the person to pay to the Government an amount equal to the value of the property, part
 
-**55.** Where the court orders a person to pay an amount under section 54, that amount shall be treated as if it were a fine imposed upon him in respect of a conviction for an offence, and the Court shall–
+*or interest.*
+
+*Applications of*
+
+*Where*
+
+*procedure for enforcing fines. 7 of 2016.*
+
+*imposed upon*
+
+**55.** the court orders a person to pay an amount under section 54, that amount shall be treated as if it were a fine him in respect of a conviction for an offence, and the Court shall–
 
 (a) notwithstanding any other law, impose in default of the payment of that amount, a term of imprisonment–
 
@@ -2946,9 +3280,11 @@ of two years, where the amount exceeds one thousand dollars but does not exceed 
 
 (c) direct that the rules regarding the remission of sentences of prisoners serving a term of imprisonment or the rules regarding the release on parole shall not apply in relation to a term of imprisonment, imposed on a person pursuant to paragraph (a).
 
-*Forfeiture where a person dies or absconds.*
+*Forfeiture where 56.–(1) The a person dies or Intelligence absconds.*
 
-**56.** (1) The Director of Public Prosecutions or the Financial Intelligence Unit may apply to the court for a forfeiture order in respect of tainted property if the accused has died or absconded. If the court is satisfied that–
+*respect of If the court is*
+
+Director of Public Prosecutions or the Financial Unit may apply to the court for a forfeiture order in tainted property if the accused has died or absconded. satisfied that–
 
 *7 of 2016.*
 
@@ -2960,15 +3296,15 @@ of two years, where the amount exceeds one thousand dollars but does not exceed 
 
 (c) the accused charged with the offence referred to in paragraph (b) has died or absconded,
 
-the Court may order that the property or such property as is specified by the Court in the order be forfeited.
+*the Court may specified by the*
+
+order that the property or such property as is Court in the order be forfeited.
 
 (2) For purposes of sub-section (1), sections 49, 50, 51 and 52, shall apply with such modifications as are necessary to give effect to this section.
 
-(3) For the purposes of sub-section (1), a person is deemed
-
 *7 of 2016.*
 
-to have absconded if reasonable attempts to serve or arrest the person pursuant to a notice or warrant have been unsuccessful during the period of six months commencing on the day the warrant was issued, and the person shall be deemed to have so absconded on the last day of that period.
+(3) For the purposes of sub-section (1), a person is deemed to have absconded if reasonable attempts to serve or arrest the person pursuant to a notice or warrant have been unsuccessful during the period of six months commencing on the day the warrant was issued, and the person shall be deemed to have so absconded on the last day of that period.
 
 *Pecuniary order on conviction.*
 
@@ -2982,17 +3318,13 @@ to have absconded if reasonable attempts to serve or arrest the person pursuant 
 
 (b) where an appeal against conviction has been lodged, until the appeal lapses in accordance with the rules of court or is finally determined, whichever is the later date.
 
-**58.** (1) Where a person obtains property as the result of, or
-
 *Rules for determining benefit and assessing value. 7 of 2016.*
 
-in connection with the commission of an offence, his benefit is the value of the property so obtained.
-
-(2) Where a person derived an advantage as a result of or in
+**58.** (1) Where a person obtains property as the result of, or in connection with the commission of an offence, his benefit is the value of the property so obtained.
 
 *7 of 2016.*
 
-connection with the commission of an offence, his advantage shall be deemed to be a sum of money equal to the value of the advantage so derived.
+(2) Where a person derived an advantage as a result of or in connection with the commission of an offence, his advantage shall be deemed to be a sum of money equal to the value of the advantage so derived.
 
 *7 of 2016.*
 
@@ -3008,41 +3340,31 @@ connection with the commission of an offence, his advantage shall be deemed to b
 
 (ii) within the period of 6 years immediately before the day on which the application is made, whichever is the longer,
 
-to be property that came into the possession or under the control
-
 *7 of 2016.*
 
-of the person by the reason of the commission of that offence or those offences for which the person was convicted;
+to be property that came into the possession or under the control of the person by the reason of the commission of that offence or those offences for which the person was convicted;
 
 *7 of 2016.*
 
 (c) any expenditure by the person since the beginning of that period to be expenditure met out of payments received by him as a result of, or in connection with, the commission of that offence or those offences; and
 
-(d) any property received or deemed to have been received by the person at any time as a result of, or in connection with the commission by him of that offence or those offences as
+*7 of 2016.*
+
+(d) any property received or deemed to have been received by the person at any time as a result of, or in connection with the commission by him of that offence or those offences as property received by him free of any interest therein.
 
 *7 of 2016.*
 
-property received by him free of any interest therein.
-
-(4) Where a pecuniary penalty order has been previously
+(4) Where a pecuniary penalty order has been previously made against a person, in assessing the value of any benefit derived by him from the commission of an offence, the Court shall leave out of account any of the benefits that are shown to the Court to have been taken into account in determining the amount to be recovered under that order.
 
 *7 of 2016.*
 
-made against a person, in assessing the value of any benefit derived by him from the commission of an offence, the Court shall leave out of account any of the benefits that are shown to the Court to have been taken into account in determining the amount to be recovered under that order.
-
-(5) If evidence is given at the hearing of the application that
-
-*7 of 2016.*
-
-the value of the person’s property at any time after the commission of an offence exceeded the value of the person’s property before the commission of the offence, then the Court shall, subject to sub-section (6), treat the value of the benefit as being not less than the amount of that excess.
+(5) If evidence is given at the hearing of the application that the value of the person’s property at any time after the commission of an offence exceeded the value of the person’s property before the commission of the offence, then the Court shall, subject to sub-section (6), treat the value of the benefit as being not less than the amount of that excess.
 
 (6) If, after evidence of the kind referred to in sub-section
 
-(5) is given, the person satisfies the court that the whole or part of the excess was due to causes unrelated to the commission of
-
 *7 of 2016.*
 
-an offence, sub-section (5) does not apply to the excess or, as the case may be, that part.
+(5) is given, the person satisfies the court that the whole or part of the excess was due to causes unrelated to the commission of an offence, sub-section (5) does not apply to the excess or, as the case may be, that part.
 
 *Statements relating to benefit from commission of an offence. 7 of 2016.*
 
@@ -3050,25 +3372,27 @@ an offence, sub-section (5) does not apply to the excess or, as the case may be,
 
 (a) a person has been convicted of an offence and the Director of Public Prosecutions or the Financial Intelligence Unit tenders to the court a statement as to any matters relevant to–
 
-(i) determining whether the person has
-
 *7 of 2016.*
 
-benefited from the offence or from any other offence of which he is convicted in the same proceedings or which is
+(i) determining whether the person has benefited from the offence or from any other offence of which he is convicted in the same proceedings or which is
 
 taken into account in determining his sentence; or
 
-(ii) an assessment of the value of the
-
 *7 of 2016.*
 
-person’s benefit from the offence or any other offence of which he is convicted in the same proceedings or which is taken into account; and
+(ii) an assessment of the value of the person’s benefit from the offence or any other offence of which he is convicted in the same proceedings or which is taken into account; and
 
 (b) the person accepts to any extent an allegation in the statement, the court may, for the purposes of so determining or making that assessment, treat his acceptance as conclusive of the matters to which it relates.
 
-(2) Where a statement is tendered under sub-section (1)(a) and the Court is satisfied that a copy of that statement has been served on the person, the Court may require the person to indicate to what extent he accepts each allegation in the statement and so far as he does not accept any allegation, to indicate any matters he proposes to rely on.
+*(2) Where a and the Court is served on the indicate to statement and indicate any*
 
-(3) Where the person fails in any respect to comply with a requirement under sub-section (2), he may be treated for the purposes of this section as having accepted every allegation in the statement other than–
+statement is tendered under sub-section (1)(a) satisfied that a copy of that statement has been person, the Court may require the person to what extent he accepts each allegation in the so far as he does not accept any allegation, to matters he proposes to rely on.
+
+*(3) Where requirement*
+
+*the statement*
+
+the person fails in any respect to comply with a under sub-section (2), he may be treated for the purposes of this section as having accepted every allegation in other than–
 
 (a) an allegation in respect of which he complied with the requirement; and
 
@@ -3076,7 +3400,7 @@ person’s benefit from the offence or any other offence of which he is convicte
 
 (b) an allegation that he has benefited from an offence or that any property or advantage was obtained by him as a result of or in connection with the commission of the offence.
 
-(4) Where–
+*(4) Where–*
 
 (a) the person tenders to the court a statement as to any matters relevant to determining the
 
@@ -3092,11 +3416,9 @@ the Court may, for the purposes of that determination, treat the acceptance of t
 
 (b) in writing in accordance with rules of court.
 
-(6) An acceptance by a person under this section that he
-
 *7 of 2016.*
 
-received any benefits from the commission of an offence is admissible in any proceedings for any crime.
+(6) An acceptance by a person under this section that he received any benefits from the commission of an offence is admissible in any proceedings for any crime.
 
 *Amount recovered under pecuniary penalty order. 7 of 2016.*
 
@@ -3104,31 +3426,37 @@ received any benefits from the commission of an offence is admissible in any pro
 
 (2) Where the court is satisfied as to any matter relevant for determining the amount which might be realised at the time the pecuniary penalty order is made, whether by acceptance under section 59 or otherwise, the Court may issue a certificate giving its opinion as to the matters concerned, and shall do so if satisfied that the amount that might be realised at the time the pecuniary penalty order is made is less than the amount it assesses to be the value of the person’s benefit from the offence, or if more than one, all the offences in respect of which the pecuniary penalty order may be made.
 
-*Variation of pecuniary penalty order.*
+*Variation of pecuniary*
 
-Where–
+*Where–*
 
-(a) the court makes a pecuniary penalty order
+*penalty order.*
 
 *7 of 2016.*
 
-against a person in relation to an offence;
+(a) the court makes a pecuniary penalty order against a person in relation to an offence;
 
 (b) in calculating the amount of the pecuniary penalty order, the court took into account a forfeiture order of the property or a proposed forfeiture order in respect of the property; and
 
 (c) an appeal against forfeiture or a forfeiture order is allowed or the proceedings from the proposed forfeiture order terminates without the proposed forfeiture order being made,
 
-the Director of Public Prosecutions or the Financial Intelligence Unit may apply to the Court for a variation of the pecuniary penalty order to increase the amount of the order by the value of the property not so forfeited and the Court may, if it considers it appropriate to do so, vary the order accordingly.
+*the Director of Unit may apply penalty order to the property not appropriate to*
 
-*Lifting the corporate veil. 7 of 2016.*
+Public Prosecutions or the Financial Intelligence to the Court for a variation of the pecuniary increase the amount of the order by the value of so forfeited and the Court may, if it considers it do so, vary the order accordingly.
 
-**62.** (1) In assessing the value of benefits derived by a person from the commission of an offence, the court may treat as property of the person any property that, in the opinion of the court, is subject to the effective control of the person whether or not he has–
+*Lifting the 62.–(1) In corporate veil. from the 7 of 2016.*
+
+*property of the court, is subject not he has–*
+
+assessing the value of benefits derived by a person commission of an offence, the court may treat as person any property that, in the opinion of the to the effective control of the person whether or
 
 (a) any legal or equitable interest in the property; or
 
 (b) any right, power or privilege in connection with the property.
 
-(2) Without prejudice to the generality of sub-section (1), the court may have regard to–
+*(2) Without the court may*
+
+prejudice to the generality of sub-section (1), have regard to–
 
 shareholdings in, debentures over or directorships in any company that has an interest, whether direct or indirect, in the property, and for this purpose the court may order the investigation and inspection of the books of a named company;
 
@@ -3138,27 +3466,39 @@ shareholdings in, debentures over or directorships in any company that has an in
 
 (a) or trust of the kind referred to in paragraph (b), and any other persons.
 
-(3) Where the court, for the purposes of making a pecuniary order against a person, treats particular property as the person’s property pursuant to sub-section (1), the court may, on application by the Director of Public Prosecutions or the Financial Intelligence Unit make an order declaring that the property is available to satisfy the order.
+*property*
 
-(4) Where the court declares that property is available to satisfy a pecuniary penalty order–
+*Financial property is*
+
+(3) Where the court, for the purposes of making a pecuniary order against a person, treats particular property as the person’s pursuant to sub-section (1), the court may, on application by the Director of Public Prosecutions or the Intelligence Unit make an order declaring that the available to satisfy the order.
+
+*satisfy a*
+
+(4) Where the court declares that property is available to pecuniary penalty order–
 
 (a) the order may be enforced against the property as if the property were the property of the person against whom the order is made; and
 
 (b) a restraining order may be made in respect of the property as if the property were property of the person against whom the order is made.
 
-(5) Where the Director of Public Prosecutions or the Financial Intelligence Unit makes an application for an order under sub-section (3) that property is available to satisfy a pecuniary penalty order against a person–
+*Financial under pecuniary*
+
+(5) Where the Director of Public Prosecutions or the Intelligence Unit makes an application for an order sub-section (3) that property is available to satisfy a penalty order against a person–
 
 the Director of Public Prosecutions or the Financial Intelligence Unit, as the case may be, shall give written notice of the application to the person and to any person who the Director of Public Prosecutions or the Financial Intelligence Unit has reason to believe may have an interest in the property; and
 
 (b) the person and any person who claims an interest in the property may appear and adduce evidence at the hearing.
 
-*Enforcement of pecuniary penalty order.*
+*Enforcement of Where pecuniary*
 
-**63.** Where the court orders a person to pay an amount under a pecuniary penalty order, the provisions of section 55 shall apply with such modifications as the court may determine for the purpose of empowering the court to impose a term of imprisonment on a person in default of compliance by him with a pecuniary penalty order.
+*a pecuniary penalty order.*
 
-*Discharge of pecuniary penalty order. 7 of 2016.*
+*imprisonment a pecuniary*
 
-**64.** A pecuniary penalty order is discharged–
+**63.** the court orders a person to pay an amount under penalty order, the provisions of section 55 shall apply with such modifications as the court may determine for the purpose of empowering the court to impose a term of on a person in default of compliance by him with penalty order.
+
+*Discharge of A pecuniary penalty order. 7 of 2016.*
+
+**64.** pecuniary penalty order is discharged–
 
 (a) if the conviction of an offence or offences in reliance on which the order was made is or is deemed to be quashed and no conviction for the offence or offences is substituted;
 
@@ -3166,15 +3506,21 @@ the Director of Public Prosecutions or the Financial Intelligence Unit, as the c
 
 (c) on the satisfaction of the order by payment of the amount due under the order.
 
-*Right of bona fide third parties.*
+*Right of bona 65.–(1) The fide third parties. 39 and 49 shall third parties.*
 
-**65.** (1) The measures and sanctions referred to in sections 39 and 49 shall apply without prejudice to the rights of bona fide third parties.
+measures and sanctions referred to in sections apply without prejudice to the rights of bona fide
 
-(2) Proper notifications shall be made so that all those claiming legitimate legal interest in property, proceeds or instrumentalities may appear in support of their claims.
+*(2) Proper claiming*
 
-(3) A third party’s lack of good faith may be inferred, at the discretion of the court or other competent authority, from the objective circumstances of the case.
+notifications shall be made so that all those legitimate legal interest in property, proceeds or instrumentalities may appear in support of their claims.
 
-(4) The court or other competent authority shall return the property, proceeds or instrumentalities to the claimant, when it has been demonstrated to its satisfaction that–
+*(3) A third discretion of objective*
+
+party’s lack of good faith may be inferred, at the the court or other competent authority, from the circumstances of the case.
+
+*(4) The property, has been*
+
+court or other competent authority shall return the proceeds or instrumentalities to the claimant, when it demonstrated to its satisfaction that–
 
 (a) the claimant has a legitimate legal interest in the property, proceeds or instrumentalities;
 
@@ -3188,7 +3534,9 @@ the Director of Public Prosecutions or the Financial Intelligence Unit, as the c
 
 *Immunity from action.*
 
-**66.** No liability shall be incurred by, and no suit, legal proceedings or other action, administrative or otherwise, shall be commenced, brought or instituted against any supervisory
+*No proceedings or*
+
+**66.** liability shall be incurred by, and no suit, legal other action, administrative or otherwise, shall be commenced, brought or instituted against any supervisory
 
 authority, the Director of Public Prosecutions, the Director, Financial Intelligence Unit, the Minister or any of their agents for any act done or omitted to be done in good faith–
 
@@ -3256,11 +3604,9 @@ unless and until the proceedings relating to the relevant application or the pro
 
 *Terrorist financing.*
 
-**68.** (1) Any person who by any means, directly or indirectly, willfully provides or collects funds or other property, with the
-
 *4 of 2013.*
 
-intention that they should be used or in the knowledge that they are to be used in whole or in part in or outside of Belize–
+**68.** (1) Any person who by any means, directly or indirectly, willfully provides or collects funds or other property, with the intention that they should be used or in the knowledge that they are to be used in whole or in part in or outside of Belize–
 
 (a) by any person to–
 
@@ -3276,7 +3622,9 @@ intention that they should be used or in the knowledge that they are to be used 
 
 commits an offence and is liable to the same penalties as prescribed in section 5 for the offence of terrorism.
 
-(1A) A purpose referred to in paragraph (1)(b) includes the following–
+*(1A) A following–*
+
+purpose referred to in paragraph (1)(b) includes the
 
 (a) recruitment, training, travel and payment of salaries, taxes or other expenses;
 
@@ -3284,7 +3632,9 @@ commits an offence and is liable to the same penalties as prescribed in section 
 
 (c) equipment or other goods used to promote the ideology of a terrorist organisation or a terrorist.
 
-(2) Every person who–
+*(2) Every*
+
+person who–
 
 (a) organises or directs others to commit;
 
@@ -3296,11 +3646,15 @@ commits an offence and is liable to the same penalties as prescribed in section 
 
 (e) aids, abets, facilitates, counsels or procures the commission of, an offence under sub-section (1),
 
-commits an offence under this Act and is liable to the same penalties as prescribed in sub-section (1).
+*commits an penalties as*
+
+offence under this Act and is liable to the same prescribed in sub-section (1).
 
 *4 of 2013.*
 
-(3) An offence under sub-section (1) or (2) is committed irrespective of the occurrence of a terrorist act or whether the funds have been used to commit such an act.
+*(3) An*
+
+offence under sub-section (1) or (2) is committed irrespective of the occurrence of a terrorist act or whether the funds have been used to commit such an act.
 
 (4) The Minister may, from time to time by order published in the Gazette, publish a list of terrorists and terrorist organisations but until such time as an Order is made under this section, the list of terrorists and terrorist organizations contained in the Schedule II to the Security Council Resolution 1617
 
@@ -3368,11 +3722,9 @@ take such further steps as he considers appropriate to publicise the variation o
 
 for the purposes of terrorism, or for a terrorist organisation, commits an offence and is liable on conviction to the same penalties as prescribed in section 68.
 
-**70.** (1) Any person who enters into or becomes concerned in an
-
 *Dealing in terrorist property.*
 
-arrangement which facilitates the retention or control by or on behalf of another person, of terrorist property, in any manner, including–
+**70.** (1) Any person who enters into or becomes concerned in an arrangement which facilitates the retention or control by or on behalf of another person, of terrorist property, in any manner, including–
 
 (a) concealment;
 
@@ -3410,11 +3762,11 @@ commits an offence and is liable on conviction to the same penalties as prescrib
 
 **72.** The Director of Public Prosecutions or the Financial Intelligence Unit may apply to the Supreme Court for a forfeiture order against terrorist property.
 
-Where the Director of Public Prosecutions or the
+*Where*
 
-*Notice of Application.*
+*Notice of Financial Application.*
 
-Financial Intelligence Unit applies under section 72 for a forfeiture order–
+the Director of Public Prosecutions or the Intelligence Unit applies under section 72 for a forfeiture order–
 
 (a) he or it shall give no less than seven days written notice of the application only to any person who is known to own or control directly or indirectly, wholly or jointly, or have an interest in, the terrorist property in respect of which the application is being made;
 
@@ -3426,9 +3778,15 @@ Financial Intelligence Unit applies under section 72 for a forfeiture order–
 
 (ii) publish in the Gazette or a newspaper published and circulating in Belize, a notice of the application.
 
-*Forfeiture order for terrorist property.*
+*Forfeiture order 74.–(1) for terrorist*
 
-**74.** (1) Where, upon application by the Director of Public Prosecutions or the Financial Intelligence Unit, the Court is satisfied, on a balance of probabilities, that property to which the application relates is terrorist property, the Court shall order that specified property to be forfeited.
+*Prosecutions or*
+
+*property.*
+
+*satisfied, on a the application that specified*
+
+Where, upon application by the Director of Public the Financial Intelligence Unit, the Court is balance of probabilities, that property to which relates is terrorist property, the Court shall order property to be forfeited.
 
 (2) Notwithstanding sub-section (1), if a person claiming an interest in the property to which an application relates satisfies the Court that he–
 
@@ -3462,27 +3820,29 @@ the Director of Public Prosecutions or the Financial Intelligence Unit has power
 
 Enforcement of Foreign Orders and Cooperation with Foreign Regulatory Authorities
 
-*Interpretation. Schedule VI.*
+*Interpretation. Schedule VI. “criminal 7 of 2014. 7 of 2016. or would*
 
 **75A.** For the purposes of this Part and the Schedule VI–
 
-*7 of 2014. 7 of 2016.*
-
-“criminal conduct” means conduct which constitutes an offence or would constitute an offence if it had occurred in Belize;
+conduct” means conduct which constitutes an offence constitute an offence if it had occurred in Belize;
 
 “external order” means an order which–
 
-(a) is made by an overseas court where property is
-
 *7 of 2016.*
 
-found or believed to have been obtained as a result of or in connection with an offence; and
+(a) is made by an overseas court where property is found or believed to have been obtained as a result of or in connection with an offence; and
 
 (b) is for the recovery of specified property or a specified sum of money;
 
-“external request” means a request by an overseas authority to prohibit dealing with relevant property which is identified in the request;
+*“external*
 
-“foreign regulatory authority” in relation to a supervisory authority, means an authority in a jurisdiction outside Belize which exercises a regulatory function similar to the regulatory or supervisory function of the supervisory authority;
+request” means a request by an overseas authority to prohibit dealing with relevant property which is identified in the
+
+*request;*
+
+*“foreign authority,*
+
+regulatory authority” in relation to a supervisory means an authority in a jurisdiction outside Belize which exercises a regulatory function similar to the regulatory or supervisory function of the supervisory authority;
 
 “overseas court” means a court of a country outside Belize;
 
@@ -3520,9 +3880,17 @@ make any application the supervisory authority is authorised to make under Part 
 
 (ii) is otherwise in the possession of the supervisory authority.
 
-(2) A supervisory authority shall not exercise the power conferred on it by sub-section (1) unless it is of the opinion that the information or documentation to which the request relates, or the investigation is sought, is reasonably required by the foreign regulatory authority for the purposes of its regulatory or supervisory functions.
+*(2) A*
 
-(3) In deciding whether or not to exercise the power conferred on it by sub-section (1), a supervisory authority may take into account, in particular–
+*or the foreign supervisory*
+
+supervisory authority shall not exercise the power conferred on it by sub-section (1) unless it is of the opinion that the information or documentation to which the request relates, investigation is sought, is reasonably required by the regulatory authority for the purposes of its regulatory or functions.
+
+*(3) In*
+
+*take into*
+
+deciding whether or not to exercise the power conferred on it by sub-section (1), a supervisory authority may account, in particular–
 
 (a) whether corresponding assistance would be given to the supervisory authority in the country or territory of the foreign regulatory authority making the request;
 
@@ -3536,11 +3904,19 @@ and whether the assistance can be obtained by other means;
 
 (e) whether it is otherwise appropriate in the public interest to provide the assistance sought.
 
-(4) For the purposes of sub-section (3)(a), a supervisory authority may require the foreign regulatory authority making the request to give a written undertaking, in such form as the supervisory authority may require, to provide corresponding assistance to the supervisory authority.
+*the request to supervisory*
 
-(5) If a foreign regulatory authority fails to comply with a requirement of the supervisory authority made under subsection (4), the supervisory authority may refuse to provide the assistance sought by the foreign regulatory authority.
+(4) For the purposes of sub-section (3)(a), a supervisory authority may require the foreign regulatory authority making give a written undertaking, in such form as the authority may require, to provide corresponding assistance to the supervisory authority.
 
-(6) A supervisory authority may decide that it will not, on the request of a foreign regulatory authority, exercise its powers under this section unless–
+*(5) If a*
+
+*assistance*
+
+foreign regulatory authority fails to comply with a requirement of the supervisory authority made under subsection (4), the supervisory authority may refuse to provide the sought by the foreign regulatory authority.
+
+*(6) A request of a under this*
+
+supervisory authority may decide that it will not, on the foreign regulatory authority, exercise its powers section unless–
 
 (a) it has received satisfactory assurances from the foreign regulatory authority that any information provided to it will not be used in any criminal proceedings against the person furnishing it, other than proceedings for an offence that relates to–
 
@@ -3560,11 +3936,17 @@ disclosed or the provision by that person of false or misleading information; or
 
 (ii) take any action on information or documents provided to it.
 
-(7) Where, in accordance with this section, the supervisory authority would, on the written request of a foreign regulatory authority, be entitled to disclose information or provide documentation in its possession to that foreign regulatory authority, the supervisory authority may disclose such information or documentation to the foreign regulatory authority without having received a written request from the authority.
+*(7) Where,*
 
-*Restriction on disclosure of information.*
+*authority, be documentation authority, the information or authority authority.*
 
-**75E.** (1) Subject to sub-section (3), for the purposes of this section, “protected information” means information which–
+in accordance with this section, the supervisory authority would, on the written request of a foreign regulatory entitled to disclose information or provide in its possession to that foreign regulatory supervisory authority may disclose such documentation to the foreign regulatory without having received a written request from the
+
+*Restriction on 75E.–(1) disclosure of section, information.*
+
+Subject to sub-section (3), for the purposes of this
+
+“protected information” means information which–
 
 relates to the business or other affairs of any person;
 
@@ -3588,9 +3970,9 @@ relates to the business or other affairs of any person;
 
 (b) where the information is disclosed in a summary or in statistics expressed in a manner that does not enable the identity of particular persons to whom the information relates to be determined.
 
-(4) Subject to section 75F, protected information shall not be disclosed by a recipient of that information, whether the recipient of the information is a person specified in sub-section
+*(4) Subject to disclosed by a recipient of the (2) or a person*
 
-(2) or a person who has directly or indirectly received the
+section 75F, protected information shall not be recipient of that information, whether the information is a person specified in sub-section who has directly or indirectly received the
 
 protected information from a person specified in sub-section (2), without the consent of–
 
@@ -3624,11 +4006,9 @@ the function or power is of the person disclosing the information or of a superv
 
 (i) to a foreign regulatory authority in accordance with section 75C or 75D;
 
-(ii) to help protect the public, whether within or outside Belize, or any section
-
 *7 of 2016.*
 
-of it, against financial loss arising from an offence; or
+(ii) to help protect the public, whether within or outside Belize, or any section of it, against financial loss arising from an offence; or
 
 (d) a person, other than a supervisory authority, where the disclosure–
 
@@ -3664,11 +4044,9 @@ Miscellaneous
 
 *7 of 2014. Implementation of UN sanctions.*
 
-**76A.** (1) Where the Security Council of the United Nations adopts a resolution under Chapter VII of the United Nations
-
 *7 of 2014.*
 
-Charter, the Financial Intelligence Unit shall, without delay, issue a notice requiring reporting entities, and any other authority or entity relevant to the resolution, to take such action as may be required to give effect to a resolution, including, without limitation, directing the freezing of funds and other financial assets or economic resources of any person or seizing goods of any description.
+**76A.** (1) Where the Security Council of the United Nations adopts a resolution under Chapter VII of the United Nations Charter, the Financial Intelligence Unit shall, without delay, issue a notice requiring reporting entities, and any other authority or entity relevant to the resolution, to take such action as may be required to give effect to a resolution, including, without limitation, directing the freezing of funds and other financial assets or economic resources of any person or seizing goods of any description.
 
 (2) Any notice issued under sub-section (1) shall include such information as the Financial Intelligence Unit considers necessary, including the following–
 
@@ -3684,37 +4062,65 @@ whether there is a direction to freeze funds or other assets or resources, or to
 
 (ii) can direct any enquiries.
 
-(3) Where the Security Council takes any subsequent decision which has the effect of postponing, suspending or cancelling the operation of a resolution referred to in sub-section (1), in whole or in part–
+*(3) Where decision which cancelling the (1), in whole or*
+
+the Security Council takes any subsequent has the effect of postponing, suspending or operation of a resolution referred to in sub-section in part–
 
 (a) the Financial Intelligence Unit shall, without delay, issue a notice of the decision; and
 
 (b) any notice issued under sub-section (1) shall cease to have effect or its operation shall be postponed or suspended, in whole or in part, as the case may be, in accordance with that decision.
 
-*Money laundering and terrorist financing to be extraditable offences.*
+*Money*
 
-**77.** Money laundering, terrorism and terrorist financing offences shall be extraditable offences. They shall be deemed to be offences for which extradition from Belize may take place
+*Money*
 
-under any law or treaty to which Belize is a party relating to extradition or the rendition of fugitives.
+*laundering and*
 
-*Credit to frozen account.*
+*offences shall*
 
-**77A.** (1) Nothing in section 12 or 70, a restraining order issued under section 40 or a notice issued under section 76A
+*terrorist financing to be*
+
+*be offences for*
+
+*extraditable offences.*
+
+**77.** laundering, terrorism and terrorist financing be extraditable offences. They shall be deemed to which extradition from Belize may take place
+
+*under any law extradition or*
+
+or treaty to which Belize is a party relating to the rendition of fugitives.
+
+*Credit to frozen 77A.–(1) account.*
+
+*issued under shall prevent a*
 
 *7 of 2014.*
 
-shall prevent a person from crediting a frozen account with–
+Nothing in section 12 or 70, a restraining order section 40 or a notice issued under section 76A person from crediting a frozen account with–
 
 (a) interest or other earnings due on the account; or
 
 (b) payments due under contracts, agreements or obligations that were concluded or arose before the account became a frozen account.
 
-(2) Nothing in section 12 or 70, a restraining order under section 40 or a notice under section 76A shall prevent a reporting entity from crediting a frozen account where it receives funds transferred to the account.
+*(2) Nothing section 40 or*
 
-(3) For the purposes of this section, “frozen account” means an account held with any person, including a reporting entity that has been frozen or restrained in accordance with this Act.
+*receives funds*
 
-*National Anti-Money Laundering Committee.*
+in section 12 or 70, a restraining order under a notice under section 76A shall prevent a reporting entity from crediting a frozen account where it transferred to the account.
 
-**77B.** (1) There shall be established a committee, to be known as the National Anti-Money Laundering Committee, for the purpose of–
+*(3) For the*
+
+*that has been*
+
+purposes of this section, “frozen account” means an account held with any person, including a reporting entity frozen or restrained in accordance with this Act.
+
+*National Anti- 77B.–(1) There Money*
+
+*as the National*
+
+*Laundering Committee. purpose of–*
+
+shall be established a committee, to be known Anti-Money Laundering Committee, for the
 
 *7 of 2014.*
 
@@ -3724,9 +4130,13 @@ terrorist financing and the financing of proliferation;
 
 (b) advising the Minister as to the participation of Belize in the international effort against money laundering, terrorist financing and the financing of proliferation; and
 
-(c) advising the Minister in the development of policies to combat money laundering, terrorist financing and the financing of proliferation; and the Committee shall meet as often as may be necessary to carry out its duties.
+*and the carry out its*
 
-(2) The members of the National Anti-Money Laundering Committee shall be–
+(c) advising the Minister in the development of policies to combat money laundering, terrorist financing and the financing of proliferation; Committee shall meet as often as may be necessary to duties.
+
+*(2) The*
+
+members of the National Anti-Money Laundering Committee shall be–
 
 (a) the Director of the Financial Intelligence Unit, who shall be the Chairman;
 
@@ -3746,13 +4156,19 @@ terrorist financing and the financing of proliferation;
 
 (k) such other persons as the Minister may from time to time appoint.
 
-(3) The Minister shall prescribe the procedures of the National Anti-Money Laundering Committee, including appointment of members under sub-section (1)(k).
+*(3) The National*
 
-*Establishment of the Fund. 7 of 2014. Receipts and Disbursements.*
+Minister shall prescribe the procedures of the Anti-Money Laundering Committee, including appointment of members under sub-section (1)(k).
 
-**78.** There is hereby established a special fund to be known as the Belize Confiscated and Forfeited Assets Fund.
+*Establishment of the Fund.*
 
-**79.** (1) There shall be credited to the Fund–
+*as the Belize*
+
+*7 of 2014. Receipts and Disbursements. 79.–(1) There*
+
+**78.** There is hereby established a special fund to be known Confiscated and Forfeited Assets Fund.
+
+shall be credited to the Fund–
 
 (a) all moneys derived from the fulfillment of confiscation and forfeiture orders and from settlements of confiscation and forfeiture claims;
 
@@ -3766,7 +4182,9 @@ terrorist financing and the financing of proliferation;
 
 (f) any sums of money received from the imposition of a pecuniary penalty.
 
-(2) The Minister of Finance may authorise payments out of the Fund to–
+*(2) The the Fund to–*
+
+Minister of Finance may authorise payments out of
 
 (a) pay the administrative expenses of the Financial Intelligence Unit;
 
@@ -3774,11 +4192,9 @@ compensate victims who suffered losses as a result of offences, terrorism or oth
 
 (c) satisfy a compensation order made under this Act;
 
-(d) enable the appropriate law enforcement
-
 *7 of 2016.*
 
-agencies to continue their fight against offences, terrorism and other unlawful activities;
+(d) enable the appropriate law enforcement agencies to continue their fight against offences, terrorism and other unlawful activities;
 
 (e) share forfeited property with foreign States;
 
@@ -3792,11 +4208,21 @@ agencies to continue their fight against offences, terrorism and other unlawful 
 
 (j) pay the costs associated with the administration of the Fund, including the costs of external audits.
 
-(3) The Fund shall be annually audited by an external auditor approved by the Minister.
+*(3) The auditor*
 
-*Annual report to National Assembly.*
+Fund shall be annually audited by an external approved by the Minister.
 
-**80.** (1) The Minister of Finance shall table a report in the National Assembly, that shall be made publicly available, not
+*Annual report to*
+
+*80.–(1) The*
+
+*National*
+
+*National*
+
+*Assembly.*
+
+Minister of Finance shall table a report in the Assembly, that shall be made publicly available, not
 
 later than the first sitting of the House after the expiry of 90 days from the close of the fiscal year detailing–
 
@@ -3818,11 +4244,9 @@ later than the first sitting of the House after the expiry of 90 days from the c
 
 *General penalty for noncompliance.*
 
-**83.** Every financial institution or other person who fails to comply with any direction, guideline or instruction given by the Financial Intelligence Unit or a supervisory authority under this
-
 *4 of 2013.*
 
-Act commits an offence and is, unless a penalty is specifically provided elsewhere, be liable on summary conviction to a fine not exceeding twenty-five thousand dollars or to imprisonment for a term not exceeding three years, or to both.
+**83.** Every financial institution or other person who fails to comply with any direction, guideline or instruction given by the Financial Intelligence Unit or a supervisory authority under this Act commits an offence and is, unless a penalty is specifically provided elsewhere, be liable on summary conviction to a fine not exceeding twenty-five thousand dollars or to imprisonment for a term not exceeding three years, or to both.
 
 *Investigation and prosecution of offences.*
 
@@ -3840,11 +4264,9 @@ Provided that this sub-section shall not prevent the arrest, or the issue or exe
 
 *Information by reporting entity, when due.*
 
-**85A.** (1) Where in this Act, there is a requirement for a reporting entity to provide information to the competent authority, that information shall be provided within ten days of
-
 *4 of 2013.*
 
-the request.
+**85A.** (1) Where in this Act, there is a requirement for a reporting entity to provide information to the competent authority, that information shall be provided within ten days of the request.
 
 (2) Where a reporting entity is to comply with a request within ten days it shall notify the competent authority in writing
 
@@ -3870,11 +4292,9 @@ prior to the expiration of the ten days of its inability to comply and shall pro
 
 *Regulations.*
 
-**86.** (1) The Minister shall, in consultation with the Anti-Money
-
 *7 of 2014.*
 
-Laundering Committee, make regulations in relation to the prevention of the use of the financial system for money laundering and terrorist financing.
+**86.** (1) The Minister shall, in consultation with the Anti-Money Laundering Committee, make regulations in relation to the prevention of the use of the financial system for money laundering and terrorist financing.
 
 (2) The Minister may, in consultation with the Anti-Money Laundering Committee, make such other regulations as the Minister considers appropriate generally for giving effect to this
 
@@ -3920,11 +4340,11 @@ Act and specifically in respect of anything required or permitted to be prescrib
 
 **8.** Issuing financial guarantees and commitments.
 
+*This of 2016.*
+
 **9.** Trading for own account or for account of customers in money market instruments (such as cheques, bills, certificates of deposit, derivatives), foreign exchange, financial futures and options, exchange and interest rate 1
 
-This Schedule was amended by Act No. 4 of 2013, Act No. 7 of 2014 and Act No. 7
-
-*of 2016.*
+Schedule was amended by Act No. 4 of 2013, Act No. 7 of 2014 and Act No. 7
 
 instruments, transferable securities and commodity futures trading.
 
@@ -3956,7 +4376,9 @@ instruments, transferable securities and commodity futures trading.
 
 **23.** Unit trusts.
 
-A trust or company service provider not otherwise covered by this Schedule, which as a business, provides any of the following services to third parties–
+*A trust covered any of*
+
+or company service provider not otherwise by this Schedule, which as a business, provides the following services to third parties–
 
 (a) acting as a formation agent of legal persons;
 
@@ -3968,13 +4390,13 @@ A trust or company service provider not otherwise covered by this Schedule, whic
 
 (e) acting as (or arranging for another person to act as) a nominee shareholder for another person.
 
-**25.** International (or Offshore) banking business as defined
+*in the CAP. 267.*
 
-*CAP. 267.*
+**25.** International (or Offshore) banking business as defined International Banking Act.
 
-in the International Banking Act.
+*prepare*
 
-**26.** Lawyers, notaries, other independent legal professionals, accountants, auditors and tax advisers, when they prepare for or carry out transactions for their clients concerning the following activities–
+**26.** Lawyers, notaries, other independent legal professionals, accountants, auditors and tax advisers, when they for or carry out transactions for their clients concerning the following activities–
 
 (a) buying and selling of real estate;
 
@@ -3990,11 +4412,9 @@ in the International Banking Act.
 
 **29.** Dealing in vehicles.
 
-**30.** Engaging in international financial services as defined in
-
 *CAP. 272.*
 
-the International Financial Services Commission Act.
+**30.** Engaging in international financial services as defined in the International Financial Services Commission Act.
 
 **31.** A business operating in a free zone area.
 
@@ -4002,9 +4422,13 @@ the International Financial Services Commission Act.
 
 **33.** Non-Profit Organizations.
 
+158 [CAP. 104 Money Laundering and Terrorism (Prevention)
+
 ## SCHEDULE II 2
 
 2 This Schedule was repealed by Act No. 7 of 2016.
+
+*[CAP. 104 159*
 
 ## SCHEDULE III 3
 
@@ -4059,6 +4483,8 @@ undertakings.
 20 Buying or selling of gold bullion. Central Bank of Belize
 
 21 Insurance business - Domestic. Supervisor of (Domestic) Insurance
+
+*[CAP. 104 161*
 
 *Supervisor of International Insurance Central Bank of Belize Central Bank of Belize International Financial Services Commission*
 
@@ -4146,45 +4572,51 @@ Convention for the suppression of unlawful acts against the safety of maritime n
 
 **12.** International convention for the suppression of the financing of terrorism. Adopted by the General Assembly of the United Nations on 9 th December 1999.
 
-## SCHEDULE V
+SCHEDULE V MONEY LAUNDERING AND TERRORISM (PREVENTION) ACT Powers and Duties of Supervisory Authority in Relation to Designated Non-Financial Businesses and Professions
 
-MONEY LAUNDERING AND TERRORISM (PREVENTION) ACT Powers and Duties of Supervisory Authority in Relation to Designated Non-Financial Businesses and Professions
+*\1. This*
 
-[section 11(1)(g)]
-
-**1.** This Schedule–
+[section 11(1)(g)] Schedule–
 
 (a) sets out the powers and duties of the Financial Intelligence Unit as the supervisory authority for designated non-financial businesses and professions;
 
 (b) has no application to the Financial Intelligence Unit in any other capacity; and
 
-(c) is without prejudice to the powers given to, and duties imposed on, a supervisory authority under the Act or the Financial Intelligence
-
 *Cap.138.02.*
-
-Unit under the Financial Intelligence Unit Act.
 
 *Interpretation.*
 
-**2.** In this Schedule–
+*\2. In this*
 
-“affiliate”, in relation to an undertaking, means another undertaking that is in the same group as that undertaking;
+(c) is without prejudice to the powers given to, and duties imposed on, a supervisory authority under the Act or the Financial Intelligence Unit under the Financial Intelligence Unit Act. Schedule–
 
-“DNFBP” means designated non-financial businesses and professions;
+*“DNFBP” professions;*
 
-“DNFBP Regulations” mean the Designated Non-Financial Businesses and Professions Regulations made under the Money Laundering and Terrorism (Prevention) Act, 2008;
+“affiliate”, in relation to an undertaking, means another undertaking that is in the same group as that undertaking; means designated non-financial businesses and
 
-“designated non-financial businesses and professions” mean those businesses and professions for which the Financial Intelligence Unit is specified as the supervisory authority under the Schedule III;
+*“DNFBP*
 
-“director”, in relation to an undertaking, means a person appointed to direct the affairs of the undertaking and includes–
+Regulations” mean the Designated Non-Financial Businesses and Professions Regulations made under the Money Laundering and Terrorism (Prevention) Act, 2008;
+
+*“designated those Intelligence*
+
+non-financial businesses and professions” mean businesses and professions for which the Financial Unit is specified as the supervisory authority under the Schedule III;
+
+*appointed to*
+
+“director”, in relation to an undertaking, means a person direct the affairs of the undertaking and includes–
 
 (a) a person who is a member of the governing body of the undertaking; and
 
 (b) a person who, in relation to the undertaking, occupies the position of director, by whatever name called;
 
-“former DNFBP” means a person who at any time has been a DNFBP, but who has ceased to be a DNFBP;
+*“former DNFBP, but*
 
-“parent”, in relation to an undertaking (the first undertaking), means another undertaking that–
+DNFBP” means a person who at any time has been a who has ceased to be a DNFBP;
+
+*“parent”, in*
+
+relation to an undertaking (the first undertaking), means another undertaking that–
 
 (a) is a member of the first undertaking and whether alone, or under an agreement with other members, is entitled to exercise a majority of the voting rights in the first undertaking;
 
@@ -4232,7 +4664,9 @@ a partner of a DNFBP or a former DNFBP that is a partnership;
 
 (c) must specify the place where, and the period within which, the information or documents must be provided or produced.
 
-(3) The supervisory authority may–
+*(3) The*
+
+supervisory authority may–
 
 (a) require–
 
@@ -4244,11 +4678,19 @@ a partner of a DNFBP or a former DNFBP that is a partnership;
 
 take copies or extracts of any document produced under this section.
 
-(4) Where a person claims a lien on a document, its production under this section is without prejudice to his lien.
+*(4) Where production*
 
-*Compliance visits.*
+a person claims a lien on a document, its under this section is without prejudice to his lien.
 
-**4.** (1) The supervisory authority may, for the purposes of monitoring, assessing and enforcing compliance by a DNFBP with its AML/CFT obligations–
+*Compliance*
+
+*4.–(1) The*
+
+*visits.*
+
+*monitoring, with its*
+
+supervisory authority may, for the purposes of assessing and enforcing compliance by a DNFBP AML/CFT obligations–
 
 (a) enter and inspect any premises, whether in or outside Belize, owned, occupied or used by the DNFBP or any subsidiary or parent of the DNFBP;
 
@@ -4258,9 +4700,13 @@ take copies or extracts of any document produced under this section.
 
 (d) seek information and explanations from the officers, employees, agents and representatives of the DNFBP, whether orally or in writing, and whether in preparation for, during or after a compliance visit.
 
-(2) Subject to sub-section (3), the supervisory authority shall give reasonable notice to a DNFBP of its intention to exercise its powers under sub-section (1).
+*(2) Subject*
 
-(3) Where it appears to the supervisory authority that the circumstances so justify, the supervisory authority may exercise
+to sub-section (3), the supervisory authority shall give reasonable notice to a DNFBP of its intention to exercise its powers under sub-section (1).
+
+*circumstances*
+
+(3) Where it appears to the supervisory authority that the so justify, the supervisory authority may exercise
 
 its powers under sub-section (1) without giving notice of its intention to do so.
 
@@ -4308,17 +4754,23 @@ its powers under sub-section (1) without giving notice of its intention to do so
 
 recklessly provides information which is false or misleading in a material respect;
 
-(3) A person commits an offence who, for the purpose of obstructing or frustrating compliance with a notice issued by the supervisory authority under section 3(1), destroys, mutilates, defaces, hides or removes a document.
+*(3) A person obstructing or supervisory*
 
-(4) A person who commits an offence under this section is liable–
+commits an offence who, for the purpose of frustrating compliance with a notice issued by the authority under section 3(1), destroys, mutilates, defaces, hides or removes a document.
+
+*(4) A person liable–*
+
+who commits an offence under this section is
 
 (a) on summary conviction, to imprisonment for a term of two years or to a fine of thirty thousand dollars or to both; or
 
 (b) on conviction on indictment, to imprisonment for a term of five years or to a fine of one hundred dollars or to both.
 
-*Enforcement action.*
+*Enforcement 9. The action.*
 
-**9.** The supervisory authority is entitled to take enforcement action under this Schedule against a registered DNFBP if, in the opinion of the supervisory authority, the DNFBP–
+*action under this opinion of the*
+
+supervisory authority is entitled to take enforcement Schedule against a registered DNFBP if, in the supervisory authority, the DNFBP–
 
 (a) has contravened or is in contravention of any of its AML/CFT obligations;
 
@@ -4334,9 +4786,13 @@ recklessly provides information which is false or misleading in a material respe
 
 *Directives.*
 
-**10.** (1) Where the supervisory authority is entitled to take enforcement action against a DNFBP, it may, in accordance with section 22(1)(b) of the Act, by written notice issue such directives to the DNFBP as it considers appropriate.
+*10.–(1) Where enforcement with section directives to the*
 
-(2) Without limiting sub-section (1), a directive may–
+the supervisory authority is entitled to take action against a DNFBP, it may, in accordance 22(1)(b) of the Act, by written notice issue such DNFBP as it considers appropriate.
+
+*(2) Without*
+
+limiting sub-section (1), a directive may–
 
 (a) require the DNFBP to take, or not to take, such action or measures as the supervisory authority considers appropriate;
 
@@ -4382,7 +4838,9 @@ if it appears to the supervisory authority on reasonable grounds that there are,
 
 (b) with respect to a former DNFBP, if the supervisory authority would have been entitled to appoint an investigator under paragraph (a), but for the person ceasing to be a DNFBP.
 
-(2) An investigator appointed under sub-section (1) shall be appointed to investigate one or more of the following in respect of the person being investigated–
+*(2) An appointed to of the person*
+
+investigator appointed under sub-section (1) shall be investigate one or more of the following in respect being investigated–
 
 (a) the current or past compliance of the DNFBP with its AML/CFT obligations;
 
@@ -4392,29 +4850,31 @@ if it appears to the supervisory authority on reasonable grounds that there are,
 
 (d) whether there are grounds for the taking of enforcement action against the DNFBP.
 
-(3) Subject to sub-section (4) and as far as reasonably required to conduct his investigation, an investigator appointed
+*(3) Subject required to*
 
-under this section has the following powers of the supervisory authority–
+to sub-section (4) and as far as reasonably conduct his investigation, an investigator appointed
+
+*under this authority–*
+
+section has the following powers of the supervisory
 
 (a) to require the provision of information or documents under section 3;
 
 (b) to apply to a Judge of the Supreme Court in Chambers ex parte under section 20 of the Act for a search warrant; or
 
-(c) under paragraphs (a) to (d) of section 4(1).
+*(4) The investigator–*
 
-(4) The supervisory authority may give directions to the investigator–
+(c) under paragraphs (a) to (d) of section 4(1). supervisory authority may give directions to the
 
-(a) limiting the powers of the investigator; and
-
-(b) concerning any one or more of the following–
-
-(i) the scope of the investigation;
+(a) limiting the powers of the investigator; and (b) concerning any one or more of the following– (i) the scope of the investigation;
 
 (ii) the period for the conduct of the investigation; or
 
-(iii) the manner in which the investigator shall report to the supervisory authority.
+*(5) An*
 
-(5) An investigator appointed under sub-section (1) may, if he considers it necessary for the purposes of his investigation, on giving written notice to the person concerned, also investigate the business of any person who is, or at any relevant time has been–
+*on giving*
+
+(iii) the manner in which the investigator shall report to the supervisory authority. investigator appointed under sub-section (1) may, if he considers it necessary for the purposes of his investigation, written notice to the person concerned, also investigate the business of any person who is, or at any relevant time has been–
 
 (a) an affiliate of the person under investigation; or
 
@@ -4448,21 +4908,27 @@ the reasons for the enforcement action taken or to be taken; and
 
 (b) the nature of the enforcement action taken or to be taken.
 
-(3) Where it considers it in the public interest to do so, the supervisory authority may issue a public statement in such manner as it considers fit with respect to–
+*supervisory manner as it*
+
+(3) Where it considers it in the public interest to do so, the authority may issue a public statement in such considers fit with respect to–
 
 (a) any person who the supervisory authority has reasonable grounds to believe is carrying on, has carried on, intends to carry on or is likely to carry on any type of relevant business without being registered under the DNFBP Regulations in respect of that type of relevant business; and
 
 (b) any matter relating to the risks of money laundering or terrorist financing.
 
-(4) Subject to sub-section (5), where a public statement is to be issued under this section in relation to a DNFBP or a former DNFBP, the supervisory authority shall give the DNFBP seven days written notice of its intention to issue the public statement and the reasons for the issue of the statement.
+*DNFBP, the days written*
 
-(5) If the supervisory authority is of the opinion that it is in the public interest that sub-section (4) should not have effect or that the period referred to in that sub-section should be reduced, the supervisory authority may issue the public statement without notice to the DNFBP or a former DNFBP or with such shorter period as it considers appropriate.
+(4) Subject to sub-section (5), where a public statement is to be issued under this section in relation to a DNFBP or a former supervisory authority shall give the DNFBP seven notice of its intention to issue the public statement and the reasons for the issue of the statement.
 
-*Restrictions on disclosure of information.*
+*(5) If the the public*
 
-**13.** (1) Subject to section 14, for the purposes of this section,
+*notice to the period as it*
 
-“protected information” means information which–
+supervisory authority is of the opinion that it is in interest that sub-section (4) should not have effect or that the period referred to in that sub-section should be reduced, the supervisory authority may issue the public statement without DNFBP or a former DNFBP or with such shorter considers appropriate.
+
+*Restrictions on disclosure of “protected information.*
+
+**13.** (1) Subject to section 14, for the purposes of this section, information” means information which–
 
 (a) relates to the business or other affairs of any person; and
 
@@ -4482,25 +4948,29 @@ is acquired by one of the following people, for the purposes of, or in the disch
 
 (b) where the information is disclosed in a summary or in statistics expressed in a manner that does not enable the identity of particular persons to whom the information relates to be determined.
 
-(3) Subject to section 6, protected information shall not be disclosed by a recipient of that information, whether the recipient of the information is a person specified in sub-section
+*(3) Subject disclosed by a recipient of the (1) or a person protected without the*
 
-(1) or a person who has directly or indirectly received the protected information from a person specified in sub-section (1), without the consent of–
+to section 6, protected information shall not be recipient of that information, whether the information is a person specified in sub-section who has directly or indirectly received the information from a person specified in sub-section (1), consent of–
 
 (a) the person from whom he obtained the information; and
 
 if different, the person to whom it relates.
 
-(4) A person who contravenes sub-section (3) commits an offence and is liable–
+*(4) A person offence and is*
+
+who contravenes sub-section (3) commits an liable–
 
 (a) on summary conviction, to a fine of ten thousand dollars; or
 
 (b) on conviction on indictment, to a fine of fifty thousand dollars or to imprisonment for a term of three years or to both.
 
-*Exceptions to restrictions on disclosure.*
+*Exceptions to 14. Section 13 restrictions on disclosure.*
 
-**14.** Section 13 does not apply to a disclosure–
+does not apply to a disclosure–
 
-(a) by any person where the disclosure is–
+*(a) by any*
+
+person where the disclosure is–
 
 (i) required or permitted by, and made in accordance with, an order of any Court of competent jurisdiction in Belize;
 
@@ -4514,9 +4984,15 @@ if different, the person to whom it relates.
 
 (BB) the relevant regulatory authority or self-regulatory organization, whether in or outside Belize, that has responsibility for the regulation or supervision of the DNFBP;
 
-(b) by a person specified in section 13(1), where the disclosure is made to any person for the purpose of discharging any function or exercising any power under the Act, whether the function or power is of the person disclosing the information or of the supervisory authority; or
+*(b) by a disclosure is*
 
-(c) by a person, other than the supervisory authority, where the disclosure–
+*function or of the*
+
+person specified in section 13(1), where the made to any person for the purpose of discharging any function or exercising any power under the Act, whether the power is of the person disclosing the information or supervisory authority; or
+
+*(c) by a*
+
+person, other than the supervisory authority, where the disclosure–
 
 (i) is made with the written consent of the supervisory authority; and
 
@@ -4642,7 +5118,9 @@ make or obtain a copy, photograph or other record of anything so authorised; or
 
 (c) remove anything which the receiver is required or authorised to take possession of pursuant to an order of the Court.
 
-(4) The Court may by order authorise the receiver to do any one or more of the following in the exercise of his functions–
+*(4) The*
+
+Court may by order authorise the receiver to do any one or more of the following in the exercise of his functions–
 
 (a) hold property;
 
@@ -4656,15 +5134,21 @@ make or obtain a copy, photograph or other record of anything so authorised; or
 
 (f) take such other steps the Court thinks appropriate.
 
-(5) The Court may order any person who has possession of property which is specified in the restraint order to give possession of it to the receiver.
+*(5) The*
 
-(6) The Court–
+Court may order any person who has possession of property which is specified in the restraint order to give possession of it to the receiver.
+
+*(6) The*
+
+Court–
 
 (a) may order a person holding an interest in property which is specified in the restraint order to make to the receiver such payment as the Court specifies in respect of a beneficial interest held by the defendant or the recipient of a tainted gift; and
 
 may (on the payment being made) by order transfer, grant or extinguish any interest in the property.
 
-(7) The Court shall not–
+*(7) The*
+
+Court shall not–
 
 (a) confer the power mentioned in section (2)(b) or (d) in respect of property; or
 
@@ -4674,7 +5158,9 @@ may (on the payment being made) by order transfer, grant or extinguish any inter
 
 unless it gives persons holding interests in the property a reasonable opportunity to make representations to it.
 
-(8) The Court may order that a power conferred by an order under this section is subject to such conditions and exceptions as it specifies.
+*(8) The under this*
+
+Court may order that a power conferred by an order section is subject to such conditions and exceptions as it specifies.
 
 *Restrictions relating to restraint orders.*
 
@@ -4684,9 +5170,13 @@ unless it gives persons holding interests in the property a reasonable opportuni
 
 (b) if the order applies to a tenancy of any premises, no landlord or other person to whom rent is payable may exercise a right of forfeiture by peaceable re-entry in relation to the premises in respect of any failure by the tenant to comply with any term or condition of the tenancy, except with the leave of the Court and subject to any terms the Court may impose.
 
-(2) If proceedings are pending before the Court in respect of any property and the Court is satisfied that a restraint order has
+*(2) If*
 
-been applied for or made in respect of the property, the Court may either stay the proceedings or allow them to continue on any terms it thinks fit.
+proceedings are pending before the Court in respect of any property and the Court is satisfied that a restraint order has
+
+*any terms it*
+
+been applied for or made in respect of the property, the Court may either stay the proceedings or allow them to continue on thinks fit.
 
 (3) Before exercising any power conferred by sub-section (2), the Court shall give an opportunity to be heard to–
 
@@ -4696,17 +5186,21 @@ been applied for or made in respect of the property, the Court may either stay t
 
 External Orders
 
-*Applications to give effect to external orders.*
+*Applications to 10.–(1) The give effect to external orders. Belize.*
 
-**10.** (1) The Attorney General may apply to the Court, on behalf of an overseas authority, to give effect to an external order in Belize.
+Attorney General may apply to the Court, on behalf of an overseas authority, to give effect to an external order in
 
-(2) No application to give effect to such an order may be made otherwise than under sub-section (1).
+*(2) No*
 
-(3) An application under sub-section (1) may be made as an ex parte application to a Judge of the Supreme Court in Chambers.
+application to give effect to such an order may be made otherwise than under sub-section (1).
 
-*Conditions for Court to give effect to external orders.*
+*(3) An ex parte Chambers.*
 
-**11.** (1) The Court shall give effect to an external order by registering it where it is satisfied that–
+application under sub-section (1) may be made as an application to a Judge of the Supreme Court in
+
+*Conditions for 11.–(1) The Court to give effect to external orders.*
+
+Court shall give effect to an external order by registering it where it is satisfied that–
 
 (a) the external order was made consequent on the conviction of the person named in the order and no appeal is outstanding in respect of that conviction;
 
@@ -4768,11 +5262,9 @@ affected by it, if it appears to the Court that the order has been satisfied–
 
 (b) direct the Court to register the external order, or so much of it as relates to property other than to which section 11(1)(c) applies.
 
-**14.** (1) This section applies where the external order which is
-
 *Sums in currency other than dollars.*
 
-registered under section 12 specifies a sum of money.
+**14.** (1) This section applies where the external order which is registered under section 12 specifies a sum of money.
 
 (2) If the sum of money which is specified is expressed in a currency other than dollars, the sum of money to be recovered is to be taken to be the dollar equivalent calculated in accordance with the rate of exchange prevailing at the end of the working day immediately preceding the day when the Court registered the external order under section 12.
 
@@ -4800,7 +5292,9 @@ shall start with the day on which the notice under section 12(1)(b) was delivere
 
 (5) If within the specified period the person affected by an external order applies to the Court for the period to be extended and the Court believes that there are exceptional circumstances, it may make an order extending the period.
 
-(6) The extended period–
+*(6) The*
+
+extended period–
 
 (a) shall start with the day on which the notice under section 22(1)(b) was delivered to the person affected by it or the day referred to in sub-section (3), as the case may be; and
 
@@ -4812,19 +5306,31 @@ shall start with the day on which the notice under section 12(1)(b) was delivere
 
 (b) shall not be made after the end of the extended period.
 
-(8) The Court shall not make an order under sub-section (5) or (7) unless it gives the Attorney General an opportunity to make representations.
+*(8) The*
 
-*Appointment of receivers.*
+*make*
 
-**16.** If an external order is registered, is not satisfied, and, in the case of an external order for the recovery of a specified sum of money, any period specified by order under section 15 has expired, the Court, on the application of the Attorney General may appoint a receiver in respect of–
+Court shall not make an order under sub-section (5) or (7) unless it gives the Attorney General an opportunity to representations.
+
+*Appointment of 16. If an receivers.*
+
+*case of an money, any expired, the*
+
+external order is registered, is not satisfied, and, in the external order for the recovery of a specified sum of period specified by order under section 15 has Court, on the application of the Attorney General may appoint a receiver in respect of–
 
 where the external order is for the recovery of a specified sum of money, realisable property; or
 
 (b) where the external order is for the recovery of specified property, that property.
 
-*Powers of receivers in respect of monitory external orders.*
+*Powers of receivers in*
 
-**17.** (1) If the Court appoints a receiver under section 16, it may, on the application of the Attorney General where the external order is for the recovery of a specified sum of money, by order confer on the receiver the following powers in relation to any realisable property–
+*on the*
+
+*respect of monitory external orders.*
+
+*realisable*
+
+**17.** (1) If the Court appoints a receiver under section 16, it may, application of the Attorney General where the external order is for the recovery of a specified sum of money, by order confer on the receiver the following powers in relation to any property–
 
 (a) power to take possession of the property;
 
@@ -4834,7 +5340,9 @@ where the external order is for the recovery of a specified sum of money, realis
 
 (d) power to start, carry on or defend any legal proceedings in respect of the property.
 
-(2) The Court may by order confer on the receiver power to enter any premises in Belize and to do any of the following–
+*(2) The enter any*
+
+Court may by order confer on the receiver power to premises in Belize and to do any of the following–
 
 (a) search for or inspect anything authorised by the Court;
 
@@ -4842,7 +5350,9 @@ where the external order is for the recovery of a specified sum of money, realis
 
 (c) remove anything which the receiver is required or authorised to take possession of pursuant to an order of the Court.
 
-(3) The Court may by order authorise the receiver to do any of the following in the exercise of his functions–
+*(3) The*
+
+Court may by order authorise the receiver to do any of the following in the exercise of his functions–
 
 hold property;
 
@@ -4856,35 +5366,49 @@ enter into contracts;
 
 (f) take any other steps the Court thinks appropriate.
 
-(4) The Court may order any person who has possession of realisable property to give possession of it to the receiver.
+*(4) The realisable*
 
-(5) The Court–
+*(5) The*
+
+Court may order any person who has possession of property to give possession of it to the receiver. Court–
 
 (a) may order a person holding an interest in realisable property to make to the receiver such payment as the Court specifies in respect of a beneficial interest held by the defendant or the recipient of a tainted gift; and
 
 (b) may, on payment being made, by order transfer, grant or extinguish any interest in the property.
 
-(6) Sub-sections (2), (4) and (5) do not apply to property for the time being subject to a charge under any of the following–
-
 *CAP. 102.*
-
-(a) the Crime Control and Criminal Justice Act; or
 
 *CAP. 103.*
 
-(b) the Misuse of Drugs Act.
+(6) Sub-sections (2), (4) and (5) do not apply to property for the time being subject to a charge under any of the following– (a) the Crime Control and Criminal Justice Act; or (b) the Misuse of Drugs Act.
 
-(7) The Court shall not–
+*(7) The*
+
+Court shall not–
 
 confer the power mentioned in sub-section (2)(b) or (c) in respect of property; or
 
 (b) exercise the power conferred on it by subsection (6) in respect of property, unless it gives persons holding interests in the property a reasonable opportunity to make representations to it.
 
-(8) The Court may order that a power conferred by an order under this section is subject to such conditions and exceptions as it specifies.
+*(8) The under this*
 
-*Powers of receivers in respect of external orders for the recovery of specified property.*
+Court may order that a power conferred by an order section is subject to such conditions and exceptions as it specifies.
 
-**18.** (1) If the Court appoints a receiver under section 16, it may, on the application of the Attorney General where the external order is for the recovery of property specified in the order (“the specified property”), by order confer on the receiver the following powers in relation to the specified property–
+*Powers of receivers in*
+
+*on the*
+
+*respect of external orders for the recovery*
+
+**18.** (1) If the Court appoints a receiver under section 16, it may, application of the Attorney General where the external recovery of property specified in the order (“the order is for the
+
+*specified*
+
+*of specified property.*
+
+*following*
+
+property”), by order confer on the receiver the powers in relation to the specified property–
 
 (a) power to take possession of the property;
 
@@ -4894,7 +5418,9 @@ confer the power mentioned in sub-section (2)(b) or (c) in respect of property; 
 
 (d) power to start, carry on or defend any legal proceedings in respect of the property.
 
-(2) The Court may by order confer on the receiver power to enter any premises in Belize and to do any of the following–
+*(2) The enter any*
+
+Court may by order confer on the receiver power to premises in Belize and to do any of the following–
 
 (a) search for or inspect anything authorised by the Court;
 
@@ -4902,7 +5428,9 @@ confer the power mentioned in sub-section (2)(b) or (c) in respect of property; 
 
 remove anything which the receiver is required or authorised to take possession of pursuant to an order of the Court.
 
-(3) The Court may by order authorise the receiver to do any of the following for the purposes of the exercise of his functions–
+*(3) The of the functions–*
+
+Court may by order authorise the receiver to do any following for the purposes of the exercise of his
 
 (a) hold property;
 
@@ -4916,15 +5444,17 @@ remove anything which the receiver is required or authorised to take possession 
 
 (f) take any other steps the Court thinks appropriate.
 
-(4) The Court may order any person who has possession of the specified property to give possession of it to the receiver.
+*(4) The*
 
-(5) The Court–
+*(5) The*
 
-(a) may order a person holding an interest in the specified property to make to the receiver such payment as the Court specifies in respect of a beneficial interest held by the defendant or the recipient of a gift defined in this Act; and
+Court may order any person who has possession of the specified property to give possession of it to the receiver. Court–
 
-(b) may (on the payment being made) by order transfer, grant or extinguish any interest in the property.
+(a) may order a person holding an interest in the specified property to make to the receiver such payment as the Court specifies in respect of a beneficial interest held by the defendant or the recipient of a gift defined in this Act; and (b) may (on the payment being made) by order transfer, grant or extinguish any interest in the property.
 
-(6) The Court shall not–
+*(6) The*
+
+Court shall not–
 
 confer the power mentioned in sub-section (1)(b) or (c) in respect of property; or
 
@@ -4932,11 +5462,17 @@ confer the power mentioned in sub-section (1)(b) or (c) in respect of property; 
 
 unless it gives persons holding interests in the property a reasonable opportunity to make representations to it.
 
-(7) The Court may order that a power conferred by an order under this section is subject to such conditions and exceptions as it specifies.
+*(7) The under this*
 
-*Meaning of “managing or otherwise dealing with property”.*
+Court may order that a power conferred by an order section is subject to such conditions and exceptions as it specifies.
 
-**19.** For the purposes of sections 8, 17 and 18, managing or otherwise dealing with property includes–
+*Meaning of*
+
+*\19. For the*
+
+*“managing or otherwise dealing with property”.*
+
+purposes of sections 8, 17 and 18, managing or otherwise dealing with property includes–
 
 (a) selling the property or any part of it or interest in it;
 
@@ -4982,13 +5518,23 @@ first, he shall apply them in payment of the remuneration and expenses of a rece
 
 (b) second, in payment of the remuneration and expenses of the receiver appointed under section 16.
 
-(2) Any sums which remain after the Attorney General has made any payments required by the preceding provisions of this section shall be paid into the Belize Confiscated and Forfeited Assets Fund.
+*(2) Any made any*
 
-*Satisfaction of external order.*
+sums which remain after the Attorney General has payments required by the preceding provisions of this section shall be paid into the Belize Confiscated and Forfeited
 
-**22.** (1) A registered external order is satisfied when no amount is due under it.
+*Assets Fund.*
 
-(2) Where such an order authorises the recovery of property specified in it, no further amount is due under the order when all of the specified property has been sold.
+*Satisfaction of*
+
+*22.–(1) A*
+
+*external order.*
+
+registered external order is satisfied when no amount is due under it.
+
+*(2) Where*
+
+such an order authorises the recovery of property specified in it, no further amount is due under the order when all of the specified property has been sold.
 
 *Restrictions relating to receivers.*
 
@@ -5000,11 +5546,19 @@ first, he shall apply them in payment of the remuneration and expenses of a rece
 
 leave of the Court and subject to any terms the Court may impose.
 
-(2) If proceedings are pending before the Court in respect of any property and the Court is satisfied that a restraint order has been applied for or made in respect of the property, the Court may either stay the proceedings or allow them to continue on any terms it thinks fit.
+*(2) If any property*
 
-(3) If the Court is satisfied that an order under section 16 appointing a receiver in respect of the property has been applied for or made, the Court may either stay the proceedings or allow them to continue on any terms it thinks fit.
+*any terms it*
 
-(4) Before exercising any power conferred by sub-section (2) or (3), the Court shall give an opportunity to be heard to–
+proceedings are pending before the Court in respect of and the Court is satisfied that a restraint order has been applied for or made in respect of the property, the Court may either stay the proceedings or allow them to continue on thinks fit.
+
+*(3) If the appointing a*
+
+Court is satisfied that an order under section 16 receiver in respect of the property has been applied for or made, the Court may either stay the proceedings or allow them to continue on any terms it thinks fit.
+
+*(4) Before*
+
+exercising any power conferred by sub-section (2) or (3), the Court shall give an opportunity to be heard to–
 
 (a) the Attorney General; and
 
@@ -5020,13 +5574,13 @@ leave of the Court and subject to any terms the Court may impose.
 
 (c) believes on reasonable grounds that he is entitled to take the action;
 
-he is not liable to any person in respect of any loss or damage resulting from the action, except so far as the loss or damage is caused by his negligence.
+*or the*
 
-**25.** (1) A receiver appointed under section 8 or 16 may apply to
+he is not liable to any person in respect of any loss damage resulting from the action, except so far as loss or damage is caused by his negligence.
 
 *Further applications by receivers.*
 
-the Court for an order giving directions as to the exercise of his powers.
+**25.** (1) A receiver appointed under section 8 or 16 may apply to the Court for an order giving directions as to the exercise of his powers.
 
 (2) The following persons may apply to the Court– (a) any person affected by action taken by a receiver appointed under section 8 or 16; or (b) any person who may be affected by action such a receiver proposes to take.
 
@@ -5074,7 +5628,9 @@ the Court for an order giving directions as to the exercise of his powers.
 
 the receiver.
 
-(5) The following persons may appeal to the Court of Appeal against a decision of the Court on an application under section 26–
+*(5) The against a 26–*
+
+following persons may appeal to the Court of Appeal decision of the Court on an application under section
 
 (a) the person who applied for the order in respect of which the application was made;
 
@@ -5090,7 +5646,9 @@ Interpretation for this Schedule
 
 *Tainted gifts.*
 
-**29.** (1) For the purposes of this Schedule, a gift is tainted if it was made by the accused at any time after–
+*was*
+
+**29.** (1) For the purposes of this Schedule, a gift is tainted if it made by the accused at any time after–
 
 *7 of 2016.*
 
@@ -5104,7 +5662,11 @@ two or more offences and they were committed on different dates, the date on whi
 
 *7 of 2016.*
 
-(2) For the purposes of sub-section (1), an offence which is a continuing offence is committed on the first occasion when it is committed.
+*continuing committed.*
+
+(2) For the purposes of sub-section (1), an offence which is a offence is committed on the first occasion when it is
+
+204 [CAP. 104 Money Laundering and Terrorism (Prevention)
 
 (3) A gift may be a tainted gift even if it was made before the date on which this Act came into force.
 

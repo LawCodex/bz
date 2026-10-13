@@ -138,6 +138,10 @@ Miscellaneous
 
 ## SCHEDULE III
 
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
+
 ### CHAPTER 5 OMBUDSMAN
 
 [28th April 1994] 7 of 1994.
@@ -164,11 +168,9 @@ S.I. 19 of 1999.
 
 (b) the Belize Police Department;
 
-(c) a City Council or a Town Council; or (d) other statutory body or authority,
-
 *Cap. 250.*
 
-and includes any company registered under the Companies Act, being a company in which the Government or an agency of Government holds not less than fifty-one per centum of the ordinary shares, which is declared by resolution of each House of the National Assembly to be an authority for the purposes of this Act;
+(c) a City Council or a Town Council; or (d) other statutory body or authority, and includes any company registered under the Companies Act, being a company in which the Government or an agency of Government holds not less than fifty-one per centum of the ordinary shares, which is declared by resolution of each House of the National Assembly to be an authority for the purposes of this Act;
 
 “complainant” means a person who makes a complaint to the Ombudsman under the provisions of this Act;
 
@@ -278,29 +280,49 @@ cause him to be disqualified for appointment as such, by virtue of sub-section(1
 
 (3) An appeal shall lie to the House Committee (established under Standing Order 72 of the Standing Orders of the House of Representatives), made in Subsidiary Legislation 1991 Edition, Volume 1, Cap. 4 at page 54 from any decision of the Ombudsman removing or taking any other disciplinary action against a member of the staff of the Ombudsman appointed under this section.
 
-(4) The House Committee may make such rules as it may deem fit for the hearing of appeals under sub-section(3) of this section.
+*(4) The*
+
+House Committee may make such rules as it may deem fit for the hearing of appeals under sub-section(3) of this
+
+*section.*
+
+*Every*
 
 *Oath of secrecy. Schedule II.*
 
-**11.** Every person appointed to the staff of an Ombudsman shall, before he performs any function assigned to him under or by virtue of this Act, take and subscribe an oath to be administered by the Ombudsman, in the form set out in Schedule II.
+*administered Schedule II.*
+
+**11.** person appointed to the staff of an Ombudsman shall, before he performs any function assigned to him under or by virtue of this Act, take and subscribe an oath to be by the Ombudsman, in the form set out in
 
 ## PART III
 
 Functions of Ombudsman
 
-**12.** (1) Subject to the provisions of this Act, where the Ombudsman has reasonable cause to believe that,
+*Ombudsman*
+
+**12.** (1) Subject to the provisions of this Act, where the has reasonable cause to believe that,
 
 (a) an authority or an officer or member of an authority has been guilty of corruption or other wrongdoing; or
 
 (b) any person or body of persons has or may have sustained injustice, injury or abuse as a result of any action taken by an authority or an officer or a member of such authority, arising out of or connected with the exercise of the administrative functions of that authority (whether before or after the commencement of this Act), the Ombudsman may investigate the action so taken,
 
-Provided that the Ombudsman shall not investigate any matter or action which arose or was taken more than 10 years before the commencement of this Act.
+*Provided that*
 
-(2) The expression “abuse” as used in sub-section(1) above shall include any act of discourtesy or refusal to act and any act
+*the*
 
-motivated by discrimination based on religion, language, race, sex, colour or creed.
+the Ombudsman shall not investigate any matter or action which arose or was taken more than 10 years before commencement of this Act.
 
-(3) Subject to the provisions of sub-section(4) of this section, the Ombudsman shall not investigate–
+*(2) The shall include*
+
+expression “abuse” as used in sub-section(1) above any act of discourtesy or refusal to act and any act
+
+*motivated by sex, colour or*
+
+discrimination based on religion, language, race, creed.
+
+*(3) Subject section, the*
+
+to the provisions of sub-section(4) of this Ombudsman shall not investigate–
 
 (a) any such action aforesaid in respect of which the complainant has already sought a remedy by way of proceedings in any court or in any tribunal constituted by or under any law; or
 
@@ -312,7 +334,9 @@ motivated by discrimination based on religion, language, race, sex, colour or cr
 
 (c) the exercise of the powers conferred on the Governor- General by section 52 of the Constitution, (which relates to the prerogative of mercy).
 
-(4) The Ombudsman–
+*(4) The*
+
+Ombudsman–
 
 (a) may (to the extent that such investigation is not in conflict with paragraph 4 of the Third Schedule) conduct an investigation into any reports made to the Governor- General or the Public Services Commission, as the case may be, in respect of the appointment, removal, promotion, disciplinary control or other personnel matters in relation to any person; and
 
@@ -342,17 +366,23 @@ motivated by discrimination based on religion, language, race, sex, colour or cr
 
 (b) is unable to act for himself by reason of infirmity, or for any other cause, or has died, the complaint may be made by his personal representative, or a member of his family, or any other suitable person.
 
-(3) Every complaint to the Ombudsman shall be made in writing.
+*(3) Every writing.*
 
-(4) Notwithstanding anything provided by or under any law–
+complaint to the Ombudsman shall be made in
+
+(4) Notwithstanding anything provided by or under any
+
+*law–*
 
 (a) where a complaint made by a person who is an inmate of a prison or a Government institution or is detained therein, is addressed to the Ombudsman, it shall be forwarded to the Ombudsman by the person for the time being in charge of that prison or institution; and if such complaint is contained in a sealed envelope, the envelope shall be forwarded un- opened; and
 
 (b) regulations made under this Act may make provisions for ensuring confidentiality of communication between any such person as is mentioned in paragraph (a) and the Ombudsman.
 
-*Refusal to investigate.*
+*Refusal to 15.–(1) The investigate.*
 
-**15.** (1) The Ombudsman may, in his absolute discretion, determine whether to undertake or continue an investigation under this Act and in particular, but without prejudice to the generality of the foregoing, may refuse to undertake or continue any investigation if he is of the opinion that–
+*determine under this Act generality of continue any*
+
+Ombudsman may, in his absolute discretion, whether to undertake or continue an investigation and in particular, but without prejudice to the the foregoing, may refuse to undertake or investigation if he is of the opinion that–
 
 (a) the subject-matter of the complaint is trivial;
 
@@ -368,11 +398,9 @@ motivated by discrimination based on religion, language, race, sex, colour or cr
 
 *Extent of exercise of powers.*
 
-**16.** Subject to the provisions of the Constitution, the powers conferred on the Ombudsman by this Act may be exercised notwithstanding any provision in any law that an act
-
 *CAP.4.*
 
-done thereunder shall not be challenged, reviewed, quashed or called into question.
+**16.** Subject to the provisions of the Constitution, the powers conferred on the Ombudsman by this Act may be exercised notwithstanding any provision in any law that an act done thereunder shall not be challenged, reviewed, quashed or called into question.
 
 ## PART IV
 
@@ -432,11 +460,17 @@ documents or information so specified, would–
 
 (iii) prejudice the detection of offences, the Ombudsman or any member of his staff shall not
 
-communicate to any person for any purpose, any document or information specified in the notice, or any document or information of a class so specified;
+*information*
+
+communicate to any person for any purpose, any document or specified in the notice, or any document or information of a class so specified;
 
 (b) certifies that the giving of any information or the answering of any question or production of any document or thing would prejudice the security or defence of Belize, the Ombudsman shall not further require such information or answer to be given or such document or thing to be produced.
 
-(2) Except as provided under sub-section(1) of this section and section 18 (5) of this Act, no law which authorises or requires the refusal to answer any question or the withholding of any information or document or thing on the ground that the answering of the question or the disclosure of the information, document or thing would be injurious to the public interest, shall apply in respect of any investigation by or proceedings before the Ombudsman.
+*(2) Except*
+
+*requires the of any answering of document or shall apply in before the*
+
+as provided under sub-section(1) of this section and section 18 (5) of this Act, no law which authorises or refusal to answer any question or the withholding information or document or thing on the ground that the the question or the disclosure of the information, thing would be injurious to the public interest, respect of any investigation by or proceedings Ombudsman.
 
 *Power to enter premises and retain documents.*
 
@@ -458,7 +492,11 @@ communicate to any person for any purpose, any document or information specified
 
 (b) the complainant has suffered no such injustice, injury or abuse, he shall inform the complainant of that finding and may make such comments in relation to the case as he thinks fit.
 
-(5) On the conclusion of an investigation, the Ombudsman may make to the authority concerned such recommendations as he thinks fit and in particular, but without prejudice to the generality of the foregoing, may recommend any or all of the following–
+*(5) On the*
+
+*he thinks fit generality of following–*
+
+conclusion of an investigation, the Ombudsman may make to the authority concerned such recommendations as and in particular, but without prejudice to the the foregoing, may recommend any or all of the
 
 (a) that the action which was the subject-matter of the complaint be reviewed;
 
@@ -466,9 +504,15 @@ communicate to any person for any purpose, any document or information specified
 
 (c) that compensation be made to the complainant.
 
-*Disciplinary action against officers and procedure for criminal offences.*
+*Disciplinary 22.–(1) If the action against investigations officers and procedure for evidence of a criminal*
 
-**22.** (1) If the Ombudsman finds, during the conduct of his investigations or on the conclusion thereof, that there is evidence of a breach of duty, or misconduct, or of a criminal offence on the part of an officer or member of any authority, he shall refer the matter to the person or body of persons competent to take such disciplinary or other proceedings as may be appropriate against that officer or member and in all such cases shall lay a special report before the National Assembly.
+*offence on the*
+
+*offences.*
+
+*he shall refer competent to may be such cases Assembly.*
+
+Ombudsman finds, during the conduct of his or on the conclusion thereof, that there is breach of duty, or misconduct, or of a criminal part of an officer or member of any authority, the matter to the person or body of persons take such disciplinary or other proceedings as appropriate against that officer or member and in all shall lay a special report before the National
 
 (2) Where any special report is laid before the National Assembly, the National Assembly may, in addition to any other action it may take–
 
@@ -486,11 +530,9 @@ communicate to any person for any purpose, any document or information specified
 
 (2) Anything said or any information supplied or any document or thing produced by any person for the purpose or in the course of any enquiry by, or proceedings before the Ombudsman under this Act, shall be absolutely privileged in the same manner as if the enquiry or proceedings were proceedings in a court of law.
 
-(3) For the purposes of the Libel and Defamation Act, any
-
 *CAP. 169.*
 
-report made by the Ombudsman under this Act and fair and accurate report thereon shall be deemed to be privileged.
+(3) For the purposes of the Libel and Defamation Act, any report made by the Ombudsman under this Act and fair and accurate report thereon shall be deemed to be privileged.
 
 ## PART V
 
@@ -510,23 +552,41 @@ shall be deemed inconsistent with any duty imposed by this subsection.
 
 (2) Neither the Ombudsman nor any such person aforesaid shall be called upon to give evidence in respect of, or produce any document, information or thing aforesaid, in any proceedings other than proceedings mentioned in subsection(1) of this section.
 
+*26.–(1) The*
+
 *Performance of functions of Ombudsman by members of his staff.*
 
-**26.** (1) The functions of the Ombudsman, except those under sections 15, 21, 22, 27 (2) and 28, may be performed by any member of his staff authorized for that purpose by the Ombudsman.
+functions of the Ombudsman, except those under sections 15, 21, 22, 27 (2) and 28, may be performed by any member of his staff authorized for that purpose by the
 
-(2) Nothing in sub-section(1) shall be construed as affecting the responsibility of the Ombudsman for functions performed on his behalf pursuant to sub-section(1).
+*Ombudsman.*
 
-*Funding and accounts, etc.*
+*affecting the performed on*
 
-**27.** (1) The funds of the office of Ombudsman shall consist of–
+(2) Nothing in sub-section(1) shall be construed as responsibility of the Ombudsman for functions his behalf pursuant to sub-section(1).
+
+*Funding and*
+
+*27.–(1) The*
+
+*accounts, etc.*
+
+funds of the office of Ombudsman shall consist
+
+*of–*
 
 (a) such sums as may from time to time be appropriated by the National Assembly for the purposes of the office of Ombudsman; and
 
 (b) all other moneys which may in any manner become payable to or vested in the Ombudsman in respect of any matter incidental to his functions.
 
-(2) The accounts and financial transactions of the office of Ombudsman shall be audited annually by the Auditor General and a statement of accounts so audited shall form part of the annual report mentioned in section 28.
+*(2) The Ombudsman*
 
-(3) The Ombudsman shall, at such time within each year as the Minister of Finance may direct–
+*annual report*
+
+accounts and financial transactions of the office of shall be audited annually by the Auditor General and a statement of accounts so audited shall form part of the mentioned in section 28.
+
+*(3) The*
+
+Ombudsman shall, at such time within each year as the Minister of Finance may direct–
 
 (a) submit to the Minister of Finance a statement of the accounts of the Ombudsman audited in accordance with the provisions of subsection(1);
 
@@ -634,11 +694,9 @@ same meaning as in the Pensions Act.
 
 **2.** (1) Where a person holding the office of Ombudsman retires in pensionable circumstances he shall, subject to the provisions of this Schedule, be paid pension and gratuity in accordance with this Act in lieu of any pension, allowance or gratuity for which he may have been eligible or which he may have been granted pursuant to the Pensions Act.
 
-(2) A person entitled to pension or gratuity pursuant to subparagraph (1)of this paragraph or who is eligible for a grant of pension or gratuity pursuant to sub-paragraph (5) of this paragraph may, by memorandum in writing to the Governor-General, elect to forego his entitlement under this Act and be
-
 *CAP. 30.*
 
-granted instead such award under the Pensions Act as would be payable under that Act if the office of Ombudsman were a pensionable office under that Act.
+(2) A person entitled to pension or gratuity pursuant to subparagraph (1)of this paragraph or who is eligible for a grant of pension or gratuity pursuant to sub-paragraph (5) of this paragraph may, by memorandum in writing to the Governor-General, elect to forego his entitlement under this Act and be granted instead such award under the Pensions Act as would be payable under that Act if the office of Ombudsman were a pensionable office under that Act.
 
 (3) For the purposes of this paragraph and paragraph 4, a person retires in pensionable circumstances if he retires-
 
@@ -654,11 +712,9 @@ granted instead such award under the Pensions Act as would be payable under that
 
 (b) he is removed from office, in accordance with section 4 (6) of this Act, for inability, arising from infirmity of mind or body, to perform the functions of his office.
 
-(5) A person who, pursuant to section 4 (6) of this Act, is removed from the office of Ombudsman for misbehaviour or for any cause other than inability arising from infirmity of mind or body or who retired otherwise than in pensionable circumstances may, subject to sub-paragraph (2), be granted by the Governor-General in lieu of any pension, allowance or
-
 *CAP. 30.*
 
-gratuity for which he may have been eligible pursuant to the Pensions Act, such pension and gratuity as the Governor-General thinks fit not exceeding the pension and gratuity to which he would have been entitled had he retired in pensionable circumstances from such office and, for the purposes of sub-paragraph (6) of this paragraph, the date of such removal from office or retirement shall be deemed to be the date of retirement in pensionable circumstances.
+(5) A person who, pursuant to section 4 (6) of this Act, is removed from the office of Ombudsman for misbehaviour or for any cause other than inability arising from infirmity of mind or body or who retired otherwise than in pensionable circumstances may, subject to sub-paragraph (2), be granted by the Governor-General in lieu of any pension, allowance or gratuity for which he may have been eligible pursuant to the Pensions Act, such pension and gratuity as the Governor-General thinks fit not exceeding the pension and gratuity to which he would have been entitled had he retired in pensionable circumstances from such office and, for the purposes of sub-paragraph (6) of this paragraph, the date of such removal from office or retirement shall be deemed to be the date of retirement in pensionable circumstances.
 
 (6) Pension payable in accordance with this paragraph shall,
 
@@ -666,15 +722,23 @@ gratuity for which he may have been eligible pursuant to the Pensions Act, such 
 
 (b) be paid monthly in arrears with effect, subject to paragraph 4 of this Schedule, from the date of retirement in pension- able circumstances and shall, subject to the provisions of this Act, continue to be paid during the lifetime of the person entitled thereto.
 
-*Rate of pension.*
+*Rate of pension. The rate*
 
-**3.** The rate of pension payable pursuant to paragraph 2 of this Schedule to any person shall be an annual rate equivalent to the sum of one-half of his pensionable emoluments at the date of retirement and one-three hundred and sixtieth of such pensionable emoluments in respect of each month of service as an Ombudsman,
+*to the sum of date of pensionable*
 
-Provided that the rate of pension shall not exceed the annual rate of such pensionable emoluments.
+**3.** of pension payable pursuant to paragraph 2 of this Schedule to any person shall be an annual rate equivalent one-half of his pensionable emoluments at the retirement and one-three hundred and sixtieth of such emoluments in respect of each month of service as an Ombudsman,
 
-*Special provision where Ombudsman retires before attaining age fifty.*
+*Provided that rate of such*
 
-**4.** Where in accordance with paragraph 2 (3), a person retires in pensionable circumstances before he has attained the age of fifty years-
+the rate of pension shall not exceed the annual pensionable emoluments.
+
+*Special provision Where where*
+
+*retires in Ombudsman retires before age of fifty attaining age*
+
+**4.** in accordance with paragraph 2 (3), a person pensionable circumstances before he has attained the years-
+
+*fifty.*
 
 (a) the date with effect from which any pension due to him under this Act shall be payable, shall be the date on which he attains that age, but, if he elects pursuant to paragraph5 to take a reduced pension and commuted pension gratuity, nothing in this paragraph shall prevent payment of the commuted pension gratuity at any time prior to the attainment of that age; and
 
@@ -696,11 +760,9 @@ one year’s pensionable emoluments; or (a)
 
 whichever is the greater.
 
-(2) Where a person dies while in receipt of a pension pursuant to paragraph 2 above, there shall be paid to his legal personal representatives a gratuity of an amount equivalent to one year’s pensionable emoluments of that person at the date
-
 *CAP. 30.*
 
-of his retirement or removal from office, from which gratuity shall be deducted any pension or gratuity already paid to that person under this Act or under the Pensions Act.
+(2) Where a person dies while in receipt of a pension pursuant to paragraph 2 above, there shall be paid to his legal personal representatives a gratuity of an amount equivalent to one year’s pensionable emoluments of that person at the date of his retirement or removal from office, from which gratuity shall be deducted any pension or gratuity already paid to that person under this Act or under the Pensions Act.
 
 *Pensions to dependents when the Om buds man dies as a result of injuries received or disease contracted in the discharge of his duties.*
 
@@ -712,11 +774,9 @@ of his retirement or removal from office, from which gratuity shall be deducted 
 
 (c) on account of circumstances specifically attributable to the nature of his duty,
 
-while serving in that office, it shall be lawful for the Governor-General to grant to the deceased Ombudsman’s widow, children, parents or other dependents such awards as would
-
 *CAP. 30.*
 
-have been made under the Pensions Act if the office of Ombudsman were a pensionable office for the purposes of that Act.
+while serving in that office, it shall be lawful for the Governor-General to grant to the deceased Ombudsman’s widow, children, parents or other dependents such awards as would have been made under the Pensions Act if the office of Ombudsman were a pensionable office for the purposes of that Act.
 
 *Pensions, etc. not to be assigned.*
 

@@ -104,6 +104,10 @@ Provided that where any part of such sums cannot be applied to the purposes afor
 
 **6.** The powers and duties of the Government under this Act may be exercised and performed in the name of the Minister for and on behalf of the Government, and all Relevant
 
+*EDITION 2020*
+
+### REVISED
+
 Documents and matters requiring signature in relation thereto may be signed for and on behalf of the Government by the Minister or by any other person specifically authorised in that behalf in writing by the Minister.
 
 *Exemption from tax, exchange control, etc.*

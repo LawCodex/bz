@@ -90,6 +90,10 @@ S.I. 110 of 2011.
 
 **4.** The Governor-General may by notice published in the Gazette alter the designation of any of the offices in the Schedule, or add any other office to the said Schedule, or remove there from any office designated therein.
 
+*THE*
+
+### SUBSTANTIVE LAWS OF BELIZE
+
 ## SCHEDULE LAW OFFICERS ACT List of Law Officers
 
 [sections 2, 3 and 4]

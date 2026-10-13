@@ -158,11 +158,17 @@ Establishment and Objectives of the Fund
 
 (5) The Fund shall have its principal office in Belmopan City or at such other place in Belize as the Board may decide.
 
-(6) The Fund may establish regional or local offices in any location within Belize as it considers necessary.
+*(6) The*
 
-*Objectives of the Fund.*
+Fund may establish regional or local offices in any location within Belize as it considers necessary.
 
-**5.** The objectives of the Fund include the following,
+*Objectives of the*
+
+*The*
+
+*Fund.*
+
+**5.** objectives of the Fund include the following,
 
 (a) establishing an efficient, complementary and demand- driven mechanism for delivering basic services and infrastructure to the poor and the needy, utilizing non- governmental organizations, community organizations and local decentralized agencies;
 
@@ -174,11 +180,15 @@ Establishment and Objectives of the Fund
 
 *Functions of the Fund.*
 
-**6.** (1) The Fund shall, subject to the availability of resources, approve projects and programmes and provide, either wholly or partially, financial and technical assistance to community groups with development goals, and local government organizations, for the execution of such projects or programmes which will serve to provide basic services to the most severely affected groups in the country.
+*approve or partially,*
 
-(2) In approving a project or programme under subsection
+*programmes*
 
-(1) of this section, the Board shall have regard to all relevant matters, including the following,
+**6.** (1) The Fund shall, subject to the availability of resources, projects and programmes and provide, either wholly financial and technical assistance to community groups with development goals, and local government organizations, for the execution of such projects or which will serve to provide basic services to the most severely affected groups in the country.
+
+*(2) In (1) of this matters,*
+
+approving a project or programme under subsection section, the Board shall have regard to all relevant including the following,
 
 (a) the financial aspect of the proposed project or programme;
 
@@ -194,7 +204,9 @@ Establishment and Objectives of the Fund
 
 (g) whether the applicant is an organization or other group of persons that falls within the geographic areas for poverty alleviation.
 
-(3) The Board shall have the power to approve,
+*(3) The*
+
+Board shall have the power to approve,
 
 (i) the procedures and criteria for project and programme selection, and the projects and programmes submitted for its consideration in accordance therewith;
 
@@ -226,17 +238,19 @@ Appointment of Staff, etc.
 
 (b) to delegate his powers provided for in paragraph (a) of this sub-section to other officers of the Fund.
 
-## PART IV
+## PART IV Administration
 
-Administration
+*Board of There Directors.*
 
-*Board of Directors.*
+*provided in shall be the*
 
-**9.** There shall be a Board of Directors of the Fund, appointed by the Minister which shall be constituted as provided in section 10 of this Act, and the Board of Directors shall be the policy making organ of the Fund.
+**9.** shall be a Board of Directors of the Fund, appointed by the Minister which shall be constituted as section 10 of this Act, and the Board of Directors policy making organ of the Fund.
 
-*Composition of the Board.*
+*Composition of 10.-(1) The the Board.*
 
-**10.** (1) The Board of Directors shall consist of the following persons,
+Board of Directors shall consist of the following
+
+*persons,*
 
 (a) representative from the Ministry of Economic Development;
 
@@ -244,9 +258,7 @@ Administration
 
 (c) a representative selected from the Ministry of Education;
 
-(d) a representative from the Ministry of Health;
-
-(e) a representative selected from the Non-Governmental Organization;
+(d) a representative from the Ministry of Health; (e) a representative selected from the Non-Governmental Organization;
 
 (f) a representative selected from the private sector organization;
 
@@ -278,17 +290,25 @@ Commission of Belize;
 
 (2) The Chairperson, or in his absence, the Deputy Chairperson, shall summon a special meeting of the Board within seven days of a requisition for that purpose addressed to him in writing by any three Directors.
 
-(3) A quorum for any meeting of the Board shall be four Directors, one of whom shall be the Executive Director.
+*(3) A*
 
-(4) Decisions of the Board shall be by majority of the votes cast provided that in any case in which the voting is equal, the person presiding at the meeting shall have a second or casting vote.
+quorum for any meeting of the Board shall be four Directors, one of whom shall be the Executive Director.
 
-(5) The Board shall employ the services of an official or other member of the staff as secretary and shall ensure that records are kept of its acts and decisions.
+(4) Decisions of the Board shall be by majority of the votes cast provided that in any case in which the voting is equal, the person presiding at the meeting shall have a second or casting
 
-*Disqualifications to be a Director.*
+*vote.*
 
-**12.** (1) No person shall be appointed or remain a Director who is a member of the National Assembly.
+*(5) The*
 
-(2) The Minister may terminate the appointment of the Chairperson or any other Director only if the Chairperson or such Director, as the case may be,
+Board shall employ the services of an official or other member of the staff as secretary and shall ensure that records are kept of its acts and decisions.
+
+*Disqualifications 12.-(1) No to be a Director.*
+
+person shall be appointed or remain a Director who is a member of the National Assembly.
+
+*(2) The*
+
+Minister may terminate the appointment of the Chairperson or any other Director only if the Chairperson or such Director, as the case may be,
 
 (a) by writing under his hand addressed to the person who selected him resigns his office;
 

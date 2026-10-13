@@ -72,13 +72,17 @@ This edition contains a consolidation of amendments made to the law by Act 20 of
 
 [6th March, 1999]
 
-*Short title.*
+*This Act Short title.*
 
-**1.** This Act may be cited as the Referendum Act.
+**1.** may be cited as the Referendum Act.
 
-*Circumstances in which a referendum shall be held. 1 of 2008.*
+*Circumstances in 2.–(1) Subject which a*
 
-**2.** (1) Subject to the provisions of this Act, a referendum shall be held in any of the following circumstances–
+*be held in any of referendum shall*
+
+to the provisions of this Act, a referendum shall the following circumstances–
+
+*be held. 1 of 2008.*
 
 (a) where the National Assembly passes a resolution declaring that a certain issue or matter is of sufficient national importance that it should be submitted to the electors for their view through a referendum;
 
@@ -86,7 +90,7 @@ This edition contains a consolidation of amendments made to the law by Act 20 of
 
 (c) where any law provides for the holding of a referendum on any specific issue or matter; or
 
-on any proposed settlement with the Republic of Guatemala for resolving the Belize/Guatemala border dispute.
+on any proposed settlement with the Republic of Guatemala for resolving Belize/Guatemala border dispute.
 
 *1 of 2008.*
 
@@ -112,51 +116,69 @@ on any proposed settlement with the Republic of Guatemala for resolving the Beli
 
 (c) of a request made to that effect by the Prime Minister in respect of the circumstances set out in section 2(1)(c) or (d),
 
-issue a Writ of Referendum in a form similar to the Writ of Elections in the Schedule V to the Representation of the People
-
 *CAP. 9.*
 
-Act, with any modifications and adaptations as may be necessary to satisfy the provisions of this Act, to the returning officers of the electoral divisions of Belize, or the particular district or area, as the case may be.
+*necessary to*
 
-(2) The day named in the Writ for the holding of a referendum shall not be less than thirty days after the issue of the Writ.
+issue a Writ of Referendum in a form similar to the Writ of Elections in the Schedule V to the Representation of the People Act, with any modifications and adaptations as may be satisfy the provisions of this Act, to the returning officers of the electoral divisions of Belize, or the particular district or area, as the case may be.
 
-(3) The Writ of Referendum shall specify whether the referendum shall be held in the whole of Belize or in any specific district or area of Belize.
+*referendum the Writ.*
 
-(4) Upon receipt of the Writ, every returning officer to whom the Writ is addressed shall proceed to hold the referendum in accordance with this Act and the directions of the Elections and Boundaries Commission.
+(2) The day named in the Writ for the holding of a shall not be less than thirty days after the issue of
 
-*Persons qualified to vote.*
+*(3) The referendum*
 
-**4.** The persons qualified to vote in a referendum held under this Act shall, subject to section 3(3), be as follows–
+Writ of Referendum shall specify whether the shall be held in the whole of Belize or in any specific district or area of Belize.
+
+*(4) Upon whom the*
+
+*Elections and*
+
+receipt of the Writ, every returning officer to Writ is addressed shall proceed to hold the referendum in accordance with this Act and the directions of the Boundaries Commission.
+
+*Persons qualified The to vote.*
+
+**4.** persons qualified to vote in a referendum held under this Act shall, subject to section 3(3), be as follows–
 
 (a) where the referendum is to be held in the whole of Belize, all those duly registered electors who, at the date of the holding of the referendum are qualified to vote as electors for the election of members of the House of
 
 *CAP. 9*
 
-Representatives in an election conducted
+*CAP. 9.*
+
+Representatives in an election conducted under the Representation of the People Act; or
 
 *CAP. 9.*
 
-under the Representation of the People Act; or
+(b) where the referendum is to be held only in an area of Belize defined in the Writ of Referendum, all those duly registered electors who are residents of the area so defined and who, at the date of the holding of the referendum, are qualified to vote as electors under the Representation of the People Act, for the election to the House of Representatives of the area representative of the electoral division in which the area so defined is comprised.
 
-(b) where the referendum is to be held only in an area of Belize defined in the Writ of Referendum, all those duly registered electors who are residents of the area so defined and who, at the date of the holding of the referendum, are qualified to vote as electors
+*Appointment of*
 
-*CAP. 9.*
+*5.–(1) The*
 
-under the Representation of the People Act, for the election to the House of Representatives of the area representative of the electoral division in which the area so defined is comprised.
+*returning*
 
-*Appointment of returning officers.*
+*returning*
 
-**5.** (1) The Elections and Boundaries Commission shall appoint returning officers for each electoral division or area where the referendum is to be held.
+*officers.*
 
-(2) Subject to the directions of the Chief Elections Officer, it shall be the duty of the returning officer within his electoral division or area to do all things as may be necessary for effectually conducting the referendum and the counting of the votes cast.
+Elections and Boundaries Commission shall appoint officers for each electoral division or area where the referendum is to be held.
 
-(3) The returning officer shall not declare the results of the ballot in his electoral division or area, but shall certify to the Chief Elections Officer–
+*division or effectually votes cast.*
+
+(2) Subject to the directions of the Chief Elections Officer, it shall be the duty of the returning officer within his electoral area to do all things as may be necessary for conducting the referendum and the counting of the
+
+*(3) The ballot in his*
+
+returning officer shall not declare the results of the electoral division or area, but shall certify to the Chief Elections Officer–
 
 (a) the total number of ballot papers counted; and
 
 (b) the number of votes cast for and against the proposition in his electoral division or area;
 
-and the Chief Elections Officer shall issue a certificate stating the results of the referendum in the entire country or part as the case may be.
+*the results of case may be.*
+
+and the Chief Elections Officer shall issue a certificate stating the referendum in the entire country or part as the
 
 *Validity of referendum. 20 of 2017.*
 
@@ -166,11 +188,9 @@ and the Chief Elections Officer shall issue a certificate stating the results of
 
 **6.** (1) A referendum under this Act shall be conducted, so far as may be, in accordance with the provisions of the Representation of the People Act and Regulations made thereunder.
 
-(2) Without prejudice to the generality of the foregoing, the
-
 *CAP. 9*
 
-following provisions of the Representation of the People Act, and Regulations made thereunder, as they apply to the election of members of the House of Representatives, shall apply, with the necessary modifications, to the referendum, that is to say, the provisions relating to the appointment of polling stations, presiding officers, clerks and other staff, the provision of elections material, the conduct of, and maintenance of order at, the poll, the security of ballot papers and ballot boxes, the counting of the votes, and all matters incidental to the foregoing provisions, including election offences.
+(2) Without prejudice to the generality of the foregoing, the following provisions of the Representation of the People Act, and Regulations made thereunder, as they apply to the election of members of the House of Representatives, shall apply, with the necessary modifications, to the referendum, that is to say, the provisions relating to the appointment of polling stations, presiding officers, clerks and other staff, the provision of elections material, the conduct of, and maintenance of order at, the poll, the security of ballot papers and ballot boxes, the counting of the votes, and all matters incidental to the foregoing provisions, including election offences.
 
 *Regulations.*
 
@@ -182,11 +202,9 @@ following provisions of the Representation of the People Act, and Regulations ma
 
 (b) as to the form and contents of a petition to be presented to the Governor-General pursuant to section 2(1)(b);
 
-(c) subject to this Act, for the modification of the
-
 *CAP. 9*
 
-Representation of the People Act, and Regulations made thereunder, including any omissions from, additions to and amendments to, the Act, for the purpose of this Act; and
+(c) subject to this Act, for the modification of the Representation of the People Act, and Regulations made thereunder, including any omissions from, additions to and amendments to, the Act, for the purpose of this Act; and
 
 for any other matter appearing to be necessary or expedient for the purposes of this Act.
 

@@ -120,27 +120,33 @@ rate specified in Column 3 of the Schedule opposite the goods in question; and
 
 (a) or (b) above ……..............3% ad valorem.
 
-(2) The tax shall be charged on the c.i.f. value of the goods
-
 *CAP. 48.*
 
-as if the tax were a duty of customs within the meaning of the Customs and Excise Duties Act.
+*as if the tax Customs and*
 
-(3) The tax shall be in addition to the customs duties leviable under any customs law.
+(2) The tax shall be charged on the c.i.f. value of the goods were a duty of customs within the meaning of the Excise Duties Act.
+
+*under any*
+
+(3) The tax shall be in addition to the customs duties leviable customs law.
 
 *4 of 2009.*
 
-(4) The Minister may, from time to time by Order published in the Gazette, amend the Schedule.
+*(4) The*
+
+Minister may, from time to time by Order published in the Gazette, amend the Schedule.
 
 *4 of 2009.*
 
-(5) Every Order made by the Minister pursuant to subsection
+*(4) of this National*
 
-(4) of this section, shall be subject to negative resolution of the National Assembly.
+(5) Every Order made by the Minister pursuant to subsection section, shall be subject to negative resolution of the Assembly.
 
 *Exemptions. 34 of 2001.*
 
-**4.** (1) There shall be exempted from the application of tax, the following medicines and medical supplies for human use, namely–
+*following namely–*
+
+**4.** (1) There shall be exempted from the application of tax, the medicines and medical supplies for human use,
 
 (a) analgesics in the form of liquids, tablets, capsules, or other solid dosage forms for oral or rectal use;
 
@@ -156,9 +162,9 @@ as if the tax were a duty of customs within the meaning of the Customs and Excis
 
 (g) bandages, dressings and medicated plasters, salves and ointments, and dialysis fluids.
 
-*34 of 2001.*
+*34 of 2001. (2) In (1), the tax–*
 
-(2) In addition to the exemptions granted under subsection (1), the following goods shall be exempt from the application of tax–
+addition to the exemptions granted under subsection following goods shall be exempt from the application of
 
 (a) basic foodstuffs, namely, rice, beans, potatoes, coffee, tea, butter and butter substitutes, cheese, margarine, cooking oil, shortening, lard and lard substitutes, milk in powder form, condensed milk, baby formula, sardines, meat of swine salted or in brine, corned beef, salt;
 
@@ -168,29 +174,47 @@ as if the tax were a duty of customs within the meaning of the Customs and Excis
 
 (c) goods imported from CARICOM countries.
 
-*Refund of tax. 34 of 2001.*
+*Refund of tax. A person 34 of 2001.*
 
-**5.** A person who imports goods referred to in section 3 shall be granted to a refund of the tax paid by him if he satisfies the Comptroller that the imported goods have been re-exported.
+*be granted to a Comptroller that*
 
-*Administration.*
+**5.** who imports goods referred to in section 3 shall refund of the tax paid by him if he satisfies the the imported goods have been re-exported.
 
-**6.** (1) This Act shall be administered by the Comptroller.
+*Administration. 6.–(1) This Act*
 
-*CAP 49.*
+shall be administered by the Comptroller.
 
-(2) The provisions of the Customs Regulations Act and the regulations made thereunder relating to–
+*CAP 49. (2) The regulations*
+
+provisions of the Customs Regulations Act and the made thereunder relating to–
 
 (a) the payment, collection and recovery of duties under that Act; and
 
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
+
 (b) the contravention of that Act,
 
-shall apply mutatis mutandis to the payment, collection and recovery of the tax levied under this Act and to the contravention of this Act, as if the tax were a duty of customs.
+*shall apply*
 
-(3) The tax shall become due and payable at the time the goods are entered and shall be the liability of the importer.
+mutatis mutandis to the payment, collection and recovery of the tax levied under this Act and to the contravention of this Act, as if the tax were a duty of customs.
 
-*Use of proceeds of tax. 34 of 2001.*
+*goods are*
 
-**7.** The proceeds of the tax shall be placed into a special fund and shall be used–
+(3) The tax shall become due and payable at the time the entered and shall be the liability of the importer.
+
+*Use of proceeds*
+
+*The*
+
+*of tax.*
+
+*and shall be*
+
+*34 of 2001.*
+
+**7.** proceeds of the tax shall be placed into a special fund used–
 
 (a) to develop a national solid waste management programme;
 
@@ -208,7 +232,9 @@ shall apply mutatis mutandis to the payment, collection and recovery of the tax 
 
 *Regulations.*
 
-**8.** The Minister may make regulations for the better carrying out of the provisions of this Act and for prescribing anything that needs to be prescribed.
+*The*
+
+**8.** Minister may make regulations for the better carrying out of the provisions of this Act and for prescribing anything that needs to be prescribed.
 
 ## SCHEDULE 1
 

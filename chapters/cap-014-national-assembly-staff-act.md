@@ -68,9 +68,9 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 ### NATIONAL ASSEMBLY STAFF
 
-[19th February, 2000] 1 of 2000.
+*1 of 2000. S.I. 37 of 2000.*
 
-S.I. 37 of 2000.
+[19th February, 2000]
 
 *Short title.*
 
@@ -78,9 +78,9 @@ S.I. 37 of 2000.
 
 *Act.*
 
-*Interpretation.*
+*Interpretation. In this*
 
-**2.** In this Act, unless the context otherwise require,
+**2.** Act, unless the context otherwise require,
 
 “Clerk” means the person holding office of (a)
 
@@ -98,11 +98,19 @@ office of Deputy Clerk to the National Assembly pursuant to section 67 (1) of th
 
 being responsible for Finance.
 
-*Establishment of National Assembly Staff Committee.*
+*Establishment of 3.-(1) For the National*
 
-**3.** (1) For the purposes of this Act, there shall be established a National Assembly Staff Committee, which shall consist of,
+*National Assembly Staff*
+
+purposes of this Act, there shall be established a Assembly Staff Committee, which shall consist of,
+
+*Committee.*
 
 (a) the Speaker of the House of Representatives, or in his absence the Deputy Speaker;
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 (b) three members of the House of Representatives nominated by the House;
 

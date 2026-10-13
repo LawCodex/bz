@@ -36,17 +36,21 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 This is a revised edition of the Substantive Laws, prepared by the Law Revision Commissioner under the authority of the Law Revision Act, Chapter 3 of the Substantive Laws of Belize, Revised Edition 2020.
 
+### [CAP. 27
+
 ## ARRANGEMENT OF SECTIONS
 
-**1.** Short title.
+Short title.
 
-**2.** Interpretation.
+Interpretation.
 
 **3.** Officer leaving Belize to give notice in writing.
 
+[CAP.
+
 [25th September, 1892] Ch. 230,
 
-R. L. 1958.
+R. L.
 
 CAP. 19,
 
@@ -73,3 +77,5 @@ the Governor- General, Prime Minister, or a Minister to be–
 *Officer leaving Belize to give notice in writing.*
 
 **3.** Every officer intending to go beyond the limits of Belize shall give written notice of such intention to the Governor-General, the Prime Minister or Minister, as the case may be.
+
+### THE SUBSTANTIVE LAWS OF BELIZE

@@ -78,6 +78,8 @@ Constitution, etc., of the Council, Members of the Council, and their Qualificat
 
 **12.** Power to fix allowances.
 
+*[CAP.*
+
 ## PART III
 
 Appointment of Officers, Employees, Conditions of Service and Elections.
@@ -135,6 +137,10 @@ Municipal Bond
 Maintenance of records and accounts.
 
 **23I.** Bond related regulations.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 ## PART V
 
@@ -276,11 +282,9 @@ Preliminary
 
 *12 of 2017.*
 
-“bond” means a bond issued by the Belmopan City Council
-
 *Schedule I.*
 
-with the approval of the Minister responsible for finance and specified in Schedule I;
+“bond” means a bond issued by the Belmopan City Council with the approval of the Minister responsible for finance and specified in Schedule I;
 
 *12 of 2017.*
 
@@ -296,11 +300,9 @@ with the approval of the Minister responsible for finance and specified in Sched
 
 *12 of 2017.*
 
-“financial institution” means any financial institution licensed
-
 *CAP. 263.*
 
-and regulated under the Domestic Banks and Financial Institutions Act;
+“financial institution” means any financial institution licensed and regulated under the Domestic Banks and Financial Institutions Act;
 
 “general election” means an election held by reason of the expiration of the term of office of the Council;
 
@@ -354,17 +356,21 @@ Constitution, etc., of the Council, Members of the Council, and their Qualificat
 
 provided that a vacancy shall not be filled if it occurs within a period of one year before the time when the seat which is vacated would ordinarily have been vacated.
 
-*Date of General Election.*
+*Date of General An Election.*
 
-**5.** An election of members of the Council shall be held on the first Wednesday next ensuing after the day on which the term of office of the Council expires.
+*the first*
 
-*Qualification of members.*
+**5.** election of members of the Council shall be held on Wednesday next ensuing after the day on which the term of office of the Council expires.
 
-**6.** No person shall be capable of being elected as a member of the Council who is Qualification not a Belizean citizen and a registered voter of the City of Belmopan.
+*Qualification of No members.*
 
-*Disqualification of certain persons from being members.*
+*citizen and a*
 
-**7.** (1) No person shall be eligible for election as a member of the Council, or having been elected, shall sit or vote on the Council, who–
+**6.** person shall be capable of being elected as a member of the Council who is Qualification not a Belizean registered voter of the City of Belmopan.
+
+*Disqualification 7.-(1) No of certain persons from being members.*
+
+person shall be eligible for election as a member of the Council, or having been elected, shall sit or vote on the Council, who–
 
 (a) holds an office of employment or place of profit in the gift or disposal of the Council;
 
@@ -382,13 +388,13 @@ provided that a vacancy shall not be filled if it occurs within a period of one 
 
 (h) has not ordinarily resided in the City of Belmopan for at least one year immediately preceding the date of the election or is not domiciled in Belize or ordinarily resident therein at the date of the election; or
 
-(i) is or becomes a member of the National
-
 *CAP. 4.*
 
-Assembly or of any Commission established by or under the Belize Constitution.
+(i) is or becomes a member of the National Assembly or of any Commission established by or under the Belize Constitution.
 
-(2) For the purposes of this section, a person shall not be disqualified from being a member by reason of his being interested in–
+*(2) For the disqualified interested in–*
+
+purposes of this section, a person shall not be from being a member by reason of his being
 
 (a) any contract in respect of which the Minister shall remove the disqualification if he is of the opinion that such removal will be of public benefit; or
 
@@ -396,7 +402,9 @@ Assembly or of any Commission established by or under the Belize Constitution.
 
 (c) any contract with the Council as a shareholder in any joint stock company, but he shall not vote at any meeting of the Council on any question in which such company is interested.
 
-(3) The office of Mayor of the Council and the office of a member are declared not to be offices of employment or places of profit in the gift or disposal of the Council although
+*(3) The member are of profit in*
+
+office of Mayor of the Council and the office of a declared not to be offices of employment or places the gift or disposal of the Council although
 
 remuneration may be paid to such Mayor and member out of moneys provided by the Council.
 
@@ -428,23 +436,27 @@ makes any declaration or acknowledgment of allegiance to any foreign state or po
 
 (f) accepts any office of emolument in the Public Service or under a Town Council or City Council in Belize;
 
-(g) becomes a member of the National Assembly or of any Commission established under the
-
 *CAP. 4.*
 
-Belize Constitution;
+(g) becomes a member of the National Assembly or of any Commission established under the Belize Constitution;
 
 (h) is absent without leave or other reasonable cause from four consecutive meetings of the Council; or
 
 (i) becomes subject to any of the disqualifications specified in sections 6 and 7,
 
-his seat on the Council shall thereupon become vacant.
+*his seat on the*
+
+Council shall thereupon become vacant.
 
 *Election of Mayor.*
 
-**10.** (1) The Mayor shall be directly elected by the electorate from among persons who offer themselves as candidates for Mayor in a general election held to elect a new Council.
+*10.-(1) The from among Mayor in a*
 
-(2) At the first meeting of the Council after every general election to constitute a new Council, and at the end of every
+Mayor shall be directly elected by the electorate persons who offer themselves as candidates for general election held to elect a new Council.
+
+*(2) At the election to*
+
+first meeting of the Council after every general constitute a new Council, and at the end of every
 
 year thereafter, the members of the Council shall elect a Deputy Mayor from among their number.
 
@@ -524,11 +536,9 @@ Appointment of Officers, Employees, Conditions of Service and Elections.
 
 is entitled to vote at the election of a member of the Council.
 
-(2) Notwithstanding sub-section (1), a person who has been
-
 *CAP. 9.*
 
-registered under the Representation of the People Act, but who is unable to produce his identification card, shall be permitted to vote upon proving to the satisfaction of the presiding officer that although he has been registered, he has not been issued with an identification card or that the identification card issued to him has been lost or destroyed.
+(2) Notwithstanding sub-section (1), a person who has been registered under the Representation of the People Act, but who is unable to produce his identification card, shall be permitted to vote upon proving to the satisfaction of the presiding officer that although he has been registered, he has not been issued with an identification card or that the identification card issued to him has been lost or destroyed.
 
 (3) Where a person is permitted to vote under sub-section (2), the presiding officer shall so state to the candidates or agents then present in the polling station, and also make a record of his reasons for so doing and shall maintain a list of the names and registration numbers of the electors voting without producing their identification cards, showing the number of the ballot paper issued to each of them.
 
@@ -562,23 +572,29 @@ to provide for the conduct of elections of members of the Council;
 
 (m) to prescribe for all such other matters relating to elections as may be necessary for the carrying out of the provisions of this Act.
 
-(2) Contraventions of any Regulations made under subsection (1) may be declared by the Elections and Boundaries Commission to be illegal practices, and provision may be made in the said Regulations for the punishment on summary conviction, of persons committing or aiding, abetting, inciting, taking part or attempting to take part in the commission of such illegal practices, by–
+*in the said*
+
+*such illegal*
+
+Contraventions of any Regulations made under subsection (1) may be declared by the Elections and Boundaries Commission to be illegal practices, and provision may be made Regulations for the punishment on summary conviction, of persons committing or aiding, abetting, inciting, taking part or attempting to take part in the commission of practices, by–
 
 (a) a fine not exceeding two thousand dollars; and
 
-(b) disqualification from voting at any election
-
 *CAP.87. CAP. 85. CAP. 9*
 
-under this Act, the Belize City Council Act, the Town Councils Act, the Representation of the People Act, and from being elected or appointed, as the case may be, as a member of a City Council, Town Council, Village Council, or of the National Assembly for a period of three years from the date of his conviction.
+(b) disqualification from voting at any election under this Act, the Belize City Council Act, the Town Councils Act, the Representation of the People Act, and from being elected or appointed, as the case may be, as a member of a City Council, Town Council, Village Council, or of the National Assembly for a period of three years from the date of his conviction.
 
-(3) Regulations made by the Election and Boundaries Commission under this section shall be laid on the table of the House of Representatives by the Minister as soon as may be after the making thereof and shall be subject to negative resolution.
+*Commission House of after the resolution.*
 
-(4) Until such time as Regulations mentioned in this section are made by the Elections and Boundaries Commission, Regulations applicable to Belize City in respect of the same matters shall be applied, mutatis mutandis, to elections for the City of Belmopan.
+(3) Regulations made by the Election and Boundaries under this section shall be laid on the table of the Representatives by the Minister as soon as may be making thereof and shall be subject to negative
 
-*Election expenses regulations.*
+*(4) Until section are*
 
-**17.** (1) The Minister may make Regulations–
+such time as Regulations mentioned in this made by the Elections and Boundaries Commission, Regulations applicable to Belize City in respect of the same matters shall be applied, mutatis mutandis, to elections for the City of Belmopan.
+
+*Election 17.-(1) The expenses regulations.*
+
+Minister may make Regulations–
 
 (a) with respect to the incurring of expenses and the making of payments by or on behalf of a candidate, whether before, during or after an
 
@@ -592,17 +608,15 @@ election, on account of or in respect of, the conduct or management of such elec
 
 (e) requiring a return of expenses and prescribing the form in which the same shall be made and verified.
 
-(2) Contraventions of Regulations made under sub-section
+*(1) may be provisions may punishment on aiding, abetting, in the*
 
-(1) may be declared by the Minister to be illegal practices, and provisions may be made in the said Regulations for the punishment on summary conviction, of persons committing or aiding, abetting, inciting, attempting to take part or taking part in the commission of such illegal practices, by–
+(2) Contraventions of Regulations made under sub-section declared by the Minister to be illegal practices, and be made in the said Regulations for the summary conviction, of persons committing or inciting, attempting to take part or taking part commission of such illegal practices, by–
 
 (a) a fine not exceeding two thousand dollars; and
 
-(b) disqualification from voting at any election
-
 *CAP. 87. CAP. 85. CAP. 9.*
 
-under this Act, the Town Councils Act, the Belize City Council Act, the Representation of the People Act, and from being elected or appointed, as the case may be, as a member of a City Council, Town Council, Village
+(b) disqualification from voting at any election under this Act, the Town Councils Act, the Belize City Council Act, the Representation of the People Act, and from being elected or appointed, as the case may be, as a member of a City Council, Town Council, Village
 
 Council or of the National Assembly for a period of three years from the date of his conviction.
 
@@ -618,19 +632,35 @@ Council or of the National Assembly for a period of three years from the date of
 
 (2) The Chief Elections Officer shall, with the approval of the Commission, appoint an Election Clerk and one or more Assistant Clerks for the City of Belmopan. If at any time between the dissolution of a Council and the declaration of the result of the election following thereon the Returning Officer dies or becomes incapable of performing his duties as such, the Election Clerk shall forthwith report that fact to the Chief Elections Officer and shall discharge all the duties and exercise
 
-all the powers of the Returning Officer until some other Returning Officer is appointed or the Returning Officer ceases to be incapable of performing his duties, as the case may be.
+*Returning*
 
-(3) An appointment made under sub-sections (1) and (2) may be revoked at any time.
+all the powers of the Returning Officer until some other Officer is appointed or the Returning Officer ceases to be incapable of performing his duties, as the case may be.
+
+*(3) An*
+
+appointment made under sub-sections (1) and (2) may be revoked at any time.
 
 ## PART IV
 
 Meetings, Finances, etc., of the Council
 
-*Council’s meetings regulations.*
+*Council’s*
 
-**19.** (1) The Council may from time to time make Regulations to regulate Council meetings and proceedings, and the meetings and proceedings of any Committees established by the Council.
+*19.-(1) The*
 
-(2) Without prejudice to the generality of sub-section (1), such Regulations may provide for all or any of the following matters, namely–
+*meetings*
+
+*to regulate*
+
+*regulations.*
+
+Council may from time to time make Regulations Council meetings and proceedings, and the meetings and proceedings of any Committees established by
+
+*the Council.*
+
+*such matters,*
+
+(2) Without prejudice to the generality of sub-section (1), Regulations may provide for all or any of the following namely–
 
 (a) the regulation of the proceedings of the Council and of Committees and the conduct of meetings thereof respectively;
 
@@ -686,11 +716,9 @@ officers and employees;
 
 **22.** (1) The Council may, with the approval of the Minister of Finance, borrow sums required by it for meeting any of its obligations or discharging of its functions.
 
-(2) Subject to sub-section (1), it shall be lawful for the Council to establish companies under the Companies Act to
-
 *CAP. 250.*
 
-raise funds for infrastructural development projects.
+(2) Subject to sub-section (1), it shall be lawful for the Council to establish companies under the Companies Act to raise funds for infrastructural development projects.
 
 (3) The Council may, either directly or through companies established by it, float bonds or issues shares or debentures for the purpose of exercising its borrowing powers under this Act.
 
@@ -780,13 +808,25 @@ Municipal Bond
 
 (b) principal or interest is due and payable to bondholders in respect of the bond, a report of the audit conducted under sub-section (2) and a report on all the projects and activities undertaken wholly or partly with bond proceeds.
 
-(4) The Minister shall lay a copy of the reports referred to in sub-section (3) before both Houses of the National Assembly as soon as possible after he receives them.
+*(4) The*
 
-(5) The Council shall cause a copy of the reports referred to in sub-section (3) to be made available to members of the public on the Council’s website or otherwise, while simultaneously being laid before both Houses of the National Assembly.
+*Assembly as*
 
-*Bond related regulations. 12 of 2017.*
+Minister shall lay a copy of the reports referred to in sub-section (3) before both Houses of the National soon as possible after he receives them.
 
-**23I.** The Council may, with the approval of the Minister, make regulations for–
+*(5) The*
+
+Council shall cause a copy of the reports referred to in sub-section (3) to be made available to members of the public on the Council’s website or otherwise, while simultaneously being laid before both Houses of the National
+
+*Assembly.*
+
+*Bond related*
+
+*23I. The*
+
+*regulations. 12 of 2017.*
+
+Council may, with the approval of the Minister, make regulations for–
 
 (a) the registration and certification of bonds issued;
 
@@ -804,13 +844,19 @@ Municipal Bond
 
 ## PART V
 
-Duties and Powers of the Council on Streets and Adjoining Lands
+*Duties and*
 
-*General powers as to streets, etc.*
+Powers of the Council on Streets and Adjoining Lands
 
-**24.** (1) All streets, in which term is included public drains and bridges within the boundaries of the City of Belmopan, shall be under the control, care and management of the Council.
+*General powers 24.-(1) All as to streets, etc.*
 
-(2) The Council is empowered in respect of any street to do any of the following things–
+*be under the*
+
+streets, in which term is included public drains and bridges within the boundaries of the City of Belmopan, shall control, care and management of the Council.
+
+*(2) The any of the*
+
+Council is empowered in respect of any street to do following things–
 
 (a) to lay out, construct, repair, alter or widen all streets with such material and in such manner as the Council thinks fit;
 
@@ -842,11 +888,9 @@ subject to the Motor Vehicles and Road Traffic Act, to determine traffic flows, 
 
 powers, genuinely consider and take into account the representations, if any, made by the residents of the City of Belmopan, but shall not be obliged to follow them.
 
-(7) The Council shall, in addition to the powers specified in this section, enjoy such further additional powers in respect of public roads and streets within the City of Belmopan as are or
-
 *CAP. 232.*
 
-may hereafter be conferred upon it by or under the Public Roads Act.
+(7) The Council shall, in addition to the powers specified in this section, enjoy such further additional powers in respect of public roads and streets within the City of Belmopan as are or may hereafter be conferred upon it by or under the Public Roads Act.
 
 *Council’s power to co-ordinate activities of utility agencies.*
 
@@ -862,11 +906,9 @@ may hereafter be conferred upon it by or under the Public Roads Act.
 
 (6) In this section, the expression “utility agencies” means all corporations, companies, and entities which provide electricity, water and sewerage, telephone, tele-fax, gas, and other utility services.
 
-(7) The provisions of this section shall have effect notwithstanding the provisions of any other law to the contrary
-
 *CAP. 223.*
 
-but shall be exercised subject to the provisions of the Public Utilities Act.
+(7) The provisions of this section shall have effect notwithstanding the provisions of any other law to the contrary but shall be exercised subject to the provisions of the Public Utilities Act.
 
 *Penalties for damages to streets, etc.*
 
@@ -890,13 +932,19 @@ building or land in his occupation on a street or other public right of way;
 
 (h) defaces, obliterates or removes any number, mark or name painted or affixed on any lot, house, building, street, sign, street lights or square,
 
-commits an offence and is liable on summary conviction to a fine not exceeding five hundred dollars and to a further sum equal to the cost incurred by the Council in removing the encroachment, obstruction or matter, or in repairing any injury done as specified in paragraphs (a) to (h).
+*commits an fine not equal to the*
 
-(2) No penalty shall be imposed under this section unless the information or complaint is laid by the authority of the Council or some officer thereof.
+*done as*
 
-*Duty to fence or repair fences in certain cases.*
+offence and is liable on summary conviction to a exceeding five hundred dollars and to a further sum cost incurred by the Council in removing the encroachment, obstruction or matter, or in repairing any injury specified in paragraphs (a) to (h).
 
-**27.** If any land adjoining any street within the boundaries of the City of Belmopan is allowed to remain unfenced or if the fences of such land are allowed to be or remain out of repair and the land is, owing to the absence or inadequate repair of
+*(2) No*
+
+penalty shall be imposed under this section unless the information or complaint is laid by the authority of the Council or some officer thereof.
+
+*Duty to fence or If any repair fences in the City of certain cases.*
+
+**27.** land adjoining any street within the boundaries of Belmopan is allowed to remain unfenced or if the fences of such land are allowed to be or remain out of repair and the land is, owing to the absence or inadequate repair of
 
 any such fences, a source of danger to passengers, cyclists or pedestrians, or is used for any immoral or indecent purpose, or for any purpose causing inconvenience or annoyance to the public, the Council may, at any time after the expiration of fourteen days from the service upon the owner or occupier of such land of a notice in writing by the Council requiring the land to be fenced or any fence on the land to be repaired, cause the land to be fenced or the fences thereto to be repaired in a manner it thinks fit, and the reasonable expenses thereby incurred shall be recoverable from the owner or occupier summarily as a civil debt.
 
@@ -932,9 +980,17 @@ to impose such restrictions upon owners of land as may be necessary to prevent a
 
 (k) to do all such other things or matters for the purpose of increasing the convenience and amenity of the City of Belmopan.
 
-*Additional general duties of the Council.*
+*Without*
 
-Without prejudice to any other powers conferred upon, or duties imposed on, the Council by this or any other Act or Regulations made thereunder, the Council shall have the obligation to perform the following duties in the City of Belmopan in an efficient and timely manner–
+*Additional general duties of*
+
+*or duties*
+
+*the Council.*
+
+*Regulations obligation to Belmopan in an*
+
+prejudice to any other powers conferred upon, imposed on, the Council by this or any other Act or made thereunder, the Council shall have the perform the following duties in the City of efficient and timely manner–
 
 (a) to maintain all public cemeteries in the City of Belmopan in a sanitary manner and to keep such cemeteries in a general state of good repair;
 
@@ -1060,13 +1116,25 @@ Subject to the provisions of this Part, where a person retires from the service 
 
 (b) any periods during which an officer has been absent from duty on leave with full pay.
 
-(2) The periods during which an officer has been absent on leave on half-pay shall, for the purposes of this Part, be counted at the rate of one day for every two days of such period.
+*(2) The leave on*
 
-(3) Any period during which he has been absent on leave, other than those specified above, shall be deducted from the officer’s total service in order to arrive at his period of pensionable service.
+periods during which an officer has been absent on half-pay shall, for the purposes of this Part, be counted at the rate of one day for every two days of such
 
-*Computation of pensions, etc., on what emolument to be based.*
+*period.*
 
-**47.** For the purpose of computing the amount of an officer’s pension–
+*(3) Any other than*
+
+*pensionable*
+
+period during which he has been absent on leave, those specified above, shall be deducted from the officer’s total service in order to arrive at his period of service.
+
+*Computation of pensions, etc., on*
+
+*officer’s*
+
+*what emolument to be based.*
+
+**47.** For the purpose of computing the amount of an pension–
 
 (a) in the case of an officer who has held one office for a period of three years immediately preceding the date of his retirement, the full pensionable emoluments payable to him at that date in respect of that office shall be taken;
 
@@ -1074,13 +1142,17 @@ Subject to the provisions of this Part, where a person retires from the service 
 
 (c) in other cases, the average of the full pensionable emoluments payable in respect of each of the offices substantively held by the officer during his tenure thereof within such period of three years shall be taken,
 
-provided that if such average is less than the full pensionable emoluments which were payable to him at the date of the first transfer within such period of three years, the
+*pensionable of the first*
 
-Council may grant him a pension calculated upon the full pensionable emoluments payable to him at that date.
+provided that if such average is less than the full emoluments which were payable to him at the date transfer within such period of three years, the
 
-*Pensions Regulations.*
+*pensionable*
 
-**48.** (1) The Council may make Regulations to govern the administration of pensions and gratuities payable to its officers and employees under this Part.
+Council may grant him a pension calculated upon the full emoluments payable to him at that date.
+
+*Pensions 48.-(1) The Regulations.*
+
+Council may make Regulations to govern the administration of pensions and gratuities payable to its officers and employees under this Part.
 
 (2) Regulations made by the Council under sub-section (1) shall be subject to negative resolution.
 
@@ -1088,11 +1160,15 @@ Council may grant him a pension calculated upon the full pensionable emoluments 
 
 Miscellaneous
 
-*General powers of council to make By-laws.*
+*General powers 49.-(1) The of council to*
 
-**49.** (1) The Council may from time to time make By-laws on all matters connected with the rule and good order of the City of Belmopan and for of Council to the proper carrying out of the objects and purposes of this Act.
+*all matters make By-laws. of Belmopan*
 
-(2) Without prejudice to the generality of sub-section (1), such By-laws may provide for all or any of the following, namely–
+Council may from time to time make By-laws on connected with the rule and good order of the City and for of Council to the proper carrying out of the objects and purposes of this Act.
+
+(2) Without prejudice to the generality of sub-section (1), such By-laws may provide for all or any of the following,
+
+*namely–*
 
 (a) for the establishment, control and use of public lavatories and latrines;
 
@@ -1112,7 +1188,9 @@ Miscellaneous
 
 (i) generally for all matters connected with the rule and good government of the City of Belmopan and the proper carrying out of the objects and purposes of this Act.
 
-(3) All By-laws made by the Council under this section shall be laid before the House of Representatives through the
+*(3) All shall be laid*
+
+By-laws made by the Council under this section before the House of Representatives through the
 
 Minister after the making thereof and shall be subject to negative resolution by that House.
 
@@ -1120,11 +1198,9 @@ Minister after the making thereof and shall be subject to negative resolution by
 
 **50.** (1) Where any By-laws made by the Council under this Act prescribes any fees, fines, penalties and forfeitures, such By-laws shall be subject to affirmative resolution by the House of Representatives.
 
-(2) All licences, fees, fines, penalties and forfeitures
-
 *CAP. 98. CAP. 99.*
 
-imposed by this Act or any By-laws made hereunder shall be recoverable under the Summary Jurisdiction (Offences) Act, and Summary Jurisdiction (Procedure) Act.
+(2) All licences, fees, fines, penalties and forfeitures imposed by this Act or any By-laws made hereunder shall be recoverable under the Summary Jurisdiction (Offences) Act, and Summary Jurisdiction (Procedure) Act.
 
 *Admissibility in evidence of Council’s signed documents.*
 
@@ -1152,11 +1228,9 @@ until evidence is given to the contrary.
 
 *Acquisition of land.*
 
-**53.** Where any land is required for public purposes by the Council, such land shall for all purposes be taken to be land required by the Minister for public purposes, and may be
-
 *CAP. 184.*
 
-acquired in the manner prescribed by the Land Acquisition (Public Purposes) Act.
+**53.** Where any land is required for public purposes by the Council, such land shall for all purposes be taken to be land required by the Minister for public purposes, and may be acquired in the manner prescribed by the Land Acquisition (Public Purposes) Act.
 
 *Execution of work in case of default.*
 
@@ -1168,11 +1242,9 @@ acquired in the manner prescribed by the Land Acquisition (Public Purposes) Act.
 
 the Council shall have the like rights and remedies as if the payment of such expenses, interest and costs had been secured by a legal mortgage of a fee simple in favour of the Council.
 
-(4) The Council shall not obtain any charge under this section unless a memorandum giving particulars of the charge is executed by the Council and recorded at the General Registry within two months from completion of the work executed or carried out by the Council or within such further
-
 *CAP. 327.*
 
-time as the Chief Justice may allow under the General Registry Act.
+(4) The Council shall not obtain any charge under this section unless a memorandum giving particulars of the charge is executed by the Council and recorded at the General Registry within two months from completion of the work executed or carried out by the Council or within such further time as the Chief Justice may allow under the General Registry Act.
 
 (5) The Chief Justice may make Rules prescribing the form of memorandum referred to in sub-section (4).
 
@@ -1256,11 +1328,9 @@ fines and penalties in respect of the use of same;
 
 **61.** (1) In this section “transition period” means the period commencing with the date on which a new Council is elected to office following the March, 2000 general elections and expiring on the 1st day of April, 2000.
 
-(2) Upon the expiration of the transition period, the Reconstruction and Development Corporation shall pay the gratuities and other terminal benefits to all the officers and employees employed by it in the discharge of its municipal and
-
 *CAP. 257. R.E. 1980-1990.*
 
-development functions in respect of the City of Belmopan pursuant to the provisions of the Belmopan (New Capital) Interim Provisions Act.
+(2) Upon the expiration of the transition period, the Reconstruction and Development Corporation shall pay the gratuities and other terminal benefits to all the officers and employees employed by it in the discharge of its municipal and development functions in respect of the City of Belmopan pursuant to the provisions of the Belmopan (New Capital) Interim Provisions Act.
 
 *Transfer of property.*
 
@@ -1272,11 +1342,13 @@ development functions in respect of the City of Belmopan pursuant to the provisi
 
 (b) shall be subject to negative resolution by the House of Representatives.
 
-*Repealed and savings. CAP. 257. R.E. 1980-1990.*
+*Repealed and 63.-(1) The savings. CAP. 257. R.E. 1980-1990.*
 
-**63.** (1) The Belmopan (New Capital) Interim Provisions Act is hereby repealed.
+Belmopan (New Capital) Interim Provisions Act is hereby repealed.
 
-(2) All Regulations, By-laws, Rules, Orders and other subsidiary legislation made under the repealed Act shall continue in force after the commencement of this Act, until repealed by Regulations, By-laws, Rules, Orders and other subsidiary legislation made hereunder.
+*(2) All subsidiary continue in repealed by subsidiary*
+
+Regulations, By-laws, Rules, Orders and other legislation made under the repealed Act shall force after the commencement of this Act, until Regulations, By-laws, Rules, Orders and other legislation made hereunder.
 
 *12 of 2017.*
 
@@ -1286,17 +1358,23 @@ Approved Bond Issue
 
 [Section 2]
 
-The Belmopan City Municipal Bond (Issue No. 1), 2016 authorized by the Council by Resolution dated April 5 th 2016.
+*The Belmopan authorized by*
+
+City Municipal Bond (Issue No. 1), 2016 the Council by Resolution dated April 5 th 2016.
 
 *12 of 2017.*
 
 ## SCHEDULE II
 
-Specified purposes for Belmopan Infrastructure Fund
+*Specified*
+
+purposes for Belmopan Infrastructure Fund
 
 [Section 23C.]
 
-The Council may use monies to the credit of the Infrastructure Fund for any of the following purposes—
+*The Council Fund for any of*
+
+may use monies to the credit of the Infrastructure the following purposes—
 
 (a) to retire any existing overdraft facility, debt or liability of the Council (which usage, at any time, is not to exceed $1.5 million in aggregate);
 

@@ -84,6 +84,8 @@ Constitution, Election, Procedure, etc., of Village Councils
 
 Appointment of support staff.
 
+*[CAP.*
+
 Meetings and proceedings of council.
 
 Voting at meetings.
@@ -129,6 +131,10 @@ Legal Proceedings and Procedure
 **33.** Signature of Chairperson sufficient authentication.
 
 **34.** Notices, etc., how served.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 Election Procedures, Qualification and Registration of Voters, Election Petitions, Offences and Finance.
 
@@ -268,7 +274,9 @@ Establishment of Villages and Village Councils
 
 (1) of this section, any village already existing and recognized by the appropriate department of government before the passing of this Act shall be a village under this Act.
 
-(3) The boundaries of a village shall be declared as recommended by the Ministry in accordance with the following procedures,
+*(3) The recommended following*
+
+boundaries of a village shall be declared as by the Ministry in accordance with the procedures,
 
 (a) in the case of existing villages which have no disputed area with any adjoining village, in accordance with the currently existing boundaries ascertained in consultation with the village council already existing;
 
@@ -276,15 +284,33 @@ Establishment of Villages and Village Councils
 
 (c) in the case of a new village, in accordance with the recommendation of the Ministry arrived at after taking into account the views of those proposing the establishment of the village, the views of the Ministry responsible for lands, the environmental conditions of the area, and any other pertinent facts.
 
-(4) The Minister may, by Order published in the Gazette, fix and declare any area of Belize not comprised within any city, town or village to be a community,
+*(4) The*
 
-Provided that any community already existing and recognized as such by the appropriate department of government before the passing of this Act shall be a community under this Act.
+*city, town or*
 
-(5) Parts II to VI of this Act shall, subject to subsection (6) of this section, apply mutatis mutandis to communities and to community councils.
+Minister may, by Order published in the Gazette, fix and declare any area of Belize not comprised within any village to be a community,
 
-(6) The Elections and Boundaries Commission may, when acting pursuant to section 35 (1) of this Act, after consulting communities and community councils, modify the application
+*Provided that*
 
-of any provision of this Act to any community or community council, and modification may for this purpose be made to,
+*the passing of*
+
+any community already existing and recognized as such by the appropriate department of government before this Act shall be a community under this Act.
+
+*(5) Parts II*
+
+*community*
+
+to VI of this Act shall, subject to subsection (6) of this section, apply mutatis mutandis to communities and to councils.
+
+*(6) The*
+
+*communities*
+
+Elections and Boundaries Commission may, when acting pursuant to section 35 (1) of this Act, after consulting and community councils, modify the application
+
+*of any council, and*
+
+provision of this Act to any community or community modification may for this purpose be made to,
 
 (a) the qualifications needed under section 7 of this Act for a person to be a member of a community council;
 
@@ -292,17 +318,25 @@ of any provision of this Act to any community or community council, and modifica
 
 (c) any other matter or provision relating to communities or to community council elections or by-elections which may be reasonably required for the efficient functioning of community council elections, or for the proper administration and management of communities and community councils.
 
-(7) Every Order made by the Minister under this section shall be subject to affirmative resolution of the House of Representatives.
+*(7) Every shall be*
 
-*Community may apply for village status.*
+Order made by the Minister under this section subject to affirmative resolution of the House of Representatives.
 
-**4.** Any community may apply to the Ministry to become a village, and the Ministry shall consider the application and if the requirements of section 3 of this Act are satisfied, it shall recommend to the Minister the declaration of a village.
+*Community may Any apply for village status.*
 
-*Establishment of village councils.*
+*the*
 
-**5.** (1) There shall be established in every village declared under this Act a council in the manner and possessing the powers and functions set out in this Act or in any regulations made there under.
+**4.** community may apply to the Ministry to become a village, and the Ministry shall consider the application and if requirements of section 3 of this Act are satisfied, it shall recommend to the Minister the declaration of a village.
 
-(2) Every council shall,
+*Establishment of 5.-(1) There village councils.*
+
+*powers and made there*
+
+shall be established in every village declared under this Act a council in the manner and possessing the functions set out in this Act or in any regulations under.
+
+*(2) Every*
+
+council shall,
 
 be a corporate body bearing the name of “The (a)
 
@@ -320,13 +354,25 @@ the village in respect of which it is constituted;
 
 ## PART III Constitution, Election, Procedure, etc., of Village Councils
 
-*Members of councils.*
+*Members of*
 
-**6.** A council shall consist of seven members elected in accordance with this Act and the regulations made hereunder.
+*A*
 
-*Qualifications of members of a council.*
+*councils.*
 
-**7.** Any person shall be eligible to be elected as a member of a council who,
+**6.** council shall consist of seven members elected in accordance with this Act and the regulations made hereunder.
+
+*Qualifications of*
+
+*Any*
+
+*members of a*
+
+*of a council*
+
+*council.*
+
+**7.** person shall be eligible to be elected as a member who,
 
 (a) is a citizen of Belize;
 
@@ -336,11 +382,15 @@ the village in respect of which it is constituted;
 
 *Disqualification.*
 
-**8.** A person shall be disqualified from being a member if found to be of unsound mind under any law in force in Belize.
+*found to be of*
 
-*Vacation of seat and by-election.*
+*Vacation of seat*
 
-**9.** (1) If any elected member of a council,
+*9.-(1) If any*
+
+*and by-election.*
+
+**8.** A person shall be disqualified from being a member if unsound mind under any law in force in Belize. elected member of a council,
 
 (a) dies;
 
@@ -356,9 +406,13 @@ the village in respect of which it is constituted;
 
 (g) violates the rules of the council or behaves in a manner inconsistent with the good administration of the council and the council, after affording the member an opportunity to present a defence, passes a resolution by the votes of at least five officers expelling the officer,
 
-his seat on the council shall thereupon become vacant and a notification of the facts and circumstances of such vacancy shall be published in the Gazette, by radio and in a local newspaper circulating within the village where such seat becomes vacant.
+*his seat on the notification of shall be newspaper*
 
-(2) If such vacancy occurs while a council’s term of office has at least six months of unexpired time, a by-election to fill that vacancy shall be held on a date to be fixed by the council, being not less than twenty and not more than sixty days after the vacancy arises.
+council shall thereupon become vacant and a the facts and circumstances of such vacancy published in the Gazette, by radio and in a local circulating within the village where such seat becomes vacant.
+
+*(2) If such has at least six that vacancy being not less the vacancy*
+
+vacancy occurs while a council’s term of office months of unexpired time, a by-election to fill shall be held on a date to be fixed by the council, than twenty and not more than sixty days after arises.
 
 (3) Such election shall be held, and the voting and other procedures shall be conducted, in the same manner and subject to the same rules as are provided in this Act and any regulations made hereunder in respect of the ordinary election of officers of a council.
 
@@ -484,9 +538,9 @@ Act , Cap. 157 and rules made thereunder; and
 
 (iii) preparation of an inventory thereof.
 
-*Power to make regulations for the conduct of meetings, etc.*
+*Power to make Subject regulations for from time to the conduct of meetings, etc. the following*
 
-**22.** Subject to the provisions of this Act, a council may from time to time make regulations with respect to all or any of the following matters,
+**22.** to the provisions of this Act, a council may time make regulations with respect to all or any of matters,
 
 (a) the time, place and mode of convening its meetings;
 
@@ -494,9 +548,11 @@ Act , Cap. 157 and rules made thereunder; and
 
 (c) the terms and conditions of service of employees of the council.
 
-*Power to make by-laws.*
+*Power to make 23.-(1) A by-laws.*
 
-**23.** (1) A council may from time to time make by-laws for the rule and good government of its village generally, and in particular in respect of all or any of the following matters,
+*rule and good particular in*
+
+council may from time to time make by-laws for the government of its village generally, and in respect of all or any of the following matters,
 
 (a) for the naming and numbering of houses, lots, places and streets in any village;
 
@@ -542,7 +598,9 @@ Act , Cap. 157 and rules made thereunder; and
 
 (t) generally for the proper carrying out of the provisions of this Act and for the efficient governing of the village.
 
-(2) Before submitting the proposed by-laws to the House in accordance with the next following section, the council shall call a general meeting of the village and present the by-laws to the consideration of the villagers. No by-laws shall be
+*(2) Before accordance with call a general*
+
+submitting the proposed by-laws to the House in the next following section, the council shall meeting of the village and present the by-laws to consideration of the villagers. No by-laws shall be
 
 presented to the House unless they have been approved by a majority of those present at such meeting.
 
@@ -604,11 +662,19 @@ In any proceedings under this Act or under any rule, regulation or by-law made t
 
 **34.** Notices, Orders and documents required or authorized to be served by a council under this Act or any rule, regulation or by-law made there under may be served by delivering them to or at the residence of the person to whom they are respectively addressed or, where addressed to the owner or occupier of premises, by delivering them, or a true copy thereof, to some person on the premises, or if there is no person on the premises who can be served, by fixing them on some conspicuous part of the premises.
 
-Election Procedures, Qualification and Registration of Voters, Election Petitions, Offences and Finance
+*Election*
 
-*Regulations relating to elections.*
+Procedures, Qualification and Registration of Voters, Election Petitions, Offences and Finance
 
-**35.** (1) The Elections and Boundaries Commission, shall, after consultation with the National Association of Village Councils established under section 55 of this Act, make regulations,
+*Regulations 35.-(1) The relating to*
+
+*consultation*
+
+*elections.*
+
+*established*
+
+Elections and Boundaries Commission, shall, after with the National Association of Village Councils under section 55 of this Act, make regulations,
 
 (a) to provide for the proceedings for and at elections;
 
@@ -642,17 +708,25 @@ Election Procedures, Qualification and Registration of Voters, Election Petition
 
 (p) for any other matters relating to elections or by- elections which are reasonably required for the efficient functioning of the provisions of this Act.
 
-(2) Contravention of any regulations made under subsection (1) of this section may be declared to be illegal practices and provisions may be made in the said regulations for the punishment on summary conviction of persons committing or taking part in the commission of such illegal practices by a fine not exceeding three thousand dollars or imprisonment for a term not exceeding two years, or by both such fine and imprisonment.
+*for the*
 
-(3) Regulations made pursuant to this section shall be subject to negative resolution of the House of Representatives.
+(2) Contravention of any regulations made under subsection (1) of this section may be declared to be illegal practices and provisions may be made in the said regulations punishment on summary conviction of persons committing or taking part in the commission of such illegal practices by a fine not exceeding three thousand dollars or imprisonment for a term not exceeding two years, or by both such fine and imprisonment.
 
-*The Village Fund.*
+*subject to*
 
-All moneys due to a council shall be paid into and shall form a fund to be called “The Village Fund”, and shall be applied exclusively to the use of the particular village to the credit of which the same has been paid.
+(3) Regulations made pursuant to this section shall be negative resolution of the House of Representatives.
 
-*Moneys constituting the Village Fund.*
+*The Village All Fund.*
 
-**37.** The Village Fund shall be comprised of,
+moneys due to a council shall be paid into and shall be called “The Village Fund”, and shall be form a fund to
+
+*applied*
+
+exclusively to the use of the particular village to the credit of which the same has been paid.
+
+*Moneys The constituting the Village Fund.*
+
+**37.** Village Fund shall be comprised of,
 
 (a) all monies voted from time to time by the National Assembly for the use by the council in the administration of the village or community;
 
@@ -666,9 +740,13 @@ All moneys due to a council shall be paid into and shall form a fund to be calle
 
 (f) moneys lawfully derived from any other sources, including any trade or other licences imposed by law.
 
-*Expenses, how met.*
+*Expenses, how All met.*
 
-**38.** All expenses incurred or payable by a council in the execution of this Act or any regulations made thereunder shall be paid out of the Village Fund and all disbursements by such council shall be made in accordance with the Financial Regulations for the time being in force in the Public Service.
+*execution of*
+
+*council shall*
+
+**38.** expenses incurred or payable by a council in the this Act or any regulations made thereunder shall be paid out of the Village Fund and all disbursements by such be made in accordance with the Financial Regulations for the time being in force in the Public Service.
 
 *Payments from Village Fund.*
 
@@ -770,11 +848,17 @@ Village Water Board of” followed by the name of the village in respect of whic
 
 **43D.** A member, officer or employee of the Board is not personally liable for any act done or omission made in the execution of his functions or the discharge of his duties under
 
-this Act, provided the act was done or the omission is made in good faith.
+*this Act, good faith.*
 
-*General powers of Boards.*
+provided the act was done or the omission is made in
 
-**43E.** (1) Each Board is responsible for,
+*General powers*
+
+*43E.-(1) Each*
+
+*of Boards.*
+
+Board is responsible for,
 
 (a) all operations and maintenance activities necessary for the uninterrupted service of water in respect of its village or community;
 
@@ -792,7 +876,9 @@ this Act, provided the act was done or the omission is made in good faith.
 
 (h) effectively and efficiently undertaking any other function related to the supply of water in its village or community.
 
-(2) A Board may from time to time in respect of the village or community for which it is constituted,
+*(2) A Board or community*
+
+may from time to time in respect of the village for which it is constituted,
 
 (a) cause fixtures and fittings to be erected and pipes to be laid and carried through, across, over or under any land whatever, enclosed or otherwise, private or public, after reasonable notice in that behalf to the owner or occupier, if any, of such land;
 
@@ -880,13 +966,15 @@ system and other projects related thereto;
 
 **43M.** (1) Each Board shall keep proper accounts in respect of its water operations and shall prepare a statement of account for each financial year.
 
-(2) The accounts of each Board shall be audited by the Auditor General.
+*(2) The Auditor*
+
+accounts of each Board shall be audited by the General.
 
 (3) As soon as possible after the months of June and December in each year, each Board shall submit to the Minister a copy of its income and expenditure for that period together with a statement of the assets and liabilities of the Board at the end of the relevant period.
 
-*District Association of Water Boards.*
+*District 43N.-(1) Association of together Water Boards. which shall,*
 
-**43N.** (1) Village Water Boards in each District of Belize shall together establish an Association of all Boards in that District, which shall,
+Village Water Boards in each District of Belize shall establish an Association of all Boards in that District,
 
 be known as “The................................District (a)
 
@@ -894,9 +982,15 @@ Association of Village Water Boards”;
 
 (b) have all the attributes of corporate personality referred to in section 43C(1) of this Act.
 
-(2) Every District Association of Water Boards for each District shall be independent of the District Association of Village Councils for that District.
+*(2) Every*
 
-(3) The functions of each District Association of Water Boards shall be,
+*Village*
+
+District Association of Water Boards for each District shall be independent of the District Association of Councils for that District.
+
+*(3) The*
+
+functions of each District Association of Water Boards shall be,
 
 (a) to represent all or any Board in its District at any forum, especially where such Board lacks financial, technical or other resources to adequately and meaningfully represent itself thereat;
 
@@ -906,13 +1000,21 @@ Association of Village Water Boards”;
 
 of developing the water supply system for that Board.
 
-(4) The Minister may make regulations for the composition of, and procedures to be followed by, District Associations of Village Water Boards, after allowing representatives of Village Councils and Area Representatives of the Electoral Divisions wherein the District is situated an opportunity to present their views, and such regulations shall be subject to negative resolution by the House of Representatives.
+*(4) The of, and*
+
+*Councils and wherein the views, and resolution by*
+
+Minister may make regulations for the composition procedures to be followed by, District Associations of Village Water Boards, after allowing representatives of Village Area Representatives of the Electoral Divisions District is situated an opportunity to present their such regulations shall be subject to negative the House of Representatives.
 
 *Regulations.*
 
-**43O.** (1) The Minister may make Regulations for the better carrying out of the functions of Village Water Boards under this Act.
+**43O.** (1) The Minister may make Regulations for the better carrying out of the functions of Village Water Boards under
 
-(2) Without prejudice to the generality of subsection (1) of this section, regulations made under this section may,
+*this Act.*
+
+*this section,*
+
+(2) Without prejudice to the generality of subsection (1) of regulations made under this section may,
 
 (a) appoint the Public Utilities Commission or any other body as the authority responsible for approving standards and plans in respect of the laying of water pipes, the design and construction of water systems and the provision of services related to water supply by Boards; and
 
@@ -920,9 +1022,9 @@ of developing the water supply system for that Board.
 
 *Construction of references.*
 
-**43P.** In this Part, reference to a “Village Water Board”, or to a “Board” or to a “Village Council” shall be read and construed, where the context requires, as a reference to a
+*construed, “Community*
 
-“Community Water Board” or to a “Community Council” as the case may be.
+**43P.** In this Part, reference to a “Village Water Board”, or to a “Board” or to a “Village Council” shall be read and where the context requires, as a reference to a Water Board” or to a “Community Council” as the case may be.
 
 Miscellaneous
 
@@ -952,13 +1054,27 @@ Miscellaneous
 
 (d) with the consent of and under the conditions negotiated with the department of Government responsible for forestry, the council may have responsibility for maintaining forest reserve boundaries that coincide with the village boundary and be compensated for this.
 
-(2) A council may acquire by lease, purchase or otherwise, lands and buildings or any part thereof for any purpose of public utility.
+*(2) A lands and public utility.*
 
-(3) The Ministry responsible for lands shall transfer title to such lands in a village as are required by the village council to construct any buildings necessary for it to carry out its functions under this Act as well as for recreational purposes such as parks and playing fields.
+council may acquire by lease, purchase or otherwise, buildings or any part thereof for any purpose of
 
-*Due regard to be taken of views of villagers, etc.*
+*(3) The such lands in a construct any functions under such as parks*
 
-**48.** A council, when implementing any of its plans or proposals, shall take into consideration the views and opinions of villagers and of government and non-government agencies.
+Ministry responsible for lands shall transfer title to village as are required by the village council to buildings necessary for it to carry out its this Act as well as for recreational purposes and playing fields.
+
+*Due regard to be*
+
+*A*
+
+*taken of views of*
+
+*proposals, shall*
+
+*villagers, etc.*
+
+*of villagers and*
+
+**48.** council, when implementing any of its plans or take into consideration the views and opinions of government and non-government agencies.
 
 *Government agencies to consult councils.*
 
@@ -984,13 +1100,23 @@ Miscellaneous
 
 (b) a quarterly report of all goods imported, including the value of such goods and the programme or project for which they are being used.
 
-*Donations to council to be tax deductible.*
+*Donations to*
 
-**52.** (1) All persons, whether natural or legal persons, who make donations to councils shall be eligible to have those donations tax-deductible under the Income and Business Tax Act, Cap. 55.
+*52.-(1) All*
 
-(2) Such deductions shall be effected solely for the year in which the donations were made.
+*council to be tax deductible.*
 
-(3) In order to qualify for such deductions, the donor shall prove the donation by means of a certificate issued by the recipient council which shall include the following,
+*donations*
+
+persons, whether natural or legal persons, who make donations to councils shall be eligible to have those tax-deductible under the Income and Business Tax Act, Cap. 55.
+
+*(2) Such which the*
+
+deductions shall be effected solely for the year in donations were made.
+
+*prove the recipient*
+
+(3) In order to qualify for such deductions, the donor shall donation by means of a certificate issued by the council which shall include the following,
 
 (a) proof that the donee is a council constituted under this Act;
 
@@ -1000,7 +1126,9 @@ Miscellaneous
 
 (d) express mention of the irrevocable character of the donation.
 
-(4) The Income Tax Department may use any resources at its disposal to verify the validity of such donations in accordance with the mechanisms established by law.
+*(4) The*
+
+Income Tax Department may use any resources at its disposal to verify the validity of such donations in accordance with the mechanisms established by law.
 
 *Commercial activities by councils.*
 
@@ -1019,6 +1147,8 @@ Councils may undertake commercial, industrial, agricultural and other profit-mak
 (3) The District Associations and the National Association shall have such powers and duties, and shall be regulated in such a manner as shall be prescribed by regulations and by-laws made hereunder.
 
 (4) The Minister may make regulations for the composition of, and procedures to be followed by, the associations mentioned in this section, after allowing representatives of village councils an opportunity to present their views and all such regulations shall be subject to negative resolution of the House of Representatives.
+
+[CAP.
 
 (5) The regulations aforesaid shall include a code of ethics for members of the council.
 

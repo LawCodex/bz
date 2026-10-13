@@ -82,6 +82,8 @@ Buildings and Privies
 
 Penalty for using a pit not properly constructed.
 
+*[CAP.*
+
 Power to require privy accommodation to be provided for dwelling houses.
 
 Power to exempt a populous building area from section 16.
@@ -133,6 +135,10 @@ Burials, Cemeteries, Intramural Burials, Cremation and Disinterment of Bodies et
 **39.** Register of grants.
 
 **40.** Who entitled to grant of right of sepulchre.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 Fines, etc., to credit of Town Fund or Consolidated Revenue Fund.
 
@@ -191,6 +197,8 @@ Drains and Water Supply in certain Towns and Areas
 **65.** Power to make regulations.
 
 **66.** Examination and seizure of unsound meat, etc.
+
+*[CAP.*
 
 Infectious, Notification of Diseases, General Prevention and Mitigation of Infectious and Epidemic Diseases
 
@@ -254,6 +262,10 @@ Interpretation of “dangerous infectious disease”.
 
 **94.** Public conveyance to be disinfected after carrying infected person.
 
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
+
 Penalty for letting infected house without previous disinfection.
 
 Closure of schools, etc., when dangerous infectious disease exists on premises.
@@ -308,6 +320,8 @@ Lepers
 
 Regulations.
 
+*[CAP.*
+
 Mosquito Destruction
 
 **120.** Interpretation in this Part.
@@ -355,6 +369,10 @@ Sanitation and Prevention of Nuisances
 **137.** Notice to remove nuisance.
 
 **138.** Procedure in case owner fails to comply with notice. Penalties in relation to nuisances.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 **140.** Procedure where owner or occupier of property cannot be found.
 
@@ -568,15 +586,25 @@ Preliminary
 
 “house” includes schools and buildings in which more than ten persons are employed at one time;
 
-“improvement” means the work in respect of which private improvement expenses have been incurred;
+*“improvement” improvement*
 
-“improved property” means the property on which any improvement has been executed;
+means the work in respect of which private expenses have been incurred;
 
-“master” means the master, officer, or other person for the time being in charge or command of a vessel;
+*“improved improvement*
 
-“medical officer of health” means a duly qualified medical practitioner appointed as such under section 3 of this Act;
+property” means the property on which any has been executed;
 
-“new building” includes,
+*“master” means being in charge*
+
+the master, officer, or other person for the time or command of a vessel;
+
+*“medical practitioner*
+
+officer of health” means a duly qualified medical appointed as such under section 3 of this Act;
+
+*“new building”*
+
+includes,
 
 (a) the re-erection, wholly or partially, of any building of which an outer wall is pulled down or burnt down to or within ten feet of the surface of the ground adjoining the lowest storey of the building, and of any frame building so far pulled down or burnt down as to leave only the frame work of the lowest storey;
 
@@ -652,17 +680,25 @@ Preliminary
 
 **8.** Every member of the police department and the members of any village council shall aid and assist in carrying out the provisions and objects of this Act, and if any violation of any of the provisions of this Act or the regulations, orders, directions or by-laws made in pursuance thereof becomes known to any member of the police department or to any
 
-member of a village council, he shall forthwith report it to a
+*member of a health officer.*
 
-*health officer.*
+village council, he shall forthwith report it to a
 
 ## PART II
 
 Buildings and Privies
 
-*Power to make regulations respecting buildings, etc.*
+*Power to make*
 
-**9.** (1) The Minister may make regulations regarding the following Matters,
+*9.-(1) The*
+
+*regulations*
+
+*following*
+
+*respecting buildings, etc.*
+
+Minister may make regulations regarding the Matters,
 
 (a) the structure of floors, walls, staircases, foundations, roofs, chimneys and height of new buildings for securing stability and the prevention of fires, and for purposes of health;
 
@@ -870,19 +906,41 @@ A grant of the exclusive right of burial in any part of a cemetery, either in pe
 
 **42.** If at any time hereafter any cemetery becomes disused it shall be lawful for the Town Council within whose jurisdiction such cemetery is situated, or the Director of Health Services, as the case may be, to take possession thereof, and if no protest is made against such possession within six months
 
-from the date when it has been taken it shall be lawful for the Town Council or Director of Health Services, as the case may be, to keep it in repair and properly fence it or to deal therewith in any other manner whatever as to them or him shall seem fit,
+*from the date Town Council*
 
-Provided that,
+*in any other*
+
+when it has been taken it shall be lawful for the or Director of Health Services, as the case may be, to keep it in repair and properly fence it or to deal therewith manner whatever as to them or him shall seem fit,
+
+*Provided*
+
+that,
 
 (a) in the case of cemeteries which have become disused prior to 1st March 1896, the same shall be kept in repair and fenced as aforesaid not out of the ordinary local fund at the disposal of the Town Council, but with such moneys only as shall from time to time be expressly voted for that purpose by the National Assembly;
 
 (b) the Minister may at any time with the consent of the National Assembly declare a place to be no longer a cemetery.
 
-*Certain animals found trespassing in or near cemeteries how dealt with.*
+*Certain animals*
 
-**43.** (1) Any health officer or any officer of a Town Council or any police officer may kill by shooting or otherwise any boar, sow or pig found in or in the vicinity of or on any road traversing any cemetery,
+*43.-(1) Any*
 
-Provided that,
+*found*
+
+*any police*
+
+*trespassing in or near cemeteries*
+
+*sow or pig*
+
+*how dealt with.*
+
+*traversing any*
+
+health officer or any officer of a Town Council or officer may kill by shooting or otherwise any boar, found in or in the vicinity of or on any road cemetery,
+
+*Provided*
+
+that,
 
 (a) on the killing of the same, the Health Officer, officer of the Town Council or police, as the case may be, shall immediately give notice to the owner thereof, if known, who shall remove the carcass within six hours of the receipt of such notice;
 
@@ -1084,9 +1142,19 @@ for the establishment, regulation, control, maintenance and management of market
 
 (f) generally for the purpose of giving effect to this Part.
 
-*Examination and seizure of unsound meat, etc.*
+*Examination and*
 
-**66.** (1) Any health officer may at all reasonable times inspect and examine any animal, carcass, meat, poultry, game, flesh, fish, fruit, vegetables, corn, bread, flour, milk or any other article of food, solid or liquid, exposed for sale or deposited in any place for the purpose of sale or preparation for sale and intended for the food of man, and if any such animal, carcass, meat, poultry, game, flesh, fish, fruit, vegetable, corn, bread, flour, milk or other article of food appears to such health
+*66.-(1) Any*
+
+*seizure of*
+
+*and examine*
+
+*unsound meat, etc.*
+
+*fish, fruit, article of food, any place for intended for the meat, poultry, flour, milk or*
+
+health officer may at all reasonable times inspect any animal, carcass, meat, poultry, game, flesh, vegetables, corn, bread, flour, milk or any other solid or liquid, exposed for sale or deposited in the purpose of sale or preparation for sale and food of man, and if any such animal, carcass, game, flesh, fish, fruit, vegetable, corn, bread, other article of food appears to such health
 
 officer to be diseased or unsound or unwholesome or unfit for the food of man he may seize and carry away the same himself or by an assistant or order it to be destroyed or so disposed of as to prevent such article being used for the food of man.
 
@@ -1186,7 +1254,7 @@ and merchandise whatever thereon shall be liable on arriving at any place in Bel
 
 *Minister to make regulations.*
 
-The Minister may make regulations,
+Minister may make regulations,
 
 (a) for the enforcement of quarantine under this Part in respect of any infected town, place, district or area;
 
@@ -1196,11 +1264,25 @@ The Minister may make regulations,
 
 (d) for payment, if any, to be made in respect of disinfection of goods, merchandise and other articles coming from any infected town, place, district or area,
 
-and for securing the due observance of them may by such regulations prescribe as penalty for any breach thereof a fine not exceeding two hundred dollars.
+*and for regulations*
 
-*Director of Health Services to make regulations to be observed during prevalence of infectious disease*
+securing the due observance of them may by such prescribe as penalty for any breach thereof a fine not exceeding two hundred dollars.
 
-**83.** (1) The Director of Health Services may from time to time make regulations to be observed whenever any part of Belize appears to be threatened with or is affected by any infectious disease,
+*Director of*
+
+*83.-(1) The*
+
+*Health Services*
+
+*make*
+
+*to make regulations to be observed during*
+
+Director of Health Services may from time to time regulations to be observed whenever any part of Belize appears to be threatened with or is affected by any infectious
+
+*disease,*
+
+*prevalence of infectious disease*
 
 (a) for the disinfection of houses or parts thereof in which any person is suffering from, has recovered from, or has died of any infectious disease, and for the destruction or disinfection of articles likely to retain infection from such cases;
 
@@ -1606,7 +1688,9 @@ or dangerous to the health of any such inhabitants, the Director of Health Servi
 
 for the prevention, control or reduction of pollution or contamination of the air, soil or water caused by any activity or condition resulting in the emission of a pollutant or contaminant into the environment.
 
-(2) Except as otherwise provided by regulations made under this section, a police officer may arrest without warrant and take before a magistrate any person whom he finds committing an offence under the regulations and who refuses to give his name and address.
+*under this and take*
+
+(2) Except as otherwise provided by regulations made section, a police officer may arrest without warrant before a magistrate any person whom he finds committing an offence under the regulations and who refuses to give his name and address.
 
 *7 of 1983.*
 
@@ -1614,41 +1698,71 @@ for the prevention, control or reduction of pollution or contamination of the ai
 
 “environment” means air, soil and water.
 
-(4) Any regulation made under this section shall be subject to affirmative resolution by the National Assembly.
+*(4) Any*
 
-(5) Where the Government incurs any expenses in preventing, controlling or reducing any pollution or contamination of the air, soil or water caused by any activity of any entity such expenses may be recovered from the entity in a court of summary jurisdiction as if it were a fine imposed by such court.
+regulation made under this section shall be subject to affirmative resolution by the National Assembly.
 
-*Restriction on carrying on of offensive businesses.*
+*preventing,*
 
-**129.** (1) No person shall within the boundaries of any town enumerated and demarcated in the Fourth Schedule,
+*court of such court.*
+
+(5) Where the Government incurs any expenses in controlling or reducing any pollution or contamination of the air, soil or water caused by any activity of any entity such expenses may be recovered from the entity in a summary jurisdiction as if it were a fine imposed by
+
+*Restriction on*
+
+*129.-(1) No*
+
+*carrying on of offensive businesses.*
+
+person shall within the boundaries of any town enumerated and demarcated in the Fourth Schedule,
 
 (a) establish a business of blood boiler, bone boiler, manure manufacturer, soap boiler, tallow melter or knacker; or
 
 (b) establish, without the written consent of the Director of Health Services, the business of fell-monger, tripe boiler or slaughterer, or any other business which the Minister may, by order published in the Gazette, declare to be an offensive business.
 
-(2) Any person by whom a business is established in contravention of subsection (1) is guilty of an offence and is liable to a fine not exceeding two hundred and fifty dollars in respect of the establishment thereof.
+*(2) Any*
 
-(3) Any person who carries on a business established in contravention of subsection (1) of this section, is guilty of an offence and is liable to a fine not exceeding two hundred and fifty dollars for every day during which he carries on the business,
+*respect of the*
 
-Provided that,
+person by whom a business is established in contravention of subsection (1) is guilty of an offence and is liable to a fine not exceeding two hundred and fifty dollars in establishment thereof.
+
+*(3) Any*
+
+person who carries on a business established in contravention of subsection (1) of this section, is guilty of an offence and is liable to a fine not exceeding two hundred and fifty dollars for every day during which he carries on the
+
+*business,*
+
+*Provided*
+
+that,
 
 (a) subsection (1) of this section, shall not render any person liable to a fine for establishing, without the consent of the Director of Health Services, or carrying on, the business of soap boiler, if and so long as that business is a business in which tallow or any animal fat or oil other than olein is not used by admixture with alkali for the production of soap;
 
 (b) the Minister may at any time by order published in the Gazette add any other town to the said Schedule and demarcate the boundaries thereof and thereupon this section shall apply to such town and within the area so demarcated.
 
-(4) Every consent given for the purposes of subsections (1) to (3) of this section, shall be given by order of the Director of Health Services, and any order under this subsection is hereafter referred to as an “establishment order”.
+*(4) Every to (3) of this Health hereafter*
 
-(5) At least fourteen days before making an establishment order with respect to any business, the Director of Health Services shall,
+consent given for the purposes of subsections (1) section, shall be given by order of the Director of Services, and any order under this subsection is referred to as an “establishment order”.
+
+*order with*
+
+(5) At least fourteen days before making an establishment respect to any business, the Director of Health Services shall,
 
 (a) advertise a notice of the application for the order, and of the time and place at which he will be willing to hear persons objecting to the making of the order; and
 
 (b) cause a copy of the notice to be posted on a conspicuous part of the premises in which it is proposed to establish the business,
 
-and shall consider any objection made at that time and place, and grant or withhold his consent as he thinks expedient.
+*and shall and grant or*
 
-(6) There shall be charged for every establishment order such fee not exceeding ten dollars as the Director of Health Services may fix.
+consider any objection made at that time and place, withhold his consent as he thinks expedient.
 
-(7) For the purposes of this section, a business shall be deemed to be established,
+*(6) There such fee not Services may*
+
+shall be charged for every establishment order exceeding ten dollars as the Director of Health fix.
+
+*deemed to be*
+
+(7) For the purposes of this section, a business shall be established,
 
 (a) if it is established newly;
 
@@ -1658,7 +1772,9 @@ and shall consider any objection made at that time and place, and grant or withh
 
 (d) if the premises on which it is for the time being carried on are enlarged without the consent of the Director of Health Services,
 
-but a business shall not be taken to be established on any premises by reason only that the ownership of the premises is wholly or partly changed or that the building in which it is established, having been wholly or partly pulled down, burnt down or otherwise destroyed has been reconstructed without any extension of its area.
+*premises by wholly or established, down or*
+
+but a business shall not be taken to be established on any reason only that the ownership of the premises is partly changed or that the building in which it is having been wholly or partly pulled down, burnt otherwise destroyed has been reconstructed without any extension of its area.
 
 (8) Any consent given for the purposes of this section may be given subject to such conditions as the Director of Health Services thinks fit to impose.
 
@@ -1692,17 +1808,21 @@ Provided that at least fourteen days before exercising any of his powers under t
 
 (3) A medical officer of health may enter any premises at any hour by day, or at any hour when business is in progress, or is usually carried on, in the premises, for the purpose of
 
-ascertaining whether there is any contravention therein of any regulations made under this section.
+*ascertaining regulations*
 
-(4) Nothing in this section shall require any consent to the slaughter of cattle at any slaughter-house which is maintained at public expense.
+whether there is any contravention therein of any made under this section.
+
+*slaughter of at public*
+
+(4) Nothing in this section shall require any consent to the cattle at any slaughter-house which is maintained expense.
 
 ## PART IX
 
 Sanitation and Prevention of Nuisances
 
-*Regulations for sanitation.*
+*Regulations for 132.-(1) The sanitation.*
 
-**132.** (1) The Minister may make regulations to provide for,
+Minister may make regulations to provide for,
 
 (a) the removal of house refuse, and other offensive matter;
 
@@ -1788,13 +1908,25 @@ any street, road or any part thereof, any stream, pool, ditch, gutter, watercour
 
 (y) any dwelling, public building, trade premises, work-shop or factory not provided with sufficient and sanitary latrines.
 
-*Author of nuisance.*
+*Author of*
 
-**136.** The author of a nuisance means the person by whose act, default or sufferance the nuisance is caused, exists or is continued, whether he be the owner or occupier or both owner and occupier or any other person.
+*\136. The*
 
-*Notice to remove nuisance.*
+*nuisance.*
 
-**137.** A Local Authority or a medical officer of health, if satisfied of the existence of a nuisance, may serve a notice on the author of the nuisance, or, if he cannot be found, then on the occupier or owner of the dwelling or premises on which the nuisance arises or continues, requiring him to abate it within the time specified in the notice and if the Local Authority or
+*act, default or continued, and occupier or*
+
+author of a nuisance means the person by whose sufferance the nuisance is caused, exists or is whether he be the owner or occupier or both owner any other person.
+
+*Notice to remove*
+
+*\137. A Local*
+
+*nuisance.*
+
+*satisfied of the the author of the occupier or nuisance arises the time*
+
+Authority or a medical officer of health, if existence of a nuisance, may serve a notice on the nuisance, or, if he cannot be found, then on owner of the dwelling or premises on which the or continues, requiring him to abate it within specified in the notice and if the Local Authority or
 
 medical officer of health thinks it desirable, but not otherwise, any work to be executed to abate or to prevent a recurrence of the said nuisance may also be specified in the notice,
 
@@ -2010,11 +2142,21 @@ forthwith and any person failing to comply with such requirement is guilty of an
 
 (c) any magistrate, or medical officer of health may require any person in such area to furnish satisfactory proof, including exhibition of vaccination scars, that he has been successfully vaccinated within two years immediately preceding the date of such requirement and any person who fails to furnish such proof as regards himself or as regards any child of which he is the parent or guardian, and refuses to allow himself or such child to be vaccinated shall be guilty of an offence.
 
-(2) Every person guilty of an offence against this section shall be liable to a fine not exceeding twenty-five dollars or to imprisonment for a term not exceeding three months or both.
+*(2) Every shall be liable imprisonment*
 
-*Vaccination in prisons, etc.*
+person guilty of an offence against this section to a fine not exceeding twenty-five dollars or to for a term not exceeding three months or both.
 
-**165.** Every prisoner or other person or patient admitted into any prison or any institution kept up at the public expense in Belize, shall be examined as soon as possible after admission by the medical officer of such prison or institution, and if such prisoner, person or patient does not appear either to have had smallpox or to have been already successfully vaccinated, such
+*Vaccination in*
+
+*\165. Every*
+
+*prisons, etc.*
+
+*any prison or Belize, shall be by the medical*
+
+*smallpox or to*
+
+prisoner or other person or patient admitted into any institution kept up at the public expense in examined as soon as possible after admission officer of such prison or institution, and if such prisoner, person or patient does not appear either to have had have been already successfully vaccinated, such
 
 prisoner, person or patient if in a fit state of health shall be vaccinated by the medical officer of such prison or institution.
 
@@ -2080,11 +2222,23 @@ Miscellaneous
 
 (c) requiring that any regulations made under this section shall be posted and kept posted up in a conspicuous place within every barber’s shop or hairdressing establishment.
 
-*Inspection of shipping-disinfection.*
+*Inspection of*
 
-**175.** (1) Any health officer may with or without assistants enter into and inspect any vessel or aircraft lying in the ports or harbours of Belize, and not then being in quarantine and if necessary direct that it be cleared of filth and offensive matters, and further at his discretion order and direct that such vessel, or aircraft or any part thereof which may appear to him to require lime-washing or the use of any disinfecting or other process, shall be effectually lime-washed or disinfected, and further direct that the necessary measures be taken to secure cleanliness and ventilation therein to promote the health of the passengers and crew, and to provide necessary medical aid and accommodation.
+*175.-(1) Any*
 
-(2) If any directions of a health officer under this section are not complied with within the time specified in his directions the necessary measures may be taken by the health officer.
+*shipping-*
+
+*enter into and*
+
+*disinfection.*
+
+*harbours of necessary matters, and vessel, or to require process, shall further direct*
+
+health officer may with or without assistants inspect any vessel or aircraft lying in the ports or Belize, and not then being in quarantine and if direct that it be cleared of filth and offensive further at his discretion order and direct that such aircraft or any part thereof which may appear to him lime-washing or the use of any disinfecting or other be effectually lime-washed or disinfected, and that the necessary measures be taken to secure cleanliness and ventilation therein to promote the health of the passengers and crew, and to provide necessary medical aid and accommodation.
+
+*(2) If any are not directions the officer.*
+
+directions of a health officer under this section complied with within the time specified in his necessary measures may be taken by the health
 
 (3) Any health officer may require any ship, vessel, boat or aircraft which appears to him to be moored in a position dangerous to the health of the crew or to the health of the community to be moored in some other position.
 
@@ -2146,15 +2300,39 @@ Legal Procedure
 
 aggrieved or the Director of Health Services or the Town Council of the place in which the offence is committed.
 
-*How owner of premises may be described.*
+*How owner of*
 
-**186.** (1) Whenever in any proceedings under this Act relating to nuisances, it becomes necessary to mention or refer to the owner or occupier of any premises, it shall be sufficient to designate him as the “owner” or “occupier” of such premises without name or further description.
+*186.-(1)*
+
+*premises may be described.*
+
+*owner or*
+
+Whenever in any proceedings under this Act relating to nuisances, it becomes necessary to mention or refer to the occupier of any premises, it shall be sufficient to designate him as the “owner” or “occupier” of such premises without name or further description.
 
 (2) Whenever in any proceedings under this Act an inmate of a house is summoned or otherwise dealt with as the occupier of such house, if he alleges that he is not the occupier, the proof of such allegation shall be upon the person making it.
 
-*Provisions relating to expenses incurred by Director of Health Services or Local Authority.*
+*Provisions*
 
-**187.** (1) Whenever the Director of Health Services or any Local Authority has incurred expenses for the repayment whereof the owner of the premises for or in respect of which the same is incurred is made liable under this Act, or by any agreement with the Director of Health Services or Local Authority,
+*187.-(1)*
+
+*relating to*
+
+*Local*
+
+*expenses incurred by*
+
+*whereof the*
+
+*Director of*
+
+*the same is*
+
+*Health Services or Local Authority.*
+
+Whenever the Director of Health Services or any Authority has incurred expenses for the repayment owner of the premises for or in respect of which incurred is made liable under this Act, or by any agreement with the Director of Health Services or Local
+
+*Authority,*
 
 (a) any settlement or apportionment of such expenses shall be binding and conclusive on such owner, unless within three months from the service of notice on him of the amount so settled and apportioned, he shall by written notice dispute the same;
 

@@ -70,13 +70,13 @@ Schedule — Places to Search with a Warrant
 
 [27th March, 1986]
 
-*Short title.*
+*Short title. This Act*
 
-**1.** This Act may be cited as the Theft of Cattle Act.
+**1.** may be cited as the Theft of Cattle Act.
 
-*Interpretation. 17 of 1988.*
+*Interpretation. In this 17 of 1988.*
 
-**2.** In this Act, unless the context otherwise requires,
+**2.** Act, unless the context otherwise requires,
 
 “bovine cattle” means a bull, cow, heifer, ox, (a)
 
@@ -97,6 +97,10 @@ carcass split in two halves, usually along the length of the spinal column;
 “quarter carcass” means the portion of the (e)
 
 half carcass split into a forequarter and a hindquarter each including one leg.
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 *Theft of cattle an offence. 17 of 1988.*
 
@@ -131,6 +135,10 @@ Any police officer may stop and search any vehicle, vessel or other means of con
 **7.** Where any person is convicted of an offence or of an attempt to commit an offence or of soliciting or inciting the commission of an offence under this Act and the court by which such person is convicted finds that any vehicle, vessel or other means of conveyance was used or employed by such person in or in furtherance of the commission of the crime of which he is convicted, such vehicle, vessel or other means of conveyance shall be forfeited,
 
 Provided that no order for the forfeiture of any vehicle, vessel or other means of conveyance shall be made under this section, if the owner of such vehicle, vessel or other means of conveyance satisfies the court that neither he nor his servant or agent was aware that such vehicle, vessel or other means of conveyance was being so used or employed or if he or his servants or agent was so aware, that all reasonable steps were taken to prevent it being so used or employed.
+
+*THE*
+
+### SUBSTANTIVE LAWS OF BELIZE
 
 *Appeal to Supreme Court.*
 

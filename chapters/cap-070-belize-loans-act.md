@@ -54,17 +54,17 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 ### BELIZE LOANS
 
-CAP. 65A, [27th March, 1986] R.E. 1980-1990.
+*CAP. 65A, R.E. 1980-1990. 5 of 1986.*
 
-5 of 1986.
+[27th March, 1986]
 
 *Short title.*
 
 **1.** This Act may be cited as the Belize Loans Act.
 
-*Interpretation.*
+*Interpretation. In this*
 
-**2.** In this Act, unless the context otherwise requires–
+**2.** Act, unless the context otherwise requires–
 
 “debentures” includes bonds or similar (a)
 
@@ -74,9 +74,11 @@ securities;
 
 finance.
 
-*Minister may raise loan.*
+*Minister may The raise loan.*
 
-**3.** The Minister or other authorised agent acting on his behalf may raise by way of loan an amount sufficient to produce as nearly as may be the sum of one hundred million dollars on such terms and conditions and for such purposes as the Minister shall determine.
+*as nearly as*
+
+**3.** Minister or other authorised agent acting on his behalf may raise by way of loan an amount sufficient to produce may be the sum of one hundred million dollars on such terms and conditions and for such purposes as the Minister shall determine.
 
 *Expenses of issue.*
 
@@ -84,13 +86,15 @@ finance.
 
 *Loan may be raised under Local Public Loans Act. CAP. 80.*
 
-**5.** The loan authorised or any part thereof may be raised in Belize under the provisions of the Local Public Loans Act,
-
-provided that,
+**5.** The loan authorised or any part thereof may be raised in Belize under the provisions of the Local Public Loans Act, provided that,
 
 (a) no interest shall be payable on the principal; and
 
 (b) if acceptable collateral is offered the sinking fund contemplated by the provisions of section 12 of the said Act shall not be required.
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 **6.** Notwithstanding anything to the contrary in the Local Amount of each Public Loans Act each debenture may be for a sum of not less debenture. than fifty thousand dollars.
 

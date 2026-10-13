@@ -150,6 +150,10 @@ documents.
 
 **40.** Certified copies of writings in custody of public officers.
 
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
+
 ## PART III
 
 Relevevancy of Guilty Knowledge
@@ -374,11 +378,13 @@ Interpretation. 2. In this Act, unless the context otherwise requires–
 
 a man and a woman who are not legally married to each other and to any other person cohabit together continuously as husband and wife for a period of at least five years;
 
-“computer” means any device or combination of devices used 18 of 1898. together or in succession for the purpose of storing and processing information;
+*“computer” together or in information; “court” means determine includes “document”*
 
-“court” means any court of Belize having jurisdiction to hear and determine causes and matters, whether civil or criminal, and includes arbitrators and referees;
+means any device or combination of devices used 18 of 1898. succession for the purpose of storing and processing
 
-“document” includes– 18 of 1898.
+any court of Belize having jurisdiction to hear and causes and matters, whether civil or criminal, and arbitrators and referees;
+
+includes– 18 of 1898.
 
 (a) books, maps, plans, graphs, drawings and photographs;
 
@@ -386,7 +392,9 @@ a man and a woman who are not legally married to each other and to any other per
 
 (c) any film, negative, tape or other device in which one or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced therefrom;
 
-“facts in issue” means–
+*“facts in issue”*
+
+means–
 
 (a) all facts which, by the form of the pleadings in any action or other proceeding, are affirmed on one side and denied on the other; and
 
@@ -454,7 +462,9 @@ all general customs which have been held to have the force of law in the Supreme
 
 (l) the signature and seal of any mayor or other chief officer of any city or corporate town within the United Kingdom, the signature and seal of the Governor-General or other officer administering the government, or of the Chief or senior Justice of any court of record of any Commonwealth country, the signature and seal of any ambassador, minister, consul-general, consul, vice-consul or consular officer appointed by the Government of Belize at any foreign port or place,
 
-Provided that that signature and seal shall be subscribed and affixed to any certificate or declaration purporting to legalise those deeds, letters of attorney, powers, procurations, affidavits, affirmations, declarations, contracts or agreements or other instruments in writing, which are hereinafter mentioned;
+*Provided affixed to any deeds, letters affirmations, instruments in*
+
+that that signature and seal shall be subscribed and certificate or declaration purporting to legalise those of attorney, powers, procurations, affidavits, declarations, contracts or agreements or other writing, which are hereinafter mentioned;
 
 (m) the signature and seal of any notary public in the United Kingdom, any British territory or possession or any Commonwealth country;
 
@@ -666,23 +676,21 @@ withstanding that the Act prescribes that the act shall be done, authorised or a
 
 General or the Minister.
 
-(3) Sub-sections (1) and (2) shall not apply to any case where an act is required to be executed by the Governor-General or the Minister by warrant under his hand, or under his hand and seal, or under his hand and the public seal or by proclamation or commission.
+*an act is Minister by under his commission.*
 
-Proof of foreign 33.–(1) All proclamations, treaties and other acts of state of any and colonial acts
+Sub-sections (1) and (2) shall not apply to any case where required to be executed by the Governor-General or the warrant under his hand, or under his hand and seal, or hand and the public seal or by proclamation or
 
-foreign country or of any British colony or possession, and all of state,
+*Proof of foreign 33.–(1) All and colonial acts of state, judgements, judgments, orders and judicial proceedings. filed or copies or by*
 
-judgements, judgments, decrees, orders and other judicial proceedings of any orders and
-
-court of justice in any foreign country or in any British colony or judicial
-
-proceedings. possession, and all affidavits, pleadings and other legal documents filed or deposited in that court, may be proved either by examined copies or by copies authenticated as mentioned in this section–
+proclamations, treaties and other acts of state of any foreign country or of any British colony or possession, and all decrees, orders and other judicial proceedings of any court of justice in any foreign country or in any British colony or possession, and all affidavits, pleadings and other legal documents deposited in that court, may be proved either by examined copies authenticated as mentioned in this section–
 
 (a) if the document sought to be proved is a proclamation, treaty, or other act of state, the authenticated copy, to be admissible in evidence, must purport to be sealed with the seal of the foreign country, or of the British colony or possession, to which the original document belongs; and
 
 (b) if the document sought to be proved is a judgment, decree, order or other judicial proceeding of any foreign or colonial court, or an affidavit, pleading or other legal document filed or deposited in that court, the authenticated copy, to be admissible in evidence, must purport either to be sealed with the seal of the foreign or colonial court to which the original document belongs or, in the event of that court having no seal, to be signed by the judge or, if there are more judges than one, by any one of the judges, of that court, and the judge must attach to his signature a statement in writing on the copy that the court whereof he is judge has no seal.
 
-(2) Any of the authenticated copies purporting to be sealed or signed as mentioned in sub-section (1)(a) and (b) shall be admissible in evidence in every case in which the original document
+*admissible in*
+
+(2) Any of the authenticated copies purporting to be sealed or signed as mentioned in sub-section (1)(a) and (b) shall be evidence in every case in which the original document
 
 could have been received in evidence, without any proof of the seal, where a seal is necessary, or of the signature or the truth of the statement attached thereto, where that signature and that statement are necessary, or of the judicial character of the person appearing to have made the signature and statement.
 
@@ -930,11 +938,9 @@ the court, on behalf of either or any of the parties to the said action, suit or
 
 **57.** (1) A husband or a wife shall be a–
 
-(a) competent and compellable witness to give evidence on behalf of either or any of the parties in any criminal proceedings against a wife or a
-
 *Schedule II.*
 
-husband mentioned in Part I of Schedule II;
+(a) competent and compellable witness to give evidence on behalf of either or any of the parties in any criminal proceedings against a wife or a husband mentioned in Part I of Schedule II;
 
 *33 of 2010.*
 
@@ -942,11 +948,9 @@ husband mentioned in Part I of Schedule II;
 
 (2) Either of the parties to a common law union shall be a–
 
-(a) competent and compellable witness to give evidence on behalf of the other party in any
-
 *Schedule II.*
 
-criminal proceedings against the other mentioned in
+(a) competent and compellable witness to give evidence on behalf of the other party in any criminal proceedings against the other mentioned in
 
 ## Part I of Schedule II;
 
@@ -954,13 +958,15 @@ competent, but not a compellable, witness to give evidence on behalf of the othe
 
 ## Part II of Schedule II.
 
-*Competency of accused person, etc., in criminal cases.*
+*Competency of 58. Every accused person, husband, as the etc., in criminal shall be a cases.*
 
-**58.** Every person charged with an offence, and his wife or her husband, as the case may be, or other party to a common law union, shall be a competent witness for the defence at every stage of the proceedings, whether he or she is charged solely or jointly with any other person–
+*proceedings, other person–*
 
-*33 of 2010.*
+person charged with an offence, and his wife or her case may be, or other party to a common law union, competent witness for the defence at every stage of the whether he or she is charged solely or jointly with any
 
-Provided that–
+*33 of 2010. Provided*
+
+that–
 
 (a) a person so charged shall not be called as a witness in pursuance of this Act except upon his own application;
 
@@ -984,7 +990,11 @@ other than that wherewith he is then charged, or is of bad character, unless,
 
 CAP. 96. (g) nothing in this Act shall affect section 34 of the Indictable Procedure Act or any right of the person charged to make a statement without being sworn.
 
-**59.** Where the only witness to the facts of the case called by the Evidence of person charged. defence is the person charged, he shall be called as a witness immediately after the close of the evidence for the prosecution.
+*\59. Where the defence is the*
+
+only witness to the facts of the case called by the Evidence of person charged. person charged, he shall be called as a witness immediately after the close of the evidence for the prosecution.
+
+### THE SUBSTANTIVE LAWS OF BELIZE
 
 **60.** (1) No one called as a witness shall be compellable to answer Privilege as to
 
@@ -1242,9 +1252,15 @@ reason of his bodily or mental condition to attend as a witness, or if he is out
 
 (5) For the purpose of deciding whether or not a statement is admissible as evidence by virtue of sub-sections (1) to (4), the court may draw any reasonable inference from the form or contents of the document in which the statement is contained, or from any other circumstances, and may, in deciding whether or not a person is fit to
 
-attend as a witness, act on a certificate purporting to be the certificate of a registered medical practitioner, and where the proceedings are with a jury, the court may in its discretion reject the statement notwithstanding that the requirements of this section are satisfied with respect thereto, if for any reason it appears to it to be inexpedient in the interests of justice that the statement should be admitted.
+*attend as a of a registered with a jury,*
 
-**83.** (1) In any civil proceedings, a statement contained in a Documents produced by document produced by a computer is admissible as evidence of any computers. fact stated therein of which direct oral evidence would be 18 of 1998. admissible, if it is shown–
+*with respect inexpedient in admitted.*
+
+witness, act on a certificate purporting to be the certificate medical practitioner, and where the proceedings are the court may in its discretion reject the statement notwithstanding that the requirements of this section are satisfied thereto, if for any reason it appears to it to be the interests of justice that the statement should be
+
+*document fact stated*
+
+**83.** (1) In any civil proceedings, a statement contained in a Documents produced by produced by a computer is admissible as evidence of any computers. therein of which direct oral evidence would be 18 of 1998. admissible, if it is shown–
 
 (a) that the document containing the statement was produced by the computer during a period over which the computer was used regularly to store and process information for the purposes of any activities regularly carried on over that period, whether for profit or not, by any person;
 
@@ -1254,7 +1270,9 @@ attend as a witness, act on a certificate purporting to be the certificate of a 
 
 (d) that the information contained in the statement reproduces or is derived from information supplied to the computer in the ordinary course of those activities.
 
-(2) In any civil proceedings where it is desired to give a statement in evidence by virtue of this section, a certificate–
+*(2) In statement in*
+
+any civil proceedings where it is desired to give a evidence by virtue of this section, a certificate–
 
 (a) identifying the document containing the statement and describing the manner in which it was produced; and
 
@@ -1262,9 +1280,13 @@ attend as a witness, act on a certificate purporting to be the certificate of a 
 
 (c) dealing with any of the matters to which the conditions mentioned in sub-section (1) relate, and purporting to be signed by a person occupying a responsible position with relation to the operation of the relevant device or the management of the relevant activities (whichever is appropriate),
 
-shall be evidence of any matter stated therein; and for the purpose of this sub-section it is sufficient for a matter to be stated to the best of the knowledge and belief of the person stating it.
+*shall be this sub-section the knowledge*
 
-(3) For the purposes of this section–
+evidence of any matter stated therein; and for the purpose of it is sufficient for a matter to be stated to the best of and belief of the person stating it.
+
+*For*
+
+(3) the purposes of this section–
 
 (a) information is taken to be supplied to a computer if it is supplied thereto in any appropriate form and whether it is so supplied directly or (with or without human intervention) by means of any appropriate equipment; and
 
@@ -1272,39 +1294,53 @@ shall be evidence of any matter stated therein; and for the purpose of this sub-
 
 a document is taken to have been produced by a computer whether it was produced by it directly or (with or without human intervention) by means of any appropriate equipment.
 
-**84.** (1) For the purposes of this section “business” includes every Admissibility of certain kind of business, profession, occupation, calling, operation or documents in activity, whether carried on for profit or otherwise.
+*kind of activity,*
 
-criminal proceedings-
+**84.** (1) For the purposes of this section “business” includes every Admissibility of certain business, profession, occupation, calling, operation or documents in whether carried on for profit or otherwise.
 
-(2) In any criminal proceeding where direct oral evidence of Business records. 18 of 1998. a fact would be admissible, any statement contained in a document and tending to establish that fact shall, on production of the document, be admissible as prima facie evidence of that fact if–
+*(2) In*
+
+*document, be*
+
+criminal proceedings-any criminal proceeding where direct oral evidence of Business records. 18 of 1998. a fact would be admissible, any statement contained in a document and tending to establish that fact shall, on production of the admissible as prima facie evidence of that fact if–
 
 (a) the document is, or forms part of, a record relating to any trade or business and compiled in the course of that trade or business from information supplied (whether directly or indirectly) by persons who have, or may reasonably be supposed to have, personal knowledge of the matters dealt with in the information they supply; and
 
 (b) the person who supplied the information recorded in the statement in question is dead, or outside Belize, or unfit by reason of his bodily or mental condition to attend as a witness, or cannot with reasonable diligence be identified or found, or cannot reasonably be expected (having regard to the time which has elapsed since he supplied the information and to all the circumstances) to have any recollection of the matters dealt with in the information he supplied.
 
-(3) For the purpose of deciding whether or not a statement is admissible as evidence by virtue of this section, the court may draw any reasonable inference from the form or content of the document in which the statement is contained, and may, in deciding whether or not a person is fit to attend as a witness, act on a certificate purporting to be a certificate of a registered medical practitioner.
+*(3) For admissible as*
 
-Weight to be 85.–(1) In estimating the weight, if any, to be attached to a statement attached to
+*in which the or not a*
 
-rendered admissible as evidence by virtue of this Part, regard shall evidence.
+the purpose of deciding whether or not a statement is evidence by virtue of this section, the court may draw any reasonable inference from the form or content of the document statement is contained, and may, in deciding whether person is fit to attend as a witness, act on a certificate purporting to be a certificate of a registered medical practitioner.
 
-be had to all the circumstances from which any inference may 18 of 1998.
+*Weight to be 85.–(1) In attached to*
 
-reasonably be drawn as to the accuracy or otherwise of the statement and in particular–
+*rendered*
+
+*evidence.*
+
+*be had to all*
+
+*18 of 1998.*
+
+*reasonably be and in*
+
+estimating the weight, if any, to be attached to a statement admissible as evidence by virtue of this Part, regard shall the circumstances from which any inference may drawn as to the accuracy or otherwise of the statement particular–
 
 (a) in the case of a statement falling within section 83, to the question whether or not the matter which the information contained in the statement reproduces, or is derived from, was supplied to the relevant computer, or recorded for the purpose of being supplied thereto, contemporaneously with the concurrence or existence of the facts dealt with therein, and to the question whether or not any person concerned with the supply of information to that computer, or with the operation of that computer or any equipment by means of which the document containing the statement was produced by it, had any incentive to conceal or misrepresent the facts;
 
 (b) in the case of a statement falling within any other section in this Part, other than section 83, to the question whether or not the statement was made contemporaneously with the occurrence or existence of the facts stated, and to the question whether or not the maker of the statement had any incentive to conceal or misrepresent the facts.
 
-(2) For the purpose of any rule of law or practice requiring evidence to be corroborated or regulating the manner in which uncorroborated evidence is to be treated, a statement rendered admissible as evidence by this Part shall not be treated as corroboration of evidence given by the maker of the statement.
+*(2) For evidence to be uncorroborated admissible as corroboration*
 
-Proof of
+the purpose of any rule of law or practice requiring corroborated or regulating the manner in which evidence is to be treated, a statement rendered evidence by this Part shall not be treated as of evidence given by the maker of the statement.
 
-**86.** (1) Subject to sub-section (2), in any proceedings whether civil instrument to or criminal, an instrument to the validity of which attestation is validity of which
+*86.–(1) Subject*
 
-requisite may, instead of being proved by an attesting witness, be attestation is
+*Proof of instrument to or criminal, an validity of which requisite may, attestation is necessary.*
 
-necessary.
+to sub-section (2), in any proceedings whether civil instrument to the validity of which attestation is instead of being proved by an attesting witness, be
 
 proved in the manner in which it might be proved if no attesting witness were alive.
 
@@ -1496,11 +1532,19 @@ witness but of which evidence could not have been adduced by the party cross-exa
 
 another statement inconsistent therewith, shall be admissible for the purpose of showing that the person contradicted himself.
 
-(2) References in sub-section (1) to a person who made the statement and to his making the statement shall be construed respectively as including references to the person who supplied the information from which the document containing the statement was derived and to his supplying that information.
+*information derived and to*
 
-Proof by 106.–(1) Subject to the provisions of this section, any fact of which admission in oral evidence may be given in any criminal proceedings may be criminal cases. admitted for the purpose of those proceedings by or on behalf of the prosecution or the defence, and the admission by any party of any such fact under this section shall as against that party be conclusive evidence in those proceedings of the fact admitted.
+(2) References in sub-section (1) to a person who made the statement and to his making the statement shall be construed respectively as including references to the person who supplied the from which the document containing the statement was his supplying that information.
 
-(2) An admission under this section–
+*106.–(1) oral evidence*
+
+*evidence in*
+
+Proof by Subject to the provisions of this section, any fact of which admission in may be given in any criminal proceedings may be criminal cases. admitted for the purpose of those proceedings by or on behalf of the prosecution or the defence, and the admission by any party of any such fact under this section shall as against that party be conclusive those proceedings of the fact admitted.
+
+*An*
+
+(2) admission under this section–
 
 (a) may be made before, at, or during the proceedings;
 
@@ -1512,7 +1556,11 @@ Proof by 106.–(1) Subject to the provisions of this section, any fact of which
 
 (e) if made at any stage before the proceedings by a defendant who is an individual, shall be approved by his or her attorney-at-law, either at the time it is made or at any time thereafter before, at, or during the proceedings in question.
 
-(3) An admission under this section for the purpose of proceedings relating to any matter shall be treated as an admission for the purposes of any subsequent criminal proceedings relating to that matter, including any appeal or retrial.
+*(3) An proceedings*
+
+*that matter,*
+
+admission under this section for the purpose of relating to any matter shall be treated as an admission for the purposes of any subsequent criminal proceedings relating to including any appeal or retrial.
 
 ## SCHEDULE I
 

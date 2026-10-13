@@ -208,7 +208,9 @@ given by a veterinary surgeon, of the person to whom the medicine is to be deliv
 
 (e) indicate the total quantity of the antibiotic to be supplied and the dose to be taken and shall not contain a direction for dispensing more than twice.
 
-(3) Every person dispensing any such prescription shall comply with the following requirements,
+*(3) Every comply with the*
+
+person dispensing any such prescription shall following requirements,
 
 (a) the prescription shall not be dispensed otherwise than in accordance with the prescription or more than once unless the prescription contains a direction in accordance with the provisions of paragraph
 
@@ -250,25 +252,47 @@ the quantities of antibiotics which he has imported into Belize and the identifi
 
 (d) the names and addresses of the persons to whom any such antibiotic has been issued by him and the quantity and date of every such issue.
 
-*Examination of record.*
+*Examination of*
 
-**16.** Any person authorised in writing by or on behalf of the Committee may, at any time during business hours enter the premises of any holder of a licence under this Act and call for and examine any records required to be kept by such holder.
+*Any*
 
-*Lists of approved pharmaceutical firms.*
+*record.*
 
-**17.** It shall be the function of the Committee to submit to the Minister lists of pharmaceutical firms for approval as manufacturing firms from whom antibiotics may be imported into Belize, and the names of the firms so approved shall be published in the Gazette.
+*Committee*
 
-*Variation of lists of approved pharmaceutical firms.*
+*and examine*
 
-**18.** The Minister may, on the recommendation of the Committee, add to or delete from the list of approved firms, and every such addition or deletion shall be published in the Gazette.
+**16.** person authorised in writing by or on behalf of the may, at any time during business hours enter the premises of any holder of a licence under this Act and call for any records required to be kept by such holder.
+
+*Lists of approved pharmaceutical*
+
+*the Minister*
+
+*firms.*
+
+**17.** It shall be the function of the Committee to submit to lists of pharmaceutical firms for approval as manufacturing firms from whom antibiotics may be imported into Belize, and the names of the firms so approved shall be published in the Gazette.
+
+*Variation of lists*
+
+*The*
+
+*of approved pharmaceutical firms.*
+
+**18.** Minister may, on the recommendation of the Committee, add to or delete from the list of approved firms, and every such addition or deletion shall be published in the
+
+*Gazette.*
 
 ## PART III
 
 Miscellaneous
 
-*Regulations. 40 of 1963.*
+*Regulations.*
 
-**19.** The Minister may make regulations,
+*The*
+
+*40 of 1963.*
+
+**19.** Minister may make regulations,
 
 defining the powers and duties of the Committee;
 
@@ -276,9 +300,9 @@ defining the powers and duties of the Committee;
 
 (c) controlling or prohibiting any process which may affect the potency, sterility or toxicity of any antibiotic.
 
-*Offences.*
+*Offences. Every*
 
-**20.** Every person who,
+**20.** person who,
 
 (a) obstructs any person authorised in writing by or on behalf of the Committee in the performance of any duty imposed on the Committee by or under this Act; or
 
@@ -286,10 +310,14 @@ defining the powers and duties of the Committee;
 
 (c) otherwise contravenes any of the provisions of this Act, is guilty of an offence.
 
-*Penalty.*
+*Penalty. Every liable on hundred dollars six months, or to*
 
-**21.** Every person guilty of an offence against this Act is liable on summary conviction to a fine not exceeding five hundred dollars or to imprisonment for a term not exceeding six months, or to both such fine and term of imprisonment.
+**21.** person guilty of an offence against this Act is summary conviction to a fine not exceeding five or to imprisonment for a term not exceeding both such fine and term of imprisonment.
 
-*Saving.*
+*Saving. This Act the provisions of*
 
-**22.** This Act shall be in addition to and not in derogation of the provisions of the Chemists and Druggists Act, Cap. 311.
+**22.** shall be in addition to and not in derogation of the Chemists and Druggists Act, Cap. 311.
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE

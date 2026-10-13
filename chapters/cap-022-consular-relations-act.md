@@ -36,6 +36,8 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 This is a revised edition of the Substantive Laws, prepared by the Law Revision Commissioner under the authority of the Law Revision Act, Chapter 3 of the Substantive Laws of Belize, Revised Edition 2020.
 
+[CAP.
+
 ### CHAPTER 22
 
 ### CONSULAR RELATIONS
@@ -156,19 +158,23 @@ in the order, except where a consular officer of that State has been notified of
 
 (3) For the purposes of this section, any document purporting to be signed by or on behalf of a consular officer and stating that he has requested or consented to the institution
 
-of any proceedings shall be sufficient proof of that fact unless the contrary is shown.
+*of any*
 
-*Detention on board ship for disciplinary offences.*
+proceedings shall be sufficient proof of that fact unless the contrary is shown.
 
-**8.** The Minister may by order designate any State for the purposes of this section, and where a State is so designated a member of the crew of a ship belonging to that State who is detained in custody on board for a disciplinary offence shall not be deemed to be unlawfully detained unless,
+*Detention on The board ship for disciplinary offences.*
+
+*detained in*
+
+**8.** Minister may by order designate any State for the purposes of this section, and where a State is so designated a member of the crew of a ship belonging to that State who is custody on board for a disciplinary offence shall not be deemed to be unlawfully detained unless,
 
 (a) his detention is unlawful under the laws of that state or the conditions of detention are inhumane or unjustifiably severe; or
 
 (b) there is reasonable cause for believing that his life or liberty will be endangered for reasons of race, nationality, political opinion or religion, in any country to which the ship is likely to go.
 
-*Refund of customs duty on hydrocarbon oils.*
+*Refund of 9.-(1) The customs duty on Secretary to hydrocarbon oils. the refund of are,*
 
-**9.** (1) The Minister of Finance may authorise the Financial Secretary to make, if he thinks fit, arrangements for securing the refund of customs duty paid on any hydrocarbon oils which are,
+Minister of Finance may authorise the Financial make, if he thinks fit, arrangements for securing customs duty paid on any hydrocarbon oils which
 
 (a) bought in Belize; and
 
@@ -218,7 +224,9 @@ of any proceedings shall be sufficient proof of that fact unless the contrary is
 
 ### CONSULAR RELATIONS ACT
 
-Vienna Convention having the Force of Law in Belize
+*Vienna*
+
+Convention having the Force of Law in Belize
 
 [Sections 3 (1) and 9 (1)]
 
@@ -226,7 +234,9 @@ Vienna Convention having the Force of Law in Belize
 
 Definitions
 
-**1.** For the purposes of the present Convention, the following expressions shall have the meanings hereunder assigned to them,
+*following assigned to*
+
+**1.** For the purposes of the present Convention, the expressions shall have the meanings hereunder them,
 
 “consular post” means any consulate-general, (a)
 
@@ -272,17 +282,25 @@ consular archives” includes all the papers, (k)
 
 documents, correspondence, books, films, tapes and registers of the consular post, together with the ciphers and codes, the card-indexes and any article of furniture intended for their protection or safekeeping.
 
-**2.** Consular officers are of two categories, namely career consular officers and honorary consular officers. The provisions of Chapter II of the present Convention apply to consular posts headed by career consular officers; the provisions of Chapter III govern consular posts headed by honorary consular officers.
+*Consular consular provisions of consular posts provisions of honorary*
 
-The particular status of members of the consular post who are nationals or permanent residents of the receiving State is governed by Article 71 of the present Convention.
+**2.** officers are of two categories, namely career officers and honorary consular officers. The Chapter II of the present Convention apply to headed by career consular officers; the Chapter III govern consular posts headed by consular officers.
 
-Chapter I. - Consular Relations in General
+*who are is governed by*
+
+particular status of members of the consular post nationals or permanent residents of the receiving State Article 71 of the present Convention.
+
+*Chapter I. -*
+
+Consular Relations in General
 
 ### ARTICLE 5
 
 Consular functions
 
-Consular functions consists in,
+*Consular*
+
+functions consists in,
 
 (a) protecting in the receiving State the interests of the sending State and of its nationals, both individuals and bodies corporate, within the limits permitted by international law;
 
@@ -428,7 +446,9 @@ Waiver of privileges and immunities
 
 Exemption from Taxation
 
-**1.** Consular officers and consular employees and members of their families forming part of their household shall be exempt from all dues and taxes, personal or real, national regional or municipal, except,
+*Consular of their exempt from regional or*
+
+**1.** officers and consular employees and members families forming part of their household shall be all dues and taxes, personal or real, national municipal, except,
 
 (a) indirect taxes of a kind which are normally incorporated in the price of goods or services;
 
@@ -444,9 +464,13 @@ Exemption from Taxation
 
 (f) registration, court or record fees, mortgage dues and stamp duties, subject to the provisions of Article 32.
 
-**2.** Members of the service staff shall be exempt from dues and taxes on the wages which they receive for their services.
+*Members and taxes on the*
 
-**3.** Members of the consular post who employ persons whose wages or salaries are not exempt from income tax in the
+**2.** of the service staff shall be exempt from dues wages which they receive for their services.
+
+*Members whose wages or*
+
+**3.** of the consular post who employ persons salaries are not exempt from income tax in the
 
 receiving State shall observe the obligations which the laws and regulations of that state impose upon employers concerning the levying of income tax.
 
@@ -464,13 +488,19 @@ Exemption from customs duties and inspection
 
 **3.** Personal baggage accompanying consular officers and members of their families forming part of their households shall be exempt from inspection. It may be inspected only if there is serious reason to believe that it contains articles other than those referred to in sub-paragraph (b) of paragraph 1 of this Article, or articles, the import or export of which is prohibited by the laws and regulations of the receiving State or which are subject to its quarantine laws and regulations. Such
 
-inspection shall be carried out in the presence of the consular officer or member of his family concerned.
+*officer or*
+
+inspection shall be carried out in the presence of the consular member of his family concerned.
 
 ### ARTICLE 51
 
-Estate of a member of the consular post or of a member of his family
+*Estate of a*
 
-In the event of the death of a member of the consular post or of a member of his family forming part of his household, the receiving State,
+member of the consular post or of a member of his family
+
+*In the post or of a*
+
+event of the death of a member of the consular member of his family forming part of his household, the receiving State,
 
 (a) shall permit the export of the movable property of the deceased, with the exception of any such property acquired in the receiving State the export of which was prohibited at the time of his death;
 
@@ -480,7 +510,9 @@ In the event of the death of a member of the consular post or of a member of his
 
 Exemption from personal services and contributions
 
-The receiving State shall exempt members of the consular post and members of their families forming part of their households from all personal services, from all public
+*The consular post their*
+
+receiving State shall exempt members of the and members of their families forming part of households from all personal services, from all public
 
 service of any kind whatsoever, and from military obligations such as those connected with requisitioning, military contributions and billeting.
 
@@ -520,7 +552,9 @@ Respect for the laws and regulations of the receiving State
 
 **3.** The provisions of paragraph 2 of this Article shall not exclude the possibility of offices of other institutions or agencies being installed in part of the building in which the consular premises are situated, provided that the premises assigned to them are separate from those used by the consular post. In that event, the said offices shall not, for the purposes of the present convention, be considered to form part of the consular premises.
 
-Social provisions concerning private gainful occupation
+*Social*
+
+provisions concerning private gainful occupation
 
 **2.** Privileges and immunities provided in this Chapter shall not be accorded,
 

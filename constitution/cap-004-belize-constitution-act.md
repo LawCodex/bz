@@ -442,11 +442,9 @@ distributed as to sub serve the common good, that there should be adequate means
 
 *2 of 2001.*
 
-(e) require policies of state which protect and safeguard the unity, freedom, sovereignty and territorial integrity of Belize; which eliminate economic and social privilege and disparity among the citizens of Belize whether by race,
-
 *39 of 2001.*
 
-ethnicity, colour, creed, disability or sex; which ensures gender equality; which protect the rights of the individual to life, liberty, basic education, basic health, the right to vote in elections, the right to work and the pursuit of happiness; which protect the identity, dignity and social and cultural values of
+(e) require policies of state which protect and safeguard the unity, freedom, sovereignty and territorial integrity of Belize; which eliminate economic and social privilege and disparity among the citizens of Belize whether by race, ethnicity, colour, creed, disability or sex; which ensures gender equality; which protect the rights of the individual to life, liberty, basic education, basic health, the right to vote in elections, the right to work and the pursuit of happiness; which protect the identity, dignity and social and cultural values of
 
 Belizeans, including Belize’s indigenous peoples; which preserve the right of the individual to the ownership of private property and the right to operate private businesses; which prohibit the exploitation of man by man or by the state; which ensure a just system of social security and welfare; which protect the environment; which promote international peace, security and co-operation among nations, the establishment of a just and equitable international economic and social order in the world with respect for international law and treaty obligations in the dealings among nations;
 
@@ -466,11 +464,9 @@ NOW, THEREFORE, the following provisions shall have effect as the Constitution o
 
 **2.** (1) This Constitution is the supreme law of Belize and if any other law is inconsistent with this Constitution that other law shall, to the extent of the inconsistency, be void.
 
-(2) The words “other law” occurring in subsection (1) of this section do not include a law to alter any of the provisions of this Constitution which is passed by the National Assembly
-
 *11 of 2011.*
 
-in conformity with section 69 of the Constitution.
+(2) The words “other law” occurring in subsection (1) of this section do not include a law to alter any of the provisions of this Constitution which is passed by the National Assembly in conformity with section 69 of the Constitution.
 
 ## PART II Protection of Fundamental Rights and Freedoms
 
@@ -540,11 +536,9 @@ extradition or removal as a convicted prisoner from one country to another; or
 
 (3) Any person who is arrested or detained–
 
-(a) for the purpose of bringing him before a court in execution of the order of a court; or (b) upon reasonable suspicion of his having committed, or being about to commit, a criminal offence under any law,
-
 *2 of 2001.*
 
-and who is not released, shall be brought before a court without undue delay and in any case not later than forty-eight hours after such arrest or detention.
+(a) for the purpose of bringing him before a court in execution of the order of a court; or (b) upon reasonable suspicion of his having committed, or being about to commit, a criminal offence under any law, and who is not released, shall be brought before a court without undue delay and in any case not later than forty-eight hours after such arrest or detention.
 
 (4) Where any person is brought before a court in execution of the order of a court in any proceedings or upon suspicion of his having committed or being about to commit an offence, he shall not be thereafter further held in custody in connection with those proceedings or that offence save upon the order of a court.
 
@@ -802,11 +796,9 @@ trial or enquiry or, in the case of land, the carrying out on the land, (i) of w
 
 *13 of 2008.*
 
-(3) Subsection (1) of this section does not apply to petroleum, minerals and accompanying substances, in whatever physical state, located on or under the territory of Belize (whether under public, private or community ownership) or the exclusive economic zone of Belize, the entire property in and control over which are exclusively vested, in the Government of Belize, Provided that nothing in this subsection shall affect the right of the owner of any private land beneath which petroleum
-
 *S.I. 34 of 2010.*
 
-deposits are located to receive royalty from the Government, as provided in the Petroleum Act, Cap. 225 and regulations made thereunder, on or after 13 th day of April, 2010.
+(3) Subsection (1) of this section does not apply to petroleum, minerals and accompanying substances, in whatever physical state, located on or under the territory of Belize (whether under public, private or community ownership) or the exclusive economic zone of Belize, the entire property in and control over which are exclusively vested, in the Government of Belize, Provided that nothing in this subsection shall affect the right of the owner of any private land beneath which petroleum deposits are located to receive royalty from the Government, as provided in the Petroleum Act, Cap. 225 and regulations made thereunder, on or after 13 th day of April, 2010.
 
 *13 of 2008.*
 
@@ -984,11 +976,9 @@ accorded to the envoy of a foreign sovereign power accredited to Belize; or
 
 **27.** A citizen of Belize by birth or descent who acquires the citizenship of any other country may, if the laws of the other country so permit and at his option, retain his citizenship of Belize.
 
-**28.** (1) The National Assembly may make provision, not
-
 *Citizenship legislation. 39 of 2001.*
 
-inconsistent with this Part, in respect of citizenship, including provision for,
+**28.** (1) The National Assembly may make provision, not inconsistent with this Part, in respect of citizenship, including provision for,
 
 (a) the acquisition of citizenship of Belize by persons who are not eligible or who are no longer eligible to become citizens of Belize under this Part;
 
@@ -1018,11 +1008,9 @@ inconsistent with this Part, in respect of citizenship, including provision for,
 
 **30.** There shall be a Governor-General of Belize who shall be a citizen of Belize appointed by Her Majesty and shall hold office during Her Majesty’s pleasure and who shall be Her Majesty’s representative in Belize.
 
-**31.** (1) During any period when the office of Governor-
-
 *Acting Governor-General.*
 
-General is vacant or the holder of the office of Governor-General is absent from Belize or is for any other reason unable to perform the functions of his office those functions shall be performed by such person as Her Majesty may appoint.
+**31.** (1) During any period when the office of Governor-General is vacant or the holder of the office of Governor-General is absent from Belize or is for any other reason unable to perform the functions of his office those functions shall be performed by such person as Her Majesty may appoint.
 
 (2) Any such person as aforesaid shall not continue to perform the functions of the office of Governor-General if the holder of the office of Governor-General or some other person having a prior right to perform the functions of that office has notified him that he is about to assume or resume those functions.
 
@@ -1074,11 +1062,9 @@ Belize and to any other powers and duties conferred or imposed on him as Governo
 
 (3) Nothing in this section shall prevent the National Assembly from conferring functions on persons or authorities other than the Governor-General.
 
-**37.** (1) There shall be a Prime Minister of Belize who shall be
-
 *Prime Minister.*
 
-appointed by the Governor-General.
+**37.** (1) There shall be a Prime Minister of Belize who shall be appointed by the Governor-General.
 
 (2) Whenever the Governor-General has occasion to appoint a Prime Minister he shall appoint a member of the House of Representatives who is the leader of the political party which commands the support of the majority of the members of that House; and if no political party has an overall majority, he shall appoint a member of that House who appears to him likely to command the support of the majority of the members of that House,
 
@@ -1134,17 +1120,13 @@ Provided that if the Governor-General, acting in his own deliberate judgment, co
 
 (2) Appointments to the office of Minister shall be made by the Governor-General, acting in accordance with the advice of the Prime Minister, from among members of the House of Representatives and of the Senate,
 
-Provided that persons holding the office of Speaker of the House of Representatives or President of the Senate may not be appointed to the office of Minister,
-
 *39 of 2001.*
 
-Provided further that the Cabinet shall be comprised of, (a) not more than two-thirds of the elected Members of the party that obtains the majority seats in the House of Representatives following the holding of a general election; and
-
-(b) not more than four Senators,
+Provided that persons holding the office of Speaker of the House of Representatives or President of the Senate may not be appointed to the office of Minister, Provided further that the Cabinet shall be comprised of, (a) not more than two-thirds of the elected Members of the party that obtains the majority seats in the House of Representatives following the holding of a general election; and
 
 *4 of 2010.*
 
-Provided further that, subject to section 42 (3) of this Constitution, a national of Belize may be appointed as Attorney General whether or not that person is a member of either House of the National Assembly.
+(b) not more than four Senators, Provided further that, subject to section 42 (3) of this Constitution, a national of Belize may be appointed as Attorney General whether or not that person is a member of either House of the National Assembly.
 
 (3) If occasion arises for making an appointment to the office of Minister while the National Assembly is dissolved, then, notwithstanding the provisions of subsection (2) of this section, a person who was a member of the House of Representatives or of the Senate immediately before the dissolution may be appointed as Minister.
 
@@ -1192,11 +1174,9 @@ Provided that if the Governor-General, acting in his own deliberate judgment, co
 
 *Cabinet. 26 of 1988.*
 
-**44.** (1) There shall be a Cabinet of Ministers for Belize which shall consist of the Prime Minister and the other Ministers,
-
 *2 of 2001.*
 
-Provided that a Minister of State appointed under section 45 shall not be a member of Cabinet but may attend Cabinet meetings upon the invitation of the Prime Minister.
+**44.** (1) There shall be a Cabinet of Ministers for Belize which shall consist of the Prime Minister and the other Ministers, Provided that a Minister of State appointed under section 45 shall not be a member of Cabinet but may attend Cabinet meetings upon the invitation of the Prime Minister.
 
 (2) The Cabinet shall be the principal executive instrument of policy with general direction and control of the Government and shall be collectively responsible to the National Assembly for any advice given to the Governor-General by or under the general authority of the Cabinet and for all things done by or under the authority of any Minister in the execution of his office.
 
@@ -1310,11 +1290,9 @@ substitute a less severe form of punishment for any punishment imposed on any pe
 
 **54.** (1) There shall be a Belize Advisory Council (hereinafter referred to as “the Council”, which shall consist of the members specified in subsection (2) of this section.
 
-(2) The Council shall consist of,
-
 *39 of 2001.*
 
-(a) two senior members, who shall be persons of integrity and high national standing, appointed by the Governor-General, acting in accordance with the advice of the Prime Minister; and
+(2) The Council shall consist of, (a) two senior members, who shall be persons of integrity and high national standing, appointed by the Governor-General, acting in accordance with the advice of the Prime Minister; and
 
 (b) two senior members, who shall be persons of integrity and high national standing,
 
@@ -1562,11 +1540,9 @@ as Speaker or Deputy Speaker, as the case may be.
 
 Division 2 The Senate
 
-**61.** (1) Subject to subsection (2), the Senate shall consist of
-
 *Composition of Senate. 39 of 2001. 13 of 2008.*
 
-thirteen members (in this Constitution referred to as
+**61.** (1) Subject to subsection (2), the Senate shall consist of thirteen members (in this Constitution referred to as
 
 “Senators”) who shall be appointed by the Governor-General in accordance with the provisions of this section.
 
@@ -1590,11 +1566,9 @@ thirteen members (in this Constitution referred to as
 
 (c) one shall be appointed by the Governor-General acting in accordance with the advice of the Belize Council of Churches and Evangelical Association of Churches; and (d) one shall be appointed by the Governor-General acting in accordance with the advice of the Belize Chamber of Commerce and Industry and the Belize Business Bureau; and
 
-one shall be appointed by the Governor-General acting in accordance with the advice of the National Trade Union Congress and the Civil Society Steering Committee;
-
 *13 of 2008.*
 
-(f) one shall be appointed by the Governor-General, acting in accordance with the advice of non-governmental organisations.
+one shall be appointed by the Governor-General acting in accordance with the advice of the National Trade Union Congress and the Civil Society Steering Committee; (f) one shall be appointed by the Governor-General, acting in accordance with the advice of non-governmental organisations.
 
 *39 of 2008.*
 
@@ -1606,19 +1580,15 @@ one shall be appointed by the Governor-General acting in accordance with the adv
 
 *39 of 2001.*
 
-(6) Notwithstanding sections 64 and 84 of this Constitution, the Senate which was in existence prior to the
-
 *S.I. 1 of 2002.*
 
-15th day of January, 2002, shall stand dissolved from the 15th day of January, 2002.
+(6) Notwithstanding sections 64 and 84 of this Constitution, the Senate which was in existence prior to the 15th day of January, 2002, shall stand dissolved from the 15th day of January, 2002.
 
 *39 of 2001.*
 
-(7) When the Senate first meets after the 15th day of January, 2002, before it proceeds to dispatch any business, it shall elect a person to be President of the Senate, and another
-
 *S.I. No.1 of 2002*
 
-Senator who is not a Minister to be Vice President of the Senate.
+(7) When the Senate first meets after the 15th day of January, 2002, before it proceeds to dispatch any business, it shall elect a person to be President of the Senate, and another Senator who is not a Minister to be Vice President of the Senate.
 
 *13 of 2008.*
 
@@ -1666,11 +1636,7 @@ discharge of their duties and the execution of their functions;
 
 **63.** (1) No person shall be qualified to be appointed as a
 
-*Disqualification*
-
-*Senator who,*
-
-*for appointment as Senator.*
+*Disqualification Senator who, for appointment as Senator.*
 
 (a) is, by virtue of his own act, under any acknowledgement of allegiance, obedience or adherence to a foreign power or State; (b) is a member of the House of Representatives; (c) is an un-discharged bankrupt, having been adjudged or otherwise declared bankrupt under any law in force in any part of the Commonwealth;
 
@@ -1704,11 +1670,9 @@ two or more sentences of imprisonment that are required to be served consecutive
 
 (c) if he ceases to be a citizen of Belize;
 
-(d) subject to the provisions of subsection (3) of this section, if any circumstances arise that, if he were not a Senator, would cause him to be disqualified for appointment as such by virtue of section 63 (1) of this Constitution;
-
 *39 of 2001. 13 of 2008.*
 
-(e) if the Governor-General, acting in accordance with the advice of the Prime Minister in the case of a Senator appointed in accordance with that advice, or acting in accordance with the advice of the Leader of the Opposition in
+(d) subject to the provisions of subsection (3) of this section, if any circumstances arise that, if he were not a Senator, would cause him to be disqualified for appointment as such by virtue of section 63 (1) of this Constitution; (e) if the Governor-General, acting in accordance with the advice of the Prime Minister in the case of a Senator appointed in accordance with that advice, or acting in accordance with the advice of the Leader of the Opposition in
 
 the case of a Senator appointed in accordance with that advice, or acting in accordance with the advice of any organization referred to in paragraphs (c), (d), (e) and (f) of subsection
 
@@ -1784,11 +1748,9 @@ in the case of the Vice-President, (i) if he ceases to be a Senator; or
 
 (2) The National Assembly may by law regulate the recruitment and the conditions of service of persons referred to in subsection (1) of this section.
 
-Subject to the provisions of this Constitution, the
-
 *Powers to make laws.*
 
-National Assembly may make laws for the peace, order and good government of Belize.
+Subject to the provisions of this Constitution, the National Assembly may make laws for the peace, order and good government of Belize.
 
 *Alteration of Constitution..*
 
@@ -1918,11 +1880,9 @@ Provided that the foregoing provisions of this subsection shall not have effect 
 
 (5) There shall be endorsed on any Bill that is presented to the Governor-General for assent in pursuance of this section the certificate of the Speaker signed by him that the provisions of this section have been complied with.
 
-**80.** (1) In sections 77, 78 and 79 of this Constitution, “money
-
 *Provisions relating to sections 77, 78 and 79.*
 
-Bill” means a public Bill, which, in the opinion of the Speaker, contains only provisions dealing with all or any of the following matters, namely, the imposition, repeal, remission, alteration or regulation of taxation; the imposition, for the payment of debt or other financial purposes, of charges on public money, or the variation or repeal of any such charges; the grant of money to the Crown or to any authority or person, or the variation or revocation of any such grant; the appropriation, receipt, custody, investment, issue or audit of accounts of public money; the raising or guarantee of any loan or the repayment thereof, or the establishment, alteration, administration or abolition of any sinking fund provided in connection with any such loan; or subordinate matters incidental to any of the matters aforesaid; and in this subsection the expressions “taxation”, “debt”, “public money” and “loan” do not include any taxation imposed, debt incurred or money provided or loan raised by any local authority or body for local purposes.
+**80.** (1) In sections 77, 78 and 79 of this Constitution, “money Bill” means a public Bill, which, in the opinion of the Speaker, contains only provisions dealing with all or any of the following matters, namely, the imposition, repeal, remission, alteration or regulation of taxation; the imposition, for the payment of debt or other financial purposes, of charges on public money, or the variation or repeal of any such charges; the grant of money to the Crown or to any authority or person, or the variation or revocation of any such grant; the appropriation, receipt, custody, investment, issue or audit of accounts of public money; the raising or guarantee of any loan or the repayment thereof, or the establishment, alteration, administration or abolition of any sinking fund provided in connection with any such loan; or subordinate matters incidental to any of the matters aforesaid; and in this subsection the expressions “taxation”, “debt”, “public money” and “loan” do not include any taxation imposed, debt incurred or money provided or loan raised by any local authority or body for local purposes.
 
 (2) For the purposes of section 79 of this Constitution, a Bill shall be deemed to be rejected by the Senate if, (a) it is not passed by the Senate without amendment; or
 
@@ -2196,11 +2156,9 @@ perform the functions of his office or for misbehavior has been referred to the 
 
 (8) The power to remove a Justice of the Supreme Court from office for in ability to perform the functions of his office or for misbehaviour vest in the Governor-General, acting in accordance with this section.
 
-A justice of the Supreme Court shall not enter upon the
-
 *Oath to be taken by Justices of Supreme Court.*
 
-duties of his office unless he has taken and subscribed the oath of allegiance and office.
+A justice of the Supreme Court shall not enter upon the duties of his office unless he has taken and subscribed the oath of allegiance and office.
 
 *Appeals to Court of Appeal.*
 
@@ -2220,11 +2178,9 @@ Provided that the office of Justice of Appeal shall not be abolished while there
 
 *13 of 2008.*
 
-Provided that where no period is specified in an instrument of appointment, such appointment shall be deemed to subsist until one year after such commencement,
-
 *S.I. 34 of 2010.*
 
-(a) in case of instrument of appointment on 13 th day of April, 2010;
+Provided that where no period is specified in an instrument of appointment, such appointment shall be deemed to subsist until one year after such commencement, (a) in case of instrument of appointment on 13 th day of April, 2010;
 
 *S.I. 34 of 2010.*
 
@@ -2520,11 +2476,9 @@ Division 2 The Security Services Commission
 
 (e) one person from the private sector.
 
-**110D.** (1) Subject to the provisions of this section, the power
-
 *Appointment of police officers, members of Belize Defence Forces, etc. 2 of 2001. 13 of 2008.*
 
-to appoint persons to hold or act in offices in the security services, including the power to make appointments, and to deal with all matters relating to the conditions of service of such officers and, subject to the provisions of section 111 of this Constitution, the power to exercise disciplinary control over persons holding or acting in such offices and the power to remove such persons shall vest in the Security Services Commission established under section 110C of this Constitution.
+**110D.** (1) Subject to the provisions of this section, the power to appoint persons to hold or act in offices in the security services, including the power to make appointments, and to deal with all matters relating to the conditions of service of such officers and, subject to the provisions of section 111 of this Constitution, the power to exercise disciplinary control over persons holding or acting in such offices and the power to remove such persons shall vest in the Security Services Commission established under section 110C of this Constitution.
 
 (2) In this section “security services” means service in the Belize Police Department, the Belize National Coast Guard Services, and in the military service as defined in subsection
 
@@ -2544,11 +2498,9 @@ Provided that the provisions of this Part shall not apply to the Commissioner of
 
 *2 of 2001.*
 
-(5) The Security Services Commission may, by directions in writing and subject to such conditions as it thinks fit, delegate any of its powers under subsection (1) of this section to any one or more members of the Security Services
-
 *13 of 2008.*
 
-Commission or, with the consent of the Prime Minister, to the Commissioner of Police or the Commandant, Belize Defence
+(5) The Security Services Commission may, by directions in writing and subject to such conditions as it thinks fit, delegate any of its powers under subsection (1) of this section to any one or more members of the Security Services Commission or, with the consent of the Prime Minister, to the Commissioner of Police or the Commandant, Belize Defence
 
 Force, or the Commandant, Belize National Coast Guard Service.
 
@@ -2770,11 +2722,9 @@ for the purpose by the appropriation law or for a purpose for which no amount ha
 
 (4) When a person’s salary or other terms of service depend upon his option, the salary or terms for which he opts shall, for the purposes of subsection (3) of this section, be deemed to be more advantageous to him than any others for which he might have opted.
 
-(5) This section applies to the offices of the Governor-General, the Chief Justice, Justice of the Court of Appeal, Justice of the Supreme Court, member of the Belize Advisory Council, member of the Judicial and Legal Services Commission or the Security Services Commission or the Public Services Commission, member of the Elections and
-
 *23 of 2005.*
 
-Boundaries Commission, the Director of Public Prosecutions, members if the Integrity Commission, the Ombudsman, the Contractor-General and the Auditor-General.
+(5) This section applies to the offices of the Governor-General, the Chief Justice, Justice of the Court of Appeal, Justice of the Supreme Court, member of the Belize Advisory Council, member of the Judicial and Legal Services Commission or the Security Services Commission or the Public Services Commission, member of the Elections and Boundaries Commission, the Director of Public Prosecutions, members if the Integrity Commission, the Ombudsman, the Contractor-General and the Auditor-General.
 
 *23 of 2005.*
 
@@ -2784,11 +2734,9 @@ Boundaries Commission, the Director of Public Prosecutions, members if the Integ
 
 (7) Nothing in this section shall be construed as prejudicing the provisions of section 112 of this Constitution.
 
-**119.** (1) There shall be charged on the Consolidated Revenue
-
 *Public debt.*
 
-Fund all debt charges for which Belize is liable.
+**119.** (1) There shall be charged on the Consolidated Revenue Fund all debt charges for which Belize is liable.
 
 (2) For the purposes of this section debt charges include interest, sinking fund charges, the repayment or amortization of debt, and all expenditure in connection with the raising of loans on the security of the Consolidated Revenue Fund and the service and redemption of debt created thereby.
 
@@ -3172,11 +3120,9 @@ Provided that in the event the Social Security Board (“the Board”) intends t
 
 (2) Any alienation or transfer of the Government shareholding contrary to subsection (1) of this section shall vest no rights in the transferee or any other person other than the return of the purchase price, if paid.
 
-**145.** (1) For the removal of doubts, it is hereby declared that
-
 *Validity of Acquisition Orders on Belize Electricity Limited and Belize Telemedia Limited. 11 of 2011.*
 
-the acquisition of certain property by the Government under the terms of the,
+**145.** (1) For the removal of doubts, it is hereby declared that the acquisition of certain property by the Government under the terms of the,
 
 (a) Electricity Act, Cap. 221, as amended, and the Electricity (Assumption of Control Over Belize Electricity Limited) Order, issued in Statutory Instrument No. 67 of 2011 (hereinafter referred to as “the Electricity Acquisition Order”); and
 

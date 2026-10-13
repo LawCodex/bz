@@ -164,17 +164,27 @@ shall include in respect of Belize, and to other extent permitted by laws of Bel
 
 **6.** (1) Nothing in this Act derogates from existing forms, or prevents the development of other forms, of co-operation, whether formal or informal, in respect of serious criminal matters, between Belize and other States Parties.
 
-(2) Nothing in this Act authorizes the extradition or arrest or detention with a view to extradition, of any person.
+*[CAP. 17:05*
 
-*Court Orders.*
+Assistance in Serious Criminal Matters
 
-**7.** (1) The judicial authorities of Belize shall, in relation to proceedings, make all judgments and orders, whether final or interim, as are authorized by the Belize Constitution Cap 4. and the laws of Belize.
+*or detention*
 
-(2) Without prejudice to the generality of subsection (1), orders made by the judicial authorities of Belize in proceedings may include orders giving effect to mutual legal assistance as defined in Article 2(3) of the Treaty.
+(2) Nothing in this Act authorizes the extradition or arrest with a view to extradition, of any person.
 
-*Regulations.*
+*Court Orders. 7.-(1) The proceedings,*
 
-**8.** The Attorney General may make Regulations prescribing any matters necessary to be prescribed for carrying out or giving effect to this Act, in particular,
+judicial authorities of Belize shall, in relation to make all judgments and orders, whether final or interim, as are authorized by the Belize Constitution Cap 4. and the laws of Belize.
+
+*may include defined in*
+
+(2) Without prejudice to the generality of subsection (1), orders made by the judicial authorities of Belize in proceedings orders giving effect to mutual legal assistance as Article 2(3) of the Treaty.
+
+*Regulations. The*
+
+*out or giving*
+
+**8.** Attorney General may make Regulations prescribing any matters necessary to be prescribed for carrying effect to this Act, in particular,
 
 (a) making provisions as to evidence or proof of any matter for the purposes of this Act;
 
@@ -185,6 +195,10 @@ shall include in respect of Belize, and to other extent permitted by laws of Bel
 (d) prescribing conditions of the protection of any property sent to a requesting State, or sent to Belize pursuant to a request by Belize, and making provision for the return of such property to its country of origin if so requested; and
 
 (e) prescribing anything required by this Act or the Treaty to be prescribed.
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 ## SCHEDULE
 
@@ -292,7 +306,13 @@ Central Authority
 
 **1.** Each State Party shall designate a Central Authority who shall have the responsibility and power to execute requests for legal assistance or to transmit them to the Competent Authorities for execution.
 
-States Parties shall notify each other on the designation of their respective Central Authorities.
+*[CAP. 17:05*
+
+Assistance in Serious Criminal Matters
+
+*of their*
+
+States Parties shall notify each other on the designation respective Central Authorities.
 
 **3.** Requests for legal assistance under this Treaty shall be made through the Central Authorities of the States Parties
 
@@ -300,7 +320,9 @@ States Parties shall notify each other on the designation of their respective Ce
 
 Requests for Assistance
 
-**1.** A request for assistance shall be made in writing. In urgent circumstances, a request may be made orally but shall be confirmed in writing within seven days of the oral request. The requested State shall acknowledge receipt of the request within fifteen days of the date of receipt.
+*A urgent*
+
+**1.** request for assistance shall be made in writing. In circumstances, a request may be made orally but shall be confirmed in writing within seven days of the oral request. The requested State shall acknowledge receipt of the request within fifteen days of the date of receipt.
 
 **2.** Every request shall include where appropriate:
 
@@ -315,6 +337,14 @@ Requests for Assistance
 (e) the identity, nationality, and address of the person to be served, where necessary;
 
 (f) the reasons for and details of any particular procedure or requirement that the requesting State wishes to be followed, including a
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
+
+*Assistance*
+
+in Serious Criminal Matters [CAP. 17:05
 
 statement as to whether sworn or affirmed evidence or statements are required;
 
@@ -353,6 +383,10 @@ Refusal and Postponement of Request
 **1.** Legal assistance may be refused if,
 
 (a) execution of the request would be contrary to the laws of the requested State or unreasonable on other grounds;
+
+*Assistance*
+
+in Serious Criminal Matters [CAP. 17:05
 
 (b) execution of the request would impair the sovereignty, security, public order or similar essential public interest of the requested State, prejudice the safety of any person or be contrary to its laws or be unreasonable on other grounds;
 
@@ -486,21 +520,33 @@ Facilitating the Personal Appearance of Witness or Other Persons to Give Evidenc
 
 **3.** A person whose appearance as a witness is the subject to a request and who does not agree to appear shall not by reason thereof be liable to any penalty or measure of compulsion in either the requesting State or the requested State.
 
+*Assistance*
+
+in Serious Criminal Matters [CAP. 17:05
+
 Immunity of Persons
 
-**1.** A person present in the requesting State pursuant to a request under this Treaty seeking that person’s attendance shall not be subject to,
+*request under*
+
+**1.** A person present in the requesting State pursuant to a this Treaty seeking that person’s attendance shall not be subject to,
 
 (a) civil process in respect of any act or omission that occurred or is alleged to have occurred before the person’s departure from the requested State pursuant to the request; or
 
 (b) service of process or be prosecuted or detained or subjected to any other restriction of his personal liberty in that State for any acts or omissions which preceded that person’s departure from the requested State, nor shall that person be obliged to give evidence in any proceeding other than the proceedings to which the request relates.
 
-**2.** Paragraph 1 shall cease to apply if a person, being free to leave the requesting State, has not left it within a period of fifteen days after being officially notified that that person’s attendance is no longer required or, having left that State, has voluntarily returned.
+*to leave the fifteen days*
+
+*voluntarily*
+
+**2.** Paragraph 1 shall cease to apply if a person, being free requesting State, has not left it within a period of after being officially notified that that person’s attendance is no longer required or, having left that State, has returned.
 
 ### ARTICLE 17
 
 Search and Seizure
 
-**1.** A request for search and seizure and the transfer of any item to the requesting State shall be carried out in accordance with and to the extent permitted under the laws of the requested State.
+*A item to the with and to*
+
+**1.** request for search and seizure and the transfer of any requesting State shall be carried out in accordance the extent permitted under the laws of the requested State.
 
 Insofar as not prohibited by the law of the requested State, that State shall provide any item seized upon execution of a request under this Article in a form, or accompanied by such certification as may be required by the requesting State in order to render the seized item admissible in proceeding in the requesting State.
 
@@ -624,48 +670,36 @@ Signed by for the Government of Barbados on the at
 
 Signed by for the Government of Belize on the at
 
-*Signed by Dominica on the*
+[CAP. 17:05 Assistance in Serious Criminal Matters
 
-for the Government of the Commonwealth of at
+Signed by for the Government of the Commonwealth of Dominica at
 
-*Signed by on the*
+on the
 
-for the Government of Grenada at
+Signed by for the Government of Grenada on the at
 
-*Signed by of Guyana on the*
+Signed by for the Government of Cooperative Republic of Guyana at
 
-for the Government of Cooperative Republic at
+on the
 
-*Signed by on the*
+Signed by for the Government of Haiti on the at
 
-for the Government of Haiti at
+Signed by for the Government of Jamaica on the at
 
-*Signed by on the*
+Signed by for the Government of Montserrat on the at
 
-for the Government of Jamaica at
+Signed by for the Government of St. Kitts and Nevis on the at
 
-*Signed by on the*
+Signed by for the Government of Saint Lucia on the at
 
-for the Government of Montserrat at
+Signed by for the Government of St. Vincent and the Grenadines at
 
-*Signed by on the*
+on the
 
-for the Government of St. Kitts and Nevis at
+Signed by for the Government of The Republic of Suriname at
 
-*Signed by on the*
+on the
 
-for the Government of Saint Lucia at
+Signed by for the Government of the Republic of Trinidad and Tobago at
 
-*Signed by Grenadines on the*
-
-for the Government of St. Vincent and the at
-
-*Signed by Suriname on the*
-
-for the Government of The Republic of at
-
-*Signed by*
-
-for the Government of the Republic of Trinidad and Tobago at
-
-*on the*
+on the

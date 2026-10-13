@@ -84,6 +84,10 @@ Suppression of Criminal Gangs
 
 **4A.** Forfeiture of property.
 
+*[CAP.*
+
+102 Crime Control and Criminal Justice
+
 Power of DPP to investigate gang-related activity.
 
 ## PART IB
@@ -135,6 +139,10 @@ Miscellaneous
 Prohibition against weapons in public places
 
 **6.** Offences of having article with blade or point in public place.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 ## PART II
 
@@ -200,8 +208,6 @@ Repealed.
 
 ### CHAPTER 102
 
-### CRIME CONTROL AND CRIMINAL JUSTICE
-
 26 of 1992. [4th March 1993] 6 of 1994.
 
 28 of 1994.
@@ -240,17 +246,13 @@ S.I. 81 of 1998.
 
 Preliminary
 
-*Short title. 6 of 2018.*
-
-**1.** This Act may be cited as the Crime Control and Criminal Justice Act.
+**1.** This Act may be cited as the Crime Control and Short title. 6 of 2018. Criminal Justice Act.
 
 ## PART IA
 
 Suppression of Criminal Gangs
 
-*Interpretation. 6 of 2018.*
-
-**2.** In this Part and Part 1B, unless the context otherwise requires–
+**2.** In this Part and Part 1B, unless the context otherwise Interpretation. 6 of 2018. requires–
 
 “adult” means a person of the age of eighteen years or above;
 
@@ -306,15 +308,15 @@ Suppression of Criminal Gangs
 
 (e) the Coast Guard established under the Coast Guard Act and;
 
-(f) any other agency of the State in which investigative powers, similar to those exercisable by a police officer appointed
-
 *CAP. 138.*
 
-under the Police Act, are lawfully vested; and
+(f) any other agency of the State in which investigative powers, similar to those exercisable by a police officer appointed under the Police Act, are lawfully vested; and
 
 (g) any category of persons so prescribed by the Minister by order published in the Gazette;
 
-“Minister” means the Minister responsible for the Belize Police Department;
+*“Minister” Police*
+
+means the Minister responsible for the Belize Department;
 
 “premises”, in relation to a school, includes–
 
@@ -322,17 +324,21 @@ under the Police Act, are lawfully vested; and
 
 (b) any premises for the time being used for the keeping of a school;
 
-“recruit” includes to counsel, procure, lure, solicit, incite, induce or coerce;
+*“recruit” induce or “school” responsible*
 
-“school” means an institution recognized by the Ministry responsible for education as providing schooling or education and training primarily for children; including an institution that provides pre-school, primary, secondary
+includes to counsel, procure, lure, solicit, incite, coerce;
 
-*CAP. 36:01.*
+*CAP. 36:01. education,*
 
-education, within the meaning of the Education and Training Act;
+means an institution recognized by the Ministry for education as providing schooling or education and training primarily for children; including an institution that provides pre-school, primary, secondary within the meaning of the Education and Training Act;
+
+*“serious*
 
 *Schedule.*
 
-“serious offence” means an offence specified in the Schedule.
+offence” means an offence specified in the
+
+*Schedule.*
 
 **3.** (1) A person who–
 
@@ -430,25 +436,33 @@ commits an offence and is liable on conviction on indictment to imprisonment for
 
 **3C.** (1) A person who harbours a person whom he knows or ought to know is a gang member or is wanted by any law enforcement authority for any gang-related activity
 
-commits an offence and is liable on summary conviction to imprisonment for a term not exceeding five years.
+*commits an to*
 
-*6 of 2018.*
+offence and is liable on summary conviction imprisonment for a term not exceeding five years.
 
-(2) Where in sub-section (1)–
+*6 of 2018. (2) Where*
+
+in sub-section (1)–
 
 (a) the gang member or person wanted by any law enforcement authority for any gang-related activity is a child; and
 
 (b) the person convicted is the parent or is acting in loco parentis of the child,
 
-the Court, in sentencing the person convicted, shall take into consideration mitigating factors such as any efforts made by the person convicted to reform or rehabilitate the child.
+*into made by the child.*
+
+the Court, in sentencing the person convicted, shall take consideration mitigating factors such as any efforts person convicted to reform or rehabilitate the
 
 *6 of 2018.*
 
-(3) A person who conceals a person whom he knows or ought to know is a gang member or is wanted by any law enforcement authority for any gang-related activity commits an offence and is liable on summary conviction to imprisonment for a term not exceeding ten years.
+*enforcement commits an to*
+
+(3) A person who conceals a person whom he knows or ought to know is a gang member or is wanted by any law authority for any gang-related activity offence and is liable on summary conviction imprisonment for a term not exceeding ten years.
 
 *6 of 2018.*
 
-(4) For the purposes of sub-section (3), a person conceals another person if the person–
+*conceals*
+
+(4) For the purposes of sub-section (3), a person another person if the person–
 
 (a) knows or ought to know that the other person is a gang member or is wanted by any law enforcement authority in connection with the investigation or for the commission of any gang-related activity; and
 
@@ -478,21 +492,21 @@ however, time against the person shall begin to run after six o’clock in the f
 
 (ii) in the case of a body corporate, to a fine not exceeding five hundred thousand dollars.
 
-*6 of 2018.*
+*6 of 2018. (3) A a gang, or from*
 
-(3) A person shall not knowingly obtain a benefit from a gang, or from any gang-related activity.
+person shall not knowingly obtain a benefit from any gang-related activity.
 
-*6 of 2018.*
+*6 of 2018. (4) A an offence and*
 
-(4) A person who contravenes sub-section (3) commits an offence and upon summary conviction is liable–
+person who contravenes sub-section (3) commits upon summary conviction is liable–
 
 (a) in the case of an individual, to imprisonment for a term not exceeding fifteen years;
 
 (b) in the case of a body corporate, to a fine not exceeding five hundred thousand dollars.
 
-*6 of 2018.*
+*6 of 2018. (5) In offence under all factors that*
 
-(5) In determining whether a person has committed an offence under this section the Court may take into account all factors that appear to it to be relevant, including–
+determining whether a person has committed an this section the Court may take into account appear to it to be relevant, including–
 
 (a) evidence of activity by the person that is consistent with his having financed in any manner or otherwise provided support to the gang or for any of its gang-related activity; and
 
@@ -500,13 +514,19 @@ however, time against the person shall begin to run after six o’clock in the f
 
 connected with the financing of or the provision of other support to the gang or for any of its gang-related activity.
 
-*Offence of concealing, etc. proceeds of criminal activity of a gang. 6 of 2018.*
+*Offence of*
 
-**3E.** (1) A person shall not knowingly conceal, dispose of or share in the proceeds of the gang-related activity of a gang or gang member.
+*3E.–(1) A*
+
+*concealing, etc. proceeds of criminal activity of a gang. 6 of 2018.*
+
+person shall not knowingly conceal, dispose of or share in the proceeds of the gang-related activity of a gang or gang member.
 
 *6 of 2018.*
 
-(2) A person who contravenes sub-section (1) commits an offence and is liable upon conviction on indictment
+*(2) A*
+
+person who contravenes sub-section (1) commits an offence and is liable upon conviction on indictment
 
 (a) in the case of an individual, to imprisonment for a term not exceeding twenty years;
 
@@ -514,7 +534,9 @@ connected with the financing of or the provision of other support to the gang or
 
 *6 of 2018.*
 
-(3) A person shall not, in order to hinder or prevent the investigation or prosecution of a gang member, incite or induce another person to–
+*(3) A*
+
+person shall not, in order to hinder or prevent the investigation or prosecution of a gang member, incite or induce another person to–
 
 (a) commit a serious offence; or
 
@@ -522,7 +544,9 @@ connected with the financing of or the provision of other support to the gang or
 
 *6 of 2018.*
 
-(4) A person who contravenes sub-section (3) commits an offence and is liable upon conviction on indictment–
+*(4) A*
+
+person who contravenes sub-section (3) commits an offence and is liable upon conviction on indictment–
 
 (a) in the case of an individual, to imprisonment for a term not exceeding twenty years;
 
@@ -556,15 +580,27 @@ connected with the financing of or the provision of other support to the gang or
 
 (b) provide a benefit to a gang.
 
-(2) A person who contravenes sub-section (1) commits an offence and is liable–
+*(2) A*
+
+person who contravenes sub-section (1) commits an offence and is liable–
 
 (i) on summary conviction to imprisonment for a term not exceeding five years;
 
 (ii) on conviction on indictment to imprisonment for a term not exceeding twenty years.
 
-*Offence of taking retaliatory action. 6 of 2018.*
+*Offence of*
 
-**3H.** (1) A person shall not take any retaliatory action against another person or any of that other person’s immediate relatives or members of household, friends, business partners, employees or other business or employment associates or property, on account of that other person–
+*3H.–(1) A*
+
+*taking retaliatory*
+
+*against*
+
+*action. 6 of 2018.*
+
+*immediate business*
+
+person shall not take any retaliatory action another person or any of that other person’s relatives or members of household, friends, partners, employees or other business or employment associates or property, on account of that other person–
 
 (a) refusing to become a part of or a participant in a criminal activity of a gang;
 
@@ -578,7 +614,9 @@ connected with the financing of or the provision of other support to the gang or
 
 *6 of 2018.*
 
-(2) A person who contravenes sub-section (1) commits an offence and shall be liable upon–
+*(2) A*
+
+person who contravenes sub-section (1) commits an offence and shall be liable upon–
 
 (a) summary conviction to a fine not exceeding ten thousand dollars or imprisonment for a term not exceeding ten
 
@@ -586,21 +624,17 @@ years or to both such fine and imprisonment;
 
 (b) conviction on indictment, to a fine not exceeding one hundred thousand dollars or imprisonment for a term not exceeding twenty years or to both such fine and imprisonment.
 
-*Impersonating law enforcement*
+*Impersonating 3I.–(1) A law enforcement related activity– officer. 6 of 2018.*
 
-**3I.** (1) A person shall not, in the furtherance of gang-
-
-*related activity–*
-
-*officer. 6 of 2018.*
+person shall not, in the furtherance of gang-
 
 (a) put on or assume the dress, name, designation or description of an officer of a law enforcement authority; or
 
 (b) act or identify himself as, or impersonate, an officer of a law enforcement authority.
 
-*6 of 2018.*
+*6 of 2018. (2) A an offence and*
 
-(2) A person who contravenes sub-section (1) commits an offence and is liable upon–
+person who contravenes sub-section (1) commits is liable upon–
 
 (a) summary conviction, to a fine not exceeding fifteen thousand dollars or imprisonment for a term not less than five years but not exceeding ten years or to both such fine and imprisonment;
 
@@ -756,13 +790,13 @@ Injunctions: Gang-Related Violence
 
 (5) In this section “gang-related violence” means violence or a threat of violence that occurs in the course of, or is otherwise related to, the activities of a gang.
 
-*Contents of injunctions. 6 of 2018.*
+*Contents of 5C.–(1) injunctions. 6 of 2018.*
 
-**5C.** (1) This section applies in relation to an injunction under section 5B.
+This section applies in relation to an injunction under section 5B.
 
-*6 of 2018.*
+*6 of 2018. (2) The particular, from–*
 
-(2) The prohibitions included in the injunction may, in particular, have the effect of prohibiting the respondent from–
+prohibitions included in the injunction may, in have the effect of prohibiting the respondent
 
 (a) being in a particular place;
 
@@ -774,9 +808,9 @@ Injunctions: Gang-Related Violence
 
 (e) using the internet to facilitate or encourage violence.
 
-*6 of 2018.*
+*6 of 2018. (3) The particular,*
 
-(3) The requirements included in the injunction may, in particular, have the effect of requiring the respondent to–
+requirements included in the injunction may, in have the effect of requiring the respondent to–
 
 (a) notify the person who applied for the injunction of the respondent’s address and of any change to that address;
 
@@ -854,21 +888,35 @@ religious beliefs; and
 
 (b) any other body or individual that the applicant considers it appropriate to consult.
 
-*Applications without notice. 6 of 2018.*
+*Applications*
 
-**5G.** (1) An application under section 5B may be made without the respondent being given notice.
+*5G.–(1) An*
 
-*6 of 2018.*
+*without notice.*
 
-(2) In this Part, such an application is referred to as an application without notice.
-
-*6 of 2018.*
-
-(3) Section 5F(1) does not apply in relation to an application without notice.
+*without the*
 
 *6 of 2018.*
 
-(4) If an application without notice is made, the Court shall either–
+application under section 5B may be made respondent being given notice.
+
+*6 of 2018.*
+
+*(2) In this application*
+
+Part, such an application is referred to as an without notice.
+
+*6 of 2018.*
+
+*application*
+
+(3) Section 5F(1) does not apply in relation to an without notice.
+
+*6 of 2018.*
+
+*(4) If an shall either–*
+
+application without notice is made, the Court
 
 (a) grant the application; or
 
@@ -876,15 +924,25 @@ religious beliefs; and
 
 *6 of 2018.*
 
-(5) If the Court acts under sub-section (4)(b), the applicant shall comply with the consultation requirement before the date of the first full hearing.
+*(5) If the*
+
+Court acts under sub-section (4)(b), the applicant shall comply with the consultation requirement before the date of the first full hearing.
+
+*(6) In this*
 
 *6 of 2018.*
 
-(6) In this section “full hearing” means a hearing of which notice has been given to the applicant and respondent in accordance with rules of court.
+*which notice respondent in*
 
-*Interim injunctions, adjournment on notice hearing. 6 of 2018.*
+section “full hearing” means a hearing of has been given to the applicant and accordance with rules of court.
 
-**5H.** (1) This section applies if–
+*Interim*
+
+*5H.–(1) This*
+
+*injunctions, adjournment on notice hearing. 6 of 2018.*
+
+section applies if–
 
 (a) the Court adjourns the hearing of an application for an injunction under section 5B; and
 
@@ -952,11 +1010,9 @@ religious beliefs; and
 
 **5K.** (1) This section applies if a power of arrest is attached to a provision of an injunction under this Part.
 
-(2) A constable may arrest without warrant a person whom
-
 *6 of 2018.*
 
-the constable has reasonable cause to suspect to be in breach of the provision.
+(2) A constable may arrest without warrant a person whom the constable has reasonable cause to suspect to be in breach of the provision.
 
 (3) If a constable arrests a person under sub-section (2), the constable shall inform the person who applied for the injunction.
 
@@ -980,11 +1036,9 @@ the constable has reasonable cause to suspect to be in breach of the provision.
 
 **5L.** (1) This section applies in relation to an injunction under this Part.
 
-(2) If the person who applied for the injunction considers
-
 *6 of 2018.*
 
-that the respondent is in breach of any of its provisions, the person may apply to a relevant Judge for the issue of a warrant for the arrest of the respondent.
+(2) If the person who applied for the injunction considers that the respondent is in breach of any of its provisions, the person may apply to a relevant Judge for the issue of a warrant for the arrest of the respondent.
 
 *6 of 2018.*
 
@@ -998,11 +1052,9 @@ that the respondent is in breach of any of its provisions, the person may apply 
 
 **5M.** (1) This section applies in relation to a person who is brought before the relevant Judge or the Court under section 5J or 5K.
 
-(2) If the relevant Judge or the Court has reason to
-
 *6 of 2018.*
 
-consider that a medical report will be required, the Judge or the Court may remand the person under section 5J (5) or (as the case may be) 5K (4) for the purpose of enabling a medical examination to take place and a report to be made.
+(2) If the relevant Judge or the Court has reason to consider that a medical report will be required, the Judge or the Court may remand the person under section 5J (5) or (as the case may be) 5K (4) for the purpose of enabling a medical examination to take place and a report to be made.
 
 *6 of 2018.*
 
@@ -1020,11 +1072,9 @@ consider that a medical report will be required, the Judge or the Court may rema
 
 **5N.** (1) The Minister may make regulations relating to injunctions under this Part.
 
-(2) Before making regulations under this section the
-
 *6 of 2018.*
 
-Minister shall consult the Chief Justice and such other persons as the Minister considers appropriate.
+(2) Before making regulations under this section the Minister shall consult the Chief Justice and such other persons as the Minister considers appropriate.
 
 *6 of 2018.*
 
@@ -1044,11 +1094,9 @@ a Regional Commander for a police area; or
 
 **5O.** (1) Rules of Court may provide that any power conferred on the Court to grant, vary or discharge an injunction under this Part may be exercised by a Judge of that Court.
 
-(2) Rules of Court may provide that an appeal from a
-
 *6 of 2018.*
 
-decision of the Court to which this subsection applies may be made without notice being given to the respondent.
+(2) Rules of Court may provide that an appeal from a decision of the Court to which this subsection applies may be made without notice being given to the respondent.
 
 *6 of 2018.*
 
@@ -1064,11 +1112,9 @@ Miscellaneous
 
 **5P.** (1) The jurisdiction of the Court to hear and determine indictable matter sunder Part IA, Part IB or this Part shall be exercised by a Judge sitting without a jury.
 
-(2) In the interest of the administration of justice, public
-
 *6 of 2018.*
 
-safety, public order or public morality, the Court hearing a case in the exercise of its jurisdiction under this Part may direct that–
+(2) In the interest of the administration of justice, public safety, public order or public morality, the Court hearing a case in the exercise of its jurisdiction under this Part may direct that–
 
 the identity of any person, including a witness in the case, shall be protected in the manner specified by the Court;
 
@@ -1076,21 +1122,31 @@ the identity of any person, including a witness in the case, shall be protected 
 
 (c) no particulars of the trial other than the name of the accused, the offence charged and the verdict and sentence shall be published without the prior written approval of the Court.
 
-*6 of 2018.*
-
-(3) A person shall not publish any information in contravention of a direction under sub-section (2).
+*(3) A*
 
 *6 of 2018.*
 
-(4) A person who contravenes sub-section (3) commits an offence and shall be liable–
+*contravention*
+
+person shall not publish any information in of a direction under sub-section (2).
+
+*6 of 2018.*
+
+*(4) A person offence and*
+
+who contravenes sub-section (3) commits an shall be liable–
 
 (a) on summary conviction to a fine not exceeding ten thousand dollars or to imprisonment for a term not exceeding twelve months or to both such fine and imprisonment; or
 
 (b) on conviction on indictment, to a fine not exceeding fifty thousand dollars or to imprisonment for a term not exceeding five years or to both such fine and imprisonment.
 
+*5Q. In the*
+
 *Bail. 6 of 2018.*
 
-**5Q.** In the interest of certainty, the Court shall afford bail to a person charged with an offence under Part 1B or 1C, in accordance with section 16 and 17.
+*a person accordance*
+
+interest of certainty, the Court shall afford bail to charged with an offence under Part 1B or 1C, in with section 16 and 17.
 
 *Amendment of Schedule.*
 
@@ -1128,11 +1184,9 @@ Prohibition against Weapons in Public Places
 
 (5) In this section–
 
-“offensive weapon” means any article made or adapted for use for causing injury to or incapacitating a person, or intended by the person having it with him for such use, but
-
 *CAP. 143.*
 
-does not include a firearm subject to the Firearms Act;
+“offensive weapon” means any article made or adapted for use for causing injury to or incapacitating a person, or intended by the person having it with him for such use, but does not include a firearm subject to the Firearms Act;
 
 “public place” includes any place to which at the material time the public have or are permitted access, whether on payment of a fee or otherwise.
 
@@ -1172,37 +1226,67 @@ or to both such fine and term of imprisonment; or
 
 (b) on conviction on indictment, to imprisonment for a term not exceeding five years or to a fine not exceeding five thousand dollars, or to both such fine and term of imprisonment.
 
-*Sex offender orders. 18 of 1998.*
+*Sex offender*
 
-**8.** (1) If it appears to a police officer of or above the rank of Assistant Inspector that the following conditions are fulfilled with respect to any person, namely–
+*8.-(1) If it*
+
+*orders.*
+
+*of Assistant*
+
+*18 of 1998.*
+
+appears to a police officer of or above the rank Inspector that the following conditions are fulfilled with respect to any person, namely–
 
 (a) that the person is a sex offender; and
 
 (b) that the person has acted, since the relevant date, in such a way as to give reasonable cause to believe that an order under this section is necessary to protect the public from serious harm from him, the police officer may apply for an order under this section to be made in respect of the person.
 
-(2) Such an application shall be made by complaint to the magistrate’s court of the judicial district where it is alleged that the defendant acted in such a way as is mentioned in sub-section (1)(b).
+*the alleged that*
 
-(3) If, on such an application, it is proved that the conditions mentioned in sub-section (1) are fulfilled, the magistrate’s court may make an order under this section (a
+(2) Such an application shall be made by complaint to magistrate’s court of the judicial district where it is the defendant acted in such a way as is mentioned in sub-section (1)(b).
+
+*(3) If, on conditions magistrate’s*
+
+such an application, it is proved that the mentioned in sub-section (1) are fulfilled, the court may make an order under this section (a
 
 “sex offender order”) which prohibits the defendant from doing anything described in the order.
 
-(4) The prohibitions that may be imposed by a sex offender order are those necessary for the purpose of protecting the public from serious harm from the defendant.
+*(4) The*
 
-(5) A sex offender order shall have effect for a period (not less than five years) specified in the order or until replaced by a further order.
+prohibitions that may be imposed by a sex offender order are those necessary for the purpose of protecting the public from serious harm from the
 
-(6) Subject to sub-section (7), the applicant or the defendant may apply by complaint to the court which made a sex offender order for it to be varied or discharged by a further order.
+*defendant.*
 
-(7) Except with the consent of both parties, no sex offender order shall be discharged before the end of a period of five years beginning with the date of service of the order.
+*(5) A sex (not less than replaced by a*
 
-(8) If, without reasonable excuse, a person does anything which he is prohibited from doing by a sex offender order, he shall be liable–
+offender order shall have effect for a period five years) specified in the order or until further order.
+
+*(6) Subject*
+
+to sub-section (7), the applicant or the defendant may apply by complaint to the court which made a sex offender order for it to be varied or discharged by a
+
+*further order.*
+
+*(7) Except*
+
+*period of five the order.*
+
+with the consent of both parties, no sex offender order shall be discharged before the end of a years beginning with the date of service of
+
+*(8) If, anything*
+
+without reasonable excuse, a person does which he is prohibited from doing by a sex offender order, he shall be liable–
 
 (a) on summary conviction, to imprisonment for a term not exceeding six months or to a fine not exceeding one thousand dollars, or to both such fine and term of imprisonment; or
 
 (b) on conviction on indictment, to imprisonment for a term not exceeding five years or to a fine not exceeding five thousand dollars, or to both such fine and term of imprisonment.
 
-*Sex offender orders.*
+*9.-(1) In Sex offender*
 
-**9.** (1) In section 8 of this Act and this section “sex offender” means a person who–
+*orders. offender”*
+
+section 8 of this Act and this section “sex means a person who–
 
 (a) has been convicted of rape, attempted rape, carnal knowledge, forcible abduction, unnatural offence, or indecent assault;
 
@@ -1214,15 +1298,23 @@ or to both such fine and term of imprisonment; or
 
 (ii) would have constituted a sexual offence if it had been done in Belize.
 
-(2) In sub-section (1) of section 8, “the relevant date”, in relation to a sex offender, means–
+*(2) In in relation to a*
+
+sub-section (1) of section 8, “the relevant date”, sex offender, means–
 
 (a) the date or, as the case may be, the latest date on which he has been convicted, found, or punished as mentioned in subsection (1); or
 
 (b) if later, the date of the commencement of that section.
 
-(3) An act punishable under the law in force in any country or territory outside Belize constitutes an offence under that law for the purposes of sub-section (1), however it is described in that law.
+*(3) An act country or under that law it is described*
 
-(4) Subject to sub-section (5), the condition in subsection (1) (c) (i) shall be taken to be satisfied unless, not later than rules of court may provide, the defendant serves on the applicant a notice–
+punishable under the law in force in any territory outside Belize constitutes an offence for the purposes of sub-section (1), however in that law.
+
+*(4) Subject section (1) (c) later than rules on the*
+
+to sub-section (5), the condition in sub-
+
+(i) shall be taken to be satisfied unless, not of court may provide, the defendant serves applicant a notice–
 
 stating that, on the facts as alleged with respect to the act in question, the condition is not in his opinion satisfied;
 
@@ -1274,11 +1366,13 @@ Crime Ridden Areas and Right of Bail
 
 (2) An Order made under this section shall, subject to revocation or amendment by the Minister, remain in force for a period of thirty days or such longer period as may be
 
-sanctioned for the time being by resolution of the House of Representatives.
+*sanctioned for*
 
-*Powers of Security Forces in a special area. 28 of 1994.*
+the time being by resolution of the House of Representatives.
 
-**13.** (1) In a special area, any member of the Security Forces may, without warrant, and using such force (if any) as may be reasonably justified in the circumstances–
+*Powers of 13.-(1) In a Security Forces Forces may, in a special area. 28 of 1994. as may be*
+
+special area, any member of the Security without warrant, and using such force (if any) reasonably justified in the circumstances–
 
 (a) undertake a search of any premises, place, vehicle, person or thing upon reasonable suspicion of being thereon or therein any unlawful drug or any unlicensed or prohibited firearm or ammunition, or any unlawfully-obtained article or thing, or any person wanted in connection with a criminal investigation;
 
@@ -1290,7 +1384,11 @@ sanctioned for the time being by resolution of the House of Representatives.
 
 (d) temporarily establish a cordon around the special area or any part thereof for a period not exceeding eight hours in any period of twenty-four hours and restrict the freedom of movement of persons and vehicles into or out of any area so cordoned.
 
-(2) No person who is a female shall be searched under paragraph, (a) of sub-section (1), except by another female.
+*(2) No*
+
+person who is a female shall be searched under paragraph, (a) of sub-section (1), except by another
+
+*female.*
 
 (3) Where anything is detained in accordance with paragraph (b), a receipt therefor shall be given to the person from whose custody it was taken, and any such article or thing shall be kept, by virtue of such detention, for so long only as may be necessary for the purposes of any examination, investigation, trial or enquiry.
 
@@ -1316,13 +1414,17 @@ sanctioned for the time being by resolution of the House of Representatives.
 
 (2) Any regulations made under this Part may contain such incidental or supplementary provisions as appear to
 
-the Minister to be necessary or expedient for the purpose of the regulations.
+*of the*
 
-(3) Regulations made under this Part shall be subject to negative resolution of the House of Representatives.
+the Minister to be necessary or expedient for the purpose regulations.
 
-*Restrictions on admission to bail. CAP. 96. 26 of 1992. 6 of 1994. 28 of 1994. 25 of 2003.*
+*negative*
 
-**16.** (1) Notwithstanding any other law or rule of practice to the contrary, no magistrate, justice of the peace or a police officer shall admit to bail any person charged with any of the offences set out in sub-section (2).
+(3) Regulations made under this Part shall be subject to resolution of the House of Representatives.
+
+*Restrictions on 16.-(1) admission to to the bail. CAP. 96. 26 of 1992. 6 of 1994. 28 of 1994. 25 of 2003.*
+
+Notwithstanding any other law or rule of practice contrary, no magistrate, justice of the peace or a police officer shall admit to bail any person charged with any of the offences set out in sub-section (2).
 
 (2) The offences referred to in sub-section (1) are–
 
@@ -1338,11 +1440,9 @@ the Minister to be necessary or expedient for the purpose of the regulations.
 
 *CAP. 103.*
 
-(f) a drug trafficking offence, under the Misuse of Drugs Act, where the quantity of the controlled drug involved is more than the quantities specified in paragraphs
-
 *CAP. 103.*
 
-(i), (ii), (iii) and (iv) of the proviso to section 18(1) (a) of the Misuse of Drugs Act;
+(f) a drug trafficking offence, under the Misuse of Drugs Act, where the quantity of the controlled drug involved is more than the quantities specified in paragraphs (i), (ii), (iii) and (iv) of the proviso to section 18(1) (a) of the Misuse of Drugs Act;
 
 *5 of 2008.*
 
@@ -1374,7 +1474,11 @@ the Minister to be necessary or expedient for the purpose of the regulations.
 
 *25 of 2003.*
 
-(3) Where the bail is refused by the magistrate or justice of the peace under the foregoing provisions of this section, the person charged may apply to the supreme Court for bail and the Supreme Court may, for special reasons to be recorded in writing, but subject to sub-section (4), grant bail to such a person other than for the offence of murder, but in considering any such application the Court shall pay due regard to the following factors, namely–
+*(3) Where of the peace the person and the recorded in*
+
+*but in due regard to*
+
+the bail is refused by the magistrate or justice under the foregoing provisions of this section, charged may apply to the supreme Court for bail Supreme Court may, for special reasons to be writing, but subject to sub-section (4), grant bail to such a person other than for the offence of murder, considering any such application the Court shall pay the following factors, namely–
 
 (a) the prevalence of the crime with which the accused person is charged;
 
@@ -1414,7 +1518,9 @@ provided that the requirements of giving ten working days’ notice of the date 
 
 *25 of 2003.*
 
-(5) Where bail is withheld under this section, the trial of the accused person shall, subject to sub-section (6) below, take place–
+*(5) Where of the below, take*
+
+bail is withheld under this section, the trial accused person shall, subject to sub-section (6) place–
 
 (a) in the case of summary trial, not later than three months from the date following the day on which bail is withheld;
 
@@ -1422,7 +1528,11 @@ provided that the requirements of giving ten working days’ notice of the date 
 
 *25 of 2003.*
 
-(6) Where for any reason the trial cannot be proceeded with within the time prescribed in subsection (5) above, the accused person may be admitted to bail in the discretion of the judge or magistrate, at any time following the last day upon which the trial should have been held under that subsection.
+*(6) Where*
+
+*the judge or upon which section.*
+
+for any reason the trial cannot be proceeded with within the time prescribed in subsection (5) above, the accused person may be admitted to bail in the discretion of magistrate, at any time following the last day the trial should have been held under that sub-
 
 *Evidence of identity.*
 
@@ -1438,11 +1548,9 @@ Corrective Training and Sentences
 
 **18.** (1) Where a person who is under the age of twenty-one years–
 
-(a) is convicted of the offence of loitering or of any other petty misdemeanour or petty
-
 *CAP. 98.*
 
-offence as contained in section 3 and 4 of the Summary Jurisdiction (Offences) Act;
+(a) is convicted of the offence of loitering or of any other petty misdemeanour or petty offence as contained in section 3 and 4 of the Summary Jurisdiction (Offences) Act;
 
 (b) has been convicted on at least one previous occasion of the same or any other petty misdemeanour or petty offence; and
 
@@ -1500,11 +1608,19 @@ Repealed.
 
 **24.** Repealed.
 
-## PART VI Crime Control Council
+*Establishment of*
 
-*Establishment of Crime Control Council.*
+*25.-(1) There*
 
-**25.** (1) There is hereby established a Crime Control Council (referred to in this Part as “the Council”), consisting of fourteen members appointed by the Prime Minister who shall include–
+*Crime Control*
+
+*Council*
+
+*Council.*
+
+*consisting of Minister who*
+
+PART VI Crime Control Council is hereby established a Crime Control (referred to in this Part as “the Council”), fourteen members appointed by the Prime shall include–
 
 *28 of 1994.*
 
@@ -1530,11 +1646,13 @@ Repealed.
 
 (n) one person nominated by the Leader of the Opposition.
 
-(2) The Prime Minister shall designate one person from among the members to be the Chairperson.
+*(2) The among the*
 
-*Functions of the Council. 28 of 1994.*
+Prime Minister shall designate one person from members to be the Chairperson.
 
-**26.** (1) The functions of the Council shall be as follows–
+*Functions of the 26.-(1) The Council. 28 of 1994.*
+
+functions of the Council shall be as follows–
 
 (a) to monitor the crime situation in the country on a continuing basis;
 
@@ -1548,13 +1666,21 @@ Repealed.
 
 (f) to make recommendations to the Prime Minister for strengthening or reforming the law or the law enforcement agencies to better control and prevent the incidence of crime.
 
-(2) In the exercise of its functions, the Council may establish Committees of its own members and may co-opt other persons for specific purposes.
+*establish*
 
-*Rules and Regulations. 28 of 1994.*
+(2) In the exercise of its functions, the Council may Committees of its own members and may co-opt other persons for specific purposes.
 
-**27.** (1) The Prime Minister may make regulations for the better carrying out of the functions of the Council.
+*Rules and*
 
-(2) Subject to any regulations made by the Prime Minister under sub-section (1), the Council may make rules to regulate its own procedure.
+*27.-(1) The*
+
+*Regulations. 28 of 1994.*
+
+Prime Minister may make regulations for the better carrying out of the functions of the Council.
+
+*Minister rules to*
+
+(2) Subject to any regulations made by the Prime under sub-section (1), the Council may make regulate its own procedure.
 
 ## SCHEDULE
 
@@ -1601,6 +1727,10 @@ Gang-Related Activity Serious Offences
 **19.** Possession of a firearm or ammunition without a licence
 
 **20.** Possession of a Controlled Drug With Intent to Supply
+
+*THE SUBSTANTIVE LAWS*
+
+### OF BELIZE
 
 Supplying a controlled drug Rape
 

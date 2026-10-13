@@ -52,29 +52,33 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 ### PREVENTION OF CRIMES
 
-[31st March, 1925] Ch. 28,
+*Ch. 28, R.L., 1958. CAP. 97, R.E. 1980-1990.*
 
-R.L., 1958.
-
-CAP. 97,
-
-R.E. 1980-1990.
+[31st March, 1925]
 
 *Short title.*
 
 **1.** This Act may be cited as the Prevention of Crimes Act.
 
-*Special offences by persons twice convicted of crime.*
+*Special offences 2.-(1) When by persons twice involving convicted of crime. involving time within*
 
-**2.** (1) When any person is convicted in any court of a crime involving dishonesty, and a previous conviction for a crime involving dishonesty is proved against him, he shall at any time within seven years immediately after the expiration of the sentence passed upon him for the last of such crimes be guilty of an offence, and be liable on summary conviction to imprisonment for a term not exceeding one year, under the following circumstances or any of them,
+*imprisonment following*
+
+any person is convicted in any court of a crime dishonesty, and a previous conviction for a crime dishonesty is proved against him, he shall at any seven years immediately after the expiration of the sentence passed upon him for the last of such crimes be guilty of an offence, and be liable on summary conviction to for a term not exceeding one year, under the circumstances or any of them,
 
 (a) if, on being charged by a police officer with getting his livelihood by dishonest means, and being brought before a court of summary jurisdiction, it appears to such court that there are reasonable grounds for believing that the person so charged is getting his livelihood by dishonest means; or
 
 (b) if he is found in any place, whether public or private, under such circumstances as to satisfy the court before which he is brought that he was about to commit or to aid in the commission of any offence punishable in any court, or was waiting for an opportunity to commit or aid in the commission of any offence punishable in any court; or
 
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
+
 (c) if he is found in or upon any dwelling house, or any building, yard or premises, being part of or attached to such dwelling house, or in or upon any shop, warehouse, counting-house or other place of business, or in any park, garden or pleasure ground, or in any building or erection in any park, garden or pleasure ground, without being able to account to the satisfaction of the court before which he is brought for his being found on such premises.
 
-(2) Every person charged with being guilty of any offence mentioned in subsection (1) of this section may be taken into custody as follows,
+*(2) Every mentioned in custody as*
+
+person charged with being guilty of any offence subsection (1) of this section may be taken into follows,
 
 (a) in the case of an offence mentioned in paragraph (a) of sub section (1) of this section, by any police officer without warrant if such police officer is authorised to do so by the Chief Officer of Police of his district;
 
@@ -82,9 +86,17 @@ R.E. 1980-1990.
 
 (c) in the case of an offence mentioned in paragraph (c) of subsection (1) of this section, without warrant by any police officer or by the owner or occupier of the property on which he is found, or by the servants of the owner or occupier, or by any other person authorised by the owner or occupier, and may be detained until he can be delivered into the custody of a police officer.
 
-*Power to search for stolen property.*
+*Power to search*
 
-**3.** (1) Every police officer may, under the circumstances in this section mentioned, be authorised in writing by any police
+*3.-(1) Every*
+
+*for stolen*
+
+*section*
+
+*property.*
+
+police officer may, under the circumstances in this mentioned, be authorised in writing by any police
 
 officer not below the rank of sergeant, or in charge of any police station, to enter, and if so authorised may enter any house, shop, warehouse, yard or other premises in search of stolen property, and search and seize and secure any property he may believe to have been stolen, in the same manner as he would be authorised to do if he had a search warrant, and the property seized, if any, corresponded with the property described in such search warrant.
 

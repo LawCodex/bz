@@ -74,23 +74,17 @@ Schedule — Warrant for Search, Arrest and Seizure
 
 ### GAMBLING PREVENTION
 
-[1st August, 1927] Ch. 30.
+*Ch. 30. R.L., 1958. CAP. 91, R.E. 1980-1990.*
 
-R.L., 1958.
+[1st August, 1927]
 
-CAP. 91,
+*Short title. This Act*
 
-R.E. 1980-1990.
+**1.** may be cited as the Gambling Prevention Act.
 
-*Short title.*
+*Interpretation. In this “common*
 
-**1.** This Act may be cited as the Gambling Prevention Act.
-
-*Interpretation.*
-
-**2.** In this Act, unless the context otherwise requires,
-
-“common gaming house” includes,
+**2.** Act, unless the context otherwise requires, gaming house” includes,
 
 (a) any place kept or used for gambling, to which the public or any class of the public has or may have access; and
 
@@ -98,9 +92,17 @@ R.E. 1980-1990.
 
 (c) any place kept or used for the purpose of a public lottery, but does not include a nonproprietary club registered under the Clubs (Registration) Act, Cap. 312, in which the primary object is that it may be used as an ordinary social club, and where playing at cards is allowed but is merely incidental and ancillary to that primary object,
 
-Provided that a place shall be deemed to be “used” for gambling if it is used for that purpose even on one occasion only;
+*Provided that gambling if it only;*
 
-“gamble” means to play at or to engage in any game of chance, or pretended game of chance, for money or money’s worth,
+a place shall be deemed to be “used” for is used for that purpose even on one occasion
+
+*“gamble” means or pretended*
+
+to play at or to engage in any game of chance, game of chance, for money or money’s worth,
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 and the expression “gambling” shall have a corresponding meaning;
 
@@ -184,11 +186,15 @@ wins from any person to himself or others any sum of money or valuable thing, sh
 
 Provided that nothing in this section shall be construed to apply to any subscription, or contribution, or agreement to subscribe or contribute, for or towards any plate, prize or sum of money to be awarded to the winner of any lawful game, sport, pastime or exercise.
 
-No action, suit, injunction, prosecution or other
+*No*
 
-*Limitation of actions.*
+*Limitation of*
 
-proceeding shall be brought against any person in respect of anything done or omitted to be done in execution of this Act, or in execution of the authorities thereunder, unless,
+*proceeding*
+
+*actions.*
+
+action, suit, injunction, prosecution or other shall be brought against any person in respect of anything done or omitted to be done in execution of this Act, or in execution of the authorities thereunder, unless,
 
 one week’s previous notice of his intention to (a)
 
@@ -196,15 +202,25 @@ bring such action or prosecution has been given by the plaintiff or complainant 
 
 (b) the action, suit, injunction or prosecution is brought or commenced within three months of the date of the act or omission complained of, or of the cessation of damage continuously resulting therefrom.
 
-*Summary jurisdiction trials.*
+*Summary*
 
-**14.** All offences and penalties under this Act may be prosecuted and re- covered summarily before a summary jurisdiction court.
+*All*
+
+*jurisdiction trials.*
+
+*jurisdiction*
+
+**14.** offences and penalties under this Act may be prosecuted and re- covered summarily before a summary court.
 
 *Application of Act subject to other laws.*
 
-**15.** (1) Where there is any conflict between the provisions of this Act and the provisions of any law specified in subsection (2), the provisions of the latter law shall prevail.
+*(2), the*
 
-(2) The laws referred to in subsection (1) of this section are,
+**15.** (1) Where there is any conflict between the provisions of this Act and the provisions of any law specified in subsection provisions of the latter law shall prevail.
+
+*(2) The are,*
+
+laws referred to in subsection (1) of this section
 
 (a) the Gaming Control Act, Cap. 152;
 

@@ -36,6 +36,8 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 This is a revised edition of the Substantive Laws, prepared by the Law Revision Commissioner under the authority of the Law Revision Act, Chapter 3 of the Substantive Laws of Belize, Revised Edition 2020.
 
+[CAP.
+
 ### CHAPTER 74
 
 ### LOANS (CARIBBEAN DEVELOPMENT BANK)
@@ -198,33 +200,59 @@ the Minister may by order give or authorise any other person to give such direct
 
 undertake such other obligations as may be agreed between the Government and the Bank in relation to or pursuant to any such agreement, bond, promissory note or instrument.
 
-(2) In connection with a guarantee or undertaking given under subsection (1) of this section in respect of any borrowing by a company, the company shall pay to the Government as a commission such sum not exceeding one per centum of the amount borrowed as the Minister may determine and the Government may in addition either,
+*(2) In under*
+
+*commission amount*
+
+connection with a guarantee or undertaking given subsection (1) of this section in respect of any borrowing by a company, the company shall pay to the Government as a such sum not exceeding one per centum of the borrowed as the Minister may determine and the Government may in addition either,
 
 (a) require and take from the company such securities as the Minister thinks fit for securing the repayment to the Government of any sums which the Government may at any time be called upon to pay pursuant to this section; or
 
 (b) enter into such other arrangements with the company as the Minister thinks fit for securing the repayment aforesaid.
 
-(3) Any guarantee or undertaking given by the Government under subsection (1) of this section, shall be given in writing in the name of Belize and it and any endorsement on any bond, promissory note or other instrument issued pursuant to the agreement to which the guarantee or undertaking relates may be signed on behalf of Belize by the Minister or by any person authorised thereto in writing by the Minister.
+*(3) Any under*
+
+*promissory*
+
+*authorised*
+
+guarantee or undertaking given by the Government subsection (1) of this section, shall be given in writing in the name of Belize and it and any endorsement on any bond, note or other instrument issued pursuant to the agreement to which the guarantee or undertaking relates may be signed on behalf of Belize by the Minister or by any person thereto in writing by the Minister.
 
 (4) As soon as possible after a guarantee or undertaking is given under subsection (1) of this section, the Minister shall lay before the National Assembly a statement of the guarantee or undertaking.
 
-(5) A guarantee or undertaking shall not be given at any time under subsection (1) of this section where,
+*(5) A time under*
+
+guarantee or undertaking shall not be given at any subsection (1) of this section where,
 
 (a) the principal amount outstanding is at that time not less than the prescribed sum; or
 
 (b) if the guarantee or undertaking were given, the principal amount outstanding would at that time exceed the prescribed sum.
 
-In this subsection,
+*In this*
 
-“prescribed sum” means five million dollars or such greater amount as the National Assembly may from time to time, by resolution, approve.
+subsection,
 
-“principal amount outstanding” means so much of the total of the principal amounts of the borrowings guaranteed by the Government pursuant to subsection (1) of this section as has not been repaid;
+*“prescribed*
 
-(6) Where any agreement referred to in subsection (1) of this section relates to a borrowing in currency other than for the purposes of subsection (5) of this section,
+*resolution,*
+
+sum” means five million dollars or such greater amount as the National Assembly may from time to time, by approve.
+
+*“principal the principal Government*
+
+amount outstanding” means so much of the total of amounts of the borrowings guaranteed by the pursuant to subsection (1) of this section as has not been repaid;
+
+*this section*
+
+(6) Where any agreement referred to in subsection (1) of relates to a borrowing in currency other than for the purposes of subsection (5) of this section,
 
 (a) the amount of such borrowing shall be converted into Belize dollars at a rate of exchange determined by the Minister to be, as near as is conveniently possible, equivalent to the average rate of exchange in respect of that currency for the month prior to the month in which the guarantee or undertaking in respect of that borrowing is given; and
 
 (b) the principal amount outstanding in respect thereof at any time shall be converted into
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 Belize dollars at the rate of exchange obtaining at that time in respect of that currency.
 

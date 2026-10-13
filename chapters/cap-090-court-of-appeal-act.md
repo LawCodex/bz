@@ -248,17 +248,13 @@ provided that, subject to the quorum of the Court as prescribed in section 10, t
 
 **4.** (1) Subject to the following provisions of this section, the office of a judge of the Court shall become vacant upon the expiration of the period of his appointment to that office or if he resigns therefrom by writing under his hand addressed to the Governor-General.
 
-(2) Where the office of any person has become vacant under sub-section (1), he may, if qualified, again be appointed as a
+*CAP. 4.*
+
+(2) Where the office of any person has become vacant under sub-section (1), he may, if qualified, again be appointed as a judge of the Court in accordance with the Belize Constitution.
 
 *CAP. 4.*
 
-judge of the Court in accordance with the Belize Constitution.
-
-(3) A judge of the Court may be removed from office only for inability to discharge the functions of his office (whether arising from infirmity of body or mind or any other cause) or for
-
-*CAP. 4.*
-
-misbehaviour, and shall not be so removed except in accordance with the Belize Constitution.
+(3) A judge of the Court may be removed from office only for inability to discharge the functions of his office (whether arising from infirmity of body or mind or any other cause) or for misbehaviour, and shall not be so removed except in accordance with the Belize Constitution.
 
 *Salaries of judges of Court.*
 
@@ -274,11 +270,9 @@ misbehaviour, and shall not be so removed except in accordance with the Belize C
 
 General Provisions
 
-**7.** (1) The judges of the Court shall be such as are laid down in
-
 *Judges of Court.*
 
-section 3(2) and shall be appointed and shall hold office in all respects in accordance with that section.
+**7.** (1) The judges of the Court shall be such as are laid down in section 3(2) and shall be appointed and shall hold office in all respects in accordance with that section.
 
 (2) The President shall be the senior judge of the Court and subject thereto, the judges shall hold seniority in order of their appointments or, if two or more judges are appointed on the same day, then in order of their seniority to high judicial office. In the absence of the President the senior judge present at any sitting of the Court shall preside at the sitting.
 
@@ -360,7 +354,9 @@ Civil Appeals
 
 (h) an order not referred to elsewhere in this subsection.
 
-(2) No appeal shall lie from any order referred to in paragraph (f) of sub-section (1)–
+*(2) No paragraph (f) of*
+
+appeal shall lie from any order referred to in sub-section (1)–
 
 (a) except–
 
@@ -370,7 +366,11 @@ Civil Appeals
 
 (b) in any other case, except with the leave of the Supreme Court or, if it refuses, of the Court.
 
-(3) No appeal shall lie from any order referred to in paragraph (g) or (h) of sub-section (1)–
+*(3) No paragraph (g) or*
+
+appeal shall lie from any order referred to in
+
+(h) of sub-section (1)–
 
 (a) except
 
@@ -378,23 +378,21 @@ Civil Appeals
 
 (ii) where an injunction or the appointment of a receiver is granted or refused;
 
-(iii) in the case of a decision determining the claim of any creditor or the liability of any director or other
-
 *CAP. 250.*
 
-officer under the Companies Act in respect of misfeasance or otherwise;
-
-(iv) in the case of an order on a special case
+(iii) in the case of a decision determining the claim of any creditor or the liability of any director or other officer under the Companies Act in respect of misfeasance or otherwise;
 
 *CAP. 125.*
 
-stated under the Arbitration Act;
+(iv) in the case of an order on a special case stated under the Arbitration Act;
 
 (v) in the case of an order refusing unconditional leave to defend an action;
 
 (b) in any other case, except with the leave of the Supreme Court, or, if it refuses, of the Court.
 
-(4) No appeal shall lie under this Part,
+*(4) No*
+
+appeal shall lie under this Part,
 
 (a) from any order made in any criminal cause or matter;
 
@@ -408,9 +406,15 @@ stated under the Arbitration Act;
 
 (f) where an order has been made against a party in default of his appearing or filing a defence or where the party is otherwise in default,
 
-provided that nothing in this paragraph shall be deemed to affect the right of such party to move the court of first instance for the setting aside of the default order.
+*for the setting*
 
-(5) Where any doubt arises regarding the category set out in sub-section (1) into which an order of the Supreme Court or a judge thereof falls,
+provided that nothing in this paragraph shall be deemed to affect the right of such party to move the court of first instance aside of the default order.
+
+*(5) Where*
+
+*judge thereof*
+
+any doubt arises regarding the category set out in sub-section (1) into which an order of the Supreme Court or a falls,
 
 (a) if such doubt arises on an application to the Supreme Court or a judge thereof for leave to appeal, it shall be determined by the said court or a judge thereof, subject to a right of appeal to the Court;
 
@@ -418,15 +422,19 @@ provided that nothing in this paragraph shall be deemed to affect the right of s
 
 *22 of 1999*
 
-(6) Notwithstanding sub-section (4) (a), an appeal shall lie to the Court from the decision of the Supreme Court, with the leave of that court or of the Court of Appeal, against any decision of the Supreme Court granting or refusing a writ of habeas corpus.
+*to the Court leave of that*
 
-*Date from which appeal in civil matters shall lie.*
+(6) Notwithstanding sub-section (4) (a), an appeal shall lie from the decision of the Supreme Court, with the court or of the Court of Appeal, against any decision of the Supreme Court granting or refusing a writ of habeas corpus.
 
-**15.** An appeal shall lie under this Part in respect of orders made from and after the coming into force of this Act.
+*Date from which An appeal in civil matters shall lie.*
+
+**15.** appeal shall lie under this Part in respect of orders made from and after the coming into force of this Act.
 
 *Time for appealing.*
 
-**16.** (1) Where a person desires to appeal under this Part to the Court he shall give notice of appeal or notice of his application for leave to appeal in such manner as may be directed by rules of court within twenty-one days from the date on which the
+*Court he shall for leave to*
+
+**16.** (1) Where a person desires to appeal under this Part to the give notice of appeal or notice of his application appeal in such manner as may be directed by rules of court within twenty-one days from the date on which the
 
 order of the Supreme Court or a judge thereof was signed, entered or otherwise perfected.
 
@@ -456,7 +464,11 @@ is brought might have made, or to make any order which ought to have been made, 
 
 (c) direct the Supreme Court or the judge thereof from whose order the appeal is brought to enquire into and certify its finding on any question which the Court thinks fit to be determined before final judgment in the appeal.
 
-(2) The powers of the Court under this section may be exercised notwithstanding that no notice of appeal or respondent’s notice has been given in respect of any particular part of the decision of the Supreme Court or the judge thereof from whose order the appeal is brought or by any particular party to the proceedings in that court, or that any ground for allowing the appeal or for affirming or varying the decision of that court is not specified in such notice; and the Court may make any order on such terms as the Court thinks just to ensure the determination on the merits of the real question in controversy between the parties.
+*(2) The exercised respondent’s part of the from whose party to the allowing the*
+
+*the controversy*
+
+powers of the Court under this section may be notwithstanding that no notice of appeal or notice has been given in respect of any particular decision of the Supreme Court or the judge thereof order the appeal is brought or by any particular proceedings in that court, or that any ground for appeal or for affirming or varying the decision of that court is not specified in such notice; and the Court may make any order on such terms as the Court thinks just to ensure determination on the merits of the real question in between the parties.
 
 *Additional powers of Court in hearing appeals in civil matters.*
 
@@ -476,17 +488,21 @@ of any such commissioner so far as it thinks fit to adopt it;
 
 (f) appoint any person with special expert knowledge to act as an assessor in an advisory capacity in any case where it appears to the Court that such knowledge is required for the proper determination of the case.
 
-*Power of Court as to new trials.*
+*Power of Court 21.-(1) Subject as to new trials. civil cause or that a new trial*
 
-**21.** (1) Subject to this section, on the hearing of an appeal in any civil cause or matter the Court shall, if it appears to the Court that a new trial should be held, have power to set aside the order appealed against and order that a new trial be held.
+to this section, on the hearing of an appeal in any matter the Court shall, if it appears to the Court should be held, have power to set aside the order appealed against and order that a new trial be held.
 
-(2) On the hearing of an appeal in any civil cause or matter, the following provisions shall apply,
+*(2) On the the following*
+
+hearing of an appeal in any civil cause or matter, provisions shall apply,
 
 (a) a new trial shall not be ordered on the ground of misdirection, or of the improper admission or rejection of evidence unless in the opinion of the Court some substantial wrong or miscarriage of justice has been thereby occasioned;
 
 (b) a new trial may be ordered on any question without interfering with the finding or decision upon any other question; and if it appears to the Court that any such wrong or miscarriage as is mentioned in paragraph (a) affects part only of the matter in controversy, or one or some only of the parties, the Court may order a new trial as to that part only, or as to that party or those parties only, and give final judgment as to the remainder.
 
-(3) On the hearing of an appeal from an order made in any action tried with a jury, the following provisions shall apply,
+*(3) On the*
+
+hearing of an appeal from an order made in any action tried with a jury, the following provisions shall apply,
 
 the Court may, if it thinks fit, make any such order as could be made in pursuance of an application for a new trial or to set aside a verdict, finding or judgment of the court below;
 
@@ -498,19 +514,35 @@ the Court may, if it thinks fit, make any such order as could be made in pursuan
 
 (ii) with the consent of the party entitled to receive or liable to pay the damages, as the case may be, reduce or increase the sum awarded by the jury by such amount as appears to the Court to be proper in respect of any distinct head of damages erroneously included in or excluded from the sum so awarded,
 
-but except as aforesaid the Court shall not have power to reduce or increase damages awarded by a jury.
+*but except as or increase*
 
-*Wrong rulings as to sufficiency of stamps.*
+aforesaid the Court shall not have power to reduce damages awarded by a jury.
 
-**22.** The Court shall not grant a new trial or reverse any judgment by reason of the ruling of any court that the stamp upon any document is sufficient or that the document does not require a stamp.
+*Wrong rulings as*
+
+*The*
+
+*to sufficiency of*
+
+*judgment by*
+
+*stamps.*
+
+*upon any require a stamp.*
+
+**22.** Court shall not grant a new trial or reverse any reason of the ruling of any court that the stamp document is sufficient or that the document does not
 
 ## PART IV
 
 Criminal Appeals
 
-*Right of appeal against conviction on indictment.*
+*Right of appeal 23.-(1) A person against*
 
-**23.** (1) A person convicted in the Supreme Court on indictment or on information filed by the Director of Public Prosecutions may appeal under this Part to the Court,
+*or on conviction on*
+
+*indictment. may appeal*
+
+convicted in the Supreme Court on indictment information filed by the Director of Public Prosecutions under this Part to the Court,
 
 *1 of 1969.*
 
@@ -520,27 +552,41 @@ Criminal Appeals
 
 (c) with the leave of the Court against the sentence passed on his conviction unless the sentence is one fixed by law.
 
-(2) For the purposes of sub-section (1) (c), “sentence” includes–
+*(2) For the includes–*
+
+purposes of sub-section (1) (c), “sentence”
 
 (i) any recommendation of the Supreme Court as to the making of an expulsion order in the case of the person convicted; and
 
 (ii) any recommendation of the Supreme Court as to the making of a deportation order or a restriction order or a security order in conjunction with either of these orders, in the case of a convicted person.
 
-**24.** (1) Where a judge of the Supreme Court in chambers has
+*Right of appeal against*
 
-*Right of appeal against deportation and expulsion orders. CAP. 156.*
+*proceeding*
 
-held an inquiry pursuant to Immigration Act, any party to that proceeding may, with the leave of the Court or upon the certificate of the judge, appeal to the Court against any finding of fact or any conclusion on a question of law contained in the report of such judge, and the person charged may, with the leave of the Court, appeal to that Court against any recommendation of such judge as to the making of a deportation order or a restriction order or a security order in his case.
+*deportation and expulsion orders. CAP. 156.*
 
-(2) Where the Supreme Court or a judge thereof, on an appeal against an expulsion order–
+*of fact or any report of such of the Court, of such judge*
+
+**24.** (1) Where a judge of the Supreme Court in chambers has held an inquiry pursuant to Immigration Act, any party to that may, with the leave of the Court or upon the certificate of the judge, appeal to the Court against any finding conclusion on a question of law contained in the judge, and the person charged may, with the leave appeal to that Court against any recommendation as to the making of a deportation order or a restriction order or a security order in his case.
+
+*(2) Where appeal against*
+
+the Supreme Court or a judge thereof, on an an expulsion order–
 
 (a) dismisses the appeal, the appellant may, with the leave of the Court or upon the certificate of the judge, appeal further to the Court against the order dismissing the appeal;
 
 (b) allows the appeal, the respondent may, with the leave of the Court or upon the certificate of the judge, appeal further to the Court against the order allowing the appeal.
 
-*Appeals from inferior courts.*
+*Appeals from*
 
-**25.** (1) Where the Supreme Court makes an order on an appeal from an inferior court in a criminal cause or matter any party to such appeal may appeal to the Court from the order of the Supreme Court,
+*25.-(1) Where*
+
+*inferior courts.*
+
+*such appeal*
+
+the Supreme Court makes an order on an appeal from an inferior court in a criminal cause or matter any party to may appeal to the Court from the order of the Supreme Court,
 
 (a) upon any ground which involves a question of law alone; or
 
@@ -564,11 +610,9 @@ of mixed law and fact, or upon any other ground which appears to the Supreme Cou
 
 (3) In all other cases where a person entitled to appeal or to apply for leave to appeal to the Court desires to exercise that right, he shall give notice of his appeal or notice of his application for leave to appeal in such manner as may be directed by rules of court within twenty-one days of the date on which the order against which he desires to appeal was signed, entered or otherwise perfected.
 
-**28.** (1) On every appeal or application for leave to appeal to the
-
 *Filing of notice of grounds of appeal.*
 
-Court notice of the grounds of appeal shall be filed within twenty-one days after receipt by the intending appellant from the Registrar,
+**28.** (1) On every appeal or application for leave to appeal to the Court notice of the grounds of appeal shall be filed within twenty-one days after receipt by the intending appellant from the Registrar,
 
 (a) in the case of an appeal against conviction by the Supreme Court on indictment or information, of a copy of the record which shall include a copy of the judge’s summing up;
 
@@ -634,29 +678,49 @@ provided that,
 
 (ii) whenever the Court receives further evidence it shall make such order as will secure an opportunity to the parties to the proceedings to examine every witness whose evidence is taken.
 
-*Admission of appellant to bail.*
+*Admission of 34.-(1) The appellant to bail.*
 
-**34.** (1) The Court may, if it seems fit, on the application of an appellant, admit the appellant to bail pending the determination of his appeal.
+Court may, if it seems fit, on the application of an appellant, admit the appellant to bail pending the determination
 
-(2) An appellant who is not admitted to bail shall, pending the determination of his appeal, be treated as a prisoner awaiting trial.
+*of his appeal.*
 
-*Computation and commencement of sentence.*
+*(2) An the trial.*
 
-**35.** (1) Where an appellant is admitted to bail under this Act, the time during which he is at large after being admitted shall be disregarded in computing the term of any sentence to which he is for the time being subject.
+appellant who is not admitted to bail shall, pending determination of his appeal, be treated as a prisoner awaiting
 
-(2) Subject as hereinafter provided, six weeks of the time during which any appellant when in custody is treated pending the determination of his appeal as a prisoner awaiting trial, or the whole of that time if less than six weeks, shall be disregarded in computing the term of any sentence to which he is for the time being subject,
+*Computation and commencement time during of sentence.*
 
-provided that,
+**35.** (1) Where an appellant is admitted to bail under this Act, the which he is at large after being admitted shall be disregarded in computing the term of any sentence to which he is for the time being subject.
+
+*during which*
+
+*in computing being subject,*
+
+(2) Subject as hereinafter provided, six weeks of the time any appellant when in custody is treated pending determination of his appeal as a prisoner awaiting trial, or the whole of that time if less than six weeks, shall be disregarded the term of any sentence to which he is for the time
+
+*provided*
+
+that,
 
 (a) the foregoing provisions of this section shall not apply where leave to appeal is granted under this Part or any such certificate as is mentioned in section 23 (1) (b), has been given for the purpose of the appeal;
 
 (b) in any other case the Court may direct that no part of the said time or such part thereof as the Court thinks fit (whether shorter or longer than six weeks) shall be disregarded as aforesaid.
 
-(3) Subject to the foregoing provisions of this section, the term of any sentence passed by the Court in substitution for a sentence passed on the appellant in the proceedings from which the appeal is brought shall, unless the Court otherwise directs, begin to run from the time when it would have begun to run if passed in those proceedings, and references in this section to any sentence to which the appellant is for the time being subject shall be construed accordingly.
+*term of any*
 
-*Stay of execution.*
+*the appeal is begin to run*
 
-**36.** In the case of a conviction involving sentence of death–
+*sentence to be construed*
+
+(3) Subject to the foregoing provisions of this section, the sentence passed by the Court in substitution for a sentence passed on the appellant in the proceedings from which brought shall, unless the Court otherwise directs, from the time when it would have begun to run if passed in those proceedings, and references in this section to any which the appellant is for the time being subject shall accordingly.
+
+*Stay of*
+
+*In the*
+
+*execution.*
+
+**36.** case of a conviction involving sentence of death–
 
 (a) the sentence shall not in any case be executed until after the expiration of the time within which notice of appeal or of an application for leave to appeal may be given under section 27; and
 
@@ -724,9 +788,15 @@ to admit an appellant to bail; and
 
 (e) to grant a stay of the judgment or order appealed from pending the determination of such appeal,
 
-may be exercised by a single judge in the same manner as they may be exercised by the Court and subject to the same provisions.
+*may be may be provisions.*
 
-(2) Any single judge may deliver in open court the judgment or judgments of the Court in any appeal or other matter heard by the Court, notwithstanding that some or all of the judges who heard and determined such appeal or other matter may be absent when such judgments are read.
+exercised by a single judge in the same manner as they exercised by the Court and subject to the same
+
+*(2) Any*
+
+*the Court, heard and when such*
+
+single judge may deliver in open court the judgment or judgments of the Court in any appeal or other matter heard by notwithstanding that some or all of the judges who determined such appeal or other matter may be absent judgments are read.
 
 *Case stated or question of law reserved.*
 
@@ -780,9 +850,15 @@ which the appellant or applicant was tried” in sub-section (1) there were adde
 
 (iii) as if all the words after the words “and to officers of courts” in sub-section (4) were omitted.
 
-*Prerogative of mercy.*
+*Prerogative of*
 
-**48.** Nothing in this Act shall affect the prerogative of mercy but the Minister on an application made to him by a person convicted on indictment or without any such application may, if he thinks fit, at any time either–
+*Nothing*
+
+*mercy.*
+
+*but the convicted on he thinks fit, at*
+
+**48.** in this Act shall affect the prerogative of mercy Minister on an application made to him by a person indictment or without any such application may, if any time either–
 
 (a) refer the whole case to the Court and the case shall then be treated for all purposes as an appeal to the Court by the person convicted; or
 
@@ -790,9 +866,13 @@ which the appellant or applicant was tried” in sub-section (1) there were adde
 
 the Minister with its opinion thereon accordingly.
 
-*Appeal by Director of Public Prosecutions.*
+*Appeal by 49.-(1) Without Director of*
 
-**49.** (1) Without prejudice to any right of appeal granted to the prosecution by any other provision of this Act, an appeal shall lie to the Court at the instance of the Director of Public Prosecutions in the following cases,
+*prosecution by*
+
+*Public Prosecutions. lie to the Prosecutions in*
+
+prejudice to any right of appeal granted to the any other provision of this Act, an appeal shall Court at the instance of the Director of Public the following cases,
 
 (a) where a person tried on indictment has been acquitted by the direction of the Judge at the close of the case for the prosecution whether in respect of the whole or part of the indictment; or
 
@@ -800,7 +880,9 @@ the Minister with its opinion thereon accordingly.
 
 (c) against the sentence passed on conviction on a trial on indictment.
 
-(2) An appeal under sub-section (1) may be made on the following grounds–
+*(2) An following*
+
+appeal under sub-section (1) may be made on the grounds–
 
 (a) against the acquittal, on any ground of appeal which involves a question of law alone;
 
@@ -960,7 +1042,9 @@ Conduct of Prosecution and Defence
 
 Legal Aid to Appellants
 
-**13.** List of attorneys-at-law for purposes of the Act. Legal aid to be provided from such lists.
+*aid to*
+
+**13.** List of attorneys-at-law for purposes of the Act. Legal be provided from such lists.
 
 Proceedings before a single judge
 
@@ -1010,7 +1094,9 @@ apply to convicted persons where case stated under section 44.
 
 Duties of Registrar
 
-**29.** Duties of Registrar with respect to notices of appeal, etc. ORDER IV APPEALS FROM SUPREME COURT’S ORDER ON APPEAL FROM INFERIOR COURTS IN ANY CRIMINAL CAUSE OR MATTER
+*etc.*
+
+**29.** Duties of Registrar with respect to notices of appeal, ORDER IV APPEALS FROM SUPREME COURT’S ORDER ON APPEAL FROM INFERIOR COURTS IN ANY CRIMINAL CAUSE OR MATTER
 
 **1.** Institution of appeals under section 25 of the Act.
 
@@ -1050,11 +1136,9 @@ To be paid to the Registrar of the Court of Appeal.
 
 APPENDIX C Criminal Forms
 
-### ORDER I
-
 *Short title.*
 
-These Rules may be cited as the Court of Appeal Rules.
+ORDER I These Rules may be cited as the Court of Appeal Rules.
 
 *Interpretation*
 
@@ -1156,7 +1240,9 @@ provided that the Court may in its discretion hear any appeal and deal with any 
 
 Column 1 Column 2
 
-(a) all documents required to by personal service on the party or be served, his authorised agent, or on the person not a party.
+*or the*
+
+(a) all documents required to by personal service on the party be served, his authorised agent, or on person not a party.
 
 (i) on parties to an
 
@@ -1172,9 +1258,13 @@ service; and
 
 party to the appeal;
 
-(b) all documents required to by leaving the document at the be served on parties who address for service with a person resident at or belonging to such
+*the*
 
-have an address for place; or by registered post to such service. address, in which case, the time of service thereon shall be the time such document would be delivered in the ordinary course of post.
+(b) all documents required to by leaving the document at be served on parties who address for service with a person resident at or belonging to such
+
+*of*
+
+have an address for place; or by registered post to such service. address, in which case, the time service thereon shall be the time such document would be delivered in the ordinary course of post.
 
 (2) If it be made to appear to a judge of the Supreme Court upon application supported by affidavit that prompt personal service of a document cannot be effected he may make such order for substituted service by advertisement or otherwise as may be just.
 
@@ -1272,11 +1362,9 @@ thereof at the cost of the respondent or may make such other order as it thinks 
 
 The Record
 
-**8.** (1) The Registrar of the court below shall upon an appeal
-
 *Settling record of appeal.*
 
-being brought summon the parties before him to settle the documents (which expression shall include any other matter which may form part of a record) to be included in the record and shall, whether any of the parties attend the appointment or not, settle and sign and in due course file a list of such documents.
+**8.** (1) The Registrar of the court below shall upon an appeal being brought summon the parties before him to settle the documents (which expression shall include any other matter which may form part of a record) to be included in the record and shall, whether any of the parties attend the appointment or not, settle and sign and in due course file a list of such documents.
 
 (2) The Registrar, as well as the parties, shall endeavour to exclude from the record all documents (more particularly such as are merely formal) that are not relevant to the subject matter of the appeal and generally to reduce the bulk of the record as far as practicable, taking special care to avoid duplication of documents and unnecessary repetition of headings and other merely formal parts of documents; but the documents omitted to be copied shall be enumerated in a list at the end of the record.
 
@@ -1420,11 +1508,9 @@ appellant and not accepted by the respondent, the Court or the Court below shall
 
 (2) Where an appellant obtains leave to appeal in forma pauperis he shall not be required to lodge security for the costs of the respondent or to pay any registry fees or any fees for copies of the judge’s notes of evidence or the documents required for compiling the record.
 
-An appeal against an interlocutory order shall be heard
-
 *Interlocutory appeals. Number of judges. Dismissal of appeal in default of appearance.*
 
-before not less than three judges of the Court.
+An appeal against an interlocutory order shall be heard before not less than three judges of the Court.
 
 **23.** If the appellant fails to appear when his appeal is called on for hearing the appeal may be struck out or dismissed with or without costs.
 
@@ -1486,11 +1572,9 @@ junior counsel’s fee on the basis of two-thirds (c)
 
 of the fee allowed to leading counsel (excluding travelling expenses and any special fee allowed to leading counsel) where fees to leading and junior counsel are allowed.
 
-The fees to be charged for interpreters, witnesses, special
-
 *Fees not chargeable under rules 29 and 30. Part III. Appendix B. S.I. 91 of of Taxation costs.*
 
-commissioners and examiners shall be those set forth in Part III of Appendix B.
+The fees to be charged for interpreters, witnesses, special commissioners and examiners shall be those set forth in Part III of Appendix B.
 
 1982.
 
@@ -1514,21 +1598,17 @@ Institution of Appeals
 
 *Obligation on appellant to fill up forms of appeal notices and answer questions thereon. S.I. 64 of 2007.*
 
-**1.** A person desiring to appeal to the Court against conviction or sentence shall commence his appeal by sending to the Registrar of the Court below a notice of appeal or notice of application for leave to appeal or notice of application for extension of time within which such notice shall be given, as the case may be, in the form of such notices set forth in Form 1, 1A or 2 in Appendix C, and, in the notice or notices so sent, shall answer the questions and comply with the requirements set forth thereon, subject to Order I, rule 9. The answers to the questions which an appellant is by this rule required to make in support of his request to be present at the hearing of his appeal shall be
-
 *Judge’s certificate under section 23 (1) (b). Form 3. Appendix C.*
 
-deemed to be applications to the Court in such matter.
+**1.** A person desiring to appeal to the Court against conviction or sentence shall commence his appeal by sending to the Registrar of the Court below a notice of appeal or notice of application for leave to appeal or notice of application for extension of time within which such notice shall be given, as the case may be, in the form of such notices set forth in Form 1, 1A or 2 in Appendix C, and, in the notice or notices so sent, shall answer the questions and comply with the requirements set forth thereon, subject to Order I, rule 9. The answers to the questions which an appellant is by this rule required to make in support of his request to be present at the hearing of his appeal shall be deemed to be applications to the Court in such matter.
 
 **2.** (1) The certificate of the judge of the Court below under section 23 (1)(b) shall be in Form 3 in Appendix C.
 
 (2) The judge of the Court below may, in any case in which he considers it desirable to do so, inform the person convicted before or sentenced by him that the case is in his opinion one fit for an appeal to the Court under section 23 (1)(b) and may give to such person a certificate to that effect in Form 3 in Appendix C.
 
-**3.** (1) Every notice of appeal or notice of application for leave
-
 *Notices to be signed by appellant.*
 
-to appeal or notice of application for extension of time within which such notice shall be given shall be signed by the appellant himself, except under paragraphs (4) and (5) of this rule.
+**3.** (1) Every notice of appeal or notice of application for leave to appeal or notice of application for extension of time within which such notice shall be given shall be signed by the appellant himself, except under paragraphs (4) and (5) of this rule.
 
 Any other notice required or authorised to be given shall be in writing and signed by the person giving it or by his legal representative. All notices required or authorised to be given shall be addressed to the Registrar of the Court below to be forwarded by him to the Registrar of the Court.
 
@@ -1836,19 +1916,31 @@ witness if giving evidence as a witness on a trial on indictment need not be swo
 
 Case stated under section 44 of the Act
 
-*Judge to forward special case to Registrar and copies to be supplied to appellant and respondent.*
+*Judge to forward 28.-(1) The special case to stated by him Registrar and copies to be Registrar who supplied to*
 
-**28.** (1) The judge of the Court below shall forward any case stated by him in pursuance of section 44 of the Act to the Registrar who shall on receiving it send a copy of the case to the appellant and respondent respectively.
+*appellant and appellant and*
 
-(2) Where under section 44 the judge of the Court below states a case for the consideration of the Court, the person convicted shall for the purposes of these rules be deemed to be an appellant who has appealed under section 23, provided that in such case section 42 (2) shall not apply.
+judge of the Court below shall forward any case in pursuance of section 44 of the Act to the shall on receiving it send a copy of the case to the respondent respectively.
 
-(3) Where a case is stated or a question of law reserved for the consideration of the Court under section 44, paragraphs (1) and (4) only of rule 29 of this Order shall apply.
+*respondent.*
+
+*(2) Where states a case*
+
+*an appellant in such case*
+
+under section 44 the judge of the Court below for the consideration of the Court, the person convicted shall for the purposes of these rules be deemed to be who has appealed under section 23, provided that section 42 (2) shall not apply.
+
+*the*
+
+(3) Where a case is stated or a question of law reserved for consideration of the Court under section 44, paragraphs (1) and (4) only of rule 29 of this Order shall apply.
 
 Duties of Registrar
 
-*Duties of Registrar with respect to notices of appeal, etc.*
+*Subject Duties of*
 
-**29.** Subject to rule 28 of this Order–
+*Registrar with respect to notices of appeal, etc.*
+
+**29.** to rule 28 of this Order–
 
 (a) the Registrar shall take all necessary steps for obtaining a hearing under Part III of the Act of any appeal or application, notice of which is given to him under that Part and shall obtain and lay before the Court in proper form all documents, exhibits and other things relating to the proceedings in the Court before which the appellant or applicant was tried which appear necessary for the proper determination of the appeal or application;
 
@@ -1862,7 +1954,9 @@ determination, and, where the case is so referred, the Court may, if they consid
 
 ### ORDER IV
 
-APPEALS FROM SUPREME COURT’S ORDER ON APPEAL FROM INFERIOR COURTS IN ANY CRIMINAL CAUSE OR MATTER
+*APPEALS APPEAL*
+
+### FROM SUPREME COURT’S ORDER ON FROM INFERIOR COURTS IN ANY CRIMINAL CAUSE OR MATTER
 
 *Institution of appeals under section 25 of the Act.*
 
@@ -1890,11 +1984,9 @@ The provisions of rules 1, 6 and 15 of Order III shall apply to a person desirin
 
 (2) A prosecutor-appellant shall serve copies of any notices in Form 25 or 26 issued by him on the respondent; and the Registrar of the Court below shall send to the prosecutor-respondent copies of any such notices delivered by a defendant-appellant.
 
-**7.** (1) The Registrar of the Court below, when he has received a
-
 *Record of appeal.*
 
-notice of appeal or a notice of application for leave to appeal, or a notice of application for extension of the time within which under these rules such notice shall be given, shall forward to the Registrar four copies of the proceedings in the Court below; and shall also forward the original exhibits in the case as far as practicable and relevant to the appeal.
+**7.** (1) The Registrar of the Court below, when he has received a notice of appeal or a notice of application for leave to appeal, or a notice of application for extension of the time within which under these rules such notice shall be given, shall forward to the Registrar four copies of the proceedings in the Court below; and shall also forward the original exhibits in the case as far as practicable and relevant to the appeal.
 
 (2) For the purposes of this rule, copies of proceedings shall contain,
 
@@ -2070,6 +2162,8 @@ DATED this.......................day of ….........…...20........... ........
 
 The Registrar,
 
+Strike out words inapplicable.
+
 Court of Appeal.
 
 And  .........................................................
@@ -2078,7 +2172,9 @@ Insert name of respondent.
 
 CIVIL FORM 2A O. II, R.2 (3) IN THE COURT OF APPEAL Application for Leave to Appeal by Respondent Civil Appeal No............of 20........... Between
 
-............................ (Plaintiff/Defendant) * Appellant(s) and ............................ (Plaintiff/Defendant) * Respondent(s) TAKE NOTICE that upon the hearing of the application for leave to appeal the Respondent herein intends to apply for leave to appeal and to contend that the decision of the (Court below) dated..............day of…........20............ should be varied as follows: 
+............................ (Plaintiff/Defendant) * Appellant(s) and ............................ (Plaintiff/Defendant) * Respondent(s) TAKE NOTICE that upon the hearing of the application for leave to appeal the Respondent herein intends to apply for leave to appeal and to contend that the decision of the (Court below) dated..............day of…........20............ should be varied follows: 
+
+as
 
 AND TAKE NOTICE that the grounds on which the Respondent intends to rely are as follows,
 
@@ -2143,6 +2239,8 @@ IN THE COURT OF APPEAL Notice by Respondent of Intention to Rely upon Preliminar
 3, etc.
 
 DATED this......................day of…………..20.............. .................................................... (Plaintiff/Defendant) * Respondent(s) To the above-named (Plaintiff/Defendant) * Appellant (s).
+
+Strike out words inapplicable.
 
 ### O. II, R.8 (1)
 
@@ -2280,27 +2378,43 @@ DATED at ..............................this ........................day of .....
 
 Fees of Court in Civil Appeals
 
-To Be Paid to the Registrar of the Court of Appeal under Order II Rule 29
+*To*
 
-$ ¢
+Be Paid to the Registrar of the Court of Appeal under Order II Rule 29
 
-**1.** On filing notice of appeal against a final judgment or decision, entering the appeal for hearing and on judgment thereunder, an inclusive fee of ....................................................... 30.00
+*$ ¢*
+
+*30.00*
+
+**1.** On filing notice of appeal against a final judgment or decision, entering the appeal for hearing and on judgment thereunder, an inclusive fee of .......................................................
 
 2.
 
-On filing respondent’s notice of intention to contend that decision of court below be varied ...... 15.00
+*15.00*
 
-**3.** For entering a special case, case stated, point of law or demurrer for argument, entering same for hearing and on judgment thereunder, an inclusive fee of ....................................................... 20.00
+On filing respondent’s notice of intention to contend that decision of court below be varied ......
 
-**4.** On filing notice of appeal against an interlocutory order or decision, entering the appeal for hearing and on judgment thereunder, an inclusive fee of................................................... 15.00
+*20.00*
 
-**5.** On making any application not otherwise specifically provided for, and for filing judgement or order thereunder, an inclusive fee of ......................................................................... 15.00
+**3.** For entering a special case, case stated, point of law or demurrer for argument, entering same for hearing and on judgment thereunder, an inclusive fee of .......................................................
 
-**6.** On filing bond to secure costs of appeal .................. 7.50
+*15.00*
+
+**4.** On filing notice of appeal against an interlocutory order or decision, entering the appeal for hearing and on judgment thereunder, an inclusive fee of...................................................
+
+*15.00*
+
+**5.** On making any application not otherwise specifically provided for, and for filing judgement or order thereunder, an inclusive fee of .........................................................................
+
+*7.50*
+
+**6.** On filing bond to secure costs of appeal ..................
 
 On filing motion for leave to appeal to Privy Council ................................................................... 10.00
 
-**8.** On filing every bond where the appeal to Privy Council ..................................................................... 7.50
+*7.50*
+
+**8.** On filing every bond where the appeal to Privy Council .....................................................................
 
 **9.** On filing order for leave to appeal to Privy Council ................................................................... 10.00
 
@@ -2308,21 +2422,35 @@ On filing motion for leave to appeal to Privy Council ..........................
 
 **11.** On sealing record on appeal to the Privy Council 5.00
 
-**12.** On filing every document or exhibit for which no special fee is provided ......................................... 7.50
+*7.50*
+
+**12.** On filing every document or exhibit for which no special fee is provided .........................................
 
 **13.** On taxation of bill of costs, including certificate. 20.00
 
-**14.** On certifying any document as an office copy ......... 5.00
+*5.00*
 
-**15.** If in a foreign language, the actual cost of marking and examining the copy, and in addition, for marking and sealing the copy as an office copy ................................................................ 5.00
+**14.** On certifying any document as an office copy .........
 
-**16.** For an office copy of a plan, map, section, drawing, photograph or diagram, the actual cost of making and examining the copy, and, in addition, for marking and sealing the copy as an office copy ................................................................ 5.00
+*5.00*
 
-**17.** For a copy of reasons for judgement of a judge or a court, per folio of 100 words ............................. 1.00
+**15.** If in a foreign language, the actual cost of marking and examining the copy, and in addition, for marking and sealing the copy as an office copy ................................................................
+
+*5.00*
+
+**16.** For an office copy of a plan, map, section, drawing, photograph or diagram, the actual cost of making and examining the copy, and, in addition, for marking and sealing the copy as an office copy ................................................................
+
+*1.00*
+
+**17.** For a copy of reasons for judgement of a judge or a court, per folio of 100 words .............................
 
 But with a minimum fee,
 
-for one set of reasons, of .......................................... 5.00
+*5.00*
+
+for one set of reasons, of ..........................................
+
+### REVISED EDITION
 
 And with a maximum fee,
 
@@ -2354,15 +2482,17 @@ words ........................................................................ 1
 
 Fees Payable to Court from which Appeal is Brought under Order II Rule 29
 
-*¢*
-
-$
+*$ ¢*
 
 *S.I. 91 of 1982*
 
-**1.** On office copies of any document to be included in record including judge’s notes of evidence, for the first folio to consist of 100 words ................ 1.00
+*1.00*
 
-**2.** On certifying any document as an office copy ......... 5.00
+**1.** On office copies of any document to be included in record including judge’s notes of evidence, for the first folio to consist of 100 words ................
+
+*5.00*
+
+**2.** On certifying any document as an office copy .........
 
 3.
 
@@ -2379,6 +2509,8 @@ Witnesses’, Interpreters’, Special Commissioners’ and Examiners’ Fees
 ### SUBSISTENCE ALLOWANCES PAYABLE TO WITNESSES
 
 **1.** Subject to the provisions of this Part, a subsistence allowance shall be paid to a witness at the following rate,
+
+### REVISED EDITION
 
 in the case of a professional man or a person who is earning at a rate in excess of $4,800.00 per annum, $5.00 per hour but not exceeding $15.00 per day;
 
@@ -2588,11 +2720,9 @@ Did the judge before whom you were tried grant you a certificate that it was a f
 
 CRIMINAL FORM 1A 2 O. III, r. 1 IN THE COURT OF APPEAL Notice of Grounds of Appeal Against Conviction or Sentence Criminal Appeal No............ of 20............ TO THE CHIEF REGISTRAR OF THE COURT OF APPEAL:
 
-I, .................................... having been convicted of the offence of................................................................................................. And being now a prisoner in.......................................................
-
 *Where appellant for any reason is not in custody.*
 
-(or * now living at ….................................................................... do hereby give you Notice of the Grounds of Appeal against my conviction or sentence relied on, that is to say Grounds of Appeal ..................................................................................................... ..................................................................................................... ..................................................................................................... ..................................................................................................... ..................................................................................................... .....................................................................................................
+I, .................................... having been convicted of the offence of................................................................................................. And being now a prisoner in....................................................... (or * now living at ….................................................................... do hereby give you Notice of the Grounds of Appeal against my conviction or sentence relied on, that is to say Grounds of Appeal ..................................................................................................... ..................................................................................................... ..................................................................................................... ..................................................................................................... ..................................................................................................... .....................................................................................................
 
 ………………………….. (Signed)
 
@@ -2616,17 +2746,21 @@ DATED this .....................day of......................20...........
 
 (2) The appellant must set out the grounds or reasons he alleges why his conviction should be quashed or his sentenced reduced.
 
-(3) The appellant must ensure that his grounds of appeal have merit and substance and are not petty or intended to cause annoyance.
+*have*
 
-(4) If one of the grounds set out is misdirection by the judge, the appellant must set out particulars of such alleged misdirection in this notice.
+(3) The appellant must ensure that his grounds of appeal merit and substance and are not petty or intended to cause annoyance.
 
-(5) The appellant may, in addition to his above reasons, set out his case and arguments fully.
+*the*
 
-O. III, rr. 1 & 6 IN THE COURT OF APPEAL Notice of Application for Extension of the Time within which to Appeal Criminal Appeal No............ of 20............ TO THE REGISTRAR OF THE COURT OF APPEAL: I, ................................................................... having been convicted of the offence of................................................in the...........................................................................Court held at ............................................... on the ..................... day of..............20................ and being now a prisoner in Her
+(4) If one of the grounds set out is misdirection by the judge, appellant must set out particulars of such alleged misdirection in this notice.
+
+*out*
+
+(5) The appellant may, in addition to his above reasons, set his case and arguments fully.
 
 *\\*When applicant for any reason not in custody.*
 
-Majesty’s Prison at......................................... * (or now living at ...............................),
+O. III, rr. 1 & 6 IN THE COURT OF APPEAL Notice of Application for Extension of the Time within which to Appeal Criminal Appeal No............ of 20............ TO THE REGISTRAR OF THE COURT OF APPEAL: I, ................................................................... having been convicted of the offence of................................................in the...........................................................................Court held at ............................................... on the ..................... day of..............20................ and being now a prisoner in Her Majesty’s Prison at......................................... * (or now living at ...............................),
 
 *Here set out clearly and concisely the reasons for the delay in giving such notice and the grounds on which you submit the Court should ex- tend the time.*
 
@@ -2698,9 +2832,13 @@ has refused the application (s) marked.................................(and has 
 
 DATED this .................................day of……………..20.......... Signed.................................... Registrar, Court of Appeal. To the above-named.
 
-O. III, r. 14 IN THE COURT OF APPEAL Notice of Appeal by Appellant from Refusal of a Single Judge Criminal Appeal No........... of 20........ REG. v.
+*Notice of*
 
-TO THE REGISTRAR OF THE COURT OF APPEAL I, .............................................................having received your notification that my application (s) for, (a) Leave to appeal;
+O. III, r. 14 IN THE COURT OF APPEAL Appeal by Appellant from Refusal of a Single Judge Criminal Appeal No........... of 20........ REG. v.
+
+*I,*
+
+TO THE REGISTRAR OF THE COURT OF APPEAL .............................................................having received your notification that my application (s) for, (a) Leave to appeal;
 
 (b) Extension of the time within which notice of appeal or application for leave to appeal may be given;
 
@@ -2708,9 +2846,11 @@ TO THE REGISTRAR OF THE COURT OF APPEAL I, .....................................
 
 has/have been refused;
 
-*For signature see Order III rule 3.*
+*For signature see DO Order III rule 3. the said*
 
-DO HEREBY GIVE YOU NOTICE that I desire that the said application(s) shall be considered and determined by the Court (and that as I am not legally represented I desire to be present at the determination of my said application(s)) * (Signed)
+HEREBY GIVE YOU NOTICE that I desire that application(s) shall be considered and determined by the Court (and that as I am not legally represented I desire to be determination of my said application(s)) * present at the
+
+(Signed)
 
 (or mark)
 
@@ -2732,11 +2872,9 @@ Criminal Appeal No ............of 20........
 
 REG. v.
 
-TO WIT: Be it remembered that whereas ......................
-
 *\\*Here fill in the Court of trial.*
 
-of...............................................was on the.................................. ……...day of.........20...........convicted of ................................... .........................and was thereupon sentenced to pay the sum of $..................................as a fine for his said offence by the * ......................................................................... and has intimated to the said Court that he desires to appeal against his said conviction on a question of law alone (or upon a certificate of the judge of the said Court that his is a fit case for appeal). And whereas the said Court considers that the said Appellant may, in lieu of payment at and upon his said conviction of the said sum, be ordered to enter into recognisance of bail himself in the sum of $............................... and with ....................................... sureties each in the sum of $ .........................................to prosecute his said appeal before the Court of Appeal.
+TO WIT: Be it remembered that whereas ...................... of...............................................was on the.................................. ……...day of.........20...........convicted of ................................... .........................and was thereupon sentenced to pay the sum of $..................................as a fine for his said offence by the * ......................................................................... and has intimated to the said Court that he desires to appeal against his said conviction on a question of law alone (or upon a certificate of the judge of the said Court that his is a fit case for appeal). And whereas the said Court considers that the said Appellant may, in lieu of payment at and upon his said conviction of the said sum, be ordered to enter into recognisance of bail himself in the sum of $............................... and with ....................................... sureties each in the sum of $ .........................................to prosecute his said appeal before the Court of Appeal.
 
 The
 
@@ -2762,11 +2900,9 @@ Criminal Appeal No....... of 20.............
 
 REG. v.
 
-TO WIT: Be it remembered that on the ...................day of...................................................................20…………........... of...........................................................................................and ..................................................................................................... personally came before the * ................................................... and
-
 *\\*Here fill in the name of court of trial.*
 
-severally acknowledged themselves to owe to Our Lady the Queen the several sums following that is to say; the said.........................................the sum of $............................and the said.....................................the sum of $............................of good and lawful money, to be made and levied of their goods and chattels, lands and tenements, respectively, to the use of Our Said Lady the Queen, her heirs and successors if................................................................... now before the said Court fail in the condition hereon endorsed.
+TO WIT: Be it remembered that on the ...................day of...................................................................20…………........... of...........................................................................................and ..................................................................................................... personally came before the * ................................................... and severally acknowledged themselves to owe to Our Lady the Queen the several sums following that is to say; the said.........................................the sum of $............................and the said.....................................the sum of $............................of good and lawful money, to be made and levied of their goods and chattels, lands and tenements, respectively, to the use of Our Said Lady the Queen, her heirs and successors if................................................................... now before the said Court fail in the condition hereon endorsed.
 
 TAKEN and acknowledged before the said Court on the day and year first above-mentioned.
 
@@ -2816,11 +2952,9 @@ Criminal Appeal No....................of 20..............
 
 REG. v.
 
-BE IT REMEMBERED THAT WHEREAS ................................ was convicted of ....................................... on the .................................................... day of .......................... 20................... (and was thereupon sentenced to .......................) and now is in lawful custody in Her Majesty’s Prison at ......................................... and has duly appealed against his conviction (and sentence) to the Court, and has applied for bail pending the determination of his appeal, and has been granted bail on entering into his own recognisances in the sum of ..................................... with ....................................................... sureties, each in the sum of ......................................................... the said ....................................................................................... personally cometh before me the undersigned, being the ................................................... and acknowledges himself to owe to Our Lady the Queen the said sum of
-
 *State office.*
 
-................................... of good and lawful money, to be made and levied of his goods and chattels, lands and tenements to the use of Our said Lady the Queen, her heirs and successors, if he the said .......................................... fail in the condition endorsed.
+BE IT REMEMBERED THAT WHEREAS ................................ was convicted of ....................................... on the .................................................... day of .......................... 20................... (and was thereupon sentenced to .......................) and now is in lawful custody in Her Majesty’s Prison at ......................................... and has duly appealed against his conviction (and sentence) to the Court, and has applied for bail pending the determination of his appeal, and has been granted bail on entering into his own recognisances in the sum of ..................................... with ....................................................... sureties, each in the sum of ......................................................... the said ....................................................................................... personally cometh before me the undersigned, being the ................................................... and acknowledges himself to owe to Our Lady the Queen the said sum of ................................... of good and lawful money, to be made and levied of his goods and chattels, lands and tenements to the use of Our said Lady the Queen, her heirs and successors, if he the said .......................................... fail in the condition endorsed.
 
 *State office.*
 
@@ -2990,7 +3124,9 @@ Criminal Appeal No ...........of 20.........
 
 REG. v.
 
-To the Director of Public Prosecutions *
+*To the*
+
+Director of Public Prosecutions *
 
 To.................................................................................................
 
@@ -3010,9 +3146,9 @@ This is to give you notice that the above-mentioned having applied for-
 
 (e) insert here nature of any other application that may have been made,
 
-*\\**
+*\\* Send*
 
-Send copies addressed to,
+copies addressed to,
 
 (a) The Secretary to the Governor-General for the information of the Governor- General if the conviction involved a sentence of death.
 
@@ -3048,11 +3184,9 @@ To the Director of Public Prosecutions *
 
 To.....................................................................................
 
-THIS IS TO GIVE YOU NOTICE that the above-named having appealed against his conviction of the offence of......................................................... before the Court, and/or the sentence of ...................................................... passed upon him for the offence of............................................................. by
-
 *Here set out the decision of the Court.*
 
-the.............................................. Court, the Court of Appeal has finally determined the said appeal, and has this day given judgment therein to the effect following.
+THIS IS TO GIVE YOU NOTICE that the above-named having appealed against his conviction of the offence of......................................................... before the Court, and/or the sentence of ...................................................... passed upon him for the offence of............................................................. by the.............................................. Court, the Court of Appeal has finally determined the said appeal, and has this day given judgment therein to the effect following.
 
 ............................................................ Registrar of the Court of Appeal
 

@@ -78,6 +78,8 @@ Establishment, Powers and Functions, etc., of the National Drug Abuse Control Co
 
 **12.** Prohibition of certain activities, etc., relating to certain drugs.
 
+*[CAP.*
+
 ## PART III
 
 Powers of Minister for Preventing Misuse of Controlled Drugs
@@ -121,6 +123,10 @@ Law Enforcement and Punishment of Offences
 **27.** Committal to the Supreme Court for sentence.
 
 Prosecution and punishment of offences.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 **28A.** Regulations for violation tickets.
 
@@ -258,13 +264,21 @@ Preliminary
 
 “Council” means the National Drug Abuse Control Council established under this Act;
 
-“court” means the Supreme Court or the Magistrate’s Court, as the case may be;
+*“court” means the case may be;*
+
+the Supreme Court or the Magistrate’s Court, as
+
+*“dentist” means*
 
 *CAP. 316.*
 
-“dentist” means the person whose name is registered in the Dentists Register under the Dentists Act;
+*Dentists*
 
-“drug trafficking” means doing or being concerned in any of the following, whether in Belize or elsewhere–
+the person whose name is registered in the Register under the Dentists Act;
+
+*“drug following,*
+
+trafficking” means doing or being concerned in any of the whether in Belize or elsewhere–
 
 (a) producing, supplying or otherwise dealing in any controlled drug in contravention of this Act or a corresponding law;
 
@@ -278,7 +292,9 @@ Preliminary
 
 (ii) the proceeds of drug trafficking by another person are used to secure that funds are placed at the other person’s disposal or are used for the other person’s benefit, to acquire property by way of investment;
 
-“drug trafficking offence” means any of the following–
+*“drug*
+
+trafficking offence” means any of the following–
 
 an offence under section 5 - importation and exportation of controlled drugs;
 
@@ -300,13 +316,17 @@ an offence under section 5 - importation and exportation of controlled drugs;
 
 (j) aiding, abetting, counselling or procuring the commission of any of the offences in paragraphs (a) to (g);
 
+*“educational*
+
 *47 of 2017.*
 
-“educational institution” means an institution recognised by the Ministry responsible for education as providing schooling or education and training; including an institution that provides pre-school, primary, secondary, post-secondary or tertiary
+*Ministry*
 
-*CAP. 036.*
+*pre-school, education,*
 
-education, within the meaning of the Education and Training Act;
+*CAP. 036. Act;*
+
+institution” means an institution recognised by the responsible for education as providing schooling or education and training; including an institution that provides primary, secondary, post-secondary or tertiary within the meaning of the Education and Training
 
 “export” with its grammatical variations and cognate expressions, in relation to Belize, means to take or cause to be taken out of Belize by land, air or water;
 
@@ -344,11 +364,9 @@ poppy, but does not include any preparation containing not more than 0.2 per cen
 
 “opium poppy” means the plant of the species papaver somniferum L;
 
-“person lawfully conducting a retail pharmacy business” means
-
 *CAP. 311.*
 
-a person lawfully conducting such a business in accordance with the Chemists and Druggists Act;
+“person lawfully conducting a retail pharmacy business” means a person lawfully conducting such a business in accordance with the Chemists and Druggists Act;
 
 “poppy straw” means all parts, except the seeds, of the opium poppy, after mowing;
 
@@ -372,11 +390,9 @@ a document of title to lands, goods or other property wherever situated, money o
 
 “supplying” includes distributing; and
 
-“veterinary practitioner” means any person in Belize holding a qualification entitling him to practice as a veterinary surgeon in any part of the Commonwealth, or any person who within Belize, with the approval of the Minister responsible for veterinary services, is engaged in the practice and profession of
-
 *CAP. 326.*
 
-veterinary surgery pursuant to the Veterinary Surgeons Act.
+“veterinary practitioner” means any person in Belize holding a qualification entitling him to practice as a veterinary surgeon in any part of the Commonwealth, or any person who within Belize, with the approval of the Minister responsible for veterinary services, is engaged in the practice and profession of veterinary surgery pursuant to the Veterinary Surgeons Act.
 
 (2) References in this Act to misusing a drug are references to misusing it by taking it; and the reference in the foregoing provision to the taking of a drug is a reference to the taking of it by a human being by way of any form of self-administration, whether or not involving assistance by another.
 
@@ -404,11 +420,17 @@ Establishment, Powers and Functions, etc., of the National Drug Abuse Control Co
 
 (f) to give advice to farmers, in consultation with the Ministry of Agriculture, on possible alternative crops in areas where controlled drugs are known or suspected to be under cultivation.
 
-(3) It shall also be the duty of the Council to consider any matter relating to drug dependence or the misuse of drugs which may be referred to them by the Minister and to advise the Minister thereon.
+*(3) It shall matter relating may be Minister*
 
-*Controlled drugs and their classification.*
+also be the duty of the Council to consider any to drug dependence or the misuse of drugs which referred to them by the Minister and to advise the thereon.
 
-**4.** (1) In this Act, unless the context otherwise requires–
+*Controlled drugs*
+
+*4.–(1) In this*
+
+*and their classification.*
+
+Act, unless the context otherwise requires–
 
 the expression “controlled drugs” means any (a)
 
@@ -418,9 +440,15 @@ the expressions “Class A drug”, “Class B (b)
 
 drug”, and “Class C drug” mean any of the substances and products for the time being specified respectively in Parts I, II and III of Schedule II.
 
-(2) The Minister may, after consultation with or on the recommendation of the Council, by Order published in the Gazette, make such amendments to Schedule II as may be requisite for the purpose of adding any substance or product to,
+*(2) The*
 
-or removing any substance or product from, any of Parts I to III of that Schedule.
+*Gazette, make*
+
+Minister may, after consultation with or on the recommendation of the Council, by Order published in the such amendments to Schedule II as may be requisite for the purpose of adding any substance or product to,
+
+*of that*
+
+or removing any substance or product from, any of Parts I to III Schedule.
 
 *Restriction on importation and exportation of controlled drugs.*
 
@@ -436,17 +464,21 @@ or removing any substance or product from, any of Parts I to III of that Schedul
 
 (b) to the importation or exportation of a controlled drug under and in accordance with the terms of a licence issued by the Minister and in compliance with any conditions attached thereto.
 
-(3) Any person who imports or exports controlled drugs contrary to sub-section (1), commits an offence and is liable on conviction to the penalties laid down in section 18, for a drug trafficking offence.
+*(3) Any contrary to conviction to trafficking*
 
-*Restriction on production and supply of controlled drugs.*
+person who imports or exports controlled drugs sub-section (1), commits an offence and is liable on the penalties laid down in section 18, for a drug offence.
 
-**6.** (1) Subject to any regulations under section 9 for the time being in force, it shall not be lawful for a person–
+*Restriction on 6.–(1) Subject production and supply of controlled drugs.*
+
+to any regulations under section 9 for the time being in force, it shall not be lawful for a person–
 
 (a) to produce a controlled drug; or
 
 (b) to supply or offer to supply a controlled drug to another.
 
-(2) Subject to section 51, it is an offence for a person to–
+*(2) Subject*
+
+to section 51, it is an offence for a person to–
 
 produce a controlled drug in contravention of sub-section (1); or
 
@@ -486,11 +518,9 @@ shall be deemed to be in possession of the controlled drug for the purpose of su
 
 (5) Where any drug to which this Act applies is found in any premises occupied by more than one person, the drug shall be deemed to be in the joint possession of all persons and it shall be for the person or persons to prove that it was there without his or their knowledge or consent; and for the purposes of this Act, occupation of any premises may be real or constructive.
 
-(6) A person who commits a drug trafficking offence under this section is liable to the penalties laid down for a drug
-
 *47 of 2017.*
 
-trafficking offence not including a contravention specified in sub-section (7)(b), to the penalties laid down in section 28.
+(6) A person who commits a drug trafficking offence under this section is liable to the penalties laid down for a drug trafficking offence not including a contravention specified in sub-section (7)(b), to the penalties laid down in section 28.
 
 *47 of 2017.*
 
@@ -516,27 +546,37 @@ liable to be arrested or detained but may, on the first occasion of such contrav
 
 (9) Where the person found in possession is under the age of eighteen years, he is required to participate in a drug treatment or drug counselling programme approved by the Minister, and with such financial contribution to the cost of the programme being payable by the person or his parents or guardians, as the Minister may determine.
 
-**8.** (1) Subject to any regulations under section 9 for the time
+*8.–(1) Subject Restriction on cultivation of plant of the cannabis, opium poppy and coca erythroxylon.*
 
-*Restriction on cultivation of cannabis, opium poppy and coca plants.*
+to any regulations under section 9 for the time being in force, it shall not be lawful for a person to cultivate any genus cannabis, papaver somniferum L or
 
-being in force, it shall not be lawful for a person to cultivate any plant of the genus cannabis, papaver somniferum L or erythroxylon.
+*plants.*
 
-(2) Subject to section 51, it is an offence punishable under section 18, to cultivate any such plant in contravention of subsection (1).
+*(2) Subject section 18, to section (1).*
 
-*Authorization of activities otherwise unlawful under section 5, 6 and*
+to section 51, it is an offence punishable under cultivate any such plant in contravention of sub-
 
-**9.** (1) The Minister may by Regulations exclude or except from sections 5, 6 and 7 any controlled drug as may be specified in the Regulations.
+*Authorization of 9.–(1) The activities*
+
+*sections 5, 6*
+
+*otherwise unlawful under section 5, 6 and*
+
+Minister may by Regulations exclude or except from and 7 any controlled drug as may be specified in the Regulations.
 
 7.
 
-(2) Subject to sub-section (3), the Minister shall so exercise his powers to make Regulations under sub-section (1) as to secure–
+*(2) Subject his powers to secure–*
+
+to sub-section (3), the Minister shall so exercise make Regulations under sub-section (1) as to
 
 (a) that it is not unlawful under section 6(1) for a medical practitioner, dentist or veterinary practitioner acting in his capacity as such, to prescribe, administer, manufacture, compound or supply a controlled drug, or for a chemist and druggist acting in his capacity as such, to manufacture, compound or supply a controlled drug; and
 
 (b) that it is not unlawful under section 7(1) for a medical practitioner, dentist, veterinary practitioner, or chemist and druggist to have a controlled drug in his possession for the purpose of acting in his capacity as such.
 
-(3) If in the case of a controlled drug the Minister is of the opinion that it is in the public interest–
+*(3) If in the*
+
+case of a controlled drug the Minister is of the opinion that it is in the public interest–
 
 (a) for production, supply and possession of that drug to be either wholly unlawful or unlawful except for purposes of research or other special purposes; or
 
@@ -568,11 +608,9 @@ preparing cannabis, cannabis resin or opium for smoking;
 
 *26 of 1992.*
 
-(1A) Nothing in sub-section (1), as relates to knowingly
-
 *47 of 2017.*
 
-permitting or suffering–
+(1A) Nothing in sub-section (1), as relates to knowingly permitting or suffering–
 
 (a) the preparation of cannabis or cannabis resin in contravention of paragraph (c) of that subsection; or
 
@@ -598,11 +636,9 @@ know or believe nor had reasonable grounds to believe that such premises were be
 
 **11.** (1) A person commits an offence if, being the owner or occupier of any premises, including any yard appurtenant thereto, he permits or suffers his premises to be frequented by convicted or reputed drug traffickers or drug users.
 
-(1A) For the purposes of sub-section (1), a person who
-
 *47 of 2017.*
 
-frequents any premises shall not be regarded as a drug user of cannabis or cannabis resin, if his use is within the circumstances specified under section 7(7)(a) or section 12 (2) and (3).
+(1A) For the purposes of sub-section (1), a person who frequents any premises shall not be regarded as a drug user of cannabis or cannabis resin, if his use is within the circumstances specified under section 7(7)(a) or section 12 (2) and (3).
 
 (2) A person who commits an offence under sub-section (1), is liable on summary conviction to the following penalties–
 
@@ -680,17 +716,45 @@ controlled drugs of any description to furnish to the prescribed authority such 
 
 (i) for prohibiting any medical practitioner from administering, supplying and authorising the administration and supply to persons so addicted, and from prescribing for such persons, such controlled drugs as may be prescribed, except under and in accordance with the terms of a licence issued by the Minister in pursuance of the Regulations.
 
-*Power to direct special precautions for safe custody of controlled drugs.*
+*Power to direct*
 
-**14.** (1) Without prejudice to any requirement imposed by Regulations made in pursuance of section 13 (2)(a), the Minister may by notice in writing served on the occupier of any premises on which controlled drugs are or are proposed to be kept, give directions as to the taking of precautions or further precautions for the safe custody of any controlled drugs of a description specified in the notice which are or are proposed to be kept on those premises.
+*14.–(1)*
+
+*special*
+
+*Regulations*
+
+*precautions for safe custody of controlled drugs.*
+
+*on which*
+
+*for the safe*
+
+Without prejudice to any requirement imposed by made in pursuance of section 13 (2)(a), the Minister may by notice in writing served on the occupier of any premises controlled drugs are or are proposed to be kept, give directions as to the taking of precautions or further precautions custody of any controlled drugs of a description specified in the notice which are or are proposed to be kept on those premises.
 
 (2) It is an offence to contravene any directions given under sub-section (1).
 
-*Directions prohibiting the prescribing, supplying, etc., of controlled drugs by medical practitioners, etc., convicted of certain offences.*
+*Directions prohibiting the prescribing, supplying, etc.,*
 
-**15.** (1) Where a person who is a medical practitioner or chemist and druggist has, after the coming into operation of this subsection, been convicted of an offence under this Act or any enactment repealed by this Act, the Minister may give a direction in writing under sub-section (2) in respect of that person.
+*and druggist*
 
-(2) A direction under this sub-section in respect of a person shall–
+*of controlled drugs by medical practitioners,*
+
+*enactment*
+
+*etc., convicted of*
+
+*direction in*
+
+*certain offences.*
+
+**15.** (1) Where a person who is a medical practitioner or chemist has, after the coming into operation of this subsection, been convicted of an offence under this Act or any repealed by this Act, the Minister may give a writing under sub-section (2) in respect of that
+
+*person.*
+
+*(2) A shall–*
+
+direction under this sub-section in respect of a person
 
 (a) if that person is a medical practitioner, be a direction prohibiting him from having in his possession, prescribing, administering,
 
@@ -758,11 +822,9 @@ the court may, for special reasons to be recorded in writing, refrain from impos
 
 Provided that where the controlled drug in respect of which the offence is committed is less in quantity than that specified in the proviso to paragraph (a), the court may for special reasons to be recorded in writing, refrain from imposing a mandatory custodial sentence and, instead, order the convicted person to pay a fine to the extent specified above and in default of such payment, to undergo imprisonment for a term specified above.
 
-(2) Subject to sub-section (2A) and any regulations under
-
 *\47. of 2017.*
 
-section 9 for the time being in force, a person found in possession of a controlled drug in any school premises, or any other place of education or training or any centre for the rehabilitation of drug addicts, or in the immediate vicinity of any such premises, is deemed to have the controlled drug for the purpose of drug trafficking unless the contrary is proved, the burden of proof being on the accused.
+(2) Subject to sub-section (2A) and any regulations under section 9 for the time being in force, a person found in possession of a controlled drug in any school premises, or any other place of education or training or any centre for the rehabilitation of drug addicts, or in the immediate vicinity of any such premises, is deemed to have the controlled drug for the purpose of drug trafficking unless the contrary is proved, the burden of proof being on the accused.
 
 *47 of 2017.*
 
@@ -820,17 +882,13 @@ it is made after he does the act, but is made on his initiative and as soon as i
 
 **21.** It is an offence for a person to attempt to commit an offence under any other provision of this Act or to incite or attempt to incite another to commit such an offence.
 
-A person commits an offence if in Belize he assists in or
-
 *Assisting in or inducing commission outside Belize of offences punishable under corresponding law.*
 
-induces the commission in any place outside Belize of an offence punishable under the provisions of a corresponding law in force in that place.
-
-**23.** Where any offence under this Act committed by a body
+A person commits an offence if in Belize he assists in or induces the commission in any place outside Belize of an offence punishable under the provisions of a corresponding law in force in that place.
 
 *Offences by Corporation.*
 
-corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person purporting to act in any such capacity, he as well as the body corporate, commits that offence and is liable to be proceeded against accordingly.
+**23.** Where any offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person purporting to act in any such capacity, he as well as the body corporate, commits that offence and is liable to be proceeded against accordingly.
 
 *Further powers to make regulations.*
 
@@ -850,9 +908,15 @@ Law Enforcement and Punishment of Offences
 
 **25.** (1) A member of the Belize Police Department or other person authorised in that behalf by a general or special Order of the Commissioner of Police shall for the purposes of the execution of this Act, have power to enter the premises of a person carrying on business as a producer or supplier of any
 
-controlled drugs and to demand the production of, and to inspect, any books or documents relating to dealings in any such drugs and to inspect any stocks of any such drugs.
+*controlled inspect, any drugs and to*
 
-(2) If a member of the Belize Police Department has reasonable grounds to suspect that any person is in possession of a controlled drug in contravention of this Act, or of any regulations made thereunder, the member of the Belize Police Department may, subject to sub-section (3)–
+drugs and to demand the production of, and to books or documents relating to dealings in any such inspect any stocks of any such drugs.
+
+*(2) If a reasonable*
+
+*regulations Department*
+
+member of the Belize Police Department has grounds to suspect that any person is in possession of a controlled drug in contravention of this Act, or of any made thereunder, the member of the Belize Police may, subject to sub-section (3)–
 
 (a) search that person, and detain him for the purpose of searching him;
 
@@ -908,15 +972,25 @@ intentionally obstructs a person in the exercise of his powers under this sectio
 
 **27.** (1) Where on the summary trial of an offence committed under this Act and triable either summarily or on indictment, a person who is not less than eighteen years of age is convicted of the offence, then, if on obtaining information that his character and antecedents are such that in the opinion of the Magistrate greater punishment should be inflicted for the offence than the Magistrate has power to inflict, the Magistrate may commit that person in custody to the Supreme Court for sentence and shall, as soon as practicable, transmit to the Registrar of the Supreme Court the record of the proceedings.
 
-(2) On receipt of the record, the Registrar of the Supreme Court shall issue an order to the gaoler to bring the convicted person before a Judge of the Supreme Court at a time to be fixed by the Judge of the Supreme Court.
+*(2) On Court shall*
 
-(3) The Judge of the Supreme Court shall enquire into the circumstances of the case and shall have power to deal with the convicted person as if he had just been convicted of the offence on indictment before the Supreme Court.
+receipt of the record, the Registrar of the Supreme issue an order to the gaoler to bring the convicted person before a Judge of the Supreme Court at a time to be fixed by the Judge of the Supreme Court.
 
-*Prosecution and punishment of offences.*
+*(3) The*
 
-**28.** (1) Except where expressly otherwise provided, Schedule III shall have effect, in accordance with sub-section (2), with respect to the way in which offences under this Act are punishable on conviction.
+*convicted*
 
-(2) In relation to an offence under a provision of this Act specified in the first column of the Schedule III, the general nature of the offence being described in the second column–
+Judge of the Supreme Court shall enquire into the circumstances of the case and shall have power to deal with the person as if he had just been convicted of the offence on indictment before the Supreme Court.
+
+*Prosecution and 28.–(1) punishment of Schedule III offences.*
+
+Except where expressly otherwise provided, shall have effect, in accordance with sub-section (2), with respect to the way in which offences under this Act are punishable on conviction.
+
+*(2) In*
+
+*nature of the*
+
+relation to an offence under a provision of this Act specified in the first column of the Schedule III, the general offence being described in the second column–
 
 (a) the third column shows whether an offence is punishable on summary conviction or on indictment or in either way;
 
@@ -932,23 +1006,17 @@ and in the fourth, fifth, sixth and seventh columns a reference to a period give
 
 (4) In sub-section (3), “the substantive offence” means the offence under this Act to which the attempt or, as the case may be, the incitement or attempted incitement mentioned in section 21 was directed.
 
-(5) Notwithstanding anything contained in the Summary
-
 *CAP. 99.*
 
-Jurisdiction (Procedure) Act, or any other enactment, a magistrate’s court may try on information or on complaint an offence under this Act if the information or complaint was laid, or, as the case may be, made at any time within 24 months from the commission of the offence.
+(5) Notwithstanding anything contained in the Summary Jurisdiction (Procedure) Act, or any other enactment, a magistrate’s court may try on information or on complaint an offence under this Act if the information or complaint was laid, or, as the case may be, made at any time within 24 months from the commission of the offence.
 
 (6) Notwithstanding anything contained in this Act, in the case of an offence under this Act other than a drug trafficking offence, where the convicted person is a first time offender and is proved to be addicted to drugs, the court shall pass a suspended sentence and refer the convicted person to a drug rehabilitation centre for treatment on the condition that if such person shall leave the rehabilitation centre before the completion of the treatment, or shall otherwise misbehave, he shall be required to serve the sentence passed on him.
 
-**28A.** The Minister may make regulations to provide for the
-
 *Regulations for violation tickets.*
-
-issue of controlled drug violation tickets and all matters connected therewith or incidental thereto, and without limiting
 
 *47 of 2017.*
 
-the generality of the foregoing, the regulations may provide for all or any of the following matters–
+**28A.** The Minister may make regulations to provide for the issue of controlled drug violation tickets and all matters connected therewith or incidental thereto, and without limiting the generality of the foregoing, the regulations may provide for all or any of the following matters–
 
 (a) the type of offences for which a controlled drug violation ticket may be issued;
 
@@ -968,11 +1036,9 @@ the generality of the foregoing, the regulations may provide for all or any of t
 
 *Expungement of certain convictions.*
 
-**28B.** (1) Sub-section (2) applies to a person, in this section referred to as a “specified person”, convicted of an offence under section 7 relating to the possession of cannabis or
-
 *47 of 2017.*
 
-cannabis resin, whether the conviction was before or after the coming into effect of this section, where the sentence imposed on conviction of the offence is a fine not exceeding one thousand dollars or such other amount as the Minister may by order prescribe.
+**28B.** (1) Sub-section (2) applies to a person, in this section referred to as a “specified person”, convicted of an offence under section 7 relating to the possession of cannabis or cannabis resin, whether the conviction was before or after the coming into effect of this section, where the sentence imposed on conviction of the offence is a fine not exceeding one thousand dollars or such other amount as the Minister may by order prescribe.
 
 (2) A specified person is entitled to the expungement from the records of the Belize Police Department of any conviction
 
@@ -982,11 +1048,9 @@ referred to in sub-section (1), upon the person making an application therefor i
 
 Forfeiture and Disposal of Aircrafts, Vehicles, Vessels, Proceeds and Other Articles Involved in Drug Trafficking
 
-**29.** (1) Where a person is convicted of an offence or of an
-
 *Forfeiture of means of conveyance and other articles relating to the offence.*
 
-attempt to commit an offence or of soliciting or inciting the commission of an offence under this Act and the court by which such person is convicted finds that any aircraft, vessel, vehicle or any other means of conveyance of whatever description was used or employed by such person in the commission or to facilitate the commission of the offence of which he is convicted, such aircraft, vessel, vehicle or other means of conveyance of whatever description shall be forfeited.
+**29.** (1) Where a person is convicted of an offence or of an attempt to commit an offence or of soliciting or inciting the commission of an offence under this Act and the court by which such person is convicted finds that any aircraft, vessel, vehicle or any other means of conveyance of whatever description was used or employed by such person in the commission or to facilitate the commission of the offence of which he is convicted, such aircraft, vessel, vehicle or other means of conveyance of whatever description shall be forfeited.
 
 (2) Without prejudice to sub-section (1), where a person is convicted of an offence under this Act, the court shall, in passing sentence, order forfeiture to the Government, of any article, money or other valuable consideration relating to the offence.
 
@@ -1028,15 +1092,23 @@ Provided that not less than 25% of such proceeds in any year shall be applied fo
 
 in addition to any other punishment, order the forfeiture of such amount as represents the value of the defendant’s proceeds of drug trafficking as so determined.
 
-(2) A person against whom proceedings have been instituted for a drug trafficking offence is referred to in this Part, whether or not he has been convicted, as “the defendant”.
+*for a drug*
 
-(3) The standard of proof required to determine any question arising under this Act as to–
+(2) A person against whom proceedings have been instituted trafficking offence is referred to in this Part, whether been convicted, as “the defendant”.
+
+or not he has
+
+*(3) The*
+
+standard of proof required to determine any question arising under this Act as to–
 
 (a) whether a person has benefited from drug trafficking; or
 
 (b) the amount to be recovered in his case by virtue of this Act,
 
-shall be that applicable in civil proceedings.
+*shall be that*
+
+applicable in civil proceedings.
 
 *Postponed determinations. 6 of 1994.*
 
@@ -1046,37 +1118,57 @@ shall be that applicable in civil proceedings.
 
 (b) determining the amount to be recovered in his case by virtue of section 30,
 
-it may, for the purpose of enabling that information to be obtained, postpone making the determination for such period as it may specify.
+*obtained,*
+
+it may, for the purpose of enabling that information to be postpone making the determination for such period as it may specify.
 
 (2) More than one postponement may be made under subsection (1), in relation to the same case.
 
-(3) Unless it is satisfied that there are exceptional circumstances, the court shall not specify a period under subsection (1) which–
+*section (1)*
+
+(3) Unless it is satisfied that there are exceptional circumstances, the court shall not specify a period under sub-which–
 
 by itself; or
 
 where there have been one or more previous postponements under sub-section (1) or (4), when taken together with the earlier specified period or periods, exceeds six months beginning with the date of conviction.
 
-(4) Where the defendant appeals against his conviction, the court may, on that account–
+*(4) Where court may, on*
+
+the defendant appeals against his conviction, the that account–
 
 (a) postpone making either or both of the determinations mentioned in sub-section (1) for such period as it may specify; or
 
 (b) where it has already exercised its powers under this section to postpone, extend the specified period.
 
-(5) A postponement or extension under sub-section (1) or (4) may be made–
+*(5) A may be made–*
+
+postponement or extension under sub-section (1) or (4)
 
 (a) on application by the defendant or the prosecutor; or
 
 (b) by the court of its own motion.
 
-(6) Unless the court is satisfied that there are exceptional circumstances, any postponement or extension under subsection (4), shall not exceed the period ending three months after the date on which the appeal is determined or otherwise disposed of.
+*(6) Unless circumstances,*
 
-(7) Where the court exercises its power under sub-section
+*the date on disposed of.*
 
-(1) or (4), it may nevertheless proceed to sentence, or otherwise deal with, the defendant in respect of the relevant offence or any of the relevant offences.
+the court is satisfied that there are exceptional any postponement or extension under subsection (4), shall not exceed the period ending three months after which the appeal is determined or otherwise
 
-(8) Where the court has so proceeded, section 30 (1) shall have effect as if the words “before passing sentence” were omitted.
+*(7) Where*
 
-(9) In this section–
+the court exercises its power under sub-section
+
+*deal with, the of the relevant*
+
+(1) or (4), it may nevertheless proceed to sentence, or otherwise defendant in respect of the relevant offence or any offences.
+
+*(8) Where have effect as omitted.*
+
+the court has so proceeded, section 30 (1) shall if the words “before passing sentence” were
+
+*(9) In this*
+
+section–
 
 “the relevant offence” means the drug (a)
 
@@ -1090,21 +1182,29 @@ trafficking offence in respect of which the defendant appears, as mentioned in s
 
 (ii) where he appeared to be sentenced in respect of more than one conviction, and those convictions were not all on the same date, the date of the latest of those convictions.
 
-*Presumption arising from receipt of proceeds of drug trafficking.*
+*Presumption For the arising from*
 
-**32.** For the purposes of this Part, a person who knowingly receives any proceeds of drug trafficking shall be presumed to have benefited from drug trafficking.
+*receives any*
 
-*Assessment of proceeds of drug trafficking.*
+*receipt of proceeds of drug have benefited trafficking.*
 
-**33.** (1) The court may, for the purpose of–
+**32.** purposes of this Part, a person who knowingly proceeds of drug trafficking shall be presumed to from drug trafficking.
+
+*Assessment of 33.–(1) The proceeds of drug trafficking.*
+
+court may, for the purpose of–
 
 (a) determining whether the defendant has benefited from drug trafficking; and
 
 (b) if he has, of assessing the value of the proceeds of drug trafficking for the purpose of making a forfeiture order under this Part,
 
-make assumptions set out in sub-section (2) except to the extent that any of the assumptions are shown to be incorrect in the defendant’s case.
+*make that any of the defendant’s*
 
-(2) The assumptions referred to in sub-section (1) are–
+assumptions set out in sub-section (2) except to the extent assumptions are shown to be incorrect in the case.
+
+*(2) The*
+
+assumptions referred to in sub-section (1) are–
 
 that any property appearing to the court–
 
@@ -1112,15 +1212,21 @@ that any property appearing to the court–
 
 (ii) to have been transferred to him at any time since the beginning of the period of six years ending when the proceedings were instituted against him, being proceedings for the drug trafficking offence in respect of which an application for forfeiture is made pursuant to this Part, hereinafter referred to as “the relevant proceedings”,
 
-was received by him, at the earliest time at which he appears to the court to have held it, as a payment or reward in connection with drug trafficking carried on by him,
+*the court to with drug*
 
-Provided that the period of six years mentioned in this subsection shall not include any period prior to the commencement of this Act–
+was received by him, at the earliest time at which he appears to have held it, as a payment or reward in connection trafficking carried on by him,
+
+Provided that the period of six years mentioned in this subsection shall not include any period prior to the commencement
+
+*of this Act–*
 
 (b) that any expenditure of his since the beginning of that period was met out of payments received by him in connection with drug trafficking carried on by him; and
 
 (c) that, for the purpose of valuing any property received or assumed to have been received by him, such property was received by him free of any other interests in it.
 
-(3) For the purpose of assessing the value of the defendant’s proceeds of drug trafficking in a case where a forfeiture order has previously been made against him, the court shall leave out
+*(3) For the proceeds of has previously*
+
+purpose of assessing the value of the defendant’s drug trafficking in a case where a forfeiture order been made against him, the court shall leave out
 
 of account any of the proceeds of drug trafficking that are shown to the court to have been taken into account in determining the amount to be recovered from him under the forfeiture order.
 
@@ -1150,9 +1256,13 @@ of account any of the proceeds of drug trafficking that are shown to the court t
 
 so far as he does not accept any such allegation, to give particulars of any matters on which he proposes to rely.
 
-(6) Where the court has given a direction under this section it may at anytime vary it by giving further direction.
+*it may at*
 
-(7) Where the defendant accepts to any extent any allegation in any prosecutor’s statement, the court may, for the purposes of–
+(6) Where the court has given a direction under this section anytime vary it by giving further direction.
+
+*in any of–*
+
+(7) Where the defendant accepts to any extent any allegation prosecutor’s statement, the court may, for the purposes
 
 (a) determining whether the defendant has benefited from drug trafficking; or
 
@@ -1166,27 +1276,41 @@ so far as he does not accept any such allegation, to give particulars of any mat
 
 the court may, for the purposes of that determination, treat the acceptance by the prosecution as conclusive of the matters to which it relates.
 
-(9) An obligation may be accepted, or particulars of any matter may be given, for the purpose of this section, in such manner as may be prescribed by rules of court or as the court may direct.
+*(9) An*
 
-**35.** (1) Subject to the provisions of this section, for the purposes
+obligation may be accepted, or particulars of any matter may be given, for the purpose of this section, in such manner as may be prescribed by rules of court or as the court
 
-*Assessment of value of proceeds.*
+*may direct.*
 
-of this Act, the value of property, other than cash, in relation to any person holding the property is–
+*35.–(1) Subject Assessment of of this Act, the*
+
+*value of*
+
+*any person*
+
+*proceeds.*
+
+to the provisions of this section, for the purposes value of property, other than cash, in relation to holding the property is–
 
 (a) where any other person holds an interest in the property, the market value of the first mentioned person’s beneficial interest in the property, less the amount required to discharge any encumbrance on that interest, other than a charging order; and
 
 (b) in any other case, the market value of the property.
 
-(2) Subject to section 36(6), references in this Act to the value at any time, in this section referred to as the material time, of a gift caught by this Act or of any payment or reward, are references to–
+*(2) Subject value at any of a gift caught references to–*
+
+to section 36(6), references in this Act to the time, in this section referred to as the material time, by this Act or of any payment or reward, are
 
 (a) the value of the gift, payment or reward to the recipient when he received it, adjusted to take account of subsequent changes in the value of money; or
 
 (b) where sub-section (3) applies, the value mentioned in that sub-section,
 
-whichever is the greater.
+*whichever is the*
 
-(3) Subject to section 36(6), if at the material time the recipient holds–
+greater.
+
+*(3) Subject recipient holds–*
+
+to section 36(6), if at the material time the
 
 (a) the property which he received, not being cash; or
 
@@ -1206,11 +1330,9 @@ the value referred to in sub-section (2)(b) is the value to him at the material 
 
 (b) any property held by a person to whom the defendant has directly or indirectly made a gift caught by this Act.
 
-(2) Property is not realisable property if an order under section 29 is in force in respect of that property or, , if section
-
 *CAP. 49.*
 
-56 of the Customs Regulation Act, applies to such property.
+(2) Property is not realisable property if an order under section 29 is in force in respect of that property or, , if section 56 of the Customs Regulation Act, applies to such property.
 
 (3) For the purpose of sections 33 and 34, the amount that might be realised at the time when a forfeiture order is made shall be calculated in accordance with the following table,
 
@@ -1218,25 +1340,25 @@ Total of the values at that time of all realisable property held by the defendan
 
 Add the total of the values at that time of all gifts caught by this Act .................................................................$.............. Net amount realisable............................................$..............
 
-For the purposes of sub-section (3), an obligation has priority at anytime if it is an obligation of the defendant to–
+*For the priority at*
+
+purposes of sub-section (3), an obligation has anytime if it is an obligation of the defendant to–
 
 (a) pay an amount due in respect of a fine, or other order of a court, imposed or made before the forfeiture order; or
 
 (b) pay any sum which, if the defendant had been adjudged bankrupt or was being wound up, would be–
 
-(i) in the case of bankruptcy, the debts to be paid in priority in accordance with
-
 *CAP. 244.*
 
-section 36 of the Bankruptcy Act;
-
-(ii) in the case of winding up, the preferential payments to be paid in priority in accordance with section 199
+(i) in the case of bankruptcy, the debts to be paid in priority in accordance with section 36 of the Bankruptcy Act;
 
 *CAP. 250.*
 
-of the Companies Act.
+(ii) in the case of winding up, the preferential payments to be paid in priority in accordance with section 199 of the Companies Act.
 
-(5) A gift is caught by this Act if–
+*(5) A gift is*
+
+caught by this Act if–
 
 (a) it was made by the defendant at any time since the beginning of the period of six years ending when the relevant proceedings were instituted against him; or
 
@@ -1246,19 +1368,41 @@ of the Companies Act.
 
 (ii) which in whole or in part directly or indirectly represented in the defendant’s hands, property received by him in that connection,
 
-Provided that the period of six years mentioned in this subsection shall not include any period prior to the commencement of this Act.
+*Provided that section shall not of this Act.*
 
-(6) For the purposes of this Act–
+the period of six years mentioned in this sub-include any period prior to the commencement
+
+*(6) For the*
+
+purposes of this Act–
 
 (a) the circumstances in which the defendant is to be treated as making a gift include those where he transfers property to another person directly or indirectly for a consideration the value of which is significantly less than the value of the consideration provided by the defendant; and
 
 (b) in those circumstances, the preceding provisions of this section shall apply as if the defendant made a gift of such share in the property as bears to the whole property the same proportion as the difference between the values referred to in paragraph (a) as bears to the value of the consideration provided by the defendant.
 
-*Reconsideration where court has not proceeded under section 30. 6 of 1994.*
+*Reconsideration*
 
-**37.** (1) This section applies where the defendant has appeared before the court to be sentenced in respect of one or more drug trafficking offences but the court has not proceeded under section 30.
+*37.–(1) This*
 
-(2) If the prosecutor has evidence–
+*where court has*
+
+*appeared before*
+
+*not proceeded under section 30.*
+
+*more drug*
+
+*6 of 1994.*
+
+section applies where the defendant has the court to be sentenced in respect of one or trafficking offences but the court has not proceeded
+
+*under section*
+
+30.
+
+*(2) If the*
+
+prosecutor has evidence–
 
 (a) which was not available to him when the defendant appeared to be sentenced, and accordingly was not considered by the court; but
 
@@ -1312,23 +1456,31 @@ the court shall not make a forfeiture order against a person who has absconded u
 
 (b) any person appearing to the court to be likely to be affected by the making of a forfeiture order by the court shall be entitled to appear before the court and make representations.
 
-*Restraint Order.*
+*Restraint Order. 39.-(1) Subject*
 
-**39.** (1) Subject to the provisions of this section, where a person is charged with a drug trafficking offence, a judge of the Supreme Court, on being satisfied by affidavit evidence or otherwise that there is a prima facie case against the defendant, may by order, hereinafter referred to as a restraint order, prohibit any person from disposing of or otherwise dealing with any realisable property, otherwise than in any manner as may be specified in the order.
+*otherwise that may by order, any person realisable specified in the*
 
-(2) A restraint order may apply–
+to the provisions of this section, where a person is charged with a drug trafficking offence, a judge of the Supreme Court, on being satisfied by affidavit evidence or there is a prima facie case against the defendant, hereinafter referred to as a restraint order, prohibit from disposing of or otherwise dealing with any property, otherwise than in any manner as may be order.
+
+*(2) A*
+
+restraint order may apply–
 
 (a) to all realisable property held by a specified person, whether the property is described in the order or not; or
 
 (b) to realisable property held by a specified person, being property transferred to him after the making of the order.
 
-(3) A restraint order–
+*(3) A*
+
+restraint order–
 
 (a) may be made only on an application by the prosecution to a Judge in chambers; and
 
 (b) shall provide for notice to be given to persons affected by the order.
 
-(4) A restraint order–
+*(4) A*
+
+restraint order–
 
 may be discharged or varied in relation to any property; and
 
@@ -1340,9 +1492,15 @@ may be discharged or varied in relation to any property; and
 
 (b) to manage or otherwise deal with the property in accordance with directions given by the court or Judge,
 
-subject to any exceptions and conditions as may be specified by the court or Judge; and the court or Judge may require any person having possession of property, in respect of which a receiver is appointed under this sub-section, to give possession of it to the receiver.
+*subject to any the court or*
 
-(6) For the purposes of this section, dealing with realisable property held by any person includes, without prejudice to the generality of the expression–
+*receiver is of it to the*
+
+exceptions and conditions as may be specified by Judge; and the court or Judge may require any person having possession of property, in respect of which a appointed under this sub-section, to give possession receiver.
+
+*property held*
+
+(6) For the purposes of this section, dealing with realisable by any person includes, without prejudice to the generality of the expression–
 
 (a) where a debt is owed to that person, making a payment to any person in reduction of the amount of the debt; and
 
@@ -1350,9 +1508,13 @@ subject to any exceptions and conditions as may be specified by the court or Jud
 
 *42 of 1999.*
 
-(7) Where a restraint order has been made, a member of the Belize Police Department may, for the purpose of preventing the removal of any realisable property from Belize, seize the property.
+*Belize Police removal of property.*
 
-(8) Property seized under sub-section (7) shall be dealt with in accordance with the court’s directions.
+(7) Where a restraint order has been made, a member of the Department may, for the purpose of preventing the any realisable property from Belize, seize the
+
+*in accordance*
+
+(8) Property seized under sub-section (7) shall be dealt with with the court’s directions.
 
 **40.** (1) Where–
 
@@ -1418,31 +1580,33 @@ whose estate has been sequestrated, the court shall take into account the extent
 
 (b) the court may disregard any inadequacy in the realisable property which appears to the court to be attributed wholly or partly to anything done by the defendant for the purpose of preserving any property held by a person to whom the defendant had directly or indirectly made a gift caught by this Act from any risk or realisation under this Act.
 
-(4) Where the court issues a certificate under sub-section (1), the court shall substitute for the amount to be recovered under the forfeiture order such lesser amount as the court thinks just in all the circumstances of the case.
+*(4) Where (1), the court under the just in all the*
+
+the court issues a certificate under sub-section shall substitute for the amount to be recovered forfeiture order such lesser amount as the court thinks circumstances of the case.
 
 *Bankruptcy of defendant.*
 
-**44.** (1) Where a person who holds realisable property is adjudged bankrupt, there shall be excluded from his estate for
+*adjudged the purposes of*
 
 *CAP. 244.*
 
-the purposes of section 4, 45 or 46 of the Bankruptcy Act–
+**44.** (1) Where a person who holds realisable property is bankrupt, there shall be excluded from his estate for section 4, 45 or 46 of the Bankruptcy Act–
 
 (a) property for the time being subject to a restraint order made before the order adjudging him bankrupt; and
 
 (b) any proceeds of property realised by virtue of section 39(6) or 40(4)(b) for the time being in the hands of a receiver appointed under section 39 or 40.
 
-(2) Where a person has been adjudged bankrupt, the powers conferred on the court by sections 39 to 42 or on a receiver appointed under section 39 or 40 shall not be exercised in relation to–
+*conferred on appointed relation to–*
+
+(2) Where a person has been adjudged bankrupt, the powers the court by sections 39 to 42 or on a receiver under section 39 or 40 shall not be exercised in
 
 *CAP. 244.*
 
 property for the time being comprised in the bankrupt’s estate for the purposes of the Bankruptcy Act; and
 
-(b) property which is to be applied for the benefit of creditors of the bankrupt by virtue of a
-
 *CAP. 244.*
 
-condition imposed under the Bankruptcy Act.
+(b) property which is to be applied for the benefit of creditors of the bankrupt by virtue of a condition imposed under the Bankruptcy Act.
 
 *Winding up of company holding realisable property.*
 
@@ -1464,13 +1628,15 @@ property held by the company to the company’s creditors; or
 
 (3) In this section–
 
-“company” means a company incorporated or registered under
+*“company”*
 
 *CAP. 250.*
 
-the Companies Act;
+means a company incorporated or registered under the Companies Act;
 
-“the relevant time” means–
+*“the relevant*
+
+time” means–
 
 (a) where no order for the winding up of the company has been made, the time of the passing of the resolution for voluntary winding up;
 
@@ -1480,9 +1646,15 @@ the Companies Act;
 
 *Revocation of forfeiture order.*
 
-**46.** (1) If, upon the application of any person, other than the defendant, prejudiced by a forfeiture order made under this Part, the court is satisfied that it is just to revoke the order, the court may, upon the terms and conditions, if any, as it deems fit, revoke that order.
+*defendant, the court is*
 
-(2) An application under sub-section (1) for the revocation of a forfeiture order shall be made either at the time when the order is made or within three months of the date of the order,
+*revoke that*
+
+**46.** (1) If, upon the application of any person, other than the prejudiced by a forfeiture order made under this Part, satisfied that it is just to revoke the order, the court may, upon the terms and conditions, if any, as it deems fit, order.
+
+*(2) An*
+
+application under sub-section (1) for the revocation of a forfeiture order shall be made either at the time when the order is made or within three months of the date of the order,
 
 Provided that where the applicant satisfies the court that, in the special circumstances of the case, it was not reasonably practicable for him to make the application within the period of three months, the time, whether expired or not, for making that application may be extended by the court as it thinks fit.
 
@@ -1502,61 +1674,93 @@ Provided that where the applicant satisfies the court that, in the special circu
 
 (2) Where the court is satisfied that any person has in his possession any documents which will be required for the purpose of proceedings in respect of an offence under section 19, the court may, upon application by the prosecution, make an
 
-order requiring that person to produce the books, records, accounts or other documents.
+*accounts or*
 
-(3) Where the court is satisfied that–
+order requiring that person to produce the books, records, other documents.
+
+*(3) Where*
+
+the court is satisfied that–
 
 (a) anything seized pursuant to a warrant issued under sub-section (1); or
 
 (b) any documents produced under sub-section (2),
 
-will not be required for the purpose mentioned in sub-sections
+*will not be*
 
-(1) and (2 ), the court may order the thing or documents to be returned to the owner or, as the case may be, the person who is entitled to possession of it.
+required for the purpose mentioned in sub-sections
 
-(4) Any person who, being served with an order under subsection (2), fails to produce documents pursuant to the order, commits an offence and is liable–
+*returned to the entitled to*
+
+(1) and (2 ), the court may order the thing or documents to be owner or, as the case may be, the person who is possession of it.
+
+*(4) Any section (2), commits an*
+
+person who, being served with an order under sub-fails to produce documents pursuant to the order, offence and is liable–
 
 (a) on summary conviction, to a fine not exceeding five thousand dollars or to imprisonment for a term not exceeding one year, or to both fine and term of imprisonment; or
 
 (b) on conviction on indictment, to a fine not exceeding ten thousand dollars, or to imprisonment for a term not exceeding seven years, or to both fine and term of imprisonment.
 
-*Concealing or transferring proceeds of criminal conduct. 6 of 1994.*
+*Concealing or*
 
-**48.** (1) A person commits an offence if he–
+*48.–(1) A*
+
+*transferring proceeds of criminal conduct. 6 of 1994.*
+
+person commits an offence if he–
 
 (a) conceals or disguises any property which is, or in whole or in part directly or indirectly represents, his proceeds of criminal conduct; or
 
 converts or transfers that property or removes it from the jurisdiction,
 
-for the purpose of avoiding prosecution for a drug trafficking offence or the making or enforcement in his case of a forfeiture order.
+for the purpose of avoiding prosecution for a drug trafficking offence or the making or enforcement in his case of a forfeiture
 
-(2) A person commits an offence if, knowing or having reasonable grounds to suspect that any property is, or in whole or in part directly or indirectly represents, another person’s proceeds of criminal conduct, he–
+*order.*
+
+*(2) A reasonable or in part proceeds of*
+
+person commits an offence if, knowing or having grounds to suspect that any property is, or in whole directly or indirectly represents, another person’s criminal conduct, he–
 
 (a) conceals or disguises that property; or
 
 (b) converts or transfers that property or removes it from the jurisdiction,
 
-for the purpose of assisting any person to avoid prosecution for a drug trafficking offence or the making or enforcement in his case of a forfeiture order.
+*a drug case of a*
 
-(3) In sub-sections (1) and (2), the references to concealing or disguising any property include references to concealing or disguising its nature, source, location, disposition, movement or ownership or any rights with respect to it.
+for the purpose of assisting any person to avoid prosecution for trafficking offence or the making or enforcement in his forfeiture order.
 
-(4) A person who commits an offence under this section is liable–
+*(3) In*
+
+sub-sections (1) and (2), the references to concealing or disguising any property include references to concealing or disguising its nature, source, location, disposition, movement or ownership or any rights with respect to it.
+
+(4) A person who commits an offence under this section is
+
+*liable–*
 
 (a) on summary conviction, to imprisonment for a term not exceeding two years or a fine not exceeding twenty thousand dollars, or to both fine and term of imprisonment; or
 
 (b) on conviction on indictment, to imprisonment for a term not exceeding ten years or a fine not exceeding fifty thousand dollars, or to both fine and term of imprisonment.
 
-(5) In this section, “criminal conduct” means conduct which constitutes an offence under this Act.
+*(5) In this constitutes an*
 
-*Tipping-off. 6 of 1994. 42 of 1999.*
+section, “criminal conduct” means conduct which offence under this Act.
 
-**49.** (1) A person commits an offence if–
+*Tipping-off.*
+
+*49.–(1) A*
+
+*6 of 1994. 42 of 1999.*
+
+person commits an offence if–
 
 (a) he knows or suspects that a member of the Belize Police Department is acting, or is proposing to act, in connection with an investigation which is being, or is about to be, conducted into a drug trafficking offence; and
 
 (b) he discloses to any other person information or any other matter which is likely to prejudice that investigation, or proposed investigation.
 
-(2) Nothing in sub-section (1) makes it an offence for a professional legal adviser to disclose any information or other matter–
+*professional matter–*
+
+(2) Nothing in sub-section (1) makes it an offence for a legal adviser to disclose any information or other
 
 (a) to, or to a representative of, a client of his in connection with the giving by the adviser of legal advice to the client; or
 
@@ -1566,9 +1770,15 @@ for the purpose of assisting any person to avoid prosecution for a drug traffick
 
 (ii) for the purpose of those proceedings.
 
-(3) Sub-section (2) does not apply in relation to any information or other matter which is disclosed with a view to furthering any criminal purpose.
+*furthering any*
 
-(4) In proceedings against a person for an offence under subsection (1), it is a defence to prove that he did not know or suspect that the disclosure was likely to be prejudicial in the way mentioned in that sub-section.
+(3) Sub-section (2) does not apply in relation to any information or other matter which is disclosed with a view to criminal purpose.
+
+*(4) In section (1), it*
+
+*mentioned in*
+
+proceedings against a person for an offence under sub-is a defence to prove that he did not know or suspect that the disclosure was likely to be prejudicial in the way that sub-section.
 
 (5) A person who commits an offence under this section is liable–
 
@@ -1592,11 +1802,9 @@ Miscellaneous
 
 (3) In any prosecution under this Act either of the parties may require the attendance of the analyst to give evidence provided such analyst is within Belize; and in any such case the costs of his attendance shall, unless the Judge or Magistrate orders otherwise, be payable by the party so requiring.
 
-**51.** (1) This section applies to offences under any of the
-
 *Proof of lack of knowledge, etc., to be a defence in proceedings for certain offences.*
 
-following provisions of this Act, that is to say, section 6(2) and (3), section 7(2) and (3), section 8(2) and section 12.
+**51.** (1) This section applies to offences under any of the following provisions of this Act, that is to say, section 6(2) and (3), section 7(2) and (3), section 8(2) and section 12.
 
 (2) Subject to sub-section (3), in any proceedings for an offence to which this section applies, it shall be a defence for the person charged to prove that he neither knew of nor suspected nor had reason to suspect the existence of some fact alleged by the prosecution which it is necessary for the prosecution to prove if he is to be convicted of the offence charged.
 
@@ -1646,19 +1854,25 @@ Provided that notwithstanding the repeal and revocation, any subsidiary legislat
 
 ## SCHEDULE I MISUSE OF DRUGS ACT Constitution, etc., of the National Drug Abuse Control Council
 
-[section 3]
+*1.–(1) The more than*
 
-**1.** (1) The members of the Council, of whom there shall be not more than eleven nor less than seven, shall be appointed by the Minister after consultation with any organisations as he considers appropriate, and shall include–
+*considers*
+
+[section 3] members of the Council, of whom there shall be not eleven nor less than seven, shall be appointed by the Minister after consultation with any organisations as he appropriate, and shall include–
 
 (a) in relation to each of the activities specified in sub-paragraph (2), at least one person appearing to the Minister to have wide and recent experience of that activity; and (b) persons appearing to the Minister to have wide and recent experience of social problems connected with the misuse of drugs.
 
-(2) The activities referred to in sub-paragraph (1)(a) are– (a) the practice of medicine, other than veterinary medicine;
+*(2) The*
+
+activities referred to in sub-paragraph (1)(a) are– (a) the practice of medicine, other than veterinary medicine;
 
 (b) the practice of dentistry;
 
 (c) the practice of veterinary medicine; or (d) the practice of pharmacy.
 
-(3) The Minister shall appoint one of the members of the Council to be chairman of the Council.
+*(3) The*
+
+Minister shall appoint one of the members of the Council to be chairman of the Council.
 
 The Council may appoint committees, which may consist in part of persons who are not members of the Council to consider and report to the Council on any matter referred to them by the Council.
 
@@ -1800,13 +2014,17 @@ Choloroephedrine.
 
 Methylamine.
 
+[CAP.
+
 Any stereoisomeric form of a substance for the time being specified in paragraph 1 not being dextromethorphan or dextrophan.
 
 **3.** Any ester or ether of a substance for the time being specified in paragraph 1 or 2, not being a substance for the time being specified in Part II.
 
 **4.** Any salt of a substance for the time being specified in any of paragraphs 1 to 3 except the salts of hydrochloric acid and sulphuric acid.
 
-**5.** Any preparation or other product containing a substance or product for the time being specified in any of paragraphs 1 to
+*or*
+
+**5.** Any preparation or other product containing a substance product for the time being specified in any of paragraphs 1 to
 
 4.
 
@@ -1818,19 +2036,15 @@ Class B Drugs
 
 **1.** The following substances and products, namely,
 
-Acetyldihydrocodeine. (b) Any 5,5 disubstituted barbituric acid.
-
-Amphetamine. Methylphenidate. Cannabis and cannabis resin. Methylphenobarbitone. Codeine. Nicodicodine(6-
-
-Dexamphetamine. nicotinoyldihydrocodeine) Dihydrocodeine. Nicocodeine.
+Acetyldihydrocodeine. (b) Any 5,5 disubstituted barbituric acid. Amphetamine. Methylphenidate. Cannabis and cannabis resin. Methylphenobarbitone. Codeine. Nicodicodine(6-Dexamphetamine. nicotinoyldihydrocodeine) Dihydrocodeine. Nicocodeine.
 
 Ethylmorphine (3-ethylmorphine). Norcodeine.
 
 Glutethimide. Pentazocine.
 
-Lefetamine. Phenmetrazine.
+Lefetamine. Phenmetrazine. Mecloqualone. Pholcodine.
 
-Mecloqualone. Pholcodine.
+### THE SUBSTANTIVE LAWS OF BELIZE
 
 Methaqualone. Propiram.
 
@@ -1840,7 +2054,11 @@ Methylamphetamine.
 
 **3.** Any salt of a substance for the time being specified in paragraph 1 or 2.
 
-**4.** Any preparation or other product containing a substance or product for the time being specified in any of paragraphs 1 to 3, but not being a preparation falling within paragraph 6 of Part I.
+*or*
+
+**4.** Any preparation or other product containing a substance product for the time being specified in any of paragraphs 1 to 3, but not being a preparation falling within paragraph 6 of Part
+
+*I.*
 
 ## PART III
 
@@ -1878,6 +2096,8 @@ Dextropropoxyphene. Nordazepam.
 
 Diazepam. Oxazepam.
 
+*[CAP.*
+
 Diethylpropion. Oxazolam.
 
 Estazolam. Pemoline.
@@ -1908,7 +2128,13 @@ Triazolam.
 
 **3.** Any salt of a substance for the time being specified in paragraph 1 or 2.
 
-**4.** Any preparation or other product containing a substance for the time being specified in any of paragraphs 1 to 3.
+*for*
+
+**4.** Any preparation or other product containing a substance the time being specified in any of paragraphs 1 to 3.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 ## SCHEDULE III
 

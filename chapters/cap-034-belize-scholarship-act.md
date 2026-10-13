@@ -36,11 +36,13 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 This is a revised edition of the Substantive Laws, prepared by the Law Revision Commissioner under the authority of the Law Revision Act, Chapter 3 of the Substantive Laws of Belize, Revised Edition 2020.
 
+### [CAP. 34
+
 ## ARRANGEMENT OF SECTIONS
 
-**1.** Short title.
+Short title.
 
-**2.** Interpretation.
+Interpretation.
 
 **3.** Establishing of Scholarship.
 
@@ -50,7 +52,9 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 **6.** Regulations.
 
-Ch. 78, [28th October, 1944] R. L. 1958.
+[CAP.
+
+Ch. 78, [28th October, 1944] R. L.
 
 CAP. 27,
 
@@ -85,3 +89,5 @@ R. E. 1980-1990.
 **6.** (1) The Minister may by regulation prescribe the conditions of award, tenure and forfeiture of the Scholarship and the conditions to be observed by a person to whom the Scholarship is awarded.
 
 (2) Regulations made under this section shall be subject to negative resolution.
+
+### THE SUBSTANTIVE LAWS OF BELIZE

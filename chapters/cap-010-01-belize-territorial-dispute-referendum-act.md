@@ -36,6 +36,8 @@ This is a revised edition of the Substantive Laws, prepared by the Law Revision 
 
 This is a revised edition of the Substantive Laws, prepared by the Law Revision Commissioner under the authority of the Law Revision Act, Chapter 3 of the Substantive Laws of Belize, Revised Edition 2020.
 
+Belize Territorial Dispute Referendum [CAP. 10:01 3
+
 ### BELIZE TERRITORIAL DISPUTE REFERENDUM
 
 ## ARRANGEMENT OF SECTIONS
@@ -126,11 +128,9 @@ such modifications and adaptations as may be necessary to effectually conduct th
 
 *Persons qualified to vote.*
 
-**6.** The persons qualified to vote in a referendum held under this Act shall be all those duly registered electors who, at the date of the holding of the referendum are qualified to vote as electors for the election of members of the House of
-
 *CAP. 9.*
 
-Representatives in an election conducted under the Representation of the People Act.
+**6.** The persons qualified to vote in a referendum held under this Act shall be all those duly registered electors who, at the date of the holding of the referendum are qualified to vote as electors for the election of members of the House of Representatives in an election conducted under the Representation of the People Act.
 
 *Appointment of returning officers.*
 

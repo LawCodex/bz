@@ -67,3 +67,7 @@ This Act may be cited as the Bail Reform Act.
 *Collateral security unnecessary in less serious cases.*
 
 **4.** Where the amount of bail offered by any court does not exceed five thousand dollars, it shall not be necessary to require a collateral security in the form of deposit of title deeds or otherwise, but the court will nevertheless satisfy itself that the sureties are of sufficient means to meet the amount of bail.
+
+*THE*
+
+### SUBSTANTIVE LAWS OF BELIZE

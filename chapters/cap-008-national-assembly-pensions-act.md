@@ -90,13 +90,15 @@ Children’s allowance.
 
 [1st September, 1989]
 
-*Short title.*
+*This Short title.*
 
-**1.** This Act may be cited as the National Assembly Pensions Act.
+**1.** Act may be cited as the National Assembly
 
-*Interpretation.*
+*Pensions Act.*
 
-**2.** In this Act, unless the context otherwise requires,
+*Interpretation. In this*
+
+**2.** Act, unless the context otherwise requires,
 
 (a)
 
@@ -124,9 +126,9 @@ Children’s allowance.
 
 (i) was an elected or nominated member of the Legislative Assembly under the
 
-British Honduras Constitution, 1954, including the Speaker
+*British thereof; or*
 
-*thereof; or*
+Honduras Constitution, 1954, including the Speaker
 
 (ii) was an elected or nominated member of the National Assembly under the British Honduras Constitution, 1963, including the President of the Senate and the Speaker of the House of Representatives; or
 
@@ -196,15 +198,25 @@ Provided that contributions at the rate and for the period and in the manner spe
 
 (b) a person who immediately before the dissolution of the National Assembly was a member of either House shall cease to be such member if he is not elected or nominated to either House at the general election next following the dissolution, and if he so ceases shall be deemed to have ceased to be a legislator from the date of the dissolution aforesaid.
 
-(4) No computation of a pension under this Act shall be made after a general election until thirty days (or such longer period not exceeding three months as may be prescribed) has elapsed after the general election.
+*(4) No made after a period not*
 
-(5) Where a person ceases to be a legislator but is not eligible for a pension under this Act by virtue of the provisions of subparagraph (1) (c) (i) then, notwithstanding subsection (1), the pension for which he would have been eligible at the date when he ceased to be a legislator, together with any additional benefits that he would have received after that date, shall be paid to him with effect from the date on which he attains the age specified in subparagraph (1) (c) (i), if at that date,
+computation of a pension under this Act shall be general election until thirty days (or such longer exceeding three months as may be prescribed) has elapsed after the general election.
+
+*eligible for a*
+
+*additional*
+
+(5) Where a person ceases to be a legislator but is not pension under this Act by virtue of the provisions of subparagraph (1) (c) (i) then, notwithstanding subsection (1), the pension for which he would have been eligible at the date when he ceased to be a legislator, together with any benefits that he would have received after that date, shall be paid to him with effect from the date on which he attains the age specified in subparagraph (1) (c) (i), if at that
+
+*date,*
 
 (a) he has not applied for or received a refund of contributions under section 13 of this Act; and
 
 (b) he is not otherwise disqualified for the payment of a pension under this Act.
 
-(6) Where the legislator would have become eligible for the payment of a pension at a date earlier than that on which he did become so eligible, had he satisfied the requirement specified
+*(6) Where payment of a become so*
+
+the legislator would have become eligible for the pension at a date earlier than that on which he did eligible, had he satisfied the requirement specified
 
 in section 5 (1) (b) of this Act, on becoming eligible for the payment of that pension he is entitled to receive, in addition to the pension for which he is eligible, any benefits he would have received had he satisfied the requirement specified in section 5 (1) (b) of this Act on that earlier date.
 
@@ -340,11 +352,17 @@ dies leaving a widow after the commencement of this Act, there shall be paid to 
 
 (3) Where the rate of widow’s allowance exceeds the rate of pension or the rate of salary, as the case may be, nothing in paragraph (b) of subsection (2) of this section shall prevent the payment of the widow’s allowance to the extent of such excess.
 
-*Children’s allowance.*
+*Children’s 15.-(1) Subject allowance.*
 
-**15.** (1) Subject to this Act, where a person who comes within paragraph (a) or (b) of subsection (1) of section 14 of this Act (hereinafter in this section referred to as “the deceased legislator”) dies leaving one or more children, a children’s allowance shall be payable in respect of such child or children while under the age of eighteen years.
+to this Act, where a person who comes within
 
-(2) Only one children’s allowance is payable in respect of the service of any one person as a legislator, but,
+*paragraph (a) or (hereinafter in legislator”) dies allowance shall while under the*
+
+(b) of subsection (1) of section 14 of this Act this section referred to as “the deceased leaving one or more children, a children’s be payable in respect of such child or children age of eighteen years.
+
+*(2) Only one the service of*
+
+children’s allowance is payable in respect of any one person as a legislator, but,
 
 (a) the rate thereof may vary according to the number of children entitled thereto;
 
@@ -354,7 +372,9 @@ dies leaving a widow after the commencement of this Act, there shall be paid to 
 
 (d) the allowance shall be paid monthly in arrears in equal instalments as far as possible.
 
-(3) Where the deceased legislator leaves a widow, the annual rate of the children’s allowance during her lifetime shall be,
+*(3) Where annual rate of shall be,*
+
+the deceased legislator leaves a widow, the the children’s allowance during her lifetime
 
 one-third of the rate of the widow’s (a)
 
@@ -362,7 +382,9 @@ allowance payable under section 14 where there are two or more children entitled
 
 (b) one-half of the rate payable under paragraph
 
-(4) Where the deceased legislator leaves no widow, or where he leaves a widow, then, after her death, or after any allowance payable to her ceases to be paid before her death, the annual rate of the children’s allowance shall be,
+*where he allowance*
+
+(4) Where the deceased legislator leaves no widow, or leaves a widow, then, after her death, or after any payable to her ceases to be paid before her death, the annual rate of the children’s allowance shall be,
 
 (a) the same as that which would have been payable to a widow under section 14 where there are two or more children entitled to the children’s allowance; and
 
@@ -370,27 +392,43 @@ allowance payable under section 14 where there are two or more children entitled
 
 (a) where there is only one child entitled to the children’s allowance.
 
-(5) For the purposes of this section, the expression “child” includes,
+(5) For the purposes of this section, the expression “child”
+
+*includes,*
 
 (a) a posthumous child; and
 
 (b) a step-child.
 
-*Awards to be paid out of Consolidated Revenue Fund. Awards not to be assignable.*
+*Awards to be*
 
-**16.** All awards payable under this Act shall be charged on and paid out of the Consolidated Revenue Fund.
+*All*
 
-**17.** Any award payable under this Act shall not be assignable or transfer- able except for the purpose of satisfying,
+*paid out of Consolidated Revenue Fund. Awards not to be*
+
+**16.** awards payable under this Act shall be charged on and paid out of the Consolidated Revenue Fund.
+
+*Any*
+
+*assignable.*
+
+**17.** award payable under this Act shall not be assignable or transfer- able except for the purpose of
+
+*satisfying,*
 
 (a) a debt to the Government of Belize; or
 
 (b) an order of any court for the payment of periodical sums of money towards the maintenance of the wife, former wife, or child being a minor, of the person to whom the award is payable,
 
-and shall not be liable to be attached, sequestered or levied upon, for or in respect of any debt or claim whatever except a debt due to the Government of Belize or any sum recoverable pursuant to any such order of a court as afore-said.
+*and shall not upon, for or in debt due to the pursuant to any*
 
-*Power to make regulations.*
+be liable to be attached, sequestered or levied respect of any debt or claim whatever except a Government of Belize or any sum recoverable such order of a court as afore-said.
 
-**18.** (1) The Minister may after consultation with the House Committee make regulations,
+*Power to make 18.-(1) The regulations.*
+
+*Committee*
+
+Minister may after consultation with the House make regulations,
 
 (a) prescribing in the case of an award payable under this Act the days on which the payment of such award shall be made;
 
@@ -402,4 +440,6 @@ and shall not be liable to be attached, sequestered or levied upon, for or in re
 
 (e) for any other purposes, whether similar to the above or not, deemed necessary to give effect to this Act.
 
-(2) All regulations made under this section shall be subject to negative resolution.
+*(2) All to negative*
+
+regulations made under this section shall be subject resolution.

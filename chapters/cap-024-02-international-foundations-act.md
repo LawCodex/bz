@@ -220,6 +220,10 @@ Beneficiary’s right to apply to the Court.
 
 Liability to third parties.
 
+*[CAP.*
+
+24:02
+
 Secretary.
 
 Register of Foundation Council Members and Secretary.
@@ -275,6 +279,10 @@ Judicial Proceedings
 **93.** General powers of the Court.
 
 Enforcement of judgment.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 Priority.
 
@@ -584,11 +592,17 @@ ceases to be a part of the estate of the founder irrevocably, and shall be the e
 
 (10) Upon the registration of a foundation with the Registrar, the foundation shall have the right to hold title, rights or other interests in and to property in its own name or through a nominee in the same manner and with the same rights and obligations as any person under the laws of Belize.
 
-(11) Subject to section 12, a foundation may be established for a charitable or non-charitable purpose or for both, or for no purpose, other than the benefit of a founder or a beneficiary or both.
+(11) Subject to section 12, a foundation may be established for a charitable or non-charitable purpose or for both, or for no purpose, other than the benefit of a founder or a beneficiary or
 
-(12) A foundation may be established and exist with no beneficiaries, provided that it is established for a clear and specific purpose which is specified in the foundation charter.
+*both.*
 
-(13) A foundation established under this Act may adopt by-laws, and such by-laws may include regulations–
+*(12) A beneficiaries,*
+
+foundation may be established and exist with no provided that it is established for a clear and specific purpose which is specified in the foundation charter.
+
+*(13) A*
+
+foundation established under this Act may adopt by-laws, and such by-laws may include regulations–
 
 (a) concerning distributions or applications of property endowment;
 
@@ -600,19 +614,27 @@ ceases to be a part of the estate of the founder irrevocably, and shall be the e
 
 (e) providing for any other lawful matter compatible with the purposes of the foundation.
 
-(14) Any such by-laws shall be in writing and shall be signed by at least one member.
+*(14) Any*
 
-(15) The foundation council of a foundation may, subject to the terms of the foundation, amend or replace the by-laws of the foundation.
+such by-laws shall be in writing and shall be signed by at least one member.
 
-*Residence of founder and beneficiary.*
+*(15) The*
 
-**4.** Neither the founder nor the beneficiaries of an international foundation shall be residents of Belize.
+foundation council of a foundation may, subject to the terms of the foundation, amend or replace the by-laws of the
 
-At least one member of the foundation council of a
+*foundation.*
+
+*Residence of founder and*
+
+*international*
+
+*beneficiary.*
+
+**4.** Neither the founder nor the beneficiaries of an foundation shall be residents of Belize.
 
 *Residence of members.*
 
-foundation, not being a foreign foundation, shall at all times be a resident of Belize or a registered agent.
+At least one member of the foundation council of a foundation, not being a foreign foundation, shall at all times be a resident of Belize or a registered agent.
 
 *Name of foundation.*
 
@@ -636,7 +658,9 @@ contains the words “Building Society”, (a)
 
 a connection with the Government of Belize or a department, agency, authority or branch thereof, any political party or any university or professional association recognised by the laws of Belize;
 
-except with the approval of the Registrar in writing–
+*except with the*
+
+approval of the Registrar in writing–
 
 (b) is indecent, offensive or, in the opinion of the Registrar, objectionable;
 
@@ -648,9 +672,13 @@ contains the words “Assurance”, “Bank”, (c)
 
 (e) is prohibited by regulations made under this Act or by any other law in force in Belize.
 
-(5) The Registrar may refuse to register a foundation or an amendment changing the name of a foundation where the name to be registered is, in the opinion of the Registrar, in any way misleading or is otherwise undesirable.
+*(5) The amendment to be registered misleading or is*
 
-(6) The exclusive right to the use of a name may be reserved by–
+Registrar may refuse to register a foundation or an changing the name of a foundation where the name is, in the opinion of the Registrar, in any way otherwise undesirable.
+
+*(6) The by–*
+
+exclusive right to the use of a name may be reserved
 
 (a) any person intending to establish a foundation under that name;
 
@@ -726,11 +754,9 @@ the Registrar may, by serving a written notice on the foundation, direct it to c
 
 (3) A foundation may, in the course of the management of its assets, do all such things as are necessary for the proper administration of its assets including, but not limited to, buying and selling of such assets and engaging in any other acts or activities which are not prohibited under any laws of Belize.
 
-(4) In this section, the expression “international financial
-
 *CAP. 272.*
 
-services” shall have the meaning assigned to it in the International Financial Services Commission Act.
+(4) In this section, the expression “international financial services” shall have the meaning assigned to it in the International Financial Services Commission Act.
 
 *Charitable foundation.*
 
@@ -752,15 +778,25 @@ services” shall have the meaning assigned to it in the International Financial
 
 (4) A foundation created for both charitable and non-charitable purposes qualifies as a charitable foundation, even if the non-charitable purposes are the primary purposes of the foundation or if a majority of distributions are made to non-charitable beneficiaries.
 
-(5) Business activities in Belize undertaken by a charitable foundation that are necessary for the proper administration of the foundation are permissible only to the extent that the activities are ancillary and incidental to the main purpose of the foundation.
+*activities are foundation.*
+
+(5) Business activities in Belize undertaken by a charitable foundation that are necessary for the proper administration of the foundation are permissible only to the extent that the ancillary and incidental to the main purpose of the
 
 ## PART III
 
 Validity of Foundation
 
-*Validity of foundation.*
+*Validity of*
 
-**13.** (1) No foundation governed by this Act and no disposition of property to be held by the foundation shall be declared invalid, void, voidable, liable to be set aside, restrained or defective in any manner, nor shall the capacity of any founder, foundation council or member of a foundation council, protector or the right of any beneficiary be questioned by reason that–
+*13.–(1) No*
+
+*foundation.*
+
+*invalid, void,*
+
+*foundation or the right of*
+
+foundation governed by this Act and no disposition of property to be held by the foundation shall be declared voidable, liable to be set aside, restrained or defective in any manner, nor shall the capacity of any founder, council or member of a foundation council, protector any beneficiary be questioned by reason that–
 
 (a) the laws of a foreign jurisdiction prohibit or do not recognise the foundation or disposition of property to the foundation;
 
@@ -768,17 +804,25 @@ Validity of Foundation
 
 (c) a law of Belize is inconsistent with any foreign law, rule or order.
 
-(2) A foundation shall not be declared invalid or be affected in any way if a founder–
+*(2) A*
+
+foundation shall not be declared invalid or be affected in any way if a founder–
 
 (a) retains, possesses or acquires any benefit or interest in or from the foundation; or
 
 is or becomes a beneficiary of the foundation, even if such founder is or becomes the sole beneficiary of the foundation.
 
-(3) A foundation shall not cease to be valid by reason that the foundation council has no members or that there are fewer than the number of members required by the terms of the foundation charter or by this Act. If this occurs, a member or members shall be appointed in accordance with the charter, or if the charter does not contain a relevant provision or the person authorised in the charter to appoint a member is unable or unwilling to do so, a former member, protector, founder or a beneficiary may apply to the Court for an order appointing a member or members.
+*(3) A the foundation than the foundation members shall*
 
-*Declaration of invalid and unenforceable foundation.*
+*authorised in*
 
-**14.** (1) The Court may declare a foundation to be invalid and unenforceable if it determines that–
+*member or*
+
+foundation shall not cease to be valid by reason that council has no members or that there are fewer number of members required by the terms of the charter or by this Act. If this occurs, a member or be appointed in accordance with the charter, or if the charter does not contain a relevant provision or the person the charter to appoint a member is unable or unwilling to do so, a former member, protector, founder or a beneficiary may apply to the Court for an order appointing a members.
+
+*Declaration of 14.–(1) The invalid and unenforceable foundation.*
+
+Court may declare a foundation to be invalid and unenforceable if it determines that–
 
 (a) the foundation was created or established under duress, mistake, undue influence or misrepresentation;
 
@@ -794,19 +838,33 @@ declare the foundation invalid only with respect to such property and the Court 
 
 (f) the founder was, at the time of the establishment of the foundation, incapable under the laws of Belize of creating such a foundation.
 
-(2) Where a foundation is created for multiple purposes of which some are lawful and others are not or where some of the terms of the foundation charter are lawful and others are not–
+*terms of the*
+
+(2) Where a foundation is created for multiple purposes of which some are lawful and others are not or where some of the foundation charter are lawful and others are not–
 
 (a) if those purposes or terms cannot be separated, the foundation shall be declared invalid; and
 
 (b) if those purposes or terms can be separated, the Court may declare that the foundation is valid as to the purposes or terms which are lawful.
 
-(3) Property provided by a founder to a foundation that is declared invalid by the Court shall, subject to any order of the Court, be held by the foundation council, as nominee for the founder absolutely or, if the founder is deceased or no longer in existence, as if the property had formed part of his or her estate at death or part of the founder’s assets at the date of dissolution.
+*founder*
 
-(4) A foundation shall be invalid and unenforceable if it is not registered with the Registrar or if it has been struck off or otherwise cancelled from the Register.
+(3) Property provided by a founder to a foundation that is declared invalid by the Court shall, subject to any order of the Court, be held by the foundation council, as nominee for the absolutely or, if the founder is deceased or no longer in existence, as if the property had formed part of his or her estate at death or part of the founder’s assets at the date of dissolution.
 
-*Determination of validity of foundation.*
+*(4) A not registered otherwise*
 
-**15.** In determining the validity of a foundation, the Court shall apply–
+foundation shall be invalid and unenforceable if it is with the Registrar or if it has been struck off or cancelled from the Register.
+
+*Determination of*
+
+*In*
+
+*validity of*
+
+**15.** determining the validity of a foundation, the Court
+
+*shall apply–*
+
+*foundation.*
 
 the provisions of this Act;
 
@@ -818,13 +876,13 @@ the other laws of Belize; and
 
 **16.** (1) Where the Court declares a foundation invalid and unenforceable in pursuance of section 14, the Registrar may– (a) prohibit the registration of a foundation; (b) apply to the Court to order a foundation to cease carrying on an activity immediately, or within the time ordered by the Court; or (c) remove a foundation from any register, effective thirty days after notice of removal is served upon the foundation.
 
-(2) The Registrar may take further actions to modify its actions under this section.
+*(2) The actions under*
 
-## PART IV Registration of International Foundation
+Registrar may take further actions to modify its this section.
 
-*Registration.*
+*17.–(1) The Registration. Foundations foundation–*
 
-**17.** (1) The Registrar shall maintain a Register of International Foundations containing the following information for each foundation–
+PART IV Registration of International Foundation Registrar shall maintain a Register of International containing the following information for each
 
 (a) the name of the foundation;
 
@@ -876,17 +934,13 @@ allocate to the foundation a registration number in pursuance of section 110; an
 
 (10) A Certificate of Establishment under the hand and seal of the Registrar shall be conclusive evidence of the existence and validity of the foundation and that the foundation is in full compliance with all registration requirements under this Act.
 
-(11) If the registered agent fails to submit the application for entry on the Register of International Foundations within the thirty day period, the foundation council may, on application, in
-
 *Schedule III.*
 
-accordance with Schedule III and on payment of the prescribed extension fee, request an extension of time to register. The Registrar may extend the period to register for an additional thirty days, if satisfied that there is a good explanation for the delay in applying for registration.
-
-(12) Where a change occurs relation to any member,
+(11) If the registered agent fails to submit the application for entry on the Register of International Foundations within the thirty day period, the foundation council may, on application, in accordance with Schedule III and on payment of the prescribed extension fee, request an extension of time to register. The Registrar may extend the period to register for an additional thirty days, if satisfied that there is a good explanation for the delay in applying for registration.
 
 *17 of 2013.*
 
-protector, beneficiary or a person having been granted a power of attorney by the foundation, notice of such change and the particulars thereof shall be deposited by the registered agent of the foundation with the Registrar, together with the prescribed fee within thirty days of that change and the Registrar shall retain such notice.
+(12) Where a change occurs relation to any member, protector, beneficiary or a person having been granted a power of attorney by the foundation, notice of such change and the particulars thereof shall be deposited by the registered agent of the foundation with the Registrar, together with the prescribed fee within thirty days of that change and the Registrar shall retain such notice.
 
 (13) Where a notice of change and the particulars thereof are deposited with the Registrar in pursuance of sub-section (12), the Registrar shall retain such notice and where such amendment constitutes a change of name of an international foundation, the Registrar shall issue a new Certificate of Establishment indicating the change of name.
 
@@ -902,21 +956,17 @@ protector, beneficiary or a person having been granted a power of attorney by th
 
 (2) Renewal of registration shall be made not later than thirty days after the date of expiration of the last certificate.
 
-(3) On application of the foundation council in accordance
-
 *Schedule IV.*
 
-with Schedule IV, and payment of the prescribed fee, the Registrar may extend the period to renew the registration for an
+(3) On application of the foundation council in accordance with Schedule IV, and payment of the prescribed fee, the Registrar may extend the period to renew the registration for an
 
 additional ninety days, if satisfied that there is a good explanation for the delay in renewal of the registration.
 
 (4) Every renewal of registration shall take effect from the date of expiration of the last certificate and shall be valid for one year.
 
-(5) Where renewal of registration is not made within thirty days after the date of expiration and the Registrar has not extended the period of renewal, a member of the foundation council may make an application to the Registrar through the registered agent accompanied by the prescribed fee, for the
-
 *Schedule V.*
 
-reinstatement of the foundation, in accordance with Schedule V, within one hundred and eighty days after the date of expiration of the last Certificate.
+(5) Where renewal of registration is not made within thirty days after the date of expiration and the Registrar has not extended the period of renewal, a member of the foundation council may make an application to the Registrar through the registered agent accompanied by the prescribed fee, for the reinstatement of the foundation, in accordance with Schedule V, within one hundred and eighty days after the date of expiration of the last Certificate.
 
 (6) This Act ceases to apply to a foundation ninety days after the expiration of its Certificate of Establishment unless the Registrar extends the renewal period, in which case this Act ceases to apply to the foundation one hundred and eighty days after the expiration of its Certificate of Establishment, and the Registrar shall then mark the Register entry of the foundation as cancelled, unless such Certificate is renewed or reinstated.
 
@@ -930,17 +980,23 @@ reinstatement of the foundation, in accordance with Schedule V, within one hundr
 
 **20.** Neither the Register nor the files or records of the Registrar shall be open for inspection by any person other than a founder, foundation council, protector or beneficiary of an international foundation, and then only with respect to the entry of that foundation on the Register, except that the foundation
 
-council may, in writing, authorise a person to inspect the entry of that foundation on the Register. The Register, files and records of the Registrar shall, however, be open for inspection by any officer of the Financial Intelligence Unit or the Court in the course of carrying out their duties or functions.
+*of that records of the by any officer the course of*
 
-## PART V
+council may, in writing, authorise a person to inspect the entry foundation on the Register. The Register, files and Registrar shall, however, be open for inspection of the Financial Intelligence Unit or the Court in carrying out their duties or functions.
 
-Foundation Charter
+*Foundation*
 
-*Foundation charter.*
+*21.–(1) A*
 
-**21.** (1) A foundation charter is the governing document of the foundation.
+*charter.*
 
-(2) The charter shall–
+## PART V Foundation Charter foundation charter is the governing document of the
+
+*foundation.*
+
+*(2) The*
+
+charter shall–
 
 (a) specify the name of the foundation;
 
@@ -1164,7 +1220,9 @@ control, power or dominion over the endowment of a foundation that he establishe
 
 (f) to do all such other acts as may be provided for by this Act.
 
-(3) No person shall be a member of a foundation council of a foundation if the person is–
+*(3) No*
+
+person shall be a member of a foundation council of a foundation if the person is–
 
 (a) a minor; or
 
@@ -1178,13 +1236,15 @@ control, power or dominion over the endowment of a foundation that he establishe
 
 (ii) a director of a company under any law of Belize.
 
-*Member not to be beneficiary of foundation.*
+*Member not to A be beneficiary of foundation.*
 
-**37.** A member of a foundation council may not be a beneficiary of the foundation.
+**37.** member of a foundation council may not be a beneficiary of the foundation.
 
-*Duty of care of the foundation council.*
+*Duty of care of the foundation foundation council.*
 
-**38.** (1) The foundation council and each member of the foundation council, in the exercise and discharge of their powers and duties–
+**38.** (1) The foundation council and each member of the council, in the exercise and discharge of their powers
+
+*and duties–*
 
 (a) shall act honestly and in good faith with a view to promoting the interests of the foundation, its beneficiaries or its purposes, and
 
@@ -1204,11 +1264,9 @@ foundation endowment with the care, diligence and skill which a reasonably prude
 
 *Residency Requirement of the members.*
 
-**40.** At least one member of an international foundation shall
-
 *Limitation on Unlicensed person serving as member. CAP. 272. 17 of 2013.*
 
-be a resident of Belize at all times.
+**40.** At least one member of an international foundation shall be a resident of Belize at all times.
 
 **41.** A person who is not licensed or regulated under the International Financial Services Commission Act, may not serve as the Belize member of more than one foundation.
 
@@ -1218,19 +1276,15 @@ be a resident of Belize at all times.
 
 (2) If the foundation council has no remaining members or fails to appoint a successor member for any reason, the Court may appoint a successor member pursuant to section 13(3).
 
-**43.** (1) Subject to the terms of the foundation or its by-laws, the
-
 *Meetings of members.*
 
-foundation council shall conduct meetings at such times and in such manner and places within or outside Belize as it may determine.
+**43.** (1) Subject to the terms of the foundation or its by-laws, the foundation council shall conduct meetings at such times and in such manner and places within or outside Belize as it may determine.
 
 (2) Foundation council meetings may be held in person, telephonically, via video conference, or by any other means acceptable to a majority of the members.
 
-(3) The minutes of each council meeting shall be kept at the registered office of the foundation and shall be open to inspection by the founder, any member, any beneficiary, the Court, or the Financial Intelligence Unit in the investigation of a serious crime under and in pursuance of the Money
-
 *CAP. 104.*
 
-Laundering & Terrorism (Prevention) Act.
+(3) The minutes of each council meeting shall be kept at the registered office of the foundation and shall be open to inspection by the founder, any member, any beneficiary, the Court, or the Financial Intelligence Unit in the investigation of a serious crime under and in pursuance of the Money Laundering & Terrorism (Prevention) Act.
 
 (4) Decisions of the foundation council may be taken without meetings by way of written resolutions signed by all the members.
 
@@ -1246,11 +1300,9 @@ Laundering & Terrorism (Prevention) Act.
 
 **46.** Unless otherwise directed by the foundation charter or the by-laws, the foundation council may invest the endowment as and for so long as it sees fit and, at any time, the council may sell, call in or convert into money any investment and re-invest the moneys produced.
 
-Unless the foundation charter, the by-laws or this Act
-
 *Power to distribute.*
 
-provides otherwise, the foundation council shall make the distributions it deems appropriate, for the benefit of any beneficiary or to effectuate the purposes of the foundation.
+Unless the foundation charter, the by-laws or this Act provides otherwise, the foundation council shall make the distributions it deems appropriate, for the benefit of any beneficiary or to effectuate the purposes of the foundation.
 
 *Power to delegate acts of administration.*
 
@@ -1292,13 +1344,17 @@ provides otherwise, the foundation council shall make the distributions it deems
 
 **55.** Where a person, who is not specifically appointed as a member, receives property for the benefit of another party, the relationship between that person and the other party shall be analogous to the relationship of a trustee and beneficiary in which such person and the other parties shall have the respective rights and responsibilities of a trustee and beneficiary under the Trusts Act, unless specifically stated otherwise in a document signed by that person and the other party.
 
-**56.** (1) A foundation charter may provide for the appointment
+*56.–(1) A*
 
 *Protector.*
 
-of a protector of the foundation who shall have the powers, rights, duties and responsibilities as may be specified in the foundation charter, its by-laws and this Act.
+*foundation*
 
-(2) Where more than one person is appointed as the protector of a foundation, such persons shall act jointly unless the foundation charter or by-laws of the foundation provide otherwise.
+foundation charter may provide for the appointment of a protector of the foundation who shall have the powers, rights, duties and responsibilities as may be specified in the charter, its by-laws and this Act.
+
+*of a foundation otherwise.*
+
+(2) Where more than one person is appointed as the protector foundation, such persons shall act jointly unless the charter or by-laws of the foundation provide
 
 (3) Subject to the foundation charter or by-laws of a foundation, the protector of the foundation shall be appointed in the following manner–
 
@@ -1310,7 +1366,9 @@ of a protector of the foundation who shall have the powers, rights, duties and r
 
 (d) in any case other than a case specified in paragraph (a), (b) or (c), by the foundation council.
 
-(4) A protector of a foundation duly appointed under the foundation charter or the by-laws of the foundation and this section shall cease to be a protector in the event of–
+*(4) A foundation*
+
+protector of a foundation duly appointed under the charter or the by-laws of the foundation and this section shall cease to be a protector in the event of–
 
 (a) his or its resignation;
 
@@ -1408,7 +1466,9 @@ he becomes or ought to have become aware of such breach; and
 
 **66.** (1) Without prejudice to the personal liability of a member or a protector, a foundation endowment which has been charged or dealt with in breach of fiduciary duty, or any property into
 
-which it has been converted, may be followed and recovered unless–
+*which it has unless–*
+
+been converted, may be followed and recovered
 
 it is no longer identifiable as a foundation’s (a)
 
@@ -1416,13 +1476,19 @@ endowment or as the proceeds of such an endowment; or
 
 (b) it is in the hands of a bona fide purchaser for value who had no actual, constructive or implied notice of the breach of fiduciary duty.
 
-(2) In a case referred to in sub-section (l)(b), the proceeds of the bona fide sale may be recovered and held as foundation endowment.
+*the bona fide endowment.*
 
-*Exculpation.*
+(2) In a case referred to in sub-section (l)(b), the proceeds of sale may be recovered and held as foundation
 
-**67.** (1) Unless the foundation charter, the by-laws or this Act provides otherwise, no member or protector shall be liable for any breach of fiduciary duty, unless the breach of fiduciary duty is the member’s or protector’s own intentional and wilful fraudulent act or omission or the member or protector is intentionally and wilfully privy to any other person’s intentional and wilful fraudulent act or omission.
+*Exculpation. provides any breach of is the fraudulent act*
 
-(2) For greater certainty, examples of acts or omissions that would not in and of themselves constitute fraudulent acts and omissions include–
+*and wilful*
+
+**67.** (1) Unless the foundation charter, the by-laws or this Act otherwise, no member or protector shall be liable for fiduciary duty, unless the breach of fiduciary duty member’s or protector’s own intentional and wilful or omission or the member or protector is intentionally and wilfully privy to any other person’s intentional fraudulent act or omission.
+
+*(2) For would not in omissions*
+
+greater certainty, examples of acts or omissions that and of themselves constitute fraudulent acts and include–
 
 (a) the failure, depreciation or loss of any investment or of any other matter or thing;
 
@@ -1442,11 +1508,9 @@ the reliance on information given at meetings or otherwise by the management or 
 
 (f) giving advice to the founder regarding the establishment, administration, maintenance, business undertaking, affairs, investment or endowment of the foundation, the legal, accounting or taxation aspects of the foundation or any arrangements undertaken by the foundation council or protector and any representations that the arrangements suggested for the foundation will attain the objectives or advantages intended.
 
-Neither the foundation council nor any member or
-
 *Breach of fiduciary duty by co-member or co-protector.*
 
-protector shall be liable for a breach committed by a co-member or co-protector, or by a preceding or succeeding member or protector unless–
+Neither the foundation council nor any member or protector shall be liable for a breach committed by a co-member or co-protector, or by a preceding or succeeding member or protector unless–
 
 (a) he becomes or ought to have become aware of the breach; and
 
@@ -1474,17 +1538,25 @@ in connection with legal, administrative or investigative proceedings, any perso
 
 (b) is or was, at the request of the foundation, serving as a member, protector or liquidator of, or in any other capacity is or was acting for, another foundation.
 
-(3) Sub-section (2) only applies to a person referred to in that sub-section if the person acted honestly and in good faith with a view to the interests of the foundation and, in the case of criminal proceedings, the person had no reasonable cause to believe that his conduct was unlawful.
+*criminal*
 
-(4) The decision of the foundation council, with the written concurrence of the protector, if any, as to whether the person–
+(3) Sub-section (2) only applies to a person referred to in that sub-section if the person acted honestly and in good faith with a view to the interests of the foundation and, in the case of proceedings, the person had no reasonable cause to believe that his conduct was unlawful.
+
+*(4) The*
+
+decision of the foundation council, with the written concurrence of the protector, if any, as to whether the person–
 
 (a) acted honestly and in good faith and with a view to the interests of the foundation; or
 
 (b) had no reasonable cause to believe that his conduct was unlawful,
 
-is, in the absence of fraud, sufficient for the purposes of this section unless a question of law is involved.
+*is, in the*
 
-(5) The termination of any proceedings by any judgment, order, settlement, conviction or the entering of a nolle prosequi does not, of itself, create a presumption that a person–
+absence of fraud, sufficient for the purposes of this section unless a question of law is involved.
+
+*(5) The order, does not, of*
+
+termination of any proceedings by any judgment, settlement, conviction or the entering of a nolle prosequi itself, create a presumption that a person–
 
 (a) did not act honestly and in good faith with a view to the interests of the foundation; or
 
@@ -1508,11 +1580,9 @@ resulting from the exercise of the power, unless the exercise of that power is a
 
 **71.** All indemnities, protections and exculpations granted in this Act shall extend to each current and former foundation council, council member and protector and each director, officer or employee of any foundation council, council member or protector.
 
-Notwithstanding any other provision of this Act, a
-
 *Liability to third parties.*
 
-foundation, its foundation council and its members, a founder, protector or a beneficiary shall not be liable, personally or otherwise, to any party other than to the foundation, its founder or its beneficiary for the actions of any other member, founder, protector or beneficiary of that foundation and then only for breach of fiduciary duty.
+Notwithstanding any other provision of this Act, a foundation, its foundation council and its members, a founder, protector or a beneficiary shall not be liable, personally or otherwise, to any party other than to the foundation, its founder or its beneficiary for the actions of any other member, founder, protector or beneficiary of that foundation and then only for breach of fiduciary duty.
 
 *Secretary.*
 
@@ -1580,9 +1650,15 @@ life insurance policy or annuity contract held, directly or indirectly, by or fo
 
 *Anti-alienation.*
 
-**79.** (1) A conveyance, transfer, sale, mortgage, pledge, hypothecation, encumbrance, order, assignment or other restraint of any interest in a foundation or its endowment by a founder or beneficiary by way of anticipation of income or principal is void.
+*79.–(1) A hypothecation,*
 
-(2) The endowment shall not be subject to alienation, transfer or restraint of any kind by operation of any foreign law and shall be exempt from the claims of any creditors of, claimants of, or parties adverse to, a founder or a beneficiary.
+*founder or principal is*
+
+conveyance, transfer, sale, mortgage, pledge, encumbrance, order, assignment or other restraint of any interest in a foundation or its endowment by a beneficiary by way of anticipation of income or void.
+
+*(2) The transfer or and shall be*
+
+endowment shall not be subject to alienation, restraint of any kind by operation of any foreign law exempt from the claims of any creditors of, claimants of, or parties adverse to, a founder or a beneficiary.
 
 (3) The endowment shall be free from the control or interference of a spouse of a founder or a beneficiary or a parent of any minor beneficiary, and from all foreign legal proceedings.
 
@@ -1608,11 +1684,21 @@ which seeks to establish a right to a foundation endowment, or the transfer, enc
 
 *Bankruptcy.*
 
-**82.** Notwithstanding any foreign law, rule or regulation and notwithstanding further that a foundation is voluntary and without valuable consideration being given for a disposition to a foundation or is established for the benefit of the founder, or the founder’s spouse or children, a foundation shall not be void or voidable, and the foundation endowment shall not be subject to transfer, attachment, encumbrance or other restraint, solely because of the founder’s bankruptcy, insolvency or liquidation in any action or proceeding at the suit of a bankruptcy trustee, receiver or creditor of the founder’s bankruptcy estate.
+*without*
 
-*Fraudulent dispositions jurisdiction of Belize.*
+*to transfer,*
 
-**83.** (1) The Court may, after considering the factors specified in sub-section (2), proved beyond a reasonable doubt–
+*receiver or*
+
+**82.** Notwithstanding any foreign law, rule or regulation and notwithstanding further that a foundation is voluntary and valuable consideration being given for a disposition to a foundation or is established for the benefit of the founder, or the founder’s spouse or children, a foundation shall not be void or voidable, and the foundation endowment shall not be subject attachment, encumbrance or other restraint, solely because of the founder’s bankruptcy, insolvency or liquidation in any action or proceeding at the suit of a bankruptcy trustee, creditor of the founder’s bankruptcy estate.
+
+*Fraudulent*
+
+*83.–(1) The*
+
+*dispositions jurisdiction of Belize.*
+
+Court may, after considering the factors specified in sub-section (2), proved beyond a reasonable doubt–
 
 (a) decide that a disposition of property that was conducted fraudulently is void; and
 
@@ -1620,7 +1706,9 @@ order the foundation to satisfy a creditor’s (b)
 
 judgment rendered by the Court from a nonexempt potion of the foundation endowment to the extent of the interest that the creditor had in the property prior to the disposition of the property to the foundation.
 
-(2) The factors to be considered by the Court are–
+*(2) The*
+
+factors to be considered by the Court are–
 
 whether the disposition of property to the foundation by or on behalf of the founder was made with the sole and specific intent to avoid payment of an existing judgment rendered by the Court against the founder;
 
@@ -1628,7 +1716,9 @@ whether the disposition of property to the foundation by or on behalf of the fou
 
 (c) whether, at the time of the disposition, the founder was insolvent.
 
-(3) A founder shall not have imputed to him an intent to defraud a creditor, solely by reason that–
+*(3) A defraud a*
+
+founder shall not have imputed to him an intent to creditor, solely by reason that–
 
 (a) the founder has disposed of property to the foundation after the accrual of the creditor’s cause of action:
 
@@ -1636,11 +1726,19 @@ whether the disposition of property to the foundation by or on behalf of the fou
 
 (c) the founder is a beneficiary of the foundation.
 
-(4) A founder’s showing of a supervening legitimate purpose for a disposition of property to a foundation shall be a complete and absolute defense to a creditor’s claim that the disposition was fraudulent.
+*(4) A purpose for a*
 
-(5) This section applies to all actions and proceedings brought in any court in any jurisdiction against any person with regard to the creation of a foundation, the disposition of property to or from such a foundation or the receipt of property into the endowment of a foundation.
+founder’s showing of a supervening legitimate disposition of property to a foundation shall be a complete and absolute defense to a creditor’s claim that the disposition was fraudulent.
 
-(5A) The remedy conferred by sub-section (1), shall be the sole remedy available to a creditor in such an action or
+*(5) This*
+
+*regard to the*
+
+section applies to all actions and proceedings brought in any court in any jurisdiction against any person with creation of a foundation, the disposition of property to or from such a foundation or the receipt of property into the endowment of a foundation.
+
+*(5A) The sole remedy*
+
+remedy conferred by sub-section (1), shall be the available to a creditor in such an action or
 
 proceeding to the exclusion of any other relief or remedy against any party.
 
@@ -1676,15 +1774,21 @@ beneficiary; or
 
 (d) person having been granted a power of attorney by the foundation,
 
-the registered agent and the Secretary of the foundation shall within fourteen days record that change in the register and notify the Registrar of that change pursuant to section 17(12).
+*the registered within fourteen the Registrar of*
 
-(3) The accounts, records, minutes, resolutions, copy documents and register required by this section (hereafter referred to in this section as the “books”) shall–
+agent and the Secretary of the foundation shall days record that change in the register and notify that change pursuant to section 17(12).
+
+*(3) The documents and referred to in*
+
+accounts, records, minutes, resolutions, copy register required by this section (hereafter this section as the “books”) shall–
 
 (a) be kept at the registered office of the foundation or, subject to sub-section (4), at such other place as the foundation council of the foundation may designate; and
 
 (b) at all reasonable times, be open to inspection by the registered agent and the members of the foundation and, where applicable, its Secretary, protector or auditor.
 
-(4) If the books are kept at a place other than the registered office, whether within or outside Belize, the registered agent of the foundation shall–
+*(4) If the office, whether the foundation*
+
+books are kept at a place other than the registered within or outside Belize, the registered agent of shall–
 
 (a) be notified of the location of such place where such books are kept within 14 days after the designation of such location; and
 
@@ -1716,9 +1820,13 @@ Continuance of Foundations
 
 **86.** (1) Articles of continuance of a foreign foundation and any amendment thereto may be written in any language but, where
 
-such articles or amendment are not written in the English language, they must be accompanied by a certified translation into the English language.
+*language, they into the English*
 
-(2) Articles of continuance of a foreign foundation shall–
+such articles or amendment are not written in the English must be accompanied by a certified translation language.
+
+*(2) Articles*
+
+of continuance of a foreign foundation shall–
 
 (a) declare the intention of the foreign foundation, pursuant to a resolution in writing of its governing body, to continue its legal existence in Belize as a foundation;
 
@@ -1732,19 +1840,29 @@ such articles or amendment are not written in the English language, they must be
 
 (f) be duly signed by all the members of the governing body or foundation council of the foreign foundation.
 
-*Certificate of continuance.*
+*Certificate of 87.–(1) Upon continuance. continuance, continuance if continuance are 85 and 86.*
 
-**87.** (1) Upon receipt of the application and articles of continuance, the Registrar shall issue a certificate of continuance if he is satisfied that the application and articles of continuance are in compliance with the requirements of sections 85 and 86.
+receipt of the application and articles of the Registrar shall issue a certificate of he is satisfied that the application and articles of in compliance with the requirements of sections
 
-(2) On the date shown in the certificate of Continuance–
+*(2) On the*
+
+date shown in the certificate of Continuance–
 
 the foreign foundation becomes a foundation to which this Act applies as if that foundation had been established under this Act; and
 
 (b) the articles of continuance shall be deemed to be the foundation charter of the foundation which is continued under this Act.
 
-*Preservation of continuity of foundation.*
+*Preservation of*
 
-**88.** When a foreign foundation is continued as a foundation under this Act–
+*When a*
+
+*continuity of*
+
+**88.** foreign foundation is continued as a foundation
+
+*under this Act–*
+
+*foundation.*
 
 (a) the property of the foreign foundation continues to be the property of the foundation;
 
@@ -1756,15 +1874,31 @@ the foreign foundation becomes a foundation to which this Act applies as if that
 
 (e) any conviction against, or any ruling, order or judgment against or in favour of, the foreign foundation is enforceable by or against the foundation.
 
-*Continuance in foreign jurisdiction.*
+*Continuance in*
 
-**89.** (1) Subject to its foundation charter and by-laws, a foundation may, pursuant to a resolution of its foundation council or as otherwise provided, apply to the appropriate official or public body of a foreign jurisdiction to be continued as an entity in the foreign jurisdiction as if it had been established under the laws of that foreign jurisdiction, in the manner provided by such laws.
+*89.–(1) Subject*
 
-(2) Subject to the provisions of this Act, a foundation that continues as an entity under the laws of a foreign jurisdiction does not cease to be a foundation under the laws of Belize unless the laws of the foreign jurisdiction permit such continuation and the foundation has complied with such laws.
+*foreign*
 
-*Conditions applicable to continuance in foreign jurisdiction.*
+*foundation*
 
-**90.** Where a foundation is continued as an entity under the laws of a foreign jurisdiction–
+*jurisdiction.*
+
+*council or as official or*
+
+*established manner*
+
+to its foundation charter and by-laws, a may, pursuant to a resolution of its foundation otherwise provided, apply to the appropriate public body of a foreign jurisdiction to be continued as an entity in the foreign jurisdiction as if it had been under the laws of that foreign jurisdiction, in the provided by such laws.
+
+*(2) Subject continues as an*
+
+*the laws of the the foundation*
+
+to the provisions of this Act, a foundation that entity under the laws of a foreign jurisdiction does not cease to be a foundation under the laws of Belize unless foreign jurisdiction permit such continuation and has complied with such laws.
+
+*Conditions Where a applicable to laws of a continuance in foreign jurisdiction.*
+
+**90.** foundation is continued as an entity under the foreign jurisdiction–
 
 (a) the property of the foundation continues to be the property of such entity;
 
@@ -1776,11 +1910,15 @@ the foreign foundation becomes a foundation to which this Act applies as if that
 
 (e) any conviction against or ruling, order or judgment against, or in favour of, the foundation is enforceable by or against such entity.
 
-*Discontinuance and effect.*
+*Discontinuance Every and effect.*
 
-**91.** Every foundation departing from Belize must file a certificate of departure containing the prescribed information in the prescribed form with the Registrar.
+*certificate of the prescribed*
 
-(2) A foundation which–
+**91.** foundation departing from Belize must file a departure containing the prescribed information in form with the Registrar.
+
+*(2) A*
+
+foundation which–
 
 (a) has filed a certificate of departure under subsection (1); and
 
@@ -1830,15 +1968,29 @@ administration, maintenance, disposition, sale, restraint, encumbrance, surrende
 
 (c) rescind, modify or clarify an order or declaration under this Act.
 
-(2) A member appointed by the Court has the powers and duties specified by the Court or, if none are so specified, the same powers and duties as if originally appointed a member of the foundation council in the foundation charter.
+*(2) A*
 
-*Enforcement of judgment.*
+member appointed by the Court has the powers and duties specified by the Court or, if none are so specified, the same powers and duties as if originally appointed a member of the foundation council in the foundation charter.
 
-**94.** All property of a foundation, other than exempt property, shall be available to satisfy an order or judgment of the Court and any legal process issued by the Court to enforce its order or judgment.
+*Enforcement of*
+
+*All*
+
+*judgment.*
+
+*shall be*
+
+**94.** property of a foundation, other than exempt property, available to satisfy an order or judgment of the Court and any legal process issued by the Court to enforce its order or
+
+*judgment.*
 
 *Priority.*
 
-**95.** If a foundation is declared invalid pursuant to this Act and the Court is satisfied that a foundation council, member, protector, founder or beneficiary has not acted in bad faith–
+*If a*
+
+*protector,*
+
+**95.** foundation is declared invalid pursuant to this Act and the Court is satisfied that a foundation council, member, founder or beneficiary has not acted in bad faith–
 
 (a) the foundation council and each of its members shall have a first and paramount charge, pari passu, over the foundation endowment in an amount equal to all outstanding fees, charges, commissions and disbursements;
 
@@ -1852,11 +2004,15 @@ charge, pari passu, over the foundation endowment in an amount equal to the enti
 
 (e) the founder shall have a fifth charge over the foundation endowment in an amount equal to all other outstanding fees and costs, and all other pre-existing rights, claims and interests.
 
-*Exclusion of foreign law.*
+*Exclusion of 96.–(1) No foreign law.*
 
-**96.** (1) No foundation governed by the laws of Belize, and no transfer of property to a foundation which is valid under the laws of Belize, shall be void, voidable, liable to be set aside or defective in any manner by reference to the law of a foreign jurisdiction.
+*transfer of of Belize, shall defective in any jurisdiction.*
 
-(2) The capacity of a founder of a foundation or any other person who transfers property to a foundation shall not be questioned, nor shall any beneficiary or other person be subjected to any liability or deprived of any right by reason that–
+foundation governed by the laws of Belize, and no property to a foundation which is valid under the laws be void, voidable, liable to be set aside or manner by reference to the law of a foreign
+
+*(2) The person who questioned, nor subjected to any*
+
+capacity of a founder of a foundation or any other transfers property to a foundation shall not be shall any beneficiary or other person be liability or deprived of any right by reason that–
 
 (a) the laws of any foreign jurisdiction prohibit or do not recognise the concept of a foundation; or
 
@@ -1890,11 +2046,15 @@ cause of action capable of assertion by a plaintiff against a founder, beneficia
 
 (c) the entry of judgment in any proceeding in any jurisdiction or court shall not constitute a separate cause of action.
 
-(4) In the event of continuation of a foreign foundation to Belize, this section applies as if the foundation was at all times a foundation governed by the laws of Belize, without regard to the law of the foundation’s prior domicile.
+*(4) In the Belize, this a foundation the law of the*
 
-*Affidavits.*
+event of continuation of a foreign foundation to section applies as if the foundation was at all times governed by the laws of Belize, without regard to foundation’s prior domicile.
 
-**99.** (1) No action or proceeding to which section 81 applies, whether substantive or interlocutory in nature, shall be entertained by the Court and no judgment, declaration or order shall be made or granted by the Court unless accompanied by an affidavit attesting to the following–
+*Affidavits. 99.–(1) No whether*
+
+*affidavit*
+
+action or proceeding to which section 81 applies, substantive or interlocutory in nature, shall be entertained by the Court and no judgment, declaration or order shall be made or granted by the Court unless accompanied by an attesting to the following–
 
 (a) the action or proceeding has been commenced in accordance with section 81;
 
@@ -1902,7 +2062,9 @@ cause of action capable of assertion by a plaintiff against a founder, beneficia
 
 (c) the security for costs required by section 101 has been deposited with the Registrar of the Court.
 
-(2) Every affidavit required to be filed under this section shall be made by the person on whose behalf the action or
+*(2) Every*
+
+affidavit required to be filed under this section shall be made by the person on whose behalf the action or
 
 proceeding is brought, or in the case of an entity, one of its directors or officers, attesting to–
 
@@ -1924,17 +2086,21 @@ proceeding is brought, or in the case of an entity, one of its directors or offi
 
 **102.** No barrister, solicitor or attorney-at-law shall enter into any arrangement for, or charge or collect any fee, commission, compensation or award, that is contingent upon the success of an action or proceeding, or the amount of any award or judgment, in an action or proceeding for the avoidance of a foundation or the transfer, encumbrance, attachment or other restraint of the foundation endowment. This section does not apply to an action or proceeding brought by a foundation,
 
-foundation council, council member, protector, founder or beneficiary of a foundation or by the Government of Belize.
+*foundation*
+
+council, council member, protector, founder or beneficiary of a foundation or by the Government of Belize.
 
 ## PART XI
 
 Confidentiality, Exemption from Taxes, Duties and Exchange Control
 
-*Confidentiality.*
+*Confidentiality. to an order of documents information administration, property of a*
 
-**103.** (1) Except where this Act otherwise provides or pursuant to an order of the Court, no person shall disclose any of the documents referred to in sub-section (2), their contents or the information contained therein relating to the establishment, administration, maintenance, business undertaking, affairs or property of a foundation to any other person.
+**103.** (1) Except where this Act otherwise provides or pursuant the Court, no person shall disclose any of the referred to in sub-section (2), their contents or the contained therein relating to the establishment, maintenance, business undertaking, affairs or foundation to any other person.
 
-(2) The documents referred to in sub-section (1) are–
+*(2) The*
+
+documents referred to in sub-section (1) are–
 
 (a)
 
@@ -1948,15 +2114,31 @@ income, expenses, profits, losses, appreciation, depreciation, value, net worth 
 
 (d) a document relating in any way, directly or indirectly, to the rights, benefits or interests of any founder or any beneficiary of a foundation.
 
-(3) A person who contravenes sub-section (1) commits an offence and is liable to such penalty as may be prescribed by regulations.
+*offence and is regulations.*
 
-(4) For the purposes of this section, “document” and
+(3) A person who contravenes sub-section (1) commits an liable to such penalty as may be prescribed by
 
-“information” include any papers, deeds, declarations, appointments, minutes, notes, memoranda, records, correspondence, telexes, telegrams, tape recordings, facsimile transmissions, computer data, e-mail, files, discs, and videotapes, of all kinds, whether in printed, electronic or holographic form, or any other form.
+*“information” appointments,*
 
-*Permissible disclosure of confidential information.*
+*transmissions,*
 
-**104.** Notwithstanding section 103, nothing in this Act and no foundation charter shall prohibit the foundation council, a member, protector or any of the member’s or protector’s directors, officers or employees from disclosing confidential information under the following circumstances–
+*holographic*
+
+(4) For the purposes of this section, “document” and include any papers, deeds, declarations, minutes, notes, memoranda, records, correspondence, telexes, telegrams, tape recordings, facsimile computer data, e-mail, files, discs, and videotapes, of all kinds, whether in printed, electronic or form, or any other form.
+
+*Permissible disclosure of*
+
+*foundation*
+
+*confidential*
+
+*member,*
+
+*information.*
+
+*directors, information*
+
+**104.** Notwithstanding section 103, nothing in this Act and no charter shall prohibit the foundation council, a protector or any of the member’s or protector’s officers or employees from disclosing confidential under the following circumstances–
 
 (a) upon an order of the Court or written request of the Financial Intelligence Unit in connection with the presentation of evidence for the purpose of, or in the course of, the trial of any person in respect of a serious crime recognised within Belize, to the extent that the confidential information is required to prove the alleged offence;
 
@@ -1974,11 +2156,9 @@ a treaty or convention between the Government of Belize and any other jurisdicti
 
 (c) upon an order of the Court or written request of the Financial Intelligence Unit or other competent authority as the case may be, pursuant to a treaty or convention between the Government of Belize and any other jurisdiction having the force of law in Belize, pertaining to the exchange of information for purposes of determining, assessing or collecting tax, the recovery and enforcement of tax claims or the investigation or prosecution of criminal tax matters;
 
-(d) upon an order of the Court or written request of the Financial Intelligence Unit, for information regarding the identification of a foundation, foundation council, member, protector, founder, beneficiary, endowment or any transaction of a foundation for the purpose
-
 *CAP. 104.*
 
-of complying with the Money Laundering & Terrorism (Prevention) Act;
+(d) upon an order of the Court or written request of the Financial Intelligence Unit, for information regarding the identification of a foundation, foundation council, member, protector, founder, beneficiary, endowment or any transaction of a foundation for the purpose of complying with the Money Laundering & Terrorism (Prevention) Act;
 
 *CAP. 138:02*
 
@@ -2030,11 +2210,9 @@ the written decision or order of the Court shall be edited as necessary to prese
 
 (2) Notwithstanding any provisions of the Stamp Duties Act, but subject to sub-section (3), an instrument relating to a transfer of property to or by an international foundation is exempt from the payment of stamp duty.
 
-(3) Sub-section (2), does not apply to an instrument relating
-
 *CAP. 250.*
 
-to a transfer of property situated in Belize, including any interest in land in Belize or in shares in a company incorporated under the Companies Act.
+(3) Sub-section (2), does not apply to an instrument relating to a transfer of property situated in Belize, including any interest in land in Belize or in shares in a company incorporated under the Companies Act.
 
 *CAP. 52.*
 
@@ -2116,17 +2294,29 @@ the Court may, on an application made to it by a member or the protector of the 
 
 (3) Nothing in this section shall prejudice the application of any provision imposing penalties on the foundation or its
 
-foundation council in respect of a failure mentioned in subsection (1).
+*foundation section (1).*
+
+council in respect of a failure mentioned in sub-
 
 ## PART XIII
 
 Investigation of Foundations
 
-*Investigation order.*
+*Investigation*
 
-**115.** (1) A founder, beneficiary or protector of a foundation, or the Registrar may, without notice or upon such notice as the Court may require, apply to the Court for an order directing that an investigation be made of the foundation or any foundation or company affiliated with it.
+*115.–(1) A*
 
-(2) If, upon an application under sub-section (1), it appears to the Court that–
+*order.*
+
+*the Registrar Court may*
+
+*company*
+
+founder, beneficiary or protector of a foundation, or may, without notice or upon such notice as the require, apply to the Court for an order directing that an investigation be made of the foundation or any foundation or affiliated with it.
+
+*to the Court*
+
+(2) If, upon an application under sub-section (1), it appears that–
 
 (a) the affairs of the foundation or any of its affiliates are being or have been carried on with intent to defraud any person;
 
@@ -2136,13 +2326,19 @@ Investigation of Foundations
 
 (d) it is in the public interest that an investigation of the foundation or any of its affiliates be made,
 
-the Court may make any order it thinks fit with respect to an investigation of the foundation or any of its affiliates by an inspector.
+the Court may make any order it thinks fit with respect to an investigation of the foundation or any of its affiliates by an
 
-(3) If a founder, beneficiary or protector makes an application under sub-section (1), he shall give the Registrar reasonable notice of it, and the Registrar is entitled to appear and be heard at the hearing of the application.
+*inspector.*
 
-*Contents of order and copies of reports.*
+*(3) If a application reasonable*
 
-**116.** (1) An order made under section 115(2), shall include an order to investigate and an order appointing an inspector, who may be the Registrar, and fixing his remuneration and may include an order–
+founder, beneficiary or protector makes an under sub-section (1), he shall give the Registrar notice of it, and the Registrar is entitled to appear and be heard at the hearing of the application.
+
+*Contents of order 116.–(1) An and copies of order to reports.*
+
+*may be the include an*
+
+order made under section 115(2), shall include an investigate and an order appointing an inspector, who Registrar, and fixing his remuneration and may order–
 
 (a) replacing the inspector;
 
@@ -2184,11 +2380,9 @@ the Court may make any order it thinks fit with respect to an investigation of t
 
 (3) No person shall publish anything relating to any proceedings under this Part except with the authorisation of the Court.
 
-**119.** No person is excused from attending and giving evidence
-
 *Incriminating evidence.*
 
-and producing documents and records to an inspector appointed by the Court under this Part by reason only that the evidence tends to incriminate that person or subject him to any proceeding or penalty, but the evidence may not be used or received against him in any proceeding thereafter instituted against him, other than a prosecution for perjury in giving the evidence.
+**119.** No person is excused from attending and giving evidence and producing documents and records to an inspector appointed by the Court under this Part by reason only that the evidence tends to incriminate that person or subject him to any proceeding or penalty, but the evidence may not be used or received against him in any proceeding thereafter instituted against him, other than a prosecution for perjury in giving the evidence.
 
 *Absolute privilege.*
 
@@ -2208,15 +2402,11 @@ Miscellaneous
 
 (c) examine and make copies of documents belonging to or in the possession or control of a relevant person; that, in the opinion of the Commission, relate to a foundation established under this Act.
 
-(2) A compliance inspection may be undertaken, in the case
-
 *S.I. 6 of 1998.*
-
-of a person specified in sub-section (1)(a), (b) and (c), for the purpose of monitoring and assessing such person’s compliance with his obligations under the Money Laundering and Terrorism
 
 *CAP. 104.*
 
-(Prevention) Act, Money Laundering (Prevention) Regulations and any other Acts, Regulations, Guidelines or Codes relating to money laundering or the financing of terrorism.
+(2) A compliance inspection may be undertaken, in the case of a person specified in sub-section (1)(a), (b) and (c), for the purpose of monitoring and assessing such person’s compliance with his obligations under the Money Laundering and Terrorism (Prevention) Act, Money Laundering (Prevention) Regulations and any other Acts, Regulations, Guidelines or Codes relating to money laundering or the financing of terrorism.
 
 (3) The powers and duties conferred or imposed on the Commission by this section are in addition to, and not in derogation of, any other powers and duties conferred or imposed on the Commission by any other law.
 
@@ -2266,7 +2456,11 @@ by leaving it, or by sending it by registered mail addressed to the foundation, 
 
 (b) by leaving it with, or by sending it by registered mail to, the registered agent of the foundation.
 
-(2) Service of any summons, notice, order, document, process, information or written statement to be served on a foundation may be proved by showing that the summons, notice, order, document, process, information or written statement–
+*(2) Service process,*
+
+*order,*
+
+of any summons, notice, order, document, information or written statement to be served on a foundation may be proved by showing that the summons, notice, document, process, information or written statement–
 
 (a) was mailed in sufficient time as to admit to it being delivered, in the normal course of delivery, within the period prescribed for service; and
 
@@ -2274,9 +2468,13 @@ by leaving it, or by sending it by registered mail addressed to the foundation, 
 
 *Regulations.*
 
-**127.** (1) The Minister may, after consultation with the Commission, make regulations providing for any matter contemplated by this Act or as may be necessary or convenient for carrying out or giving effect to this Act and its administration.
+*127.–(1) The Commission, contemplated for carrying administration.*
 
-(2) Without limiting the generality of sub-section (1), such regulations may be made–
+Minister may, after consultation with the make regulations providing for any matter by this Act or as may be necessary or convenient out or giving effect to this Act and its
+
+*(2) Without*
+
+limiting the generality of sub-section (1), such regulations may be made–
 
 (a) prescribing anything required or permitted to be prescribed by this Act;
 
@@ -2294,11 +2492,13 @@ by leaving it, or by sending it by registered mail addressed to the foundation, 
 
 (h) providing that an offence under this Act or any regulations made thereunder shall be punishable on summary conviction by a fine not exceeding twenty thousand dollars or by a term of imprisonment not exceeding two years, or by both such fine and term of imprisonment.
 
-(3) All regulations made under this section shall be subject to negative resolution.
+*(3) All to negative*
 
-*Authority to prosecute and limitation period.*
+regulations made under this section shall be subject resolution.
 
-**128.** All complaints or other proceedings for any offence committed under this Act or any regulations made thereunder shall be made or commenced–
+*Authority to 128. All prosecute and committed limitation period.*
+
+complaints or other proceedings for any offence under this Act or any regulations made thereunder shall be made or commenced–
 
 (a) by or with the leave of the Commission; and
 
@@ -2306,11 +2506,11 @@ by leaving it, or by sending it by registered mail addressed to the foundation, 
 
 *Fees and Penalties.*
 
-**129.** All fees and penalties paid or imposed under this Act or any regulations made thereunder shall be credited into the
-
 *CAP. 272.*
 
-General Fund of the Commission established under section 18 of the International Financial Services Commission Act.
+*of the*
+
+**129.** All fees and penalties paid or imposed under this Act or any regulations made thereunder shall be credited into the General Fund of the Commission established under section 18 International Financial Services Commission Act.
 
 Application for Entry on Register of International Foundations
 
@@ -2380,19 +2580,29 @@ _________________________________
 
 **6.** Date of submission of this Certificate to the Commission:________.
 
+*[CAP.*
+
+24:02
+
 In the event that the above-named foundation is a re-domiciled foreign foundation, the original date of registration of the foundation in its original jurisdiction (or original date of execution if such date of registration is unavailable): ___________________.
 
 a. Original jurisdiction of the foundation: _____________________.
 
 b. Date of amendment of the Charter which provides for the law of Belize to be the governing law of the foundation: ___________________.
 
-The undersigned hereby certifies that all the information provided in this certificate is true and correct.
+*The*
+
+undersigned hereby certifies that all the information provided in this certificate is true and correct.
 
 _____________________ __________________ Authorized Signature Date
 
 _____________________
 
-By:
+*By:*
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 ## SCHEDULE III
 
@@ -2448,7 +2658,9 @@ _____________________________________________ __________________________________
 
 **8.** Please attach prescribed extension fee: $____________.
 
-The applicant hereby declares that all the information provided in this application and any other document provided in support of the said application is true and correct. The applicant further
+*The in this of the*
+
+applicant hereby declares that all the information provided application and any other document provided in support said application is true and correct. The applicant further
 
 undertakes to inform the Registrar without delay of any changes to the information supplied with this application.
 

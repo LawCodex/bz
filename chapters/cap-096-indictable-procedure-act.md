@@ -960,15 +960,21 @@ Committal for 34.–(1) An examining magistrate, having ascertained that the tri
 
 (5) After the evidence has been tendered by the prosecutor, the examining magistrate shall hear any submission which the accused may wish to make as to whether there is sufficient evidence to put him on trial for any indictable offence, but the accused shall not be entitled to give any evidence on his own behalf at the inquiry or to call any witnesses.
 
-(6) The examining magistrate shall permit the prosecutor to make a submission in reply to any submission made by the accused in pursuance of sub-section (5).
+*(6) The make a in pursuance of*
 
-(7) After hearing submissions from both sides the examining magistrate shall–
+examining magistrate shall permit the prosecutor to submission in reply to any submission made by the accused sub-section (5).
+
+*(7) After magistrate*
+
+hearing submissions from both sides the examining shall–
 
 (a) commit the accused for trial at the next practicable session of the Supreme Court for the district in which the inquiry is held, if he is of the opinion that there is sufficient evidence to put the accused on trial for the offence or offences with which he is charged or for any other indictable offence which is disclosed in the evidence tendered to the court;
 
 (b) discharge the accused if the examining magistrate is not of the said opinion, and the accused is in custody for no other cause than the offence under inquiry.
 
-(8) In every case where the examining magistrate decides to commit the accused for trial, he shall–
+*(8) In commit the*
+
+every case where the examining magistrate decides to accused for trial, he shall–
 
 (a) cause the charge to be written down, if this has not already been done, and, if the accused is not represented by counsel, shall read the charge to him and explain it in ordinary language;
 
@@ -976,13 +982,9 @@ Committal for 34.–(1) An examining magistrate, having ascertained that the tri
 
 (c) make all ancillary and consequential orders for the attendance of the accused and the witnesses at the trial.
 
-Evidence which 35.–(1) Evidence falling within sub-section (2), and only that is admissible at
+*Evidence which 35.–(1) is admissible at evidence, shall preliminary inquiry. an offence as 18 of 1998.*
 
-evidence, shall be admissible by a magistrate’s court inquiring into preliminary
-
-inquiry. an offence as examining magistrate.
-
-18 of 1998.
+Evidence falling within sub-section (2), and only that be admissible by a magistrate’s court inquiring into examining magistrate.
 
 (2) Evidence falls within this sub-section if it–
 
@@ -990,7 +992,9 @@ inquiry. an offence as examining magistrate.
 
 (b) falls within sub-section (3).
 
-(3) The following evidence falls within this sub-section–
+*The*
+
+(3) following evidence falls within this sub-section–
 
 (a) written statements complying with section 36;
 
@@ -1004,15 +1008,21 @@ inquiry. an offence as examining magistrate.
 
 (f) documents falling within section 39.
 
-(4) In this section, “document” means anything in which information of any description is recorded.
+*(4) In information of*
 
-**36.** (1) For the purpose of section 35, a written statement complies Written statements. with this section if–
+this section, “document” means anything in which any description is recorded.
+
+*36.–(1) For the with this*
+
+purpose of section 35, a written statement complies Written statements. section if–
 
 18 of 1998 (a) the conditions falling within sub-section (2) are met; and
 
 (b) such of the conditions falling within sub-section (3) as apply are met.
 
-(2) The conditions falling within this sub-section are that–
+*The*
+
+(2) conditions falling within this sub-section are that–
 
 (a) the statement purports to be signed by the person who made it;
 
@@ -1020,7 +1030,9 @@ the statement contains a declaration by that person to the effect that it is tru
 
 (c) before the statement is tendered in evidence a copy of the statement is given, by or on behalf of the prosecutor, to each of the other parties to the proceedings.
 
-(3) The conditions falling within this sub-section are that–
+*The*
+
+(3) conditions falling within this sub-section are that–
 
 (a) if the statement is made by a person under 18 years old, it gives his age;
 
@@ -1028,9 +1040,13 @@ the statement contains a declaration by that person to the effect that it is tru
 
 (c) if it refers to any other document as an exhibit, the copy given to any other party to the proceedings under sub-section (2)(c) is accompanied by a copy of that document or by such in-formation as may be necessary to enable the party to whom it is given to inspect that document or a copy of it.
 
-(4) So much of any statement as is admitted in evidence by virtue of this section shall, unless the court otherwise directs, be read aloud at the hearing and where the court so directs an account shall be given orally of so much of any statement as is not read aloud.
+*(4) So virtue of this aloud at the be given orally*
 
-(5) Any document or other object referred to as an exhibit and identified in a statement admitted in evidence by virtue of this section shall be treated as if it had been produced as an exhibit and identified in court by the maker of the statement.
+much of any statement as is admitted in evidence by section shall, unless the court otherwise directs, be read hearing and where the court so directs an account shall of so much of any statement as is not read aloud.
+
+*(5) Any and identified section shall be identified in*
+
+document or other object referred to as an exhibit in a statement admitted in evidence by virtue of this treated as if it had been produced as an exhibit and court by the maker of the statement.
 
 (6) In this section, “document” means anything in which information of any description is recorded.
 
@@ -1050,19 +1066,31 @@ Depositions. 37.–(1) For the purposes of section 35 a deposition complies with
 
 (5) Any document or other object referred to as an exhibit and identified in a deposition admitted in evidence by virtue of this section shall be treated as if it had been produced as an exhibit and identified in court by the person whose evidence is taken as the deposition.
 
-(6) In this section, “document” means anything in which information of any description is recorded.
+*(6) In information of*
 
-Statements. 38.–(1) For the purposes of section 35, a statement complies with 18 of 1998.
+this section, “document” means anything in which any description is recorded.
 
-this section if the conditions falling within sub-sections (2) to (4) are met.
+*Statements. 18 of 1998.*
 
-(2) The condition falling within this sub-section is that, before the committal proceedings begin, the prosecutor notifies the magistrates court and each of the other parties to the proceedings that he believes–
+*this section if met.*
 
-CAP. 95. (a) that the statement might by virtue of sections 83 and 105 of the Evidence Act (statements in certain documents) be admissible as evidence if the case came to trial; and
+**38.** (1) For the purposes of section 35, a statement complies with the conditions falling within sub-sections (2) to (4) are
 
-CAP. 95. (b) that the statement would not be admissible as evidence otherwise than by virtue of sections 83 and 105 of the Evidence Act, if the case came to trial.
+*before the magistrates that he*
 
-(3) The condition falling within this sub-section is that–
+(2) The condition falling within this sub-section is that, committal proceedings begin, the prosecutor notifies the court and each of the other parties to the proceedings believes–
+
+*CAP. 95.*
+
+(a) that the statement might by virtue of sections 83 and 105 of the Evidence Act (statements in certain documents) be admissible as evidence if the case came to trial; and
+
+*CAP. 95.*
+
+(b) that the statement would not be admissible as evidence otherwise than by virtue of sections 83 and 105 of the Evidence Act, if the case came to trial.
+
+*The*
+
+(3) condition falling within this sub-section is that–
 
 the prosecutor’s belief is based on information (a)
 
@@ -1072,7 +1100,11 @@ available to him at the time he makes the notification;
 
 (c) he gives the reasons for his belief when he makes the notification.
 
-(4) The condition falling within this sub-section is that when the court or a party is notified as mentioned in sub-section (2) of this section, a copy of the statement is given, by or on behalf of the prosecutor, to the court or the party concerned.
+*(4) The the court or a*
+
+*prosecutor, to*
+
+condition falling within this sub-section is that when party is notified as mentioned in sub-section (2) of this section, a copy of the statement is given, by or on behalf of the the court or the party concerned.
 
 (5) So much of any statement as is in writing and is admitted in evidence by virtue of this section shall, unless the court otherwise directs, be read aloud at the hearing and where the court so directs an account shall be given orally of so much of any statement as is not read aloud.
 
@@ -1184,17 +1216,25 @@ accused person on trial, it shall be lawful for the court to issue a warrant for
 
 (b) remit the cause to the magistrate with directions to reopen the inquiry for the purpose of taking as evidence further written statements and with any other direction he thinks proper. The effect of such remission to the magistrate shall be that the inquiry shall be reopened and dealt with in all respects as if the accused person had not been discharged.
 
-Warning as to 44. In every case where the examining magistrate commits the alibi.
+*Warning as to 44. In every alibi. 18 of 1998.*
 
-accused for trial under this Act, he shall say to the accused– 18 of 1998.
+case where the examining magistrate commits the accused for trial under this Act, he shall say to the accused–
 
-“I must warn you that you may not be permitted at your trial to give evidence of an alibi or to call witnesses in support of an alibi unless you have earlier given particulars of the alibi and of the witnesses.
+*“I must to give an alibi*
 
-You may give those particulars now to this court or to the prosecutor not later than seven days from the end of these committal proceedings”;
+warn you that you may not be permitted at your trial evidence of an alibi or to call witnesses in support of unless you have earlier given particulars of the alibi and of the witnesses.
 
-or words to that effect and, if it appears to the court that the accused may not understand the meaning of the term “alibi”, the court shall explain it to him,
+You may give those particulars now to this court or to the prosecutor not later than seven days from the end of these proceedings”;
 
-Provided that the court shall not be required to give this warning in any case where it appears to the court that, having regard to the nature of the offence with which the accused is charged, it is unnecessary to do so.
+committal
+
+*may not explain it to*
+
+or words to that effect and, if it appears to the court that the accused understand the meaning of the term “alibi”, the court shall him,
+
+*Provided in any case nature of the*
+
+that the court shall not be required to give this warning where it appears to the court that, having regard to the offence with which the accused is charged, it is unnecessary to do so.
 
 Committal for Trial, Proceeding Subsequent to Committal of Accused Person
 
@@ -1982,13 +2022,21 @@ another statement inconsistent therewith, shall be admissible for the purpose of
 
 **124.** In relation to the statement of a witness taken under section 31 Statement taken from persons if, upon the trial of any accused person of a crime to which such dangerously ill. statement relates, it is proved that the person who made the statement 11 of 1972. is dead, or that there is no reasonable probability that he will ever be able to travel or to give evidence, or that after making the statement he left Belize and is not likely to return to Belize, it shall be lawful
 
-to read such statement as evidence at the trial, either for or against the accused, without further proof thereof, if the court is satisfied that the accused will not be materially prejudiced by the reception of such evidence.
+*to read such the accused,*
 
-Notice of alibi. 125.–(1) On a trial on indictment, the accused shall not without the 18 of 1998.
+statement as evidence at the trial, either for or against without further proof thereof, if the court is satisfied that the accused will not be materially prejudiced by the reception of such evidence.
 
-leave of the court raise the defence of alibi or adduce evidence in support of an alibi unless, before the end of the prescribed period, he gives notice of particulars of the alibi.
+*125.–(1) On a Notice of alibi.*
 
-(2) Without prejudice to the foregoing sub-section, on any such trial the accused shall not without the leave of the court call any other person to give such evidence unless–
+*18 of 1998.*
+
+*leave of the support of an*
+
+trial on indictment, the accused shall not without the court raise the defence of alibi or adduce evidence in alibi unless, before the end of the prescribed period, he gives notice of particulars of the alibi.
+
+*such trial the*
+
+(2) Without prejudice to the foregoing sub-section, on any accused shall not without the leave of the court call any other person to give such evidence unless–
 
 (a) the notice under that sub-section includes the name and address of the witness or, if the name or address is not known to the accused at the time he gives the notice, any information in his possession which might be of material assistance in finding the witness;
 
@@ -2390,17 +2438,27 @@ Provided that no application shall be made after the refusal of a previous appli
 
 (b) on payment to the said officer or to the keeper of the prison of a part of the fine or of the amount due under the recognisance, the total number of days in the term of imprisonment shall be reduced proportionately, that is to say, by such number of days as bears to the said total number of days less one day the proportion most nearly approximating to, without exceeding, the proportion which the part paid bears to the amount of the fine or the amount due under the recognisance.
 
-(4) Any sums received by the keeper of the prison under subsection (3) shall be paid by him to the officer responsible for the recovery of sums due in respect of the fine or the recognisance.
+*section (3) recovery of*
 
-Proceedings 167.–(1) The marshal shall, without further warrant or authority, against persons
+(4) Any sums received by the keeper of the prison under sub-shall be paid by him to the officer responsible for the sums due in respect of the fine or the recognisance.
 
-arrest and detain in custody in a prison any person upon whom a fine fined by the
+*Proceedings against persons arrest and fined by the*
 
-court. has been imposed by the court, or by whom any forfeiture has been incurred, and who is adjudged to pay it by the court, until the fine or forfeiture imposed on or incurred by him is paid and satisfied, together with all costs and expenses in consequence of his arrest and detention.
+*has been court.*
 
-(2) A judge may at any time, order the discharge of the prisoner.
+*forfeiture*
 
-(3) The return of the marshal, or of the keeper of the prison, to any writ of habeas corpus of an arrest or detainer under any judgment or order of the court for non-payment of any fine or forfeiture imposed or incurred as afore-said, shall be deemed sufficient in law, if there appears in or is attached to that return a
+**167.** (1) The marshal shall, without further warrant or authority, detain in custody in a prison any person upon whom a fine imposed by the court, or by whom any forfeiture has been incurred, and who is adjudged to pay it by the court, until the fine or imposed on or incurred by him is paid and satisfied, together with all costs and expenses in consequence of his arrest and
+
+*detention.*
+
+*(2) A prisoner.*
+
+judge may at any time, order the discharge of the
+
+*judgment or forfeiture sufficient in*
+
+(3) The return of the marshal, or of the keeper of the prison, to any writ of habeas corpus of an arrest or detainer under any order of the court for non-payment of any fine or imposed or incurred as afore-said, shall be deemed law, if there appears in or is attached to that return a
 
 certificate by the Registrar, setting forth the judgment or order by virtue of which the arrest or detainer was made.
 
@@ -2652,13 +2710,17 @@ Matters excepted 196. Nothing in this Act relating to pleading or procedure shal
 
 apply to or affect any information or indictment for any common
 
-nuisance, other than a common nuisance which endangers the lives, safety or health of the public, or injures the person of any individual, but that information or indictment may be filed or preferred as if this Act had not passed.
+*but that Act had not*
+
+nuisance, other than a common nuisance which endangers the lives, safety or health of the public, or injures the person of any individual, information or indictment may be filed or preferred as if this passed.
 
 **197.** The Chief Justice may– Rules with respect to procedure of (a) subject to the express provisions of this and of any magistrates. other Act, make rules for regulating the practice and procedure of magistrates under Part III on or in relation to proceedings for crimes, and with respect to the forms to be used in connection with any such proceedings, and generally for carrying into effect the enactments relating to such proceedings, and provision may be made by such rules for revoking or amending any forms which are directed or authorised by any statute to be used in connection with any such proceedings, and for substituting new forms for any of such forms;
 
 (b) prescribe forms of indictment and other forms for the purposes of this Act.
 
-**198.** As soon as practicable after the conclusion of every sitting of Publication of list of persons the court, the Registrar shall publish in the Gazette and in one or convicted. more newspapers published in Belize a list containing the names of all persons convicted at the sitting, the crimes for which they were indicted, the crimes of which they were convicted, and the sentences of the court in their respective cases.
+*more all persons indicted, the*
+
+**198.** As soon as practicable after the conclusion of every sitting of Publication of list of persons the court, the Registrar shall publish in the Gazette and in one or convicted. newspapers published in Belize a list containing the names of convicted at the sitting, the crimes for which they were crimes of which they were convicted, and the sentences of the court in their respective cases.
 
 ## SCHEDULE I
 

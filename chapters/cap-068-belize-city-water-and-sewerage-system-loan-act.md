@@ -73,3 +73,7 @@ CAP. 55, [1st March, 1975] R.E. 1980-1990.
 *Principal and interest charged upon general revenue.*
 
 **5.** The principal moneys and interest represented by the loan issued under this Act are hereby charged upon and shall be payable out of the Consolidated Revenue Fund and assets of Belize.
+
+*THE*
+
+### SUBSTANTIVE LAWS OF BELIZE

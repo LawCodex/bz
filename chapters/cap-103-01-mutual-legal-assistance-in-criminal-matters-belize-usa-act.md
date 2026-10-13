@@ -98,13 +98,15 @@ means in respect of the United States of America–
 
 (ii) proceedings so certified by the Attorney General to have been instituted,
 
-in the United States of America in respect of an offence committed, or suspected on reasonable grounds to have been committed, against the laws of the United States of America;
+*in the United committed, or committed,*
+
+States of America in respect of an offence suspected on reasonable grounds to have been against the laws of the United States of America;
 
 (c) includes forfeiture proceedings, proceedings to restrain dealings with property, proceedings to freeze dealings with bank or other financial accounts of any nature whatsoever, proceedings for the confiscation of property, proceedings for inductions; Anton Pillar Orders, Mareva injunctions, and all other Orders which the Supreme Court is by law authorised to make; proceedings for the imposition of pecuniary penalties calculated by reference to the value of property or benefits arising out of or connected with criminal proceedings, whether such proceedings are characterized under the laws of Belize or the United States of America as criminal or civil proceedings;
 
-“criminal offence” means, subject to Article 1 (3) of the
+*“criminal Treaty–*
 
-*Treaty–*
+offence” means, subject to Article 1 (3) of the
 
 (a) an offence under the laws of Belize; or
 
@@ -180,9 +182,9 @@ laid or filed against that person for the offence, whether or not a summons to r
 
 **7.** The Attorney General may make Regulations prescribing any matters necessary or convenient to be
 
-prescribed for carrying out or giving effect to this Act, in
+*prescribed for particular–*
 
-*particular–*
+carrying out or giving effect to this Act, in
 
 (a) making provision as to evidence or proof of any matter for the purposes of this Act;
 
@@ -200,11 +202,9 @@ MUTUAL LEGAL ASSISTANCE IN CRIMINAL MATTERS (BELIZE/USA) ACT Treaty on Mutual Le
 
 ### THE GOVERNMENT OF THE UNITED STATES ON MUTUAL LEGAL ASSISTANCE IN CRIMINAL MATTERS
 
-## ARRANGEMENT OF ARTICLES
-
 *Article 1*
 
-Scope of Assistance
+## ARRANGEMENT OF ARTICLES Scope of Assistance
 
 *Article 2*
 
@@ -212,15 +212,11 @@ Central Authorities
 
 *Article 3*
 
-Limitations on Assistance
-
 *Article 4*
-
-Form and Contents of Requests
 
 *Article 5*
 
-Execution of Requests
+Limitations on Assistance Form and Contents of Requests Execution of Requests
 
 *Article 6*
 
@@ -236,23 +232,15 @@ Testimony or Evidence in the Requested State
 
 *Article 9*
 
-Records of Government Agencies
-
 *Article 10*
-
-Testimony in the Requesting State
 
 *Article 11*
 
-Transfer of Persons in Custody
-
 *Article 12*
-
-Location or Identification of Persons or Items
 
 *Article 13*
 
-Service of Documents
+Records of Government Agencies Testimony in the Requesting State Transfer of Persons in Custody Location or Identification of Persons or Items Service of Documents
 
 *Article 14*
 
@@ -264,11 +252,9 @@ Return of Items
 
 *Article 16*
 
-Assistance in Forfeiture Proceedings
-
 *Article 17*
 
-Compatibility with Other Arrangements
+Assistance in Forfeiture Proceedings Compatibility with Other Arrangements
 
 Consultation
 
@@ -316,15 +302,21 @@ Central Authorities
 
 **1.** Each Contracting Party shall designate a Central Authority to make and receive requests pursuant to this Treaty.
 
-For the United States of America, the Central Authority shall be the Attorney General or a person designated by the Attorney General. For Belize, the Central Authority shall be the Attorney General or a person designated by the Attorney General.
+*shall be the Attorney the Attorney General.*
 
-**3.** The Central Authorities shall communicate directly with one another for the purposes of this Treaty.
+For the United States of America, the Central Authority Attorney General or a person designated by the General. For Belize, the Central Authority shall be General or a person designated by the Attorney
+
+*The*
+
+**3.** Central Authorities shall communicate directly with one another for the purposes of this Treaty.
 
 Article 3
 
 Limitations on Assistance
 
-**1.** The Central Authority of the Requested State may deny assistance if,
+*The assistance if,*
+
+**1.** Central Authority of the Requested State may deny
 
 (a) the request relates to an offense under military law which would not be an offense under ordinary criminal law;
 
@@ -337,6 +329,10 @@ Limitations on Assistance
 (e) the request is made pursuant to Article 14 or 16 of this Treaty and relates to conduct which if committed in the Requested State would not be an offense in that State;
 
 (f) the execution of the request requires compulsory measures in the Requested State and the request does not establish that there
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 are reasonable grounds for believing that the criminal offense specified in the request has been committed; or
 
@@ -362,9 +358,9 @@ a description of the subject matter and nature of the investigation, prosecution
 
 (d) a statement of the purpose for which the evidence, information, or other assistance is sought.
 
-**3.** To the extent necessary and possible, a request shall
+*To the also include,*
 
-*also include,*
+**3.** extent necessary and possible, a request shall
 
 (a) information on the identity and location of any person from whom evidence is sought;
 
@@ -379,6 +375,10 @@ a description of the subject matter and nature of the investigation, prosecution
 (f) a list of questions to be asked of a witness;
 
 (g) a description of any particular procedure to be followed in executing the request;
+
+*THE SUBSTANTIVE LAWS OF*
+
+### BELIZE
 
 (h) information as to the allowances and expenses to which a person asked to appear in the Requesting State will be entitled; and
 
@@ -474,13 +474,19 @@ Article 12
 
 Location or Identification of Persons or Items
 
-The Requested State shall use its best efforts to ascertain the location or identity of persons or items specified in the request.
+*location or*
+
+The Requested State shall use its best efforts to ascertain the identity of persons or items specified in the request.
 
 Article 13
 
 Service of Documents
 
-**1.** The Requested State shall use its best efforts to effect service of any document relating, in whole or in part, to any request for assistance made by the Requesting State under the provisions of this Treaty.
+*The*
+
+*request for*
+
+**1.** Requested State shall use its best efforts to effect service of any document relating, in whole or in part, to any assistance made by the Requesting State under the provisions of this Treaty.
 
 The Requesting State shall transmit any request for the service of a document requiring the appearance of a person before an authority in the Requesting State a reasonable time before the scheduled appearance.
 
@@ -664,6 +670,8 @@ The respective instruments of ratification of the Treaty having been examined an
 
 IN WITNESS WHEREOF, the respective Plenipotentiaries have signed the present Protocol of Exchange of Instruments of Ratification.
 
+[CAP. 103:01 Criminal Matters (Belize/USA)
+
 DONE at Washington, in duplicate, this second day of July, 2003 in the English language.
 
 NOW, THEREFORE, I, George. W. Bush, President of the United States of America, ratify and confirm the Treaty, subject to the aforesaid understanding.
@@ -673,3 +681,5 @@ IN TESTIMONY WHEREOF, I have signed this instrument of ratification and caused t
 DONE at the city of Washington this twenty-third day of January in the year of our Lord two thousand three and of the Independence of the United States of America the two hundred twenty-seventh.
 
 By the President.
+
+### THE SUBSTANTIVE LAWS OF BELIZE

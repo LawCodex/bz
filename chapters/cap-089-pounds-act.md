@@ -210,11 +210,9 @@ shall be liable upon summary conviction to a fine not exceeding five hundred dol
 
 Miscellaneous
 
-**15.** (1) The person lodging any cattle in a public pound shall,
-
 *Liability for, and recovery of, pound fees.*
 
-on delivering them to any pound keeper for the purpose of being lodged in any public pound, be responsible to such
+**15.** (1) The person lodging any cattle in a public pound shall, on delivering them to any pound keeper for the purpose of being lodged in any public pound, be responsible to such
 
 pound keeper for all fees, charges and expenses of keeping such cattle.
 

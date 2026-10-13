@@ -166,13 +166,23 @@ Maritime Areas of Belize
 
 **3.** (1) The territorial sea of Belize comprises those areas of the sea having, as their inner limits, the baseline of the territorial sea and, as their outer limits, a line measured seaward from that baseline, every point of which is 12 nautical miles from the nearest point of that baseline.
 
-(2) Wherever the equidistance line between Belize and an adjacent State is less than 12 nautical miles from the nearest point of the baseline of the territorial sea, the delimitation of the territorial sea shall, if possible, be effected by agreement between Belize and the adjacent State; but to the extent that if no such agreement is effected, that equidistance line shall constitute the outer limits of the territorial sea.
+*point of the*
+
+*no such*
+
+Wherever the equidistance line between Belize and an adjacent State is less than 12 nautical miles from the nearest baseline of the territorial sea, the delimitation of the territorial sea shall, if possible, be effected by agreement between Belize and the adjacent State; but to the extent that if agreement is effected, that equidistance line shall constitute the outer limits of the territorial sea.
 
 *Baseline of territorial sea.*
 
-**4.** (1) Except as otherwise provided in sub-sections (2), (3) and (4), the baseline from which the breadth of the territorial sea adjacent to Belize is measured shall be the low water line along the coast of the mainland of Belize as well as the coasts of all islands and cayes that form part of Belize.
+*(4), the adjacent to*
 
-(2) For the purposes of this section, a low-tide elevation which lies wholly or partly within the breadth of sea which would be territorial sea if all low-tide elevations were disregarded for the purpose of the measurement of the breadth thereof shall be treated as an island.
+*islands and*
+
+**4.** (1) Except as otherwise provided in sub-sections (2), (3) and baseline from which the breadth of the territorial sea Belize is measured shall be the low water line along the coast of the mainland of Belize as well as the coasts of all cayes that form part of Belize.
+
+*which lies would be*
+
+(2) For the purposes of this section, a low-tide elevation wholly or partly within the breadth of sea which territorial sea if all low-tide elevations were disregarded for the purpose of the measurement of the breadth thereof shall be treated as an island.
 
 (3)(a) The baseline from which the breadth of the territorial sea is measured between Ambergris Caye - SE and Sarstoon River – shall consist of the series of loxodromes drawn so as to join successively, in the order in which they are there set out, points situate on the low water line on or adjacent to the features listed in the Schedule.
 
@@ -198,15 +208,23 @@ Maritime Areas of Belize
 
 (2) Pending the delimitation of the exclusive economic zone pursuant to sub-section (1), the equidistance line between Belize
 
-and the adjacent State shall constitute the outer limits of the exclusive economic zone.
+*and the exclusive*
+
+adjacent State shall constitute the outer limits of the economic zone.
 
 ## PART III
 
-Rights In Respect of Maritime Areas of Belize
+*Rights*
 
-*Sovereignty in respect of territorial sea.*
+In Respect of Maritime Areas of Belize
 
-**8.** The sovereignty in respect of–
+*Sovereignty in*
+
+*The*
+
+*respect of territorial sea.*
+
+**8.** sovereignty in respect of–
 
 (a) the territorial sea;
 
@@ -214,9 +232,13 @@ Rights In Respect of Maritime Areas of Belize
 
 (c) the subsoil of that seabed, is vested in Belize, and subject to international law, is exercisable by Belize.
 
-*Rights in respect of exclusive economic zone.*
+*Rights in respect*
 
-**9.** Belize has and may exercise in respect of the exclusive economic zone–
+*Belize*
+
+*of exclusive economic zone.*
+
+**9.** has and may exercise in respect of the exclusive economic zone–
 
 (a) sovereign rights–
 
@@ -226,7 +248,7 @@ Rights In Respect of Maritime Areas of Belize
 
 (b) jurisdiction with regard to–
 
-(i) the establishment and use of artificial island, installations and structures;
+the establishment and use of artificial island, installations and structures;
 
 (ii) maritime scientific research; and
 
@@ -240,9 +262,9 @@ Rights In Respect of Maritime Areas of Belize
 
 (iii) installations and structures which may interfere with the exercise by Belize of rights in respect of the exclusive economic zone.
 
-*Prohibited activities.*
+*Prohibited 10.–(1) No activities.*
 
-**10.** (1) No person shall–
+person shall–
 
 (a) within the limits of the exclusive economic zone–
 
@@ -300,7 +322,9 @@ manner in violation of the principles of international law embodied in the Chart
 
 (k) such other activity as may be prescribed.
 
-(2) The Minister may, by Regulation designate any person, or class or description of persons, for the purposes of any provision of this Part; and the Minister may, in like manner, revoke any such designation.
+*(2) The or class or provision of revoke any such*
+
+Minister may, by Regulation designate any person, description of persons, for the purposes of any this Part; and the Minister may, in like manner, designation.
 
 (3) Where the Minister is satisfied that an area of internal waters enclosed by the baseline enacted in section 4 (3) (a) was not considered to be internal waters prior to the commencement of this Act, he may so designate those waters by Regulation and the Minister, if he ceases to be so satisfied, may, in like manner, revoke the designation of those waters.
 
@@ -324,9 +348,9 @@ manner in violation of the principles of international law embodied in the Chart
 
 territorial sea, engages in any proscribed activity.
 
-(3) In exercising the right of innocent passage, a vessel shall
+*(3) In comply with–*
 
-*comply with–*
+exercising the right of innocent passage, a vessel shall
 
 (a) generally accepted international regulations, procedures and practices for safety at sea which have effect in the territorial sea, or any part thereof; and
 
@@ -370,17 +394,23 @@ Charts and Geographical Co-Ordinates
 
 (b) the baseline of the territorial sea;
 
-(c) the outer limits of the exclusive economic zone; or
+the outer limits of the exclusive economic zone; or
 
 (d) sea lanes or traffic separation schemes.
 
-*Evidence of charts.*
+*A Evidence of*
 
-**15.** A document, purporting to be certified by the Minister or by a person designated by him for this purpose to be a true copy of a chart or list of geographical co-ordinates prepared pursuant to section 14, shall be received in any proceedings as evidence of any matter shown in the document, but without prejudice to the right to adduce evidence in rebuttal.
+*charts.*
 
-*Publicity with respect to charts.*
+*by a person*
 
-**16.** The Minister shall cause–
+*the right to*
+
+**15.** document, purporting to be certified by the Minister or designated by him for this purpose to be a true copy of a chart or list of geographical co-ordinates prepared pursuant to section 14, shall be received in any proceedings as evidence of any matter shown in the document, but without prejudice to adduce evidence in rebuttal.
+
+*Publicity with The respect to charts.*
+
+**16.** Minister shall cause–
 
 (a) due publicity to be given to charts or lists of geographical co-ordinates prepared pursuant to section 14; and
 
@@ -390,27 +420,37 @@ Charts and Geographical Co-Ordinates
 
 Jurisdiction of Courts and other Legal Matters
 
+*17.–(1)*
+
 *Jurisdiction.*
 
-**17.** (1) Notwithstanding any other law, rule or regulation to the contrary the jurisdiction and powers of the courts of Belize extend to the maritime areas of Belize for the purpose of–
+Notwithstanding any other law, rule or regulation to the contrary the jurisdiction and powers of the courts of Belize extend to the maritime areas of Belize for the purpose of–
 
 (a) this Act or any Regulation made thereunder; and
 
 (b) any enactment which applies or is applied pursuant to section 23 to maritime areas of Belize, or any part thereof.
 
-(2) For the purposes of the exercise of any jurisdiction and powers pursuant to sub-section (1), a court is a court of competent jurisdiction–
+*powers competent*
+
+For the purposes of the exercise of any jurisdiction and pursuant to sub-section (1), a court is a court of jurisdiction–
 
 (a) for the purpose of any criminal proceedings, if it would have cognisance of the offence concerned if it had been committed within the limits of its ordinary criminal jurisdiction; and
 
 (b) for the purposes of any proceedings, other than criminal proceedings, if it would have jurisdiction if the act, omission or other matter giving rise to the proceedings had occurred or arisen within the limits of its ordinary jurisdiction.
 
-(3) The Minister, after consultation with the Attorney-General, may make rules for carrying out or giving effect to this section.
+*(3) The General, may section.*
 
-(4) The jurisdiction and powers conferred by this section are in addition to and not in derogation of any other jurisdiction or powers exercisable by a court of Belize.
+Minister, after consultation with the Attorney-make rules for carrying out or giving effect to this
+
+*(4) The in addition to powers*
+
+jurisdiction and powers conferred by this section are and not in derogation of any other jurisdiction or exercisable by a court of Belize.
 
 *Apprehension of certain offenders.*
 
-**18.** (1) Subject to this section, where an authorised person has reasonable cause to believe and believes that an offence has been committed against section 10, he may exercise all or any of the following powers, namely–
+*reasonable*
+
+**18.** (1) Subject to this section, where an authorised person has cause to believe and believes that an offence has been committed against section 10, he may exercise all or any of the following powers, namely–
 
 (a) within the maritime areas of Belize, stop, board, inspect and search any vessel, or enter, inspect and search any installation, which he has reasonable cause to believe is being used for or in connection with the commission of the offence;
 
@@ -424,7 +464,9 @@ elsewhere in Belize, whom he has reasonable cause to believe has committed an of
 
 (d) enter, inspect and search any installation whose establishment, construction, operation or use would constitute the offence against that section and arrest, with or without a warrant, any person on the installation, or found elsewhere in Belize, whom he has reasonable cause to believe has committed the offence.
 
-(2) Subject to this section, where an authorised person has reasonable cause to believe and believes that an offence has been committed against section 13, he may, within the territorial sea, exercise all or any of the following powers, namely–
+*(2) Subject reasonable been committed sea, exercise all namely–*
+
+to this section, where an authorised person has cause to believe and believes that an offence has against section 13, he may, within the territorial or any of the following powers,
 
 (a) stop, board, inspect and search the foreign vessel which, in
 
@@ -576,7 +618,9 @@ sea for the production of energy from the water, current, and winds, and for any
 
 (f) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of Part II, III, or IV.
 
-(3) Without prejudice to the generality of sub-section (1), Regulations may be made with respect to the exclusive economic zone for all or any of the following purposes, namely–
+*(3) Without Regulations economic zone*
+
+prejudice to the generality of sub-section (1), may be made with respect to the exclusive for all or any of the following purposes, namely–
 
 (a) regulating the conduct of scientific research within the exclusive economic zone;
 
@@ -592,9 +636,15 @@ sea for the production of energy from the water, current, and winds, and for any
 
 (g) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of Part II, III or IV.
 
-(4) Regulations may be made with respect to the investigation and institution of proceedings in respect of any discharge from a vessel outside the maritime areas of Belize in violation of applicable international rules and standards established through the competent international organisation or general diplomatic conference.
+*investigation*
 
-(5) The Regulations may provide that a breach of any of the Regulations shall be a criminal offence, and may provide for the
+*violation of established general*
+
+(4) Regulations may be made with respect to the and institution of proceedings in respect of any discharge from a vessel outside the maritime areas of Belize in applicable international rules and standards through the competent international organisation or diplomatic conference.
+
+*(5) The Regulations*
+
+Regulations may provide that a breach of any of the shall be a criminal offence, and may provide for the
 
 imposition of a penalty, not exceeding twenty thousand dollars, for any such offence.
 

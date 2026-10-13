@@ -236,11 +236,9 @@ Ministry;
 
 (2) If the Chairperson is for any cause unable to preside at any meetings of the Commission, the Deputy Chairperson shall preside if present and able to do so, and if the Deputy Chairperson is absent or unable to preside, the members of the Commission present shall elect one of their number to preside.
 
-**5.** (1) The Commission shall be a body corporate having
-
 *Commission is a body corporate.*
 
-perpetual succession and a common seal and subject to the provisions of this Act, shall have the power to acquire, hold and dispose of movable and immovable property of whatever kind and to enter into contracts and do all things necessary for the attainment of its objectives and functions.
+**5.** (1) The Commission shall be a body corporate having perpetual succession and a common seal and subject to the provisions of this Act, shall have the power to acquire, hold and dispose of movable and immovable property of whatever kind and to enter into contracts and do all things necessary for the attainment of its objectives and functions.
 
 (2) The Commission may sue and be sued in its corporate name and shall for all purposes be described by that name.
 
@@ -252,11 +250,9 @@ perpetual succession and a common seal and subject to the provisions of this Act
 
 (2) The seal of the Commission shall be authenticated by the signature of the Chairperson of the Commission and one other member of the Commission designated by the Commission to act for that purpose and such seal shall be judicially and officially noticed.
 
-(3) All documents, other than those required by law to be
-
 *\15. 0f 2008.*
 
-under seal, made by, and all decisions of, the Commission may be signified under the hand of the Chairperson or the Executive Director.
+(3) All documents, other than those required by law to be under seal, made by, and all decisions of, the Commission may be signified under the hand of the Chairperson or the Executive Director.
 
 *Meetings of the Commission.*
 
@@ -314,6 +310,10 @@ Committees appointed under section 8;
 
 (a) oversight of implementation of decisions of the National AIDS Commission;
 
+*[CAP. 34:01*
+
+Belize National AIDS Commission
+
 (b) working with and facilitating the Executive Director and staff in follow up of the Commission’s decisions;
 
 (c) mobilizing financial and other resources for supporting the activities of the Commission;
@@ -322,11 +322,23 @@ Committees appointed under section 8;
 
 (e) such other functions as may be assigned by the Commission by terms of reference or otherwise.
 
-*Powers of the Commission to appoint Committees.*
+*Powers of the Commission to*
 
-**8.** (l) The Commission may from time to time appoint committees to carry out such tasks as the Commission may assign to them.
+*8.-(l) The*
 
-(2) Without prejudice to the generality of sub-section (1), the Commission may, when establishing Committees–
+*appoint*
+
+*committees to*
+
+*Committees.*
+
+Commission may from time to time appoint carry out such tasks as the Commission may
+
+*assign to them.*
+
+*(2) Without*
+
+prejudice to the generality of sub-section (1), the Commission may, when establishing Committees–
 
 (a) appoint a member of the Commission to be the Chairperson of the Committee;
 
@@ -334,23 +346,33 @@ Committees appointed under section 8;
 
 (c) clearly state in writing the terms of reference of each Committee and the period for which it is appointed.
 
-(3) Every such Committee shall, through its Chairperson, report its proceedings to the Commission and the decisions and conclusions of the Committee shall be subject to the approval of
+*THE SUBSTANTIVE LAWS OF*
+
+*(3) Every report its conclusions of the*
 
 *52 of 2017.*
 
-the Commission.
+such Committee shall, through its Chairperson, proceedings to the Commission and the decisions and the Committee shall be subject to the approval of Commission.
 
-(4) Meetings of every Committee shall be governed by the same rules as those governing the meetings of the Commission, subject to any special rules that may be made by the Commission in that behalf.
+*same rules as*
 
-*Objectives of the Commission.*
+*Commission in*
 
-**9.** The objectives of the Commission include the following–
+(4) Meetings of every Committee shall be governed by the those governing the meetings of the Commission, subject to any special rules that may be made by the that behalf.
 
-(a) the inter-sectoral coordination of the
+*Objectives of the*
+
+*The*
+
+*Commission.*
+
+**9.** objectives of the Commission include the
+
+*following–*
 
 *52 of 2017.*
 
-implementation of a national HIV/AIDS-TB strategic plan, development of policies, mobilization of resources for the purposes of the national HIV/AIDS-TB strategic plan, advocacy and development of mechanisms for monitoring and evaluation;
+(a) the inter-sectoral coordination of the implementation of a national HIV/AIDS-TB strategic plan, development of policies, mobilization of resources for the purposes of the national HIV/AIDS-TB strategic plan, advocacy and development of mechanisms for monitoring and evaluation;
 
 (b) identifying and adopting, in conjunction with other relevant institutions, all such measures and policies that promote safe sexual practices in Belize;
 
@@ -364,51 +386,59 @@ implementation of a national HIV/AIDS-TB strategic plan, development of policies
 
 (e) facilitating the development, establishment and monitoring of broad policy guidelines on
 
-public education and awareness programmes that will make the public perceptive of the impact of HIV/AIDS-TB in its social, economic, medical and legal dimensions;
+*[CAP. 34:01*
 
-(f) fostering and maintaining a strong interdependent partnership based on the principle of equal partnership and mutual respect between the Commission, the Government, Non-Governmental Organizations, International Organizations and Statutory Bodies so as to create an
+Belize National AIDS Commission
+
+public education and awareness programmes that will make the public perceptive of the impact of HIV/AIDS-TB in its social, economic, medical and legal dimensions;
 
 *52 of 2017.*
 
-enabling multi-sectoral approach for the full participation of such entities in response to the spread of HIV/AIDS-TB;
+(f) fostering and maintaining a strong interdependent partnership based on the principle of equal partnership and mutual respect between the Commission, the Government, Non-Governmental Organizations, International Organizations and Statutory Bodies so as to create an enabling multi-sectoral approach for the full participation of such entities in response to the spread of HIV/AIDS-TB;
 
 *52 of 2017.*
 
 (g) developing and implementing a nationa1 HIV/AIDS-TB strategic plan.
 
-*Duties and functions of the Commission.*
+*Duties and The functions of the are not limited Commission.*
 
-**10.** The duties and functions of the Commission include, but are not limited to the following–
-
-(a) multi-sectoral coordination, evaluating and
+**10.** duties and functions of the Commission include, but to the following–
 
 *52 of 2017.*
 
-monitoring of the national HIV/AIDS-TB strategic plan referred to in section 9(g) of this Act;
-
-(b) making submissions to international organizations for and on behalf of Belize, for the supply of financial, technical, medical and pharmaceutical drugs and assistance for use in
+(a) multi-sectoral coordination, evaluating and monitoring of the national HIV/AIDS-TB strategic plan referred to in section 9(g) of this Act;
 
 *52 of 2017.*
 
-fighting the spread of AIDS, HIV and HIV/AIDS-TB, and for treating AIDS, HIV and HIV/AIDS-TB patients in Belize;
+(b) making submissions to international organizations for and on behalf of Belize, for the supply of financial, technical, medical and pharmaceutical drugs and assistance for use in fighting the spread of AIDS, HIV and HIV/AIDS-TB, and for treating AIDS, HIV and HIV/AIDS-TB patients in Belize;
 
 (c) liaising with educational institutions, the print, television and radio media and advocating the development of programmes that educate the public on the social, economic, medical and
+
+*THE SUBSTANTIVE LAWS OF*
 
 legal impact of AIDS, HIV and HIV/AIDS-TB;
 
 (d) facilitating the promotion of a cost-effective approach to the acquisition by Belize of pharmaceutical drugs used to treat HIV;
 
-(e) entering into agreements, memoranda of understanding, contracts and other arrangements with research institutions and other organizations, within and outside Belize, involved in activities related to the prevention
-
 *52 of 2017.*
 
-and control of AIDS, HIV and HIV/AIDS-TB;
+(e) entering into agreements, memoranda of understanding, contracts and other arrangements with research institutions and other organizations, within and outside Belize, involved in activities related to the prevention and control of AIDS, HIV and HIV/AIDS-TB;
 
 (f) generally taking all such other lawful measures as it considers fit and proper to assist in carrying out its functions most effectively.
 
-*General powers of the Commission to transact business.*
+*General powers*
 
-**11.** Subject to the provisions of this Act, the Commission shall have power, for the purpose of attaining its objectives, discharging its duties and performing its functions–
+*Subject*
+
+*of the*
+
+*shall have*
+
+*Commission to transact business.*
+
+*discharging its*
+
+**11.** to the provisions of this Act, the Commission power, for the purpose of attaining its objectives, duties and performing its functions–
 
 (a) to carry on all activities the carrying on of which appears to be requisite, advantageous or convenient for or in connection with the discharge of its duties and performance of its functions;
 

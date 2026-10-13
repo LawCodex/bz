@@ -82,6 +82,10 @@ Punishment
 
 **15.** Consecutive sentences of imprisonment.
 
+*[CAP.*
+
+99 Summary Jurisdiction (Procedure)
+
 ## PART III Abetment and Attempt
 
 **16.** Abetment of summary conviction offence.
@@ -117,6 +121,10 @@ Enforcing Appearance of Defendant
 **28.** Hearing ex parte, or issue of warrant, on non-appearance of defendant.
 
 **29.** Issue of warrant for defendant in first instance.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 ## PART V
 
@@ -170,6 +178,10 @@ Order for Taking of Prints
 
 **48.** Taking of prints by order of the court.
 
+*[CAP.*
+
+99 Summary Jurisdiction (Procedure)
+
 Transfer of Cause
 
 Transfer of cause where ground of complaint has arisen out of jurisdiction of the court.
@@ -216,6 +228,10 @@ Distress Warrant
 
 **65.** Commitment or security until return made to distress warrant. Imprisonment in default of distress.
 
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
+
 General provisions with respect to distress warrants.
 
 Payment of amount of distress warrant.
@@ -261,6 +277,10 @@ Maintenance Orders (Facilities for Enforcement)
 **81.** Interpretation of terms in Part IX.
 
 **82.** Enforcement in Belize of maintenance orders made in England or Northern Ireland.
+
+*[CAP.*
+
+99 Summary Jurisdiction (Procedure)
 
 Transmission of maintenance orders made in Belize. Provisional orders of maintenance against persons resident in England or Northern Ireland.
 
@@ -313,6 +333,10 @@ Proceedings relating to Stolen Goods, etc.
 **104.** Restitution order and its effect.
 
 **105.** Goods of unknown owner may be sold.
+
+*THE SUBSTANTIVE*
+
+### LAWS OF BELIZE
 
 Seizure and Restitution of Property
 
@@ -594,17 +618,31 @@ In every case where no time is specially limited for making a complaint for a su
 
 (6) After the statement of the offence, necessary particulars of the offence shall be set out in ordinary language, in which the use of technical terms shall not be required.
 
-(7) Any information, complaint, summons, warrant or other document to which this section applies which is in such form as would have been sufficient in law if this Act had not passed shall, notwithstanding anything in this section, continue to be sufficient in law.
+*(7) Any document to*
 
-*Statement of exception.*
+*shall, sufficient in*
 
-**22.** Any exception, exemption, proviso, condition, excuse or qualification, whether it does or does not accompany in the same section the description of the offence in the statute creating an offence, may be proved by the defendant, but need not be specified or negatived in the complaint and, if so specified or negatived, no proof in relation to the matter so specified or negatived shall be required on the part of the complainant.
+information, complaint, summons, warrant or other which this section applies which is in such form as would have been sufficient in law if this Act had not passed notwithstanding anything in this section, continue to be law.
+
+*Statement of Any exception.*
+
+*creating an not be specified or specified or complainant.*
+
+**22.** exception, exemption, proviso, condition, excuse or qualification, whether it does or does not accompany in the same section the description of the offence in the statute offence, may be proved by the defendant, but need specified or negatived in the complaint and, if so negatived, no proof in relation to the matter so negatived shall be required on the part of the
 
 Search Warrant
 
-*Issue of search warrant and proceedings there under.*
+*23.-(1) Any Issue of search*
 
-**23.** (1) Any magistrate who is satisfied, by proof upon oath, that there is reasonable ground for believing that there is, in any building, ship, vehicle, aircraft, box, receptacle or place,
+*warrant and*
+
+*that there is*
+
+*proceedings*
+
+*any building, there under.*
+
+magistrate who is satisfied, by proof upon oath, reasonable ground for believing that there is, in ship, vehicle, aircraft, box, receptacle or place,
 
 (a) any thing upon, or in respect of which, any summary conviction offence has been or is suspected to have been committed for which, according to any statute for the time being in force, the offender may be arrested without warrant; or
 
@@ -826,11 +864,9 @@ conditioned for his appearance at the time and place to which the hearing or fur
 
 Order for Taking of Prints
 
-**48.** (1) Where any person not less than fourteen years of age
-
 *Taking of prints by order of the court. 15 of 1971. 4 of 1967.*
 
-who has been taken into custody is charged with an offence before a court, the court may, if it thinks fit, on the application of a police officer not below the rank of assistant inspector, order that the prints of that person be taken by a police officer or other person named in the order.
+**48.** (1) Where any person not less than fourteen years of age who has been taken into custody is charged with an offence before a court, the court may, if it thinks fit, on the application of a police officer not below the rank of assistant inspector, order that the prints of that person be taken by a police officer or other person named in the order.
 
 (2) Prints taken in pursuance of an order made under this section shall be taken either at the court or, if the person to whom the order relates is remanded in custody, at any place to which he is committed, and a police officer or other person named in such order may use such reasonable force as may be necessary for that purpose.
 
@@ -996,9 +1032,13 @@ instead of issuing a distress warrant, order the defendant, on non- payment of t
 
 **66.** Where a distress warrant is issued against the defendant, and a return is made by the police officer charged with the execution of the warrant to the effect that no sufficient goods and chattels of the defendant can be found whereon to levy the distress, the court may order the defendant, on nonpayment of the sum of money adjudged to be paid by the order and all costs and charges of the distress and of the commitment, to be imprisoned for any term not exceeding the term prescribed by section 55 in respect of a like sum in the scale of imprisonment in default of payment of sums of money adjudged to be paid by orders.
 
-*General provisions with respect to distress warrants.*
+*67.-(1) The General provisions with to the*
 
-**67.** (1) The following provisions shall have effect with respect to the execution of distress warrants issued by the court, namely,
+*respect to*
+
+following provisions shall have effect with respect execution of distress warrants issued by the court,
+
+*namely, distress warrants.*
 
 (a) a distress warrant shall be executed by or under the direction of a police officer;
 
@@ -1008,7 +1048,11 @@ instead of issuing a distress warrant, order the defendant, on non- payment of t
 
 (d) subject as aforesaid, the distress shall be sold within the time fixed by the warrant, and if no time is so fixed then within the period of fourteen days from the date of the making of the distress, unless the sum for which the warrant was issued, and also the charges of taking and keeping the distress, are sooner paid.
 
-(2) If any person charged with the execution of any distress warrant wilfully retains from the proceeds of any property sold to satisfy the distress, or otherwise exacts any greater costs or charges than those to which he is for the time being entitled by
+*(2) If any*
+
+*to satisfy the charges than*
+
+person charged with the execution of any distress warrant wilfully retains from the proceeds of any property sold distress, or otherwise exacts any greater costs or those to which he is for the time being entitled by
 
 law, or makes any improper charge, he shall on conviction thereof, be liable to a fine not exceeding fifty dollars.
 
@@ -1106,15 +1150,23 @@ Summary Order
 
 (d) generally make such arrangements for carrying the power into effect as to the court seems fit.
 
-(2) Every person who makes default in complying with an order of the court in relation to any matter arising under a statute, other than the payment of money,
+*(2) Every order of the statute, other*
+
+person who makes default in complying with an court in relation to any matter arising under a than the payment of money,
 
 (a) shall be punished in the manner prescribed by that statute; or
 
 (b) if no punishment is thereby prescribed, may subject to subsection (3) of this section, in the discretion of the court, be ordered to pay a sum not exceeding five dollars for every day during which he is in default, or to be imprisoned until he has remedied his default.
 
-(3) A person shall not, for noncompliance with the direction of the court, whether made by one or more orders, to do or abstain from doing any act or thing, be liable under this section to the payment of any sums amounting in the aggregate to more than four hundred dollars or to imprisonment for any periods amounting in the aggregate to more than two months.
+*of the court, abstain from*
 
-(4) In making any order under this section, the court may order that,
+*periods*
+
+(3) A person shall not, for noncompliance with the direction whether made by one or more orders, to do or doing any act or thing, be liable under this section to the payment of any sums amounting in the aggregate to more than four hundred dollars or to imprisonment for any amounting in the aggregate to more than two months.
+
+*(4) In order that,*
+
+making any order under this section, the court may
 
 (a) in default of compliance with the order, the defendant shall pay to the complainant a sum
 
@@ -1128,15 +1180,21 @@ Summary Trial of Crimes
 
 Summary trials of indictable offences generally
 
-*Remand of person charged.*
+*Remand of person charged. crime with*
 
-**79.** (1) Where a person is charged before the court with a crime with which the court has power to deal summarily, in accordance with the provisions of section 50 of the Summary Jurisdiction (Offences) Act, Cap. 98, the court, without prejudice to any other power which it possesses, may, for the purpose of ascertaining whether it is expedient to deal with the case summarily, either before or during the hearing of the cause, adjourn the cause and remand the person charged.
+*Jurisdiction*
 
-(2) A person may be remanded under this section in like manner in all respects as a person accused of a crime may be remanded.
+*purpose of case*
 
-*General provisions as to dealing summarily with crimes.*
+**79.** (1) Where a person is charged before the court with a which the court has power to deal summarily, in accordance with the provisions of section 50 of the Summary (Offences) Act, Cap. 98, the court, without prejudice to any other power which it possesses, may, for the ascertaining whether it is expedient to deal with the summarily, either before or during the hearing of the cause, adjourn the cause and remand the person charged.
 
-**80.** (1) Where a crime is, in the circumstances mentioned in section 50 of the Summary Jurisdiction (Offences) Act, Cap. 98, authorised to be dealt with summarily,
+*manner in all remanded.*
+
+(2) A person may be remanded under this section in like respects as a person accused of a crime may be
+
+*General provisions as to section 50 of dealing summarily with crimes.*
+
+**80.** (1) Where a crime is, in the circumstances mentioned in the Summary Jurisdiction (Offences) Act, Cap. 98, authorised to be dealt with summarily,
 
 (a) the procedure shall, until the court assumes the power to deal with the crime summarily, be the same in all respects as if the crime were to be dealt with throughout under the
 
@@ -1524,15 +1582,29 @@ himself, and that he has no visible means of subsistence, the court, instead of 
 
 **123.** If any person so ordered to be detained in a poor-house becomes so ill that, in the opinion of a government medical officer, he cannot be properly treated therein, the officers of the poor-house, with the sanction of the Director of Medical Services, may cause the person to be conveyed to the nearest public hospital for medical treatment therein, and the person on his discharge from the hospital shall be taken back to a poorhouse and there detained as hereinbefore mentioned.
 
-*Arrest of person detained in case of escape.*
+*\124. A person*
 
-**124.** A person so ordered to be detained in a poor-house who leaves it, or any public hospital to which he has been removed, before he has been discharged as provided by sections 121 and 122 of this Act may be arrested, without warrant, by any police officer and conveyed back to a poor-house, and there detained as hereinbefore mentioned.
+*Arrest of person detained in case*
+
+*leaves it, or any*
+
+*of escape.*
+
+*before he has 122 of this Act officer and as hereinbefore*
+
+so ordered to be detained in a poor-house who public hospital to which he has been removed, been discharged as provided by sections 121 and may be arrested, without warrant, by any police conveyed back to a poor-house, and there detained mentioned.
 
 Saving of Validity of Process
 
-*Provisions as to certain proceedings in the court.*
+*\125. The*
 
-**125.** The following provisions with respect to certain proceedings in the court shall have effect, that is to say,
+*Provisions as to certain*
+
+*proceedings in*
+
+*proceedings in the court.*
+
+following provisions with respect to certain the court shall have effect, that is to say,
 
 (a) a warrant of commitment shall not be held void by reason only of any defect therein, if it is therein alleged that the offender has been ordered to do or to abstain from doing any act or thing required to be done or left undone, and there is a good and valid order to sustain the allegation;
 
@@ -1646,7 +1718,9 @@ Records
 
 **140.** Every record book and register mentioned in sections 138 and 139 of this Act, shall remain in the judicial district and in the custody of the clerk.
 
-## SCHEDULE SUMMARY JURISDICTION (PROCEDURE) ACT Offences to which the Defendant may plead Guilty by Letter
+*Offences to*
+
+## SCHEDULE SUMMARY JURISDICTION (PROCEDURE) ACT which the Defendant may plead Guilty by Letter
 
 [Section 41]
 
@@ -1658,10 +1732,14 @@ Records
 
 **2.** DOGS.
 
-Any offence against sections 3, 9 and 10 of the Dogs Act, Cap.
+*Any offence*
+
+against sections 3, 9 and 10 of the Dogs Act, Cap.
 
 153.
 
 **3.** SUMMARY OFFENCES.
 
-Any offence against section 4 (1) (v), (vi), (xi), (xii), (xviii), (xxvi), (xxviii) and (xli) of the Summary Jurisdiction (Offences) Act, Cap. 153.
+*Any offence (xxvi), (xxviii) Act, Cap. 153.*
+
+against section 4 (1) (v), (vi), (xi), (xii), (xviii), and (xli) of the Summary Jurisdiction (Offences)

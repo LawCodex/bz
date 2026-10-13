@@ -570,7 +570,9 @@ this Act remaining after allowing the appropriate deductions and exemptions unde
 
 “trade” includes every trade, manufacture, adventure or concern in the nature of trade;
 
-“year of assessment” means a period of twelve months commencing on 15th January in each year.
+*“year of*
+
+assessment” means a period of twelve months commencing on 15th January in each year.
 
 *8 of 2019.*
 
@@ -582,11 +584,21 @@ this Act remaining after allowing the appropriate deductions and exemptions unde
 
 ## PART II
 
-Basis of Assessment and Charges, etc. of Income Tax.
+*Basis of*
 
-*Charge of income tax. 3 of 2001.*
+Assessment and Charges, etc. of Income Tax.
 
-**5.** (1) Income tax shall, subject to this Act, be payable at the rate or rates specified hereafter in sections 21 and 22 of this Act, for the year of assessment commencing on 15th January, 1999 and for each subsequent year of assessment upon the chargeable income of any person accruing in or derived from Belize, whether received in Belize or not in respect of–
+*Charge of income tax.*
+
+*rate or rates*
+
+*3 of 2001.*
+
+*and for each*
+
+*whether*
+
+**5.** (1) Income tax shall, subject to this Act, be payable at the specified hereafter in sections 21 and 22 of this Act, for the year of assessment commencing on 15th January, 1999 subsequent year of assessment upon the chargeable income of any person accruing in or derived from Belize, received in Belize or not in respect of–
 
 (a) in the case of a person other than an employed person, the gains or profits from any trade, business, profession or vocation, for whatever period of time such trade, business, profession or vocation may have been carried on or exercised;
 
@@ -602,9 +614,13 @@ maximum of one month’s basic salary; or
 
 (2) Repealed by Act 3 of 2001.
 
-(3) The gains and profits from any employment exercised in the country shall be deemed to be derived from the country whether the gains or profits from such employment are received in the country or not.
+*(3) The the country whether the*
 
-(4) Where a loan is made to a director or a shareholder or to a relative of a shareholder of a company, the amount thereof shall be included in computing the income of the person to whom the loan was made unless–
+gains and profits from any employment exercised in shall be deemed to be derived from the country gains or profits from such employment are received in the country or not.
+
+*shall be*
+
+(4) Where a loan is made to a director or a shareholder or to a relative of a shareholder of a company, the amount thereof included in computing the income of the person to whom the loan was made unless–
 
 (a) the loan was made in the ordinary course of the lender’s business and the lending of money was part of its ordinary business;
 
@@ -722,9 +738,15 @@ the income arising from a scholarship, exhibition, bursary or any other similar 
 
 (y) interest paid or received by a company that is issued a DPA status under the Designated Processing Areas Act in relation to income earned through a bond or dividends paid to or received by a shareholder in any basis year if the activities of such company includes activities within a national priority sector in accordance with the Designated Processing Areas Act.
 
-*26 of 2018. 25 of 2019.*
+*26 of 2018.*
 
-(2) Subject to sub-section (1)(y), nothing in this section shall be construed to exempt in the hands of the recipients any
+*(2) Subject*
+
+*25 of 2019.*
+
+*be construed to*
+
+to sub-section (1)(y), nothing in this section shall exempt in the hands of the recipients any
 
 dividends, interest, bonuses, salaries or wages paid wholly or in part out of the income so exempted.
 
@@ -748,11 +770,23 @@ Provided that the Minister may, by Order published in the Gazette, include any o
 
 **10.** The Governor-General may by proclamation published in the Gazette provide that the interest payable on any loan charged on the public revenue of Belize shall be exempted from tax, either generally or only in respect of interest payable to persons not resident in Belize, and such interest shall as from
 
-the date and to the extent specified in the proclamation be exempted accordingly.
+*the date and to exempted*
 
-*Deductions allowed. 7 of 1982. 7 of 1999.*
+the extent specified in the proclamation be accordingly.
 
-**11.** (1) For the purpose of ascertaining the chargeable income of any person other than an employed person, there shall be deducted all bona fide expenses wholly and exclusively incurred during the basis year by such person other than an employed person in the production of the income, including–
+*Deductions*
+
+*11.–(1) For the*
+
+*allowed.*
+
+*of any person*
+
+*7 of 1982. 7 of 1999.*
+
+*deducted all during the basis person in the*
+
+purpose of ascertaining the chargeable income other than an employed person, there shall be bona fide expenses wholly and exclusively incurred year by such person other than an employed production of the income, including–
 
 (a) any sums paid by such person as–
 
@@ -864,9 +898,9 @@ preceding year own any of the shares in the company; or
 
 (b) the company was not during the basis year carrying on the business in which the loss was sustained.
 
-*Deduction in case of residents in Belize. 13 of 2010. 30 of 2010.*
+*Deduction in 16.–(1) In case of residents individual who in Belize. 13 of 2010. basic deduction 30 of 2010.*
 
-**16.** (1) In ascertaining the chargeable income of an employed individual who is resident in Belize, there shall be allowed a basic deduction in the following amounts–
+ascertaining the chargeable income of an employed is resident in Belize, there shall be allowed a in the following amounts–
 
 (a) in the case of an employed individual whose total income in a basis year from all sources does not exceed twenty six thousand dollars - ---------------------------------------- $25,600.00.
 
@@ -876,9 +910,11 @@ preceding year own any of the shares in the company; or
 
 (d) in the case of all other employed individuals - ----------------------------------------$19,600.00.
 
-*19 of 1998. 16 of 1994.*
+*(2) Any*
 
-(2) Any employed individual who is resident in Belize and whose total income in a basis year from all sources is less than
+*19 of 1998. 16 of 1994. whose total*
+
+employed individual who is resident in Belize and income in a basis year from all sources is less than
 
 twenty thousand dollars shall not be chargeable to tax in that year.
 
@@ -910,17 +946,29 @@ before making the deductions specified in this section and in section 16 of this
 
 *16 of 1994.*
 
-(3) Where the amount of any such gifts in the basis year is such that it cannot be wholly deducted in the year of assessment, the amount of such gifts shall, to the extent to which it is not deducted, be carried forward and shall, subject to the same limitation hereinbefore imposed, be deducted from what would otherwise have been the chargeable income for the next five years in succession.
+*such that it*
+
+*limitation*
+
+*years in*
+
+(3) Where the amount of any such gifts in the basis year is cannot be wholly deducted in the year of assessment, the amount of such gifts shall, to the extent to which it is not deducted, be carried forward and shall, subject to the same hereinbefore imposed, be deducted from what would otherwise have been the chargeable income for the next five succession.
 
 *3 of 1992.*
 
-(4) Notwithstanding the provisions of sub-sections (1) and
+*(2) of this*
 
-(2) of this section but subject to sub-section (3) of this section, there shall be allowed a deduction of up to four hundred dollars for every child, not being a child living with the individual at any time during the basis year under the age of sixteen years and wholly maintained by him during the basis year, for any school fees or books or any contribution to education, provided that the total deduction under this sub-section shall not exceed one thousand six hundred dollars.
+*wholly*
 
-*Provision for certain companies and businesses.*
+(4) Notwithstanding the provisions of sub-sections (1) and section but subject to sub-section (3) of this section, there shall be allowed a deduction of up to four hundred dollars for every child, not being a child living with the individual at any time during the basis year under the age of sixteen years and maintained by him during the basis year, for any school fees or books or any contribution to education, provided that the total deduction under this sub-section shall not exceed one thousand six hundred dollars.
 
-**18.** Notwithstanding anything to the contrary in this Act, it is hereby provided that–
+*Provision for certain*
+
+*is hereby companies and*
+
+**18.** Notwithstanding anything to the contrary in this Act, it provided that–
+
+*businesses.*
 
 (a) in the case of an insurance company, other than a life insurance company, where the gains or profits accrue in part outside Belize, the gains or profits on which tax is payable shall be ascertained by taking the gross premiums and interest and other income received or receivable in Belize, less any premiums returned to the insured and premiums paid on re-insurances, and deducting from the balance so arrived at a reserve for unexpired risks at the percentage adopted by the company in relation to its operations as a whole for such risks at the end of the basis year, and adding thereto a reserve similarly calculated for unexpired risks outstanding at the
 
@@ -928,11 +976,23 @@ commencement of the basis year, and from the net amount so arrived at deducting 
 
 (b) in the case of a life insurance company, whether mutual or proprietary, the gains or profits on which tax is payable shall be the investment income less the management expenses, including commission, but where such a company received premiums outside Belize, the gains or profits shall be the same proportion of the total investment income of the company as the premiums received in Belize bore to the total premiums received after deducting from the amount so arrived at the agency expenses in Belize and a fair proportion of the expenses of the head office of the company.
 
-*Wife’s income and separate returns by husband and wife. 19 of 1970.*
+*Wife’s income and separate*
 
-**19.** (1) The income of a married woman living with her husband shall, for the purposes of this Act, be deemed to be the income of the husband, and shall be charged in the name of the husband and not in her name nor in that of her trustee, however, that part of the total amount of tax charged upon the husband which bears the same proportion to that total amount as the amount of the total income of the husband and wife may, if necessary, be collected from the wife, notwithstanding that no assessment has been made upon her.
+*19.–(1) The*
 
-(2) Notwithstanding sub-section (1), amounts may be withheld on account of tax from the emoluments earned by married women during the basis year.
+*returns by husband and*
+
+*shall, for the*
+
+*wife. 19 of 1970.*
+
+*of the total the same*
+
+income of a married woman living with her husband purposes of this Act, be deemed to be the income of the husband, and shall be charged in the name of the husband and not in her name nor in that of her trustee, however, that part amount of tax charged upon the husband which bears proportion to that total amount as the amount of the total income of the husband and wife may, if necessary, be collected from the wife, notwithstanding that no assessment has been made upon her.
+
+*withheld on*
+
+(2) Notwithstanding sub-section (1), amounts may be account of tax from the emoluments earned by married women during the basis year.
 
 *3 of 1992.*
 
@@ -950,25 +1010,47 @@ the income of a married woman living with her husband shall be assessed and char
 
 (d) any election under this section that could have been made within any period jointly with a spouse who has died may, within that period, be made jointly with the deceased’s personal representatives.
 
-*Rate of taxes upon persons other than companies. 7 of 1999. 16 of 1994.*
+*Rate of taxes 20.–(1) upon persons and for each other than companies. income of every 7 of 1999.*
 
-**20.** (1) Commencing from the first day of the basis year 1999 and for each subsequent basis year, the tax on the chargeable income of every employed person shall be charged at the rate of twenty-five per centum of the chargeable income.
-
-(2) On gross interest income from time deposits, there shall be charged a tax of 5%, which shall be a final tax.
-
-(3) On gross winnings from lottery or other similar activity, there shall be charged a tax at the rate of 15% of such winnings, which shall be a final tax.
+*twenty-five per*
 
 *16 of 1994.*
 
-(4) The tax specified in sub-sections (2) and (3) of this section shall be collected at source.
+Commencing from the first day of the basis year 1999 subsequent basis year, the tax on the chargeable employed person shall be charged at the rate of centum of the chargeable income.
 
-*Taxes from 1999 basis year. 7 of 1999.*
+*(2) On gross be charged a tax*
 
-**21.** (1) Commencing from the first day of the basis year 1999 and for each subsequent year, the tax upon the chargeable income of any person other than an employed person shall be charged at the rate of twenty-five per centum of the amount of the chargeable income.
+interest income from time deposits, there shall of 5%, which shall be a final tax.
+
+*there shall be*
+
+(3) On gross winnings from lottery or other similar activity, charged a tax at the rate of 15% of such winnings, which shall be a final tax.
+
+*16 of 1994.*
+
+*(4) The tax section shall be*
+
+specified in sub-sections (2) and (3) of this collected at source.
+
+*Taxes from 1999*
+
+*21.–(1)*
+
+*basis year.*
+
+*and for each*
+
+*7 of 1999.*
+
+*income of any charged at the the chargeable*
+
+Commencing from the first day of the basis year 1999 subsequent year, the tax upon the chargeable person other than an employed person shall be rate of twenty-five per centum of the amount of income.
 
 *26 of 2018.*
 
-Provided that–
+*Provided*
+
+that–
 
 (a) the rate of tax for persons engaged in petroleum operations shall be forty per centum of the amount of the surchargeable income derived from such operations, and such tax shall be payable in the currency of the United States of America (US$);
 
@@ -1042,11 +1124,9 @@ determined by the Commissioner, be subject to review, objection and appeal as pr
 
 (9) Where a non-resident person is chargeable to tax in the name of any attorney, factor, agent, receiver, branch or manager, in respect of any gains or profits arising from the sale of goods or produce manufactured or produced out of the country by the non-resident person, the person in whose name the non-resident person is so chargeable may, if he thinks fit, apply to the Commissioner or, in the case of an objection, to the Board, to have the assessment to tax in respect of those gains or profits made or amended on the basis of the profits which might reasonably be expected to have been earned by a merchant or, where the goods are retailed by or on behalf of the manufacturer or producer, by a retailer of the goods sold who has bought from the manufacturer or producer direct, and on proof to the satisfaction of the Commissioner or the Board, as the case may be, of the amount of the profits on the basis aforesaid, the assessment shall be made or amended accordingly without prejudice to any right of appeal conferred by section 43 of this Act.
 
-he person who is chargeable in respect of an
-
 *Responsibilities of trustees.*
 
-incapacitated person, or in whose name a non-resident is chargeable, shall be answerable for all matters required to be done by virtue of this Act for the assessment of the income of any person for whom he acts and for paying the tax chargeable thereon.
+he person who is chargeable in respect of an incapacitated person, or in whose name a non-resident is chargeable, shall be answerable for all matters required to be done by virtue of this Act for the assessment of the income of any person for whom he acts and for paying the tax chargeable thereon.
 
 *Statement to be prepared by trustees, etc. 11 of 1964.*
 
@@ -1152,11 +1232,17 @@ entities under going a restructure and liquidation or proposing to sell all of i
 
 (v) any other business entities.
 
-(2) For the purposes of sub-section (1)(c), the Commissioner shall have regard to total assets, revenues and the average number of employees during the reporting period.
+*shall have number of*
 
-(3) The procedural details of this requirement may be as prescribed.
+(2) For the purposes of sub-section (1)(c), the Commissioner regard to total assets, revenues and the average employees during the reporting period.
 
-(4) Every person who contravenes any of the provisions of this section commits an offence.
+*(3) The prescribed.*
+
+procedural details of this requirement may be as
+
+*(4) Every this section*
+
+person who contravenes any of the provisions of commits an offence.
 
 *8 of 2019.*
 
@@ -1166,9 +1252,9 @@ entities under going a restructure and liquidation or proposing to sell all of i
 
 **34.** Repealed.
 
-*Partnerships.*
+*Partnerships. carried on by*
 
-**35.** (1) Where a trade, business, profession or vocation is carried on by two or more persons jointly–
+**35.** (1) Where a trade, business, profession or vocation is two or more persons jointly–
 
 (a) the income of any partner from the partnership shall be deemed to be the share to which he was entitled during the basis year in the income of the partnership, such income being ascertained in accordance with the provisions of this Act, and shall be included in the return of income to be made by such partner under this Act;
 
@@ -1178,7 +1264,9 @@ the precedent partner shall, when required by the Commissioner, make and deliver
 
 (d) the provisions of this Act with respect to the failure to deliver returns or particulars in accordance with a notice from the Commissioner shall apply to any return required under this section.
 
-(2) In this section “precedent partner” means the partner who of the partners resident in Belize–
+*(2) In this who of the*
+
+section “precedent partner” means the partner partners resident in Belize–
 
 (a) is first named in the agreement of partnership;
 
@@ -1198,11 +1286,9 @@ the precedent partner shall, when required by the Commissioner, make and deliver
 
 37.
 
-**38.** (1) The Commissioner shall with all due dispatch assess the
-
 *Commissioner to make assessments. 11 of 1964. 3 of 1971. 8 of 1997. 19 of 1998.*
 
-tax for the basis year and levy any penalty that may be payable.
+**38.** (1) The Commissioner shall with all due dispatch assess the tax for the basis year and levy any penalty that may be payable.
 
 (2) Where a person has delivered a return, the Commissioner may–
 
@@ -1284,11 +1370,9 @@ shall be entitled only to relief at a rate equal to half the appropriate rate of
 
 (4) For the purposes of this section, the expression “rate of tax”, when applied to tax paid or payable under this Act means the rate determined by dividing the amount of the tax paid or payable for any year before the deduction of the relief granted under this section by the amount of the income in respect of which the tax paid or payable under this Act has been charged for that year, except that where the income which is the subject of a claim to relief under this section is computed by reference to section 25 of this Act on an amount other than the ascertained amount of the actual profits, the rate of tax shall be determined by the Commissioner.
 
-**47.** (1) If any person resident in Belize who has paid, by
-
 *Relief in respect of Commonwealth Income Tax. 11 of 1964.*
 
-deduction or otherwise, or is liable to pay, tax under this Act for any year of assessment or any part of his income, proves to the satisfaction of the Commissioner that he has paid by deduction or otherwise, or is liable to pay, Commonwealth income tax for that year in respect of the same part of his income, he shall be entitled to relief from tax in Belize paid or payable by him or her on that part of his or her income at a rate thereon to be determined as follows–
+**47.** (1) If any person resident in Belize who has paid, by deduction or otherwise, or is liable to pay, tax under this Act for any year of assessment or any part of his income, proves to the satisfaction of the Commissioner that he has paid by deduction or otherwise, or is liable to pay, Commonwealth income tax for that year in respect of the same part of his income, he shall be entitled to relief from tax in Belize paid or payable by him or her on that part of his or her income at a rate thereon to be determined as follows–
 
 (a) if the Commonwealth rate of tax does not exceed one-half of the rate of tax appropriate to his case under this Act in Belize the rate at which relief is to be given shall be the Commonwealth rate of tax;
 
@@ -1334,11 +1418,9 @@ respect of the payment of income tax in Belize, the obligation as to secrecy imp
 
 (6) The Minister may make rules for carrying out the provisions of any arrangements having effect under this section.
 
-**51.** (1) The provisions of this section shall have effect where,
-
 *Tax credits.*
 
-under arrangements having effect under section 50 of this Act , tax payable in respect of any income in the territory with the Government of which the arrangements are made is to be allowed as a credit against tax payable in respect of that income in Belize, and in this section the expression “foreign tax” means any tax payable in that territory which under the arrangements is to be so allowed and the expression “income tax” means tax chargeable under this Act.
+**51.** (1) The provisions of this section shall have effect where, under arrangements having effect under section 50 of this Act , tax payable in respect of any income in the territory with the Government of which the arrangements are made is to be allowed as a credit against tax payable in respect of that income in Belize, and in this section the expression “foreign tax” means any tax payable in that territory which under the arrangements is to be so allowed and the expression “income tax” means tax chargeable under this Act.
 
 (2) The amount of the income tax chargeable in respect of the income shall be reduced by the amount of the credit, but credit shall not be allowed against income tax for any year of assessment unless the person entitled to the income is resident in Belize for that year.
 
@@ -1356,9 +1438,11 @@ shall be increased by the appropriate amount of the foreign tax in respect of th
 
 (c) where the income includes a dividend and under the arrangements foreign tax not chargeable directly or by deduction in respect of the dividend is to be taken into account in considering whether any, and, if so, what credit is to be given against income tax in respect of the dividend, the amount of the income shall be increased by the amount of the foreign tax not so chargeable which falls to be taken into account in computing the amount of the credit, but notwithstanding anything in paragraphs (a) and (b) of this sub-section, a deduction shall be allowed of any amount by which the foreign tax in respect of the income exceeds the credit therefor.
 
-(6) Paragraphs (a) and (b) of sub-section (5) of this section, but not paragraph (c) shall apply to the computation of total income for the purposes of determining the rate mentioned in sub-section (3) of his section, and of which credit falls to be given for foreign tax under arrangements for the being in force under section 50 of this Act.
+*but not income for the sub-section (3) given for under section 50*
 
-(7) Where–
+(6) Paragraphs (a) and (b) of sub-section (5) of this section, paragraph (c) shall apply to the computation of total purposes of determining the rate mentioned in of his section, and of which credit falls to be foreign tax under arrangements for the being in force of this Act.
+
+*(7) Where–*
 
 (a) the arrangements provide, in relation to dividends of some classes, but not in relation to dividends of other classes, that foreign tax not chargeable directly or by deduction in respect of dividends is to be taken into account in considering whether any, and, if so, what credit is to be given against income tax in respect of the dividends, and
 
@@ -1384,7 +1468,9 @@ at the rate of double taxation relief applicable thereto;
 
 (b) if the rate of tax chargeable on the recipient in respect of the dividend is less than the rate of double taxation relief applicable to the dividend, the reduction shall be an amount equal to tax on the gross dividend at the difference between those two rates.
 
-(2) For the purposes of this section–
+*(2) For the*
+
+purposes of this section–
 
 (a) if the income of the person chargeable includes one dividend such as is mentioned in sub-section (1) of this section, that dividend shall be deemed to be the highest part of his income;
 
@@ -1428,11 +1514,9 @@ Collection, Repayment and Recovery, etc. of Tax
 
 *8 of 2019.*
 
-(2) Such tax shall thereupon be payable at the expiration of the time so limited and shall in default of payment, unless security for payment thereof be given to the satisfaction of the Commissioner, be recoverable forthwith and the person in default of payment shall be considered as in default under
-
 *CAP. 51.*
 
-section 53 of the Tax Administration and Procedure Act.
+(2) Such tax shall thereupon be payable at the expiration of the time so limited and shall in default of payment, unless security for payment thereof be given to the satisfaction of the Commissioner, be recoverable forthwith and the person in default of payment shall be considered as in default under section 53 of the Tax Administration and Procedure Act.
 
 (3) If in any particular case the Commissioner has reason to believe that tax upon any chargeable income may not be recovered, he may at anytime and as the case may require–
 
@@ -1442,25 +1526,23 @@ make an assessment upon such person in the amount of the income returned; or if 
 
 (c) by notice in writing to the person assessed require that security for the payment of the tax assessed be forthwith given to his satisfaction.
 
-(4) If in any particular case the Commissioner has reason to believe that tax upon any income which would upon the issue of a proclamation imposing tax for any year of assessment become chargeable to such tax may not be recovered he may at any time,
+*(4) If in any believe that tax a proclamation chargeable to*
+
+particular case the Commissioner has reason to upon any income which would upon the issue of imposing tax for any year of assessment become such tax may not be recovered he may at any time,
 
 (a) by notice in writing to the person by whom the tax would be payable determine a period for which tax shall be charged and require such person to render within the time specified therein returns and particulars of such income for that period;
 
 (b) make an assessment upon such person in the amount of the income returned or, if default is made in making a return or the Commissioner is dissatisfied with such return, in such amount as the Commissioner may think reasonable, and such assessment shall be made at the rate of tax imposed by the last preceding proclamation.
 
-(5) Notice of any assessment made in accordance with subsections (3) and (4) of this section shall be given to the person assessed, and any tax so assessed in accordance with subsections (3) and (4) of this section shall be payable on demand made in writing under the hand of the Commissioner and shall in default of payment, unless security for the payment thereof be given to the satisfaction of the Commissioner, be recoverable
-
 *CAP. 51.*
 
-forthwith and the person in default of payment shall be considered as in default under section 53 of the Tax Administration and Procedure Act.
+(5) Notice of any assessment made in accordance with subsections (3) and (4) of this section shall be given to the person assessed, and any tax so assessed in accordance with subsections (3) and (4) of this section shall be payable on demand made in writing under the hand of the Commissioner and shall in default of payment, unless security for the payment thereof be given to the satisfaction of the Commissioner, be recoverable forthwith and the person in default of payment shall be considered as in default under section 53 of the Tax Administration and Procedure Act.
 
 *8 of 2019.*
 
-(6) Any person who has paid the tax in accordance with a demand by the Commissioner or who has given security for such payment under sub-sections (3) and (4) of this section, shall have the rights of review, objection and appeal conferred by the Tax Administration and Procedure Act, and the amount paid by
-
 *CAP. 51.*
 
-him shall be adjusted in accordance with the result of any such review, objection or appeal.
+(6) Any person who has paid the tax in accordance with a demand by the Commissioner or who has given security for such payment under sub-sections (3) and (4) of this section, shall have the rights of review, objection and appeal conferred by the Tax Administration and Procedure Act, and the amount paid by him shall be adjusted in accordance with the result of any such review, objection or appeal.
 
 (7) Sub-sections (3) and (4) of this section, shall not affect the powers conferred upon the Commissioner by section 39 of this Act.
 
@@ -1592,11 +1674,23 @@ a person who intends to purchase shall be allowed access to all documents which 
 
 (m) conveyances will not be executed until one month has elapsed from the date of sale, and during this period the right is reserved for the Minister to cancel the sale.
 
-*Effect of execution sales with regard to title.*
+*Effect of*
 
-**75.** (1) All sales of any lands or houses charged with the payment of unpaid income tax shall, if the provisions of this Act have been duly complied with, operate to confer on the purchaser an indefeasible title thereto, free from all encumbrances.
+*75.–(1) All*
 
-(2) All sales of lands or houses other than those previously specified in this Act shall have the effect of conveying to the purchaser the right, title, and interest therein of the person who has made default in the payment of tax, but–
+*execution sales*
+
+*payment of*
+
+*with regard to title.*
+
+*have been purchaser an encumbrances.*
+
+sales of any lands or houses charged with the unpaid income tax shall, if the provisions of this Act duly complied with, operate to confer on the indefeasible title thereto, free from all
+
+*(2) All sales specified in this purchaser the has made*
+
+of lands or houses other than those previously Act shall have the effect of conveying to the right, title, and interest therein of the person who default in the payment of tax, but–
 
 (a) no purchaser shall have, or be capable of granting, any title to any land, house or goods purchased under the powers of this Act, if the purchase has been made with intent to defraud creditors, or as agent or trustee for the taxpayer in default, or for his wife or family;
 
@@ -1640,11 +1734,9 @@ Claims by Third Parties
 
 **79.** If any such person, either at the time of or subsequent to filing the affidavit, gives security by bond with two sureties (such bonds being hereby exempted from stamp duty) to the satisfaction of the Registrar of the Supreme Court in a sum of five hundred dollars, conditioned to secure, firstly, either the total amount of taxes, fines, costs, and expenses unpaid or such part thereof as may be equivalent to the value of the property claimed, and, secondly, all costs of the legal proceedings incidental to the trial of the issue specified in section 81 of this Act hereinafter, the Registrar shall notify the Chief Collector to discontinue his levy upon such of the goods and lands as are specified in the affidavit until the determination of the issue.
 
-**80.** (1) At any time within seven days after receipt of the
-
 *Abandonment of levy or setting cause down for trial.*
 
-notification of the levy being discontinued the Chief Collector may abandon the levy altogether, and thereupon shall notify the Registrar and the claimant that the levy is wholly withdrawn and that no further legal proceedings will take place.
+**80.** (1) At any time within seven days after receipt of the notification of the levy being discontinued the Chief Collector may abandon the levy altogether, and thereupon shall notify the Registrar and the claimant that the levy is wholly withdrawn and that no further legal proceedings will take place.
 
 (2) If no notice of abandonment is given by the Chief Collector in the manner provided in sub-section (1) of this section, the Registrar shall set the matter down for trial at the next sitting of the Supreme Court held not later than two weeks subsequent to security being so given in accordance with the summary procedure of that court.
 
@@ -1668,11 +1760,9 @@ notification of the levy being discontinued the Chief Collector may abandon the 
 
 **85.** Any prosecution instituted against any person for the commission of any offence against this Act shall be commenced within six years from the time of the offence committed and not afterwards.
 
-Any person who is guilty of an offence against this Act
-
 *Summary conviction penalty.*
 
-for which no punishment is herein otherwise specified shall be liable on summary conviction to a fine not exceeding five hundred dollars and in default of payment to imprisonment for a term not exceeding six months.
+Any person who is guilty of an offence against this Act for which no punishment is herein otherwise specified shall be liable on summary conviction to a fine not exceeding five hundred dollars and in default of payment to imprisonment for a term not exceeding six months.
 
 *Penalty. 3 of 1971.*
 
@@ -1736,11 +1826,9 @@ for which no punishment is herein otherwise specified shall be liable on summary
 
 “officer” means an individual holding such an office.
 
-**95.** (1) The Minister may remit the whole or any part of the
-
 *Minister may remit tax.*
 
-income tax. payable by any person if he is satisfied that it would be just and equitable to do so.
+**95.** (1) The Minister may remit the whole or any part of the income tax. payable by any person if he is satisfied that it would be just and equitable to do so.
 
 (2) Notices of such remission shall be published in the Gazette.
 
@@ -1768,11 +1856,9 @@ emoluments of an employee as and when required by rules made under this Act shal
 
 *8 of 2019.*
 
-(3) Every employer who fails to remit to the Commissioner the total amount that he was required to remit at the time when he was required to do so shall be liable to a penalty of ten per cent of the amount that he failed to remit or ten dollars, whichever is the greater, and in addition shall be liable to pay
-
 *CAP. 51.*
 
-on the amount not remitted interest at the rate specified in section 59 of the Tax Administration and Procedure Act.
+(3) Every employer who fails to remit to the Commissioner the total amount that he was required to remit at the time when he was required to do so shall be liable to a penalty of ten per cent of the amount that he failed to remit or ten dollars, whichever is the greater, and in addition shall be liable to pay on the amount not remitted interest at the rate specified in section 59 of the Tax Administration and Procedure Act.
 
 *Assessment for failure to deduct or remit. 19 of 1970.*
 
@@ -1838,13 +1924,19 @@ Net Petroleum in such Basis Year; and
 
 all allowable Petroleum Operation Expenditures incurred in such Basis Year. The Tax upon the Chargeable Income of a Contractor shall be charged at the tax rate of general application to all companies in Belize, and the Contractor shall be obligated to pay such Tax to the Government for the Basis Year in question.
 
-*Valuation of petroleum.*
+*Valuation of*
 
-**101.** (1) Petroleum sold to third parties shall be valued at the net realised price at the Delivery Point.
+*101.–(1)*
 
-(2) Crude Oil sold to other than third parties shall be valued
+*petroleum.*
 
-*as follows–*
+*net realised*
+
+Petroleum sold to third parties shall be valued at the price at the Delivery Point.
+
+*(2) Crude as follows–*
+
+Oil sold to other than third parties shall be valued
 
 (a) by using the weighted average unit price received from sales to third parties at the Delivery Point, net of any commissions and brokerages paid in relation to such third party sales, during the ninety (90) days preceding such sale, adjusted as necessary for quality, grade and gravity, and taking into consideration any special circumstances with respect to such sales, unless less than fifty percent (50%), by volume, of Crude Oil sales during such period are made to third parties, in which case Crude Oil sold to other than third parties shall be valued in accordance with paragraph (b);
 
@@ -1932,19 +2024,21 @@ Business Tax
 
 This Part was inserted by Act No. 19 of 1998.
 
-“Public Investment Company” or “PIC” means a company
+*“Public*
 
-*CAP. 270.*
+*CAP. 270. which is*
 
-which is designated as such under the International Business Companies Act;
+Investment Company” or “PIC” means a company designated as such under the International Business Companies Act;
 
 *CAP. 270.*
 
 “PIC Group Company” means a company comprised in a PIC Group as that term is defined in the International Business Companies Act, as amended;
 
-*7 of 1999.*
+*“receipts” 7 of 1999.*
 
-“receipts” means all revenues, whether in cash or in kind, or whether received or accrued, of a person or entity carrying on trade or business or practicing his or its profession or vocation in Belize without any deduction, and includes–
+*whether trade or in Belize*
+
+means all revenues, whether in cash or in kind, or received or accrued, of a person or entity carrying on business or practicing his or its profession or vocation without any deduction, and includes–
 
 (a) rents, royalties, premiums and any other revenue receipts arising from property;
 
@@ -1986,13 +2080,13 @@ supply sales by a designated bulk fuel importer to other bulk fuel supplier;
 
 (viii) absolute and immediate gifts amounting in the aggregate to five hundred dollars or more, taking effect in Belize, for sports, religious, charitable, educational or cultural purposes or for the improvement of amenities in towns or villages, up to a maximum of $30,000 per annum, provided that the Commissioner is satisfied that the gifts were actually made;
 
-“management fees” means payment for the provision of industrial or commercial advice or for management or technical services or similar services or facilities;
+*“management industrial or services or*
 
-“professional” means any person or firm or any body of persons
+fees” means payment for the provision of commercial advice or for management or technical similar services or facilities;
 
 *Schedule VIII.*
 
-(whether corporate or unincorporated) engaged in a vocation or occupation in Belize including, but not limited to, the vocations, and occupations listed in Schedule VIII;
+“professional” means any person or firm or any body of persons (whether corporate or unincorporated) engaged in a vocation or occupation in Belize including, but not limited to, the vocations, and occupations listed in Schedule VIII;
 
 “rental” means payments of any kind received as consideration for the hire of plant or machinery or equipment of any kind or description, but does not include payments made under bona fide hire purchase agreements;
 
@@ -2026,11 +2120,17 @@ tax” at the rates specified in section 107, on all receipts, whether received 
 
 (ii) gains, including gains of a capital nature, described in section 108A(2) (j).
 
-(2) For the purposes of this Part, interest paid by the Government, or by a resident or non-resident of Belize, on debts incurred or money borrowed and used for the purposes of a business or profession carried on in Belize shall be deemed to accrue in Belize and, as such, shall be subject to the provisions of this Part.
+*(2) For the Government, or incurred or business or accrue in Belize of this Part.*
 
-(3) Sub-section (1) of this section, shall not apply to employment income as defined in this Part.
+purposes of this Part, interest paid by the by a resident or non-resident of Belize, on debts money borrowed and used for the purposes of a profession carried on in Belize shall be deemed to and, as such, shall be subject to the provisions
 
-(4) Where the Commissioner is satisfied that–
+*employment*
+
+(3) Sub-section (1) of this section, shall not apply to income as defined in this Part.
+
+*(4) Where*
+
+the Commissioner is satisfied that–
 
 (a) a person or entity liable to pay tax is engaged primarily in export business or industry and the primary product originates in Belize;
 
@@ -2076,15 +2176,17 @@ the tax shall be computed by reference to the receipts derived at the completion
 
 (4) In case no Bill is introduced into the National Assembly as provided in sub-section (3), or on the withdrawal or rejection by the National Assembly of such Bill, or in case such Bill otherwise fails to become law, every such resolution shall cease to have effect.
 
-(5) In the event of such resolution ceasing to have effect–
+*(5) In the*
+
+event of such resolution ceasing to have effect–
 
 a refund of any increased tax collected under the resolution shall be made to the person who shall have paid the same; and
 
 (b) when the resolution shall have effected a reduction of the tax from any person, the Commissioner is hereby authorized to collect the difference between the tax payable at the time of reduction and that fixed by the resolution.
 
-*Exemptions from tax.*
+*Exemptions from 108.–(1) There tax.*
 
-**108.** (1) There shall be exempt from tax,
+shall be exempt from tax,
 
 *6 of 2005.*
 
@@ -2126,19 +2228,35 @@ Council Act, the Belmopan City Council Act, or the Town Councils Act;
 
 (l) dividends paid to their shareholders by entities licenced to provide telecommunication services that offer real time voice services.
 
-(2) The Minister, may on application made to him and on the recommendations of the Revenue Advisory Board, by Order published in the Gazette, exempt from the payment of tax a newly-established business or industry during the first two years of its operation if in his opinion it is necessary to do so to alleviate hardship or financial difficulty,
+*(2) The*
 
-Provided that in the case of a person or entity involved in the production of citrus or other long-term crops where the date of production is longer than two years from the start of the operation, the Minister may, acting as aforesaid, exempt such person or entity from the payment of tax for a maximum period of five years.
+*published in*
+
+*of its operation alleviate*
+
+Minister, may on application made to him and on the recommendations of the Revenue Advisory Board, by Order the Gazette, exempt from the payment of tax a newly-established business or industry during the first two years if in his opinion it is necessary to do so to hardship or financial difficulty,
+
+*production of production is operation, the*
+
+Provided that in the case of a person or entity involved in the citrus or other long-term crops where the date of longer than two years from the start of the Minister may, acting as aforesaid, exempt such person or entity from the payment of tax for a maximum period
+
+*of five years.*
 
 *25 of 2019.*
 
-(3) Sub-section (1)(h) and (l) shall not apply to any amounts described in section 108A(2).
+*described in*
 
-*Foreign source income of companies. 25 of 2019.*
+(3) Sub-section (1)(h) and (l) shall not apply to any amounts section 108A(2).
 
-**108A.** (1) In the case of a company, a credit against tax is allowed for any income or withholding tax paid to a foreign country in respect of a receipt described in sub-section (2), but not in excess of the amount of business tax payable on such receipt.
+*Foreign source 108A.–(1) In income of companies. 25 of 2019. country in*
 
-(2) The following receipts are eligible for the foreign tax credit under this section–
+the case of a company, a credit against tax is allowed for any income or withholding tax paid to a foreign respect of a receipt described in sub-section (2), but not in excess of the amount of business tax payable on such
+
+*receipt.*
+
+*(2) The*
+
+following receipts are eligible for the foreign tax credit under this section–
 
 (a) dividends, other than those paid by a company;
 
@@ -2170,7 +2288,9 @@ Provided that in the case of a person or entity involved in the production of ci
 
 (iii) any debt, equity, or other financial instrument issued by a person other than a resident person.
 
-(3) For purposes of this Part–
+*(3) For*
+
+purposes of this Part–
 
 “resident person” means–
 
@@ -2228,11 +2348,9 @@ Provided further that in the case of a financial institution licensed under the 
 
 *16 of 2008. 8 of 2019.*
 
-(3) Without prejudice to sub-section (2) of this section, every person who fails to file a return and pay the tax due, within the prescribed time, shall be liable to pay a penalty of ten percent of the amount due or assessed for each month or part of a month in which the return was not delivered continuing for a period of
-
 *CAP. 51.*
 
-twenty four months, and in addition, shall be liable to pay interest at the rate specified in section 59 of the Tax Administration and Procedure Act or part thereof.
+(3) Without prejudice to sub-section (2) of this section, every person who fails to file a return and pay the tax due, within the prescribed time, shall be liable to pay a penalty of ten percent of the amount due or assessed for each month or part of a month in which the return was not delivered continuing for a period of twenty four months, and in addition, shall be liable to pay interest at the rate specified in section 59 of the Tax Administration and Procedure Act or part thereof.
 
 *Commissioner to make assessments.*
 
@@ -2262,11 +2380,9 @@ protection, and any other business customarily appurtenant to the business of a 
 
 *Additional assessments. 8 of 2019.*
 
-**111.** (1) Where it appears to the Commissioner that any person or entity liable to pay tax has not been assessed or has been assessed at a lower amount than that which ought to have been charged, the Commissioner may, at any time within the year of assessment or within six years after the expiration thereof, assess such person or entity at such additional amount as
-
 *CAP. 51.*
 
-according to his judgment ought to have been charged, and the provisions of the Tax Administration and Procedure Act as to notice of assessment, appeal and other proceedings shall apply to such assessment or additional assessment and to the tax charged thereunder.
+**111.** (1) Where it appears to the Commissioner that any person or entity liable to pay tax has not been assessed or has been assessed at a lower amount than that which ought to have been charged, the Commissioner may, at any time within the year of assessment or within six years after the expiration thereof, assess such person or entity at such additional amount as according to his judgment ought to have been charged, and the provisions of the Tax Administration and Procedure Act as to notice of assessment, appeal and other proceedings shall apply to such assessment or additional assessment and to the tax charged thereunder.
 
 (2) The Commissioner may, if satisfied that the act of omission or commission amounts to fraud or contrivance, or gross and willful neglect on the part of the person or entity assessed, or to be assessed, charge such person or entity in respect of such additional tax and penalty an amount equal to double the amount of the tax and penalty payable on the excess.
 
@@ -2276,11 +2392,9 @@ according to his judgment ought to have been charged, and the provisions of the 
 
 (4) Where a person dies and such person would but for his death have been chargeable to tax, the personal representatives of such person shall, to the extent of the estate of the deceased person, be liable to and charged with the payment of the tax which such person would have been chargeable, and shall be answerable for doing all such acts, matters and things as such person if he were alive would be liable to do under this Act.
 
-(5) The provisions relating to assessments, review, objections, appeals, collections and the recovery of tax
-
 *CAP. 51.*
 
-contained in the Tax Administration and Procedure Act shall apply to assessments, review, objections, appeal, collections and the recovery of tax under this Part.
+(5) The provisions relating to assessments, review, objections, appeals, collections and the recovery of tax contained in the Tax Administration and Procedure Act shall apply to assessments, review, objections, appeal, collections and the recovery of tax under this Part.
 
 *Withholding tax on gross contact payments.*
 
@@ -2328,11 +2442,9 @@ Provided further that where there is a difference or dispute as to whether tax i
 
 *8 of 2019.*
 
-(5) Whoever fails or neglects to deduct the amount or to render an account of to pay the amount deducted to the Commissioner as provided in sub-sections (1), (2), (3), and (4)
-
 *CAP. 51.*
 
-shall be liable to penalties and interest specified under section 57 and 90 of the Tax Administration and Procedure Act, as well as criminal liability under that Act as applicable.
+(5) Whoever fails or neglects to deduct the amount or to render an account of to pay the amount deducted to the Commissioner as provided in sub-sections (1), (2), (3), and (4) shall be liable to penalties and interest specified under section 57 and 90 of the Tax Administration and Procedure Act, as well as criminal liability under that Act as applicable.
 
 (6) In the case of dividends or interest paid by a PIC Group Company to another PIC Group Company or to the PIC itself, the provisions of sub-sections (2) and (4) of this section shall not apply.
 
@@ -2368,11 +2480,17 @@ Provided that if such bad debt is subsequently recovered the same shall be added
 
 (2) All regulations made by the Minister under this Part shall be laid before the National Assembly as soon as may be after the making thereof and shall be subject to negative resolution.
 
-**120.** The following provisions shall have effect for the basis
+*\120. The*
 
-*Transitional provisions.*
+*Transitional*
 
-year 1998 in respect of self-employed persons, companies and other entities who remain liable to pay income tax under section 5 (a) of this Act, up to the period ending 30 June, 1998–
+*year 1998 in*
+
+*provisions.*
+
+*other entities*
+
+following provisions shall have effect for the basis respect of self-employed persons, companies and who remain liable to pay income tax under section 5 (a) of this Act, up to the period ending 30 June, 1998–
 
 in section 2, the “year of assessment” shall (a)
 
@@ -2394,7 +2512,9 @@ mean the six month period from 1st January to 30th June, 1998;
 
 *Tax holiday companies. CAP. 54.*
 
-**121.** (1) In the case of a company enjoying, as of 1st July, 1981 , an income tax concession (wholly or partially) under the Fiscal Incentives Act, the Minister may, on application made by the company and by Order published in the Gazette, grant a reduction not exceeding fifty percent of the business tax payable by such company for the remaining period of its tax concession holiday,
+*company and reduction not by such holiday,*
+
+**121.** (1) In the case of a company enjoying, as of 1st July, 1981 , an income tax concession (wholly or partially) under the Fiscal Incentives Act, the Minister may, on application made by the by Order published in the Gazette, grant a exceeding fifty percent of the business tax payable company for the remaining period of its tax concession
 
 Provided that the Minister may waive the whole or part of business tax payable by such company if he is satisfied that it is necessary to do so to alleviate hardship or financial difficulty.
 
@@ -2582,7 +2702,7 @@ By ----------------------------------Chief Income Tax Collector of TO ----------
 
 AND FURTHER TAKE NOTICE that in default of your delivering such form duly filled in and signed as aforesaid, you will be liable to a fine not exceeding twenty-five dollars.
 
-FORM Do you admit that you owe $ ................................... for Income Tax and $ .................................for fines in respect of .............? If the whole of the above-mentioned amount is not owing by you, state how much is owing by you.
+[CAP. FORM Do you admit that you owe $ ................................... for Income Tax and $ .................................for fines in respect of .............? If the whole of the above-mentioned amount is not owing by you, state how much is owing by you.
 
 If the above-mentioned amount or any part thereof is not owing by you, but is owing by some other person, state the name of that person.
 
@@ -2666,19 +2786,27 @@ Extension of meaning of “in use”.
 
 **1.** The provisions of this Schedule with respect to the making of allowances and charges shall have effect for the year of assessment commencing on the 1st January 1964, and for each succeeding year of assessment and any references in this
 
-Schedule to a year of assessment do not include any year of assessment commencing prior to the 1st January 1964, except where specific reference is made in allowance 16 to the year of assessment commencing on the 1st January 1963.
+*Schedule to a assessment where specific assessment*
 
-*Interpretation.*
+year of assessment do not include any year of commencing prior to the 1st January 1964, except reference is made in allowance 16 to the year of commencing on the 1st January 1963.
 
-**2.** For the purposes of this Schedule–
+*Interpretation. For the*
 
-“lease” includes an agreement for a lease where the term to be covered by the lease has begun, any tenancy and any agreement for the letting or hiring out of an asset, but does not include a mortgage, and the expression “leasehold interest” shall be construed accordingly and–
+**2.** purposes of this Schedule–
+
+*covered by the for the letting*
+
+*construed*
+
+“lease” includes an agreement for a lease where the term to be lease has begun, any tenancy and any agreement or hiring out of an asset, but does not include a mortgage, and the expression “leasehold interest” shall be accordingly and–
 
 (a) where, with the consent of the lessor, a lessee of any asset remains in possession thereof after the termination of the lease without a new lease being granted to him or her, that lease shall be deemed for the purposes of this Schedule to continue so long as he remains in possession as aforesaid; and
 
 (b) where, on the termination of a lease of any asset, a new lease of that asset is granted to the lessee this Schedule shall have effect as if the second lease were a continuation of the first lease;
 
-“qualifying expenditure” means, subject to the express provisions of this Schedule, expenditure incurred in a basis year which is–
+*“qualifying provisions of which is–*
+
+expenditure” means, subject to the express this Schedule, expenditure incurred in a basis year
 
 (a) capital expenditure (in this Schedule called
 
@@ -2718,11 +2846,11 @@ for the operation of a railway for public use or of a water, or electricity unde
 
 (vii) as a warehouse, whether refrigerated or not, wholly, exclusively and regularly in use for the hire of storage space to the public, and any dwelling wholly, exclusively and regularly in use by employees of the owner of such dwelling whose duties are solely concerned with the running of any such warehouse;
 
-*CAP. 285.*
+*“qualifying CAP. 285.*
 
-“qualifying hotel” means a hotel registered under the Hotels and Tourist Accommodation Act which complies with the following
+*Tourist requirements–*
 
-*requirements–*
+hotel” means a hotel registered under the Hotels and Accommodation Act which complies with the following
 
 (a) it is open for at least four months (one hundred and twenty days) in the season, which means the seven months from first September to thirty-first March;
 
@@ -2816,11 +2944,13 @@ plant, machinery or fixtures are disposed of if they are sold, discarded or ceas
 
 (2) For the purposes of this sub-paragraph, all the assets which are purchased or disposed of in pursuance of one bargain shall be deemed to be purchased or disposed of together, notwithstanding that separate prices are or purport to be agreed for each of those assets or that there are or purport to be separate purchases or disposals of those assets.
 
-(3) Sub-paragraph (1) shall apply, with any necessary modifications, to the sale or purchase of the relevant interest in any asset together with any other asset or relevant interest in any other asset.
+*any asset other asset.*
 
-*Part of an asset.*
+Sub-paragraph (1) shall apply, with any necessary modifications, to the sale or purchase of the relevant interest in together with any other asset or relevant interest in any
 
-**13.** Any reference in this Schedule to any asset shall be construed whenever necessary as including a reference to a part of any asset (including an undivided part of that asset in the case of joint interests therein) and when so construed any necessary apportionment shall be made as may, in the opinion of the Commissioner, be just and reasonable.
+*Part of an asset. Any construed of any asset*
+
+**13.** reference in this Schedule to any asset shall be whenever necessary as including a reference to a part (including an undivided part of that asset in the case of joint interests therein) and when so construed any necessary apportionment shall be made as may, in the opinion of the Commissioner, be just and reasonable.
 
 *Extension of meaning of “in use”.*
 
@@ -2832,7 +2962,11 @@ plant, machinery or fixtures are disposed of if they are sold, discarded or ceas
 
 (b) the said dates shall be taken to be the date on which such expenditure was incurred and the date on which the asset is in fact first put to use,
 
-Provided that where any allowances have been given in consequence of this sub-paragraph and the first use to which such asset is put is not for the purposes of such trade or business, all such additional assessments shall be made as may be
+*Provided*
+
+*all such*
+
+that where any allowances have been given in consequence of this sub-paragraph and the first use to which such asset is put is not for the purposes of such trade or business, additional assessments shall be made as may be
 
 necessary to counteract the benefit obtained from the giving of any such allowances.
 
@@ -2854,11 +2988,9 @@ this Schedule shall apply, with such necessary modifications as the Commissioner
 
 (2) For the purposes of this paragraph in relation to the trade or business which an owner is to be treated as carrying on, his basis year for any year of assessment shall be taken to be the year immediately preceding that year of assessment.
 
-**17.** (1) This paragraph shall apply where either or both of the
-
 *Assets used or expenditure incurred partly for the purposes of a trade or business.*
 
-following conditions apply with respect to any asset–
+**17.** (1) This paragraph shall apply where either or both of the following conditions apply with respect to any asset–
 
 (a) the owner of the asset has incurred in respect thereof qualifying expenditure partly for the purposes of a trade or business carried on by him and partly for other purposes;
 
@@ -2876,13 +3008,19 @@ following conditions apply with respect to any asset–
 
 such owner shall be deemed to have bought such asset immediately after such disposal for a price equal to the residue of such qualifying expenditure at the date of such disposal, increased by the amount of any balancing charge or decreased by the amount of any balancing allowance made as a result of such disposal.
 
-*Application to professions, vocations and employments.*
+*Application to*
 
-**19.** In relation to qualifying plant expenditure, this Schedule shall apply as if references to a trade or business included references to a profession or vocation the profits of which are assessable under this Act.
+*In*
+
+*professions, vocations and employments.*
+
+**19.** relation to qualifying plant expenditure, this Schedule shall apply as if references to a trade or business included references to a profession or vocation the profits of which are assessable under this Act.
 
 *Partnerships.*
 
-**20.** (1) This paragraph shall have effect for the purposes of this Schedule, in relation to a trade or business and the person or persons hereinafter mentioned carrying on such trade or business, throughout the period (hereinafter called “the relevant period”) being–
+*20.–(1) This Schedule, in persons business,*
+
+paragraph shall have effect for the purposes of this relation to a trade or business and the person or hereinafter mentioned carrying on such trade or throughout the period (hereinafter called “the relevant period”) being–
 
 (a) any period during which the trade or business is carried on by persons in partnership and at least one of such persons, engaged in carrying on the trade or business as a partner in a partnership at any time, is so engaged immediately after that time, whether as a partner in the same partnership or as a partner in a different partnership carrying on the trade or business; or
 
@@ -2920,11 +3058,9 @@ Schedule relating to deduction from and additions to the chargeable income and s
 
 (2) In the case of a partnership there shall be included in the form of return required to be delivered by any partner under section 35 of this Act, such particulars and information as may be necessary for the purpose of any claim by any partners for any allowance which falls to be computed by reference to the provisions of allowance 22.
 
-**23.** (1) Where a person makes a claim to an annual allowance
-
 *Election in double taxation cases.*
 
-under this Schedule in connection with any trade or business, if the taxes in respect of the profits of that trade or business are the subject of an arrangement, having effect by virtue of section 50 of this Act, between the Government of Belize and the Government of any other territory, for relief from double taxation, he may elect, at the time of making such claim or within such reasonable time thereafter as the Commissioner may allow, that that allowance shall be calculated at a lesser rate than that provided for in paragraph 5 and in making such election he shall specify the amount of such lesser rate.
+**23.** (1) Where a person makes a claim to an annual allowance under this Schedule in connection with any trade or business, if the taxes in respect of the profits of that trade or business are the subject of an arrangement, having effect by virtue of section 50 of this Act, between the Government of Belize and the Government of any other territory, for relief from double taxation, he may elect, at the time of making such claim or within such reasonable time thereafter as the Commissioner may allow, that that allowance shall be calculated at a lesser rate than that provided for in paragraph 5 and in making such election he shall specify the amount of such lesser rate.
 
 (2) Where an election has been made under this paragraph the amount of such lesser rate shall be taken to be the appropriate rate in relation to that allowance for all the purposes of this Schedule.
 
@@ -2976,19 +3112,27 @@ for replacement, emergency needs and similar considerations;
 
 expenditure when issued from stock for consumption.
 
-(4) The value of technical services costs relating to petroleum operations shall be–
+*(4) The petroleum*
+
+value of technical services costs relating to operations shall be–
 
 (a) in the case of technical services performed by third parties directly sub-contracted, including outside consultants, contractors and utilities, the price paid by the Contractor, provided that such prices are no higher than the prices charged by other suppliers for comparable work and services; and
 
 (b) in the case of technical services performed by the Contractor or its Affiliated Companies, prices which are no higher than the most favourable prices charged to third parties for comparable services.
 
-(5) The value of insurance relating to Petroleum Operations shall be–
+*(5) The shall be–*
+
+value of insurance relating to Petroleum Operations
 
 (a) in the case of insurance purchased from third parties, the price paid by the Contractor, provided that such price is no higher than the price charged by other insurers for comparable insurance;
 
 (b) in the case of insurance purchased from an Affiliated Company, the price shall be no higher than the most favourable price charged to third parties for comparable insurance.
 
-The proceeds of any insurance or claim shall be credited against Petroleum Operations Expenditures. Except in cases where insurance coverage is required pursuant to its contract with the Government, if no insurance is carried for a particular risk, all costs incurred by the Contractor in settlement of any related
+*Petroleum insurance*
+
+*costs incurred*
+
+The proceeds of any insurance or claim shall be credited against Operations Expenditures. Except in cases where coverage is required pursuant to its contract with the Government, if no insurance is carried for a particular risk, all by the Contractor in settlement of any related
 
 loss, claim, damage or judgment, including legal services, shall be includable in Petroleum Operations Expenditures provided that such costs did not result from the Contractor’s gross negligence.
 
@@ -3032,9 +3176,9 @@ production facilities - production rigs (including the costs of labour, fuel, ha
 
 (f) signature and production bonuses.
 
-(3) Operating Expenditures are all Petroleum Operations Expenditures other than capital expenditures, including but not
+*Expenditures limited to–*
 
-*limited to–*
+(3) Operating Expenditures are all Petroleum Operations other than capital expenditures, including but not
 
 (a) exploration drilling - labor, materials and services used in the drilling wells with the object of finding unproven reservoirs of crude oil and natural gas, and access roads, if any, leading directly to wells;
 
@@ -3122,57 +3266,47 @@ Taxed Businesses and Professions
 
 ## SCHEDULE IX 6 Rates of Tax
 
-[sections 111 (3) and 113 (2)] (a) Receipts from radio, on-air television and newspaper business...............................0.75% (b) Receipts from domestic airline business.................................................1.75%
-
 *14 of 2005.*
 
-(c) (i) Receipts of service stations from the sale of fuel………...............…...0.75% (ii) Receipts from service stations from the sale of all other items ....…..…...1.75%
-
 *7 of 1999.*
-
-(d) Receipts from other trade or business...1.75%
 
 *3 of 2004.*
 
-(e) Rents, royalties, premiums and any other receipts from real property (excluding the receipts from Real Estate Business)..........3%
-
 *7 of 1999.*
-
-(f) Receipts from a profession, vocation occupation..................................................6%
 
 *CAP. 251.*
 
-(g) Receipts of an insurance company licensed under the Insurance Act........................1.75%
-
 *3 of 2004. 7 of 1999.*
-
-(h) Commissions, royalties, discounts, dividends, winnings from lotteries, slot machines and table games...............................................15%
 
 *7 of 1999.*
 
-Provided that in the case of commissions of less than $25,000.00 per annum, the rate shall be ………….………..5%
+*Provided $25,000.00 per*
 
-This Schedule was amended by Acts No. 5 of 2012 and 25 of 2019.
+[sections 111 (3) and 113 (2)] (a) Receipts from radio, on-air television and newspaper business...............................0.75% (b) Receipts from domestic airline business.................................................1.75% (c) (i) Receipts of service stations from the sale of fuel………...............…...0.75% (ii) Receipts from service stations from the sale of all other items ....…..…...1.75% (d) Receipts from other trade or business...1.75% (e) Rents, royalties, premiums and any other receipts from real property (excluding the receipts from Real Estate Business)..........3% (f) Receipts from a profession, vocation occupation..................................................6% (g) Receipts of an insurance company licensed under the Insurance Act........................1.75% (h) Commissions, royalties, discounts, dividends, winnings from lotteries, slot machines and table games...............................................15% that in the case of commissions of less than annum, the rate shall be ………….………..5%
+
+*This Schedule was*
+
+amended by Acts No. 5 of 2012 and 25 of 2019.
 
 Interest on loans paid to non-residents ..………………….................……….…..15%
 
 *7 of 1999.*
 
-(j) Receipts of a financial institution licensed
-
 *CAP. 263.*
 
-under the Banks and Financial Institutions Act...........................................15%
+(j) Receipts of a financial institution licensed under the Banks and Financial Institutions Act...........................................15%
 
-Provided that in the case of a financial institution which falls
+*Provided that in within a “PIC*
 
 *CAP. 270.*
 
-within a “PIC Group” as defined in the International Business Companies Act, the rate shall be…………….......12%
+*Companies Act,*
 
-*S.I. 142 of 2002.*
+the case of a financial institution which falls Group” as defined in the International Business the rate shall be…………….......12%
 
-Provided further that in the case of a unit trust governed by the Banks and Financial Institutions (Unit Trust) Regulations, the rate shall be…………………….………………………....6%
+*S.I. 142 of 2002. Provided further Banks and rate shall*
+
+that in the case of a unit trust governed by the Financial Institutions (Unit Trust) Regulations, the be…………………….………………………....6%
 
 (k) Management fees, rental of plant and equipment and charges for technical services,
 

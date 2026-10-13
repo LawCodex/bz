@@ -100,7 +100,13 @@ Agreement between the ICWI group and CARICOM Governments on the establishment of
 
 ## PART I
 
-This Agreement made between the Government of the Member States and Associate Members of the Caribbean Community (CARICOM) listed in paragraph 1 of the Schedule to this Agreement which are signatories to this Agreement (hereinafter referred to as “the Signatory States”) and ICWI Group Limited of 2 St. Lucia Avenue Kingston 5 in the Parish of St. Andrew, Jamaica (hereinafter called “ICWI”) WITNESSETH as follows,
+*States and*
+
+*Agreement (hereinafter*
+
+*of St.*
+
+This Agreement made between the Government of the Member Associate Members of the Caribbean Community (CARICOM) listed in paragraph 1 of the Schedule to this which are signatories to this Agreement referred to as “the Signatory States”) and ICWI Group Limited of 2 St. Lucia Avenue Kingston 5 in the Parish Andrew, Jamaica (hereinafter called “ICWI”) WITNESSETH as follows,
 
 **1.** OBJECTIVES.
 
@@ -218,7 +224,9 @@ The Fund in consultation with the Fund’s managers shall from time to time set 
 
 The Fund in consultation with the Fund’s managers shall set the investment policy of the Fund in projects in Signatory States but they will nevertheless give due consideration to investing in every participating Signatory State from time to time. It is acknowledged that there is no obligation on the Fund and/or the Fund’s managers to invest in any particular Signatory State.
 
-**7.** START UP DATE.
+*START*
+
+**7.** UP DATE.
 
 *7.1*
 
@@ -242,75 +250,111 @@ Not less than 75 per cent of the funds from the first tranche and not less than 
 
 If the Fund fails to satisfy the requirements of Clause
 
-9.1 the provisions of Clause 12 shall cease to apply unless the Signatory States otherwise determine.
+the provisions of Clause 12 shall cease to apply unless the Signatory States otherwise determine.
 
 **10.** BORROWING BY THE FUND.
 
-10.1 Nothing contained in this Agreement shall restrict the Fund’s right to borrow money from time to time and use same or any part thereof to invest in projects contemplated by Clause 1.
+*10.1*
+
+Nothing contained in this Agreement shall restrict the Fund’s right to borrow money from time to time and use same or any part thereof to invest in projects contemplated by Clause 1.
 
 **11.** ADVISORY BOARD.
 
-11.1 There shall be an Advisory Board consisting of not more than 7 members to be appointed by the countries listed in Item 1 of the Schedule which become parties to this Agreement. Subject to Clause 11.2, each participating country shall have the right to appoint one (1) member to the Advisory Board.
+*11.1*
 
-11.2 For the purposes of Clause 11.1 such member countries of the Organization of Eastern Caribbean States (OECS) and such Associate Members which become parties to this Agreement shall have the right to appoint only one (1) member to the Advisory Board.
+There shall be an Advisory Board consisting of not more than 7 members to be appointed by the countries listed in Item 1 of the Schedule which become parties to this Agreement. Subject to Clause 11.2, each participating country shall have the right to appoint one (1) member to the Advisory Board.
 
-11.3 The Function of the Advisory Board shall be to monitor the performance of the Fund and to liaise between the Signatory States and the Fund on matters relating to this Agreement and the performance of the Fund.
+*11.2*
 
-11.4 The Fund will provide written quarterly reports to the Advisory Board indicating the investment in and/ or funding provided to
+For the purposes of Clause 11.1 such member countries of the Organization of Eastern Caribbean States (OECS) and such Associate Members which become parties to this Agreement shall have the right to appoint only one (1) member to the Advisory Board.
+
+*11.3*
+
+The Function of the Advisory Board shall be to monitor the performance of the Fund and to liaise between the Signatory States and the Fund on matters relating to this Agreement and the performance of the Fund.
+
+*11.4*
+
+The Fund will provide written quarterly reports to the Advisory Board indicating the investment in and/ or funding provided to
 
 projects by the Fund and the investment of its funds in non-project activities. The reports shall also include an outline of the status of projects being investigated for investment and/or funding.
 
 **12.** EXCLUSIVITY OF FUND.
 
-12.1 The Signatory States recognize that in order for the Fund to be successful and meet its objectives the Fund needs exclusivity for investment in the Signatory States for a period of not less than 5 years and to this end undertake not to grant to any other CARICOM Regional Fund or institution, that is to say, a CARICOM Regional Fund or institution established by an Agreement open for signature by all CARICOM Member States, the concessions and privileges or any of them granted to the Fund under Clause 4.
+*12.1*
 
-12.2 During the existence of the Fund the Signatory States undertake not to grant to any other fund or institution which is established to operate regionally in the Signatory States in competition with the Fund any concessions and privileges more favourable than those granted to the Fund from time to time.
+The Signatory States recognize that in order for the Fund to be successful and meet its objectives the Fund needs exclusivity for investment in the Signatory States for a period of not less than 5 years and to this end undertake not to grant to any other CARICOM Regional Fund or institution, that is to say, a CARICOM Regional Fund or institution established by an Agreement open for signature by all CARICOM Member States, the concessions and privileges or any of them granted to the Fund under Clause 4.
 
-**13.** ENTRY INTO FORCE.
+*12.2*
 
-13.1 Subject to Clause 13.2 this Agreement shall enter into force when it has been duly executed by ICWI and any member of the Signatory States listed in the Schedule hereto which number must include any three of the States of Barbados, Guyana, Jamaica and Trinidad and Tobago.
+During the existence of the Fund the Signatory States undertake not to grant to any other fund or institution which is established to operate regionally in the Signatory States in competition with the Fund any concessions and privileges more favourable than those granted to the Fund from time to time.
 
-13.2 If this Agreement is not executed pursuant to Clause
+*ENTRY*
 
-13.1 within 60 days of the date that the CARICOM Secretary-General declares it to be open for signature this Agreement shall not enter into force unless ICWI and the prospective Signatory States determine otherwise.
+**13.** INTO FORCE.
 
-13.3 None of the parties hereto shall incur liability to the other until after the date that this Agreement shall enter into force.
+*13.1*
+
+Subject to Clause 13.2 this Agreement shall enter into force when it has been duly executed by ICWI and any member of the Signatory States listed in the Schedule hereto which number must include any three of the States of Barbados, Guyana, Jamaica and Trinidad and Tobago.
+
+If this Agreement is not executed pursuant to Clause
+
+*13.1*
+
+within 60 days of the date that the CARICOM Secretary-General declares it to be open for signature this Agreement shall not enter into force unless ICWI and the prospective Signatory States determine otherwise.
+
+*13.3*
+
+None of the parties hereto shall incur liability to the other until after the date that this Agreement shall enter into force.
 
 **14.** ADDITIONAL PARTIES TO THE AGREEMENT.
 
-14.1 The parties hereto affirm that it is their intention that upon the incorporation of the Fund the rights and obligations to be carried out and performed by the Fund and the Signatory States under this Agreement shall be binding on each of the Fund and the Signatory States. To this end the parties hereto hereby acknowledge and agree each with other that on its in-corporation the Fund will become a party to this Agreement by depositing with the Secretary-General of the Caribbean Community at the Caribbean Community Secretariat a written notice duly executed by the fund under its common seal stating that it undertakes to be bound by the terms and conditions of this Agreement as if it had been a signatory hereto at the time of execution by the other parties. The deposit of the above mentioned notice will create a valid and binding Agreement between the Fund and the Signatory States collectively and individually as if the Fund had been an original party and signatory hereto.
+*14.1*
 
-14.2 The parties hereto acknowledge and recognize that non Signatory Member States or Associate Members of CARICOM listed in Item 1 of the Schedule hereto at the time this Agreement enters into force and countries to which paragraph 2 of the Schedule to this Agreement refers may wish to become parties to this Agreement subsequent to the entry into force of this Agreement. The parties hereto hereby acknowledge and agree each with the other that any Member State or Associate Member of CARICOM shall be entitled at any time to sign the counter part of the Agreement deposited with the Secretary-General of the Caribbean Community at the Caribbean Community Secretariat pursuant to Clause 17 below and the signing thereof by the Government of such Member State or Associate Member shall be binding on it and each of them as if such Member State or Associate Member had been an original party and signatory hereto.
+The parties hereto affirm that it is their intention that upon the incorporation of the Fund the rights and obligations to be carried out and performed by the Fund and the Signatory States under this Agreement shall be binding on each of the Fund and the Signatory States. To this end the parties hereto hereby acknowledge and agree each with other that on its in-corporation the Fund will become a party to this Agreement by depositing with the Secretary-General of the Caribbean Community at the Caribbean Community Secretariat a written notice duly executed by the fund under its common seal stating that it undertakes to be bound by the terms and conditions of this Agreement as if it had been a signatory hereto at the time of execution by the other parties. The deposit of the above mentioned notice will create a valid and binding Agreement between the Fund and the Signatory States collectively and individually as if the Fund had been an original party and signatory hereto.
+
+The parties hereto acknowledge and recognize that non Signatory Member States or Associate Members of CARICOM listed in Item 1 of the Schedule hereto at the time this Agreement enters into force and countries to which paragraph 2 of the Schedule to this Agreement refers may wish to become parties to this Agreement subsequent to the entry into force of this Agreement. The parties hereto hereby acknowledge and agree each with the other that any Member State or Associate Member of CARICOM shall be entitled at any time to sign the counter part of the Agreement deposited with the Secretary-General of the Caribbean Community at the Caribbean Community Secretariat pursuant to Clause 17 below and the signing thereof by the Government of such Member State or Associate Member shall be binding on it and each of them as if such Member State or Associate Member had been an original party and signatory hereto.
 
 **15.** RELEASE OF OBLIGATIONS.
 
-15.1 After delivery of the written notice of the Fund under Clause l4.l and after the date for subscription of the first and second tranche referred to in Clause 2.1 ICWI shall be deemed to have performed all of its obligations under this Agreement and shall be released from this Agreement.
+*15.1*
+
+After delivery of the written notice of the Fund under Clause l4.l and after the date for subscription of the first and second tranche referred to in Clause 2.1 ICWI shall be deemed to have performed all of its obligations under this Agreement and shall be released from this Agreement.
 
 **16.** AMENDMENT.
 
-16.1 This Agreement may be amended by consent of the parties hereto.
+*16.1*
 
-16.2 No amendment to this Agreement shall be binding on the parties unless it is in writing and duly executed by all the parties to the Agreement. Any such document amending this Agreement shall be deposited with the Secretary-General of the Caribbean Community Secretariat within 30 days of its execution.
+This Agreement may be amended by consent of the parties hereto.
+
+No amendment to this Agreement shall be binding on the parties unless it is in writing and duly executed by all the parties to the Agreement. Any such document amending this Agreement shall be deposited with the Secretary-General of the Caribbean Community Secretariat within 30 days of its execution.
 
 **17.** DEPOSIT OF AGREEMENT.
 
-17.1 This Agreement shall be deposited with the Secretary- General of the Caribbean Community Secretariat and the Secretary-General shall furnish each party to this Agreement with a certified copy thereof.
+*17.1*
+
+This Agreement shall be deposited with the Secretary- General of the Caribbean Community Secretariat and the Secretary-General shall furnish each party to this Agreement with a certified copy thereof.
 
 **18.** JURISDICTION FOR REGISTRATION OF THE
 
 *FUND.*
 
-18.1 The parties hereto agree that, at the discretion of ICWI and the Fund, the Fund shall be registered in a jurisdiction highly conducive to the enhancement of the attractiveness of the Fund in the eyes of prospective investors.
+*18.1*
+
+The parties hereto agree that, at the discretion of ICWI and the Fund, the Fund shall be registered in a jurisdiction highly conducive to the enhancement of the attractiveness of the Fund in the eyes of prospective investors.
 
 **19.** ADMINISTRATIVE HEADQUARTERS OF THE
 
 *FUND.*
 
-19.1 The Administrative Headquarters of the Fund shall be in Jamaica.
+*19.1*
+
+The Administrative Headquarters of the Fund shall be in Jamaica.
 
 **20.** CHOICE OF LAW.
 
-20.1 The parties hereto agree that prior to the written notice by the Fund under Clause 14.1, this Agreement shall be governed by the laws of Jamaica.
+*20.1*
+
+The parties hereto agree that prior to the written notice by the Fund under Clause 14.1, this Agreement shall be governed by the laws of Jamaica.
 
 20.2 The parties hereto agree that upon delivery of the written notice by the Fund under Clause 14.1, this Agreement shall be governed by the laws of England.
 
@@ -364,15 +408,19 @@ The Turks and Caicos Islands.
 
 Supplemental Agreement to the Agreement Establishing the Caribbean Investment Fund
 
-This Agreement made between the Governments of the Member States and Associate Members of the Caribbean Community (CARICOM) which are signatories to the Agreement Establishing the Caribbean Investment Fund which entered into force on October 15, 1993 (hereinafter referred to as “the Original Agreement”) is hereby amended pursuant to Clause 16 of the Original Agreement by this Agreement (hereinafter referred to as “the Supplemental Agreement”) in the following material particulars,
+*This*
+
+*Community Agreement entered into*
+
+*(hereinafter the following*
+
+Agreement made between the Governments of the Member States and Associate Members of the Caribbean (CARICOM) which are signatories to the Establishing the Caribbean Investment Fund which force on October 15, 1993 (hereinafter referred to as “the Original Agreement”) is hereby amended pursuant to Clause 16 of the Original Agreement by this Agreement referred to as “the Supplemental Agreement”) in material particulars,
 
 **1.** OBJECTIVES.
 
 1.1 The objectives of the Caribbean Investment Fund (hereinafter called “the Fund”) as described in the Original Agreement shall be extended to permit in- vestment by the Fund, of up to a maximum of 40% of the capital thereof in the countries listed in the Schedule to this Supplemental Agreement, provided that the managers of the Fund, after due consideration, have reasonably concluded that the investment opportunities in the Signatory States as contemplated by the objectives of the Original Agreement will, from time to time, be sufficient to provide a competitive return to investors in the Fund.
 
 1.2 The Fund shall at all times give priority to investments of equal opportunity to investment in the Signatory States under the Original Agreement.
-
-*1.3*
 
 The objectives established in the Original Agreement shall equally apply to investment by the Fund in the countries listed in the Schedule to this Agreement.
 
@@ -404,7 +452,9 @@ The period of five (5) years referred to in Clause 4.4 of the Original Agreement
 
 Clause 9.1 of the Original Agreement shall be amended to provide that not less than 75% of the minimum amount to be invested in the Signatory States pursuant to this Supplemental Agreement be invested in projects in the Signatory States contemplated in Clause 1 of the Original Agreement within three years from the establishment of the Fund failing which the provisions of clause 12 “EXCLUSIVITY OF FUND” of the Original Agreement shall cease to apply unless the Signatory States otherwise determine.
 
-**5.** ENTRY INTO FORCE.
+*ENTRY*
+
+**5.** INTO FORCE.
 
 *5.1*
 
@@ -430,7 +480,7 @@ The parties hereto acknowledge and recognise that non-Signatory Member States or
 
 RELEASE OF OBLIGATIONS.
 
-7.1 After delivery of the written notice by the Fund pursuant to Clause 14.1 of the Original Agreement and after the time provided for subscription to the Fund referred to in Clause 2.1 hereof ICWI shall, not-withstanding anything to the contrary contained in the Original Agreement and this Supplemental Agreement, be released therefrom.
+After delivery of the written notice by the Fund pursuant to Clause 14.1 of the Original Agreement and after the time provided for subscription to the Fund referred to in Clause 2.1 hereof ICWI shall, not-withstanding anything to the contrary contained in the Original Agreement and this Supplemental Agreement, be released therefrom.
 
 **8.** DEPOSIT OF SUPPLEMENTAL AGREEMENT.
 
